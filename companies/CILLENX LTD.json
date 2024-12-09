@@ -1,0 +1,87 @@
+{
+  "company_name": "CILLENX LTD",
+  "company_number": "11525983",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/11525983"
+  },
+  "date_of_cessation": "2020-01-21",
+  "date_of_creation": "2018-08-20",
+  "registered_office_address": {
+    "address_line_1": "25 St. Georges Gardens",
+    "address_line_2": "Denton",
+    "locality": "Manchester",
+    "postal_code": "M34 7TB",
+    "country": "United Kingdom"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzI1NDU3OTkyN2FkaXF6a2N4",
+      "type": "GAZ2",
+      "date": "2020-01-21",
+      "category": "gazette",
+      "description": "gazette-dissolved-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11525983/filing-history/MzI1NDU3OTkyN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/2WNroZTim3Biglu00cNYiz0FV8XkBpklsXUNrl3Y_7U"
+      }
+    },
+    {
+      "transaction_id": "MzI0NzkxMDg0NmFkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2019-11-05",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11525983/filing-history/MzI0NzkxMDg0NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/wWzKlhiAO3P6EyVdGLUc7BAp0E0gOMAyNbbnSlhX8w0"
+      }
+    },
+    {
+      "transaction_id": "MzIxMjMzNDcyMGFkaXF6a2N4",
+      "barcode": "X7CK5ZA2",
+      "type": "NEWINC",
+      "date": "2018-08-20",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2018-08-20",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2018-08-20",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2018-08-20",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2018-08-20"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 10,
+      "links": {
+        "self": "/company/11525983/filing-history/MzIxMjMzNDcyMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/mDt3yW50owYzkS7e8VYZUgEwW99ibuhhjk7b6pqj398"
+      }
+    }
+  ]
+}

@@ -1,0 +1,576 @@
+{
+  "company_name": "CRATE BREWERY LIMITED",
+  "company_number": "09715852",
+  "company_status": "active",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/09715852"
+  },
+  "date_of_creation": "2015-08-03",
+  "registered_office_address": {
+    "address_line_1": "1 Worsley Court High Street",
+    "address_line_2": "Worsley",
+    "locality": "Manchester",
+    "postal_code": "M28 3NJ",
+    "country": "England"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzQ0MTY0MDIzN2FkaXF6a2N4",
+      "barcode": "XDEVNWWB",
+      "type": "AA",
+      "date": "2024-10-31",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2024-01-31"
+      },
+      "pages": 10,
+      "action_date": "2024-01-31",
+      "links": {
+        "self": "/company/09715852/filing-history/MzQ0MTY0MDIzN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/A4r209bl9niLXuX3CCX9rxQR7J6y52hQ2s3daUPaHN0"
+      }
+    },
+    {
+      "transaction_id": "MzQzMTEyODY1NGFkaXF6a2N4",
+      "barcode": "XD8VEFNC",
+      "type": "CS01",
+      "date": "2024-08-05",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2024-08-02"
+      },
+      "pages": 3,
+      "action_date": "2024-08-02",
+      "links": {
+        "self": "/company/09715852/filing-history/MzQzMTEyODY1NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/mAYdzz-v2FDQk_hGmb1t-Ve84P4PvTuAXDetdxaQAew"
+      }
+    },
+    {
+      "transaction_id": "MzQzMDUyMjcxM2FkaXF6a2N4",
+      "barcode": "XD8FAHZV",
+      "type": "CH01",
+      "date": "2024-07-30",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2024-07-29",
+        "officer_name": "Mr Thomas Roger Seaton"
+      },
+      "pages": 2,
+      "action_date": "2024-07-29",
+      "links": {
+        "self": "/company/09715852/filing-history/MzQzMDUyMjcxM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/LbXey-zmOtC8vMZ9tYLIlJlOpHVGHVfjFl-mXFU-f0I"
+      }
+    },
+    {
+      "transaction_id": "MzQzMDUyMjU3MmFkaXF6a2N4",
+      "barcode": "XD8FAHIH",
+      "type": "CH01",
+      "date": "2024-07-30",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2024-07-29",
+        "officer_name": "Ms. Jessica Holly Seaton"
+      },
+      "pages": 2,
+      "action_date": "2024-07-29",
+      "links": {
+        "self": "/company/09715852/filing-history/MzQzMDUyMjU3MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/R_FXanR4L7F9DvE-DxgzP7DJ5RYZCUEvypVXXxmQea4"
+      }
+    },
+    {
+      "transaction_id": "MzQzMDUyMjU0OWFkaXF6a2N4",
+      "barcode": "XD8FAHHD",
+      "type": "CH01",
+      "date": "2024-07-30",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2024-07-29",
+        "officer_name": "Mr Neil Robert Hinchley"
+      },
+      "pages": 2,
+      "action_date": "2024-07-29",
+      "links": {
+        "self": "/company/09715852/filing-history/MzQzMDUyMjU0OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/58jU_V4N_fOPbclJzcg4Wj79bVPn-jJyPQZCjVjpxm0"
+      }
+    },
+    {
+      "transaction_id": "MzM5ODQ1OTMzNWFkaXF6a2N4",
+      "barcode": "XCFBVXPS",
+      "type": "AA",
+      "date": "2023-10-31",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2023-01-31"
+      },
+      "pages": 9,
+      "action_date": "2023-01-31",
+      "links": {
+        "self": "/company/09715852/filing-history/MzM5ODQ1OTMzNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/0vYx4bLcSBs7q2QSPJZ2VNwJYKL2oigHi2u2PK-Y42k"
+      }
+    },
+    {
+      "transaction_id": "MzM4ODQ1MDg0OGFkaXF6a2N4",
+      "barcode": "XC92896W",
+      "type": "CS01",
+      "date": "2023-08-02",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2023-08-02"
+      },
+      "pages": 3,
+      "action_date": "2023-08-02",
+      "links": {
+        "self": "/company/09715852/filing-history/MzM4ODQ1MDg0OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/uYO2qEDGHJGImkt9YKZ-u_Ko3HaOMvF6INqQRrMvT6M"
+      }
+    },
+    {
+      "transaction_id": "MzM4ODQzMjI2M2FkaXF6a2N4",
+      "barcode": "XC926CS3",
+      "type": "AD01",
+      "date": "2023-08-02",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2023-08-02",
+        "old_address": "1 Worlsey Court High Street Worsley Manchester M28 3NJ England",
+        "new_address": "1 Worsley Court High Street Worsley Manchester M28 3NJ"
+      },
+      "pages": 1,
+      "action_date": "2023-08-02",
+      "links": {
+        "self": "/company/09715852/filing-history/MzM4ODQzMjI2M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/HF4XgKAOurLuV8crwglXx7D4Aib_xFopXIxtNIcRujY"
+      }
+    },
+    {
+      "transaction_id": "MzM1NTY0NTEwN2FkaXF6a2N4",
+      "barcode": "XBEWYWD6",
+      "type": "AA",
+      "date": "2022-10-18",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2022-01-31"
+      },
+      "pages": 10,
+      "action_date": "2022-01-31",
+      "links": {
+        "self": "/company/09715852/filing-history/MzM1NTY0NTEwN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/DmCx8Dgv8yVhK5cH6siNkcLwFHQiD2IafjphiZiyolc"
+      }
+    },
+    {
+      "transaction_id": "MzM0Nzg5OTgwNGFkaXF6a2N4",
+      "barcode": "XB9SDBLK",
+      "type": "CS01",
+      "date": "2022-08-05",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2022-08-02"
+      },
+      "pages": 3,
+      "action_date": "2022-08-02",
+      "links": {
+        "self": "/company/09715852/filing-history/MzM0Nzg5OTgwNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/iaw-zDhuwXCxghJbYYiIhYQ0b7y0LV5KRdhdwa6yBIE"
+      }
+    },
+    {
+      "transaction_id": "MzMxODU3Nzk3M2FkaXF6a2N4",
+      "barcode": "XAG4SUGG",
+      "type": "AA",
+      "date": "2021-10-29",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2021-01-31"
+      },
+      "pages": 8,
+      "action_date": "2021-01-31",
+      "links": {
+        "self": "/company/09715852/filing-history/MzMxODU3Nzk3M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/15p7yq9hx9y9JGBOuYqDISAusxX3qpOIWGmaQQbMXj8"
+      }
+    },
+    {
+      "transaction_id": "MzMwOTQ3NTUzOGFkaXF6a2N4",
+      "barcode": "XAA1IAFD",
+      "type": "CS01",
+      "date": "2021-08-02",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2021-08-02"
+      },
+      "pages": 3,
+      "action_date": "2021-08-02",
+      "links": {
+        "self": "/company/09715852/filing-history/MzMwOTQ3NTUzOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/HUIv7-ocrKxAGVBD9gBIYqfRgYmVLh7IO0IprkzNgGI"
+      }
+    },
+    {
+      "transaction_id": "MzI4NTQxNzc0MWFkaXF6a2N4",
+      "barcode": "X9JFVWMO",
+      "type": "AA",
+      "date": "2020-12-08",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2020-01-31"
+      },
+      "pages": 2,
+      "action_date": "2020-01-31",
+      "links": {
+        "self": "/company/09715852/filing-history/MzI4NTQxNzc0MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/eZhQccw56SMQtYwwFsGXeTU2plrzVxNMujO8mCLpkp8"
+      }
+    },
+    {
+      "transaction_id": "MzI3NDY5NTMyM2FkaXF6a2N4",
+      "barcode": "X9AVEP0X",
+      "type": "CS01",
+      "date": "2020-08-06",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2020-08-02"
+      },
+      "pages": 3,
+      "action_date": "2020-08-02",
+      "links": {
+        "self": "/company/09715852/filing-history/MzI3NDY5NTMyM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/qeKRmtCZoisl9CMJGoKQK0x2XUXsGczAtV059MLkav4"
+      }
+    },
+    {
+      "transaction_id": "MzI3NDUzMDQ3MmFkaXF6a2N4",
+      "barcode": "X9AQ558I",
+      "type": "CH01",
+      "date": "2020-08-04",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2020-08-04",
+        "officer_name": "Mr Thomas Roger Seaton"
+      },
+      "pages": 2,
+      "action_date": "2020-08-04",
+      "links": {
+        "self": "/company/09715852/filing-history/MzI3NDUzMDQ3MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/8eiRJ4B1H7oL2Wc7rvBFyAEYEQV4sw9r1vItKIdKaV0"
+      }
+    },
+    {
+      "transaction_id": "MzI3NDUzMDQ3OGFkaXF6a2N4",
+      "barcode": "X9AQ551F",
+      "type": "CH01",
+      "date": "2020-08-04",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2020-08-04",
+        "officer_name": "Miss Jessica Holly Seaton"
+      },
+      "pages": 2,
+      "action_date": "2020-08-04",
+      "links": {
+        "self": "/company/09715852/filing-history/MzI3NDUzMDQ3OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/sJcMLgudTkop9R-WSXUHe5AtXmveX3ITe5C3Pz1Jntk"
+      }
+    },
+    {
+      "transaction_id": "MzI3NDUzMDM0NmFkaXF6a2N4",
+      "barcode": "X9AQ54JD",
+      "type": "CH01",
+      "date": "2020-08-04",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2020-08-04",
+        "officer_name": "Mr Neil Robert Hinchley"
+      },
+      "pages": 2,
+      "action_date": "2020-08-04",
+      "links": {
+        "self": "/company/09715852/filing-history/MzI3NDUzMDM0NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/GrNq0IhxcHDMkB5HI9Q-7jTVHO8rgsUkhhWDDCD5dw4"
+      }
+    },
+    {
+      "transaction_id": "MzI0MDk5MDM2MmFkaXF6a2N4",
+      "barcode": "X8B6YBK0",
+      "type": "CS01",
+      "date": "2019-08-05",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2019-08-02"
+      },
+      "pages": 3,
+      "action_date": "2019-08-02",
+      "links": {
+        "self": "/company/09715852/filing-history/MzI0MDk5MDM2MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/bKI0knRQiQUebxEFqupTbk2e2sXkXGyE5rizAHmaBLI"
+      }
+    },
+    {
+      "transaction_id": "MzIyNjAwNDkzOGFkaXF6a2N4",
+      "barcode": "X7YE0PZN",
+      "type": "AA",
+      "date": "2019-02-01",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2019-01-31"
+      },
+      "pages": 2,
+      "action_date": "2019-01-31",
+      "links": {
+        "self": "/company/09715852/filing-history/MzIyNjAwNDkzOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/2Gn-kuFaihmKDpVWTrIirYgiCFnq2q8x3bAKFRp9cw0"
+      }
+    },
+    {
+      "transaction_id": "MzIxMTI0NDMwNGFkaXF6a2N4",
+      "barcode": "X7BGJAIJ",
+      "type": "CS01",
+      "date": "2018-08-02",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2018-08-02"
+      },
+      "pages": 3,
+      "action_date": "2018-08-02",
+      "links": {
+        "self": "/company/09715852/filing-history/MzIxMTI0NDMwNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/vB5e6YkkTo7MCOY13rhqV3vSmagVIyCMxcT1Cn87H2A"
+      }
+    },
+    {
+      "transaction_id": "MzIwMDcyMDA2NWFkaXF6a2N4",
+      "barcode": "X728QIEI",
+      "type": "AA",
+      "date": "2018-03-22",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2018-01-31"
+      },
+      "pages": 2,
+      "action_date": "2018-01-31",
+      "links": {
+        "self": "/company/09715852/filing-history/MzIwMDcyMDA2NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Gzn_pgag6IK2Q3cMtu46RoiBvhjQw-ov8JPDaVbqzBE"
+      }
+    },
+    {
+      "transaction_id": "MzE4MjA0NzMxOWFkaXF6a2N4",
+      "barcode": "X6BY4J94",
+      "type": "CS01",
+      "date": "2017-08-02",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2017-08-02"
+      },
+      "pages": 3,
+      "action_date": "2017-08-02",
+      "links": {
+        "self": "/company/09715852/filing-history/MzE4MjA0NzMxOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ptAmZo7y10-tpjJZaviUBpCazeiNDPEPLBmse1sTQco"
+      }
+    },
+    {
+      "transaction_id": "MzE3ODg4Njc1OGFkaXF6a2N4",
+      "barcode": "X69DSFVS",
+      "type": "AD01",
+      "date": "2017-06-26",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2017-06-26",
+        "old_address": "Unit 7 Queens Yard White Post Lane London E9 5EN England",
+        "new_address": "1 Worlsey Court High Street Worsley Manchester M28 3NJ"
+      },
+      "pages": 1,
+      "action_date": "2017-06-26",
+      "links": {
+        "self": "/company/09715852/filing-history/MzE3ODg4Njc1OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Fniokedie5AvN_-3UfthL1TBz6Vfks_iq3On70meKTQ"
+      }
+    },
+    {
+      "transaction_id": "MzE3NDA2NjEwMGFkaXF6a2N4",
+      "barcode": "X64T8W57",
+      "type": "AA",
+      "date": "2017-04-21",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2017-01-31"
+      },
+      "pages": 2,
+      "action_date": "2017-01-31",
+      "links": {
+        "self": "/company/09715852/filing-history/MzE3NDA2NjEwMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/gaP_dVrKOkuVDUxTXJJjQU2PbqyWNUayG4TlKOWr_BE"
+      }
+    },
+    {
+      "transaction_id": "MzE1ODkxOTQxNmFkaXF6a2N4",
+      "barcode": "X5GWELO2",
+      "type": "CS01",
+      "date": "2016-10-04",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2016-08-02"
+      },
+      "pages": 6,
+      "action_date": "2016-08-02",
+      "links": {
+        "self": "/company/09715852/filing-history/MzE1ODkxOTQxNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Jm8UcGJ4Q3-h4t2KG2D-r4dM7judm1ub3kfq2M79XsY"
+      }
+    },
+    {
+      "transaction_id": "MzE1NTIzMzAxMmFkaXF6a2N4",
+      "barcode": "X5DHDLIZ",
+      "type": "AD01",
+      "date": "2016-08-16",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2016-08-16",
+        "old_address": "10 Landport Terrace Portsmouth Hampshire PO1 2RG United Kingdom",
+        "new_address": "Unit 7 Queens Yard White Post Lane London E9 5EN"
+      },
+      "pages": 1,
+      "action_date": "2016-08-16",
+      "links": {
+        "self": "/company/09715852/filing-history/MzE1NTIzMzAxMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/MQ4gVtw4bEJbOTT6Mo-GzZqrQMa5W6aN2V0In9HOv4Y"
+      }
+    },
+    {
+      "transaction_id": "MzE0ODAwMjk1N2FkaXF6a2N4",
+      "barcode": "X56FFOAO",
+      "type": "AA01",
+      "date": "2016-05-06",
+      "category": "accounts",
+      "description": "change-account-reference-date-company-current-extended",
+      "description_values": {
+        "made_up_date": "2016-08-31",
+        "new_date": "2017-01-31"
+      },
+      "pages": 1,
+      "action_date": "2017-01-31",
+      "links": {
+        "self": "/company/09715852/filing-history/MzE0ODAwMjk1N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/_nWgOqJFmM90-fbm4gux8DS1NYR2c9jxHjvYx0pH1Hg"
+      }
+    },
+    {
+      "transaction_id": "MzEyODY3ODY5NWFkaXF6a2N4",
+      "barcode": "X4DHII6Z",
+      "type": "AP01",
+      "date": "2015-08-10",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Mr Thomas Roger Seaton",
+        "appointment_date": "2015-08-03"
+      },
+      "pages": 2,
+      "action_date": "2015-08-03",
+      "links": {
+        "self": "/company/09715852/filing-history/MzEyODY3ODY5NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/JBFBKi29IeYkX74pHNc7VZCpcCJ1tKzv64KG8gA-NAU"
+      }
+    },
+    {
+      "transaction_id": "MzEyODY3ODQxMGFkaXF6a2N4",
+      "barcode": "X4DHIH09",
+      "type": "AP01",
+      "date": "2015-08-10",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Miss Jessica Holly Seaton",
+        "appointment_date": "2015-08-03"
+      },
+      "pages": 2,
+      "action_date": "2015-08-03",
+      "links": {
+        "self": "/company/09715852/filing-history/MzEyODY3ODQxMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/6ijbSSQmN2QaHO6YEX4inb1WvPY98W736IGUUJxVxwY"
+      }
+    },
+    {
+      "transaction_id": "MzEyODMwMjE0M2FkaXF6a2N4",
+      "barcode": "X4CZH433",
+      "type": "NEWINC",
+      "date": "2015-08-03",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2015-08-03",
+          "description": "model-articles-adopted-amended-provisions",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2015-08-03",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2015-08-03",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "100"
+              }
+            ]
+          },
+          "action_date": "2015-08-03"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 28,
+      "links": {
+        "self": "/company/09715852/filing-history/MzEyODMwMjE0M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/LTM-N1PCbVhO7-1q48bHkkkrecLvy9B9mBPgyFW6PfU"
+      }
+    }
+  ]
+}

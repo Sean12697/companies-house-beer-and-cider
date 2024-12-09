@@ -1,0 +1,114 @@
+{
+  "company_name": "BROOD MEADERY LIMITED",
+  "company_number": "15161870",
+  "company_status": "active",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/15161870"
+  },
+  "date_of_creation": "2023-09-25",
+  "registered_office_address": {
+    "address_line_1": "Unit 6 Sheffield Street",
+    "locality": "Manchester",
+    "postal_code": "M1 2ND",
+    "country": "England"
+  },
+  "sic_codes": [
+    "11030"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzQzOTg0OTI1MGFkaXF6a2N4",
+      "barcode": "XDDTMX35",
+      "type": "CS01",
+      "date": "2024-10-16",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2024-09-24"
+      },
+      "pages": 3,
+      "action_date": "2024-09-24",
+      "links": {
+        "self": "/company/15161870/filing-history/MzQzOTg0OTI1MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/VibieTZHlA-_U66U7brmVVuzP1JY22vuNbCbnmhb-6I"
+      }
+    },
+    {
+      "transaction_id": "MzQxNTI0MDc1OWFkaXF6a2N4",
+      "barcode": "XCZ7B94O",
+      "type": "CH01",
+      "date": "2024-03-19",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2024-01-09",
+        "officer_name": "Mr Connor Jordon Seagrave"
+      },
+      "pages": 2,
+      "action_date": "2024-01-09",
+      "links": {
+        "self": "/company/15161870/filing-history/MzQxNTI0MDc1OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/_mYSQmuOv2-tD9FG4Gvps9wYknaZ3JwATSQTSBtCmV4"
+      }
+    },
+    {
+      "transaction_id": "MzQxMTIyNTY5MGFkaXF6a2N4",
+      "barcode": "XCWVCHGZ",
+      "type": "PSC04",
+      "date": "2024-02-14",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2024-01-09",
+        "psc_name": "Mr Connor Jordon Seagrave"
+      },
+      "pages": 2,
+      "action_date": "2024-01-09",
+      "links": {
+        "self": "/company/15161870/filing-history/MzQxMTIyNTY5MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/sjbikuoPak1NgiyhuRSy3OmA9sSSgGhK4wvbSdyszJk"
+      }
+    },
+    {
+      "transaction_id": "MzM5NDIyMTgzMmFkaXF6a2N4",
+      "barcode": "XCCUBX62",
+      "type": "NEWINC",
+      "date": "2023-09-25",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2023-09-25",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2023-09-25",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2023-09-25",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2023-09-25"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 10,
+      "links": {
+        "self": "/company/15161870/filing-history/MzM5NDIyMTgzMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/rwFwpBHsiLpolTf9z1whTrRGXOaIznrSCehCGsBb4YQ"
+      }
+    }
+  ]
+}

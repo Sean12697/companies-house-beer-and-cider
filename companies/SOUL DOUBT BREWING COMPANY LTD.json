@@ -1,0 +1,264 @@
+{
+  "company_name": "SOUL DOUBT BREWING COMPANY LTD",
+  "company_number": "09826652",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/09826652"
+  },
+  "date_of_cessation": "2021-09-21",
+  "date_of_creation": "2015-10-15",
+  "registered_office_address": {
+    "address_line_1": "20 Berkley Avenue",
+    "address_line_2": "Levenshulme",
+    "locality": "Manchester",
+    "postal_code": "M19 2ED",
+    "country": "United Kingdom"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzMxMzgzNDk5MmFkaXF6a2N4",
+      "type": "GAZ2(A)",
+      "date": "2021-09-21",
+      "category": "gazette",
+      "description": "gazette-dissolved-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/09826652/filing-history/MzMxMzgzNDk5MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/E4fTy-ByZFrGl77g4fVQzx4vTGUVvGsUFxhgCRhDqRg"
+      }
+    },
+    {
+      "transaction_id": "MzMwNTY0NTY4NmFkaXF6a2N4",
+      "type": "GAZ1(A)",
+      "date": "2021-07-06",
+      "category": "gazette",
+      "description": "gazette-notice-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/09826652/filing-history/MzMwNTY0NTY4NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/gKdw2ZQmorPbSG3rTCASgCbk0qel4Y2AeTz2w5kNlSM"
+      }
+    },
+    {
+      "transaction_id": "MzMwNTUyMDAxNGFkaXF6a2N4",
+      "barcode": "XA6M7O83",
+      "type": "DS01",
+      "date": "2021-06-25",
+      "category": "dissolution",
+      "description": "dissolution-application-strike-off-company",
+      "pages": 1,
+      "links": {
+        "self": "/company/09826652/filing-history/MzMwNTUyMDAxNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/QHPNuYVv9R0NUQZ96IPzSgYYTyKGF80JWjyVHV9CTQE"
+      }
+    },
+    {
+      "transaction_id": "MzMwNDM2MjQ4MmFkaXF6a2N4",
+      "barcode": "XA6M7PJS",
+      "type": "AA",
+      "date": "2021-06-14",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2020-10-31"
+      },
+      "pages": 3,
+      "action_date": "2020-10-31",
+      "links": {
+        "self": "/company/09826652/filing-history/MzMwNDM2MjQ4MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/nGflnRm6l-nYl8QUTCVLlwer0ssneAX4I4MFNIcTj00"
+      }
+    },
+    {
+      "transaction_id": "MzI4NTE4OTY1MGFkaXF6a2N4",
+      "barcode": "X9J7Y623",
+      "type": "CS01",
+      "date": "2020-12-04",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2020-10-14"
+      },
+      "pages": 3,
+      "action_date": "2020-10-14",
+      "links": {
+        "self": "/company/09826652/filing-history/MzI4NTE4OTY1MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/C7GjK6040ZVMQ2kfXi55uJYXBlO92dfPuPrqo9ca0cE"
+      }
+    },
+    {
+      "transaction_id": "MzI3NDE1NTc2M2FkaXF6a2N4",
+      "barcode": "X9AAD28H",
+      "type": "AA",
+      "date": "2020-07-29",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2019-10-31"
+      },
+      "pages": 8,
+      "action_date": "2019-10-31",
+      "links": {
+        "self": "/company/09826652/filing-history/MzI3NDE1NTc2M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZJH5aM4arP-mNXv6vB0orUmfKADQtACeUhsdYuYrp9A"
+      }
+    },
+    {
+      "transaction_id": "MzI0ODI5NzA1M2FkaXF6a2N4",
+      "barcode": "X8HAW2LV",
+      "type": "CS01",
+      "date": "2019-11-01",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2019-10-14"
+      },
+      "pages": 3,
+      "action_date": "2019-10-14",
+      "links": {
+        "self": "/company/09826652/filing-history/MzI0ODI5NzA1M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/XX470clTX-9uVCGXVi9Q1Umt8Ms2BNUCLE7FbJGlzkI"
+      }
+    },
+    {
+      "transaction_id": "MzI0MDE0OTA0NmFkaXF6a2N4",
+      "barcode": "X8ADXYNT",
+      "type": "AA",
+      "date": "2019-07-24",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2018-10-31"
+      },
+      "pages": 7,
+      "action_date": "2018-10-31",
+      "links": {
+        "self": "/company/09826652/filing-history/MzI0MDE0OTA0NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/0Ht-ZfLK3d2b0T9WBiERn8gAMKrFo_1YAx8Ul1U7dck"
+      }
+    },
+    {
+      "transaction_id": "MzIyMjIxODQ1OWFkaXF6a2N4",
+      "barcode": "X7KVPSOR",
+      "type": "CS01",
+      "date": "2018-12-15",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2018-10-14"
+      },
+      "pages": 3,
+      "action_date": "2018-10-14",
+      "links": {
+        "self": "/company/09826652/filing-history/MzIyMjIxODQ1OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/WeFMzxMQyBgVLDwkxhjGHN4v2bvVYJfzxFzq00HX5Qs"
+      }
+    },
+    {
+      "transaction_id": "MzIxMDg2Mjc4MGFkaXF6a2N4",
+      "barcode": "X7B6JACB",
+      "type": "AA",
+      "date": "2018-07-29",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2017-10-31"
+      },
+      "pages": 7,
+      "action_date": "2017-10-31",
+      "links": {
+        "self": "/company/09826652/filing-history/MzIxMDg2Mjc4MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/5vWkYnr2sfMv2WD3OzV6yMJHaHtu-qLOAFxSFOhwO6w"
+      }
+    },
+    {
+      "transaction_id": "MzE4NzkwMzM4MGFkaXF6a2N4",
+      "barcode": "X6H5S7KQ",
+      "type": "CS01",
+      "date": "2017-10-16",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2017-10-14"
+      },
+      "pages": 3,
+      "action_date": "2017-10-14",
+      "links": {
+        "self": "/company/09826652/filing-history/MzE4NzkwMzM4MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Xmhkn45AoH5tlikPPb6IYRtaAvR85o5vLrqaQY20lT4"
+      }
+    },
+    {
+      "transaction_id": "MzE4MDQxMDU0N2FkaXF6a2N4",
+      "barcode": "X6AJOJUZ",
+      "type": "AA",
+      "date": "2017-07-12",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2016-10-31"
+      },
+      "pages": 4,
+      "action_date": "2016-10-31",
+      "links": {
+        "self": "/company/09826652/filing-history/MzE4MDQxMDU0N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/rurv6GYazHodVbYLNDB2-Ibr8H6vMbR2lfdbYypYGEg"
+      }
+    },
+    {
+      "transaction_id": "MzE1OTkzODQ3MmFkaXF6a2N4",
+      "barcode": "X5HUHJRM",
+      "type": "CS01",
+      "date": "2016-10-18",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2016-10-14"
+      },
+      "pages": 6,
+      "action_date": "2016-10-14",
+      "links": {
+        "self": "/company/09826652/filing-history/MzE1OTkzODQ3MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/xse1cMKwae0EKL-CKPYvD6eKzlqYYr2ifjrXtbgAowg"
+      }
+    },
+    {
+      "transaction_id": "MzEzMzEwMjc0MmFkaXF6a2N4",
+      "barcode": "X4I1R85L",
+      "type": "NEWINC",
+      "date": "2015-10-15",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2015-10-15",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2015-10-15",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "2"
+              }
+            ]
+          },
+          "action_date": "2015-10-15"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 28,
+      "links": {
+        "self": "/company/09826652/filing-history/MzEzMzEwMjc0MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/OoKRIFxhHHrhwNluGVHXsRoz87w4dXFpeXipjdMuODc"
+      }
+    }
+  ]
+}

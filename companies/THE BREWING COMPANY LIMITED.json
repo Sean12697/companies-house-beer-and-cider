@@ -1,0 +1,492 @@
+{
+  "company_name": "THE BREWING COMPANY LIMITED",
+  "company_number": "06804552",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/06804552"
+  },
+  "date_of_cessation": "2017-08-09",
+  "date_of_creation": "2009-01-28",
+  "registered_office_address": {
+    "address_line_1": "9th Floor 3 Hardman Street",
+    "locality": "Manchester",
+    "postal_code": "M3 3HF"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzE4MjU3ODY5N2FkaXF6a2N4",
+      "type": "GAZ2",
+      "date": "2017-08-09",
+      "category": "gazette",
+      "description": "gazette-dissolved-liquidation",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/06804552/filing-history/MzE4MjU3ODY5N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/mgZQmUjwEycD7i2-p_Js4ESg-qhv6QqLKLLu0XLTHyc"
+      }
+    },
+    {
+      "transaction_id": "MzE3NTM4NTI4M2FkaXF6a2N4",
+      "barcode": "A65BWPGH",
+      "type": "LIQ14",
+      "date": "2017-05-09",
+      "category": "insolvency",
+      "subcategory": "voluntary",
+      "description": "liquidation-voluntary-creditors-return-of-final-meeting",
+      "pages": 19,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/06804552/filing-history/MzE3NTM4NTI4M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/wQwLUDcwHXDkHK2zkZJCNwy1JkybVtLbndRDNk0y7No"
+      }
+    },
+    {
+      "transaction_id": "MzE0NDY3Mzg1N2FkaXF6a2N4",
+      "barcode": "A52VFZIB",
+      "type": "4.68",
+      "date": "2016-03-23",
+      "category": "insolvency",
+      "subcategory": "voluntary",
+      "description": "liquidation-voluntary-statement-of-receipts-and-payments-with-brought-down-date",
+      "description_values": {
+        "brought_down_date": "2016-02-28"
+      },
+      "pages": 15,
+      "action_date": "2016-02-28",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/06804552/filing-history/MzE0NDY3Mzg1N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/82q4W_DKZE_z1PnX6ed1qVwPlipzxNpBJ31K9s47fDI"
+      }
+    },
+    {
+      "transaction_id": "MzEyMjgwMTEyMGFkaXF6a2N4",
+      "barcode": "A46C75F4",
+      "type": "4.68",
+      "date": "2015-05-08",
+      "category": "insolvency",
+      "subcategory": "voluntary",
+      "description": "liquidation-voluntary-statement-of-receipts-and-payments-with-brought-down-date",
+      "description_values": {
+        "brought_down_date": "2015-02-28"
+      },
+      "pages": 18,
+      "action_date": "2015-02-28",
+      "links": {
+        "self": "/company/06804552/filing-history/MzEyMjgwMTEyMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZVUo7BH3KwntDhqM_TQWllW_Wy33j-C-AL6eHJSGFvU"
+      }
+    },
+    {
+      "transaction_id": "MzA5OTI5NTIwM2FkaXF6a2N4",
+      "barcode": "A36VIE1L",
+      "type": "4.68",
+      "date": "2014-05-01",
+      "category": "insolvency",
+      "subcategory": "voluntary",
+      "description": "liquidation-voluntary-statement-of-receipts-and-payments-with-brought-down-date",
+      "description_values": {
+        "brought_down_date": "2014-02-28"
+      },
+      "pages": 14,
+      "action_date": "2014-02-28",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/06804552/filing-history/MzA5OTI5NTIwM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/5cudTHlBP1Vvzy0qmuUEYBFpHZtlC62HifVF8npgvUQ"
+      }
+    },
+    {
+      "transaction_id": "MzA5NjI1ODQxOGFkaXF6a2N4",
+      "barcode": "A33LU0X6",
+      "type": "AD01",
+      "date": "2014-03-14",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address",
+      "description_values": {
+        "change_date": "2014-03-14",
+        "old_address": " Rsm Tenon Recovery Arkwright House Parsonage Gardens Manchester M3 2LF"
+      },
+      "pages": 2,
+      "action_date": "2014-03-14",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/06804552/filing-history/MzA5NjI1ODQxOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/xy4LggFKGZNuVoUkEpkRFOpFucrJVRP-e6XaGMBqmm8"
+      }
+    },
+    {
+      "transaction_id": "MzA3NzUzMzk4MWFkaXF6a2N4",
+      "barcode": "A2767KEY",
+      "type": "4.68",
+      "date": "2013-05-07",
+      "category": "insolvency",
+      "subcategory": "voluntary",
+      "description": "liquidation-voluntary-statement-of-receipts-and-payments-with-brought-down-date",
+      "description_values": {
+        "brought_down_date": "2013-02-28"
+      },
+      "pages": 14,
+      "action_date": "2013-02-28",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/06804552/filing-history/MzA3NzUzMzk4MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/hsJk1nYN-ycSQKvNADzQwZ-jeh3E3kdWYtn3TtNP6Gg"
+      }
+    },
+    {
+      "transaction_id": "MzA1NDIwMDE0MGFkaXF6a2N4",
+      "barcode": "A14NWRFT",
+      "type": "AD01",
+      "date": "2012-03-15",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address",
+      "description_values": {
+        "change_date": "2012-03-15",
+        "old_address": " Rsm Tenon Recovery Arkwright House Parsonage Gardens Manchester M3 2LF"
+      },
+      "pages": 2,
+      "action_date": "2012-03-15",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/06804552/filing-history/MzA1NDIwMDE0MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/mRdD5_oSTFnylmOG0Y5P94WT6U3WdZVuSyypAF2IAcI"
+      }
+    },
+    {
+      "transaction_id": "MzA1Mzk3OTc4M2FkaXF6a2N4",
+      "barcode": "A14B44PS",
+      "type": "AD01",
+      "date": "2012-03-12",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address",
+      "description_values": {
+        "change_date": "2012-03-12",
+        "old_address": " Bailey Oster Grosvenor House St Thomas Place Stockport SK1 3TZ"
+      },
+      "pages": 2,
+      "action_date": "2012-03-12",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/06804552/filing-history/MzA1Mzk3OTc4M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/bR81nIK3mX9Q9GBaUHN6Xi5TVMf2g87lZFUSjI2exDo"
+      }
+    },
+    {
+      "transaction_id": "MzA1Mzk2MDU5MmFkaXF6a2N4",
+      "barcode": "A14B4229",
+      "type": "600",
+      "date": "2012-03-12",
+      "category": "insolvency",
+      "subcategory": "voluntary",
+      "description": "liquidation-voluntary-appointment-of-liquidator",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/06804552/filing-history/MzA1Mzk2MDU5MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/F6pI3wN1EKwAy2NUo_3clsctrXfUXXkl-cwXEj0Y638"
+      }
+    },
+    {
+      "transaction_id": "MzA1Mzk2MDM4OGFkaXF6a2N4",
+      "type": "RESOLUTIONS",
+      "date": "2012-03-12",
+      "category": "resolution",
+      "resolutions": [
+        {
+          "category": "liquidation",
+          "description": "liquidation-voluntary-extraordinary-resolution-to-wind-up",
+          "type": "LRESEX",
+          "subcategory": [
+            "voluntary",
+            "resolution"
+          ],
+          "original_description": "Extraordinary resolution to wind up"
+        }
+      ],
+      "description": "resolution",
+      "description_values": {
+        "description": "Resolutions"
+      },
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/06804552/filing-history/MzA1Mzk2MDM4OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/KAB5vLi8uEio9LVyvLnF80ZMEpmqMrmfaxwtB5_jzl4"
+      }
+    },
+    {
+      "transaction_id": "MzA1MzA2MjY0MWFkaXF6a2N4",
+      "barcode": "X13CX9KX",
+      "type": "AR01",
+      "date": "2012-02-24",
+      "category": "annual-return",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2012-02-24",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2012-02-24",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "100"
+              }
+            ]
+          },
+          "action_date": "2012-02-24"
+        }
+      ],
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2012-01-28"
+      },
+      "pages": 4,
+      "action_date": "2012-01-28",
+      "links": {
+        "self": "/company/06804552/filing-history/MzA1MzA2MjY0MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/_TMG0nU5KoQs06gDNTjqw9pZdrBVuXnpunXCSEDFbyY"
+      }
+    },
+    {
+      "transaction_id": "MzA0NzY5MzgwNWFkaXF6a2N4",
+      "barcode": "XF8KZZHJ",
+      "type": "AA",
+      "date": "2011-11-23",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-small",
+      "description_values": {
+        "made_up_date": "2011-02-28"
+      },
+      "pages": 5,
+      "action_date": "2011-02-28",
+      "links": {
+        "self": "/company/06804552/filing-history/MzA0NzY5MzgwNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/VQO5DQa4HPcP2PJ3BQYBwr17b2hJEEjdefldRo_X5ek"
+      }
+    },
+    {
+      "transaction_id": "MzAzMzQwNDAwOGFkaXF6a2N4",
+      "barcode": "XYOFUS8S",
+      "type": "AA01",
+      "date": "2011-03-07",
+      "category": "accounts",
+      "description": "change-account-reference-date-company-previous-extended",
+      "description_values": {
+        "made_up_date": "2011-01-31",
+        "new_date": "2011-02-28"
+      },
+      "pages": 1,
+      "action_date": "2011-02-28",
+      "links": {
+        "self": "/company/06804552/filing-history/MzAzMzQwNDAwOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/b7dodl-PROMfqLEcf60N3RluMdnM5LZlMofOO67WjNc"
+      }
+    },
+    {
+      "transaction_id": "MzAzMzQwMzk0NGFkaXF6a2N4",
+      "barcode": "XYOEJS8G",
+      "type": "AA",
+      "date": "2011-03-07",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-small",
+      "description_values": {
+        "made_up_date": "2010-01-31"
+      },
+      "pages": 4,
+      "action_date": "2010-01-31",
+      "links": {
+        "self": "/company/06804552/filing-history/MzAzMzQwMzk0NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/he13pBUagkQ6oSLCb5MlHN9MxQY8iHuZF_FV8Om5FPA"
+      }
+    },
+    {
+      "transaction_id": "MzAzMzE3OTYyNWFkaXF6a2N4",
+      "type": "DISS40",
+      "date": "2011-03-05",
+      "category": "gazette",
+      "description": "gazette-filings-brought-up-to-date",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/06804552/filing-history/MzAzMzE3OTYyNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Osc_mZ4M2AOG7GKH8ewAgroECSwIDO4569E4ZCzKqQE"
+      }
+    },
+    {
+      "transaction_id": "MzAzMzE3OTU5MGFkaXF6a2N4",
+      "barcode": "XX6MLS32",
+      "type": "AR01",
+      "date": "2011-03-02",
+      "category": "annual-return",
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2011-01-28"
+      },
+      "pages": 4,
+      "action_date": "2011-01-28",
+      "links": {
+        "self": "/company/06804552/filing-history/MzAzMzE3OTU5MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/475NORWFsNoxKtmxf7bMlLS6y3rMs8m1UjnfaBp6AzE"
+      }
+    },
+    {
+      "transaction_id": "MzAzMDc2MzkzM2FkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2011-02-01",
+      "category": "gazette",
+      "description": "gazette-notice-compulsary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/06804552/filing-history/MzAzMDc2MzkzM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/y7vAyYzHFyfYuXTSBqTm_YAfB5PERZoKluckLLy-dqw"
+      }
+    },
+    {
+      "transaction_id": "MzAxMzgzMjA5NWFkaXF6a2N4",
+      "barcode": "XJNI9JBO",
+      "type": "AR01",
+      "date": "2010-04-20",
+      "category": "annual-return",
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2010-01-28"
+      },
+      "pages": 4,
+      "action_date": "2010-01-28",
+      "links": {
+        "self": "/company/06804552/filing-history/MzAxMzgzMjA5NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/-gTkZZwcfOLjLMrZBS9FaVStwxpJ9vNsPiAef6a8VtI"
+      }
+    },
+    {
+      "transaction_id": "MzAxMzgzMTgyOWFkaXF6a2N4",
+      "barcode": "XJNI8JBN",
+      "type": "CH01",
+      "date": "2010-04-20",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2010-01-01",
+        "officer_name": "Christine Gregory"
+      },
+      "pages": 2,
+      "action_date": "2010-01-01",
+      "links": {
+        "self": "/company/06804552/filing-history/MzAxMzgzMTgyOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/3GbsAPKfMUO1IxgR_XlAPtrvOyl_E0EsJ5K8-4Wlg-M"
+      }
+    },
+    {
+      "transaction_id": "MzAxMzgzMTgyOGFkaXF6a2N4",
+      "barcode": "XJNI7JBM",
+      "type": "CH01",
+      "date": "2010-04-20",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2010-01-01",
+        "officer_name": "Annette Burns"
+      },
+      "pages": 2,
+      "action_date": "2010-01-01",
+      "links": {
+        "self": "/company/06804552/filing-history/MzAxMzgzMTgyOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Vmg9BNYq7wl-7IsdMilO74epCeZ_a8OcVpeWR66L5yk"
+      }
+    },
+    {
+      "transaction_id": "MjAzMTM4NjM2OWFkaXF6a2N4",
+      "barcode": "A0K9X98H",
+      "type": "288a",
+      "date": "2009-04-24",
+      "category": "officers",
+      "description": "legacy",
+      "description_values": {
+        "description": "Director appointed annette burns"
+      },
+      "pages": 2,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/06804552/filing-history/MjAzMTM4NjM2OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/4oGSJASefoUqt0HBawo4GyJGK2MMojnzgxrW9vhWS7g"
+      }
+    },
+    {
+      "transaction_id": "MjAzMDYyMjMzNWFkaXF6a2N4",
+      "barcode": "A4ZTN8XY",
+      "type": "288b",
+      "date": "2009-04-15",
+      "category": "officers",
+      "description": "legacy",
+      "description_values": {
+        "description": "Appointment terminated director ian burns"
+      },
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/06804552/filing-history/MjAzMDYyMjMzNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/HJ0xnhg6qwM7c7L7XstCnaZpt14OIiEYNiT3IroNDmA"
+      }
+    },
+    {
+      "transaction_id": "MjAzMDYyMjMwOGFkaXF6a2N4",
+      "barcode": "A4ZTM8XX",
+      "type": "288b",
+      "date": "2009-04-15",
+      "category": "officers",
+      "description": "legacy",
+      "description_values": {
+        "description": "Appointment terminated director john gregory"
+      },
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/06804552/filing-history/MjAzMDYyMjMwOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/W7anTj-ltBIpSEiaXc5OYKIEvk1jpXW50EiDbOeqhvc"
+      }
+    },
+    {
+      "transaction_id": "MjAzMDYyMTA4N2FkaXF6a2N4",
+      "barcode": "A4ZTX8X8",
+      "type": "288a",
+      "date": "2009-04-15",
+      "category": "officers",
+      "description": "legacy",
+      "description_values": {
+        "description": "Director appointed christine gregory"
+      },
+      "pages": 2,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/06804552/filing-history/MjAzMDYyMTA4N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/yk_WhqMgla5EKMoVpJDUK0yaaBcBdTW92DkEY9osiAM"
+      }
+    },
+    {
+      "transaction_id": "MjAyNDQzNjk4MmFkaXF6a2N4",
+      "barcode": "XMBI26WG",
+      "type": "NEWINC",
+      "date": "2009-01-28",
+      "category": "incorporation",
+      "description": "incorporation-company",
+      "pages": 16,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/06804552/filing-history/MjAyNDQzNjk4MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/oyr8GRU3GZHd0ljYhnMcyRNDZ21bjqSFtzhJQitz3Ow"
+      }
+    }
+  ]
+}

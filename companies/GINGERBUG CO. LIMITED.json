@@ -1,0 +1,93 @@
+{
+  "company_name": "GINGERBUG CO. LIMITED",
+  "company_number": "13242421",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/13242421"
+  },
+  "date_of_cessation": "2022-04-26",
+  "date_of_creation": "2021-03-03",
+  "registered_office_address": {
+    "address_line_1": "195 Yew Tree Road Fallowfield",
+    "locality": "Manchester",
+    "postal_code": "M14 6FW",
+    "country": "England"
+  },
+  "sic_codes": [
+    "11040"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzMzNjYwNDY2NGFkaXF6a2N4",
+      "type": "GAZ2(A)",
+      "date": "2022-04-26",
+      "category": "gazette",
+      "description": "gazette-dissolved-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13242421/filing-history/MzMzNjYwNDY2NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Xkc8F76KZ3EcggL4iYMmMmerk2XyAaMu5leq8WGrrVE"
+      }
+    },
+    {
+      "transaction_id": "MzMyODM0MDU5NGFkaXF6a2N4",
+      "type": "GAZ1(A)",
+      "date": "2022-02-08",
+      "category": "gazette",
+      "description": "gazette-notice-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13242421/filing-history/MzMyODM0MDU5NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/7dvlOi9fFkBn6S7bUujEh0ZTTromW_yxAfZ8ksW6dOc"
+      }
+    },
+    {
+      "transaction_id": "MzMyODMzOTY0NWFkaXF6a2N4",
+      "barcode": "XAWVKUZM",
+      "type": "DS01",
+      "date": "2022-01-31",
+      "category": "dissolution",
+      "description": "dissolution-application-strike-off-company",
+      "pages": 1,
+      "links": {
+        "self": "/company/13242421/filing-history/MzMyODMzOTY0NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/qt-XnQOepmGBbCJgIJ4ZtLKc5Blo-HXyiWtkUD2p5P4"
+      }
+    },
+    {
+      "transaction_id": "MzI5MzEwMjYwNGFkaXF6a2N4",
+      "barcode": "X9ZHZ6VS",
+      "type": "NEWINC",
+      "date": "2021-03-03",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2021-03-03",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2021-03-03",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2021-03-03"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 27,
+      "links": {
+        "self": "/company/13242421/filing-history/MzI5MzEwMjYwNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/8w7ODWzLCB8ZXwDgv01Fx2jwbQx7Ne8G7cLKRTo9ieo"
+      }
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "company_name": "JD CAMPBELL BREWING LIMITED",
+  "company_number": "11604122",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/11604122"
+  },
+  "date_of_cessation": "2021-04-06",
+  "date_of_creation": "2018-10-04",
+  "registered_office_address": {
+    "address_line_1": "3 Railton Avenue",
+    "locality": "Manchester",
+    "postal_code": "M16 8AU",
+    "country": "United Kingdom"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzI5NjI5Mjk3MWFkaXF6a2N4",
+      "type": "GAZ2",
+      "date": "2021-04-06",
+      "category": "gazette",
+      "description": "gazette-dissolved-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11604122/filing-history/MzI5NjI5Mjk3MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/XjF19Qk1ZUGtBXnAr1S7KJwOPtIC0df9mhOnQDGcXso"
+      }
+    },
+    {
+      "transaction_id": "MzI4ODMxMjczN2FkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2021-01-19",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11604122/filing-history/MzI4ODMxMjczN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/dQL25OYi8fCNXaLVVOKPeOzCZvjIq0De_XEwbiKYkDU"
+      }
+    },
+    {
+      "transaction_id": "MzI3MjI0MTc2NGFkaXF6a2N4",
+      "barcode": "X98G5VRK",
+      "type": "AA",
+      "date": "2020-07-02",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2019-10-31"
+      },
+      "pages": 6,
+      "action_date": "2019-10-31",
+      "links": {
+        "self": "/company/11604122/filing-history/MzI3MjI0MTc2NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/M3qrmhCBjJCQth3aBuU9jXqByA0I8-TIA9PNNfb7gmY"
+      }
+    },
+    {
+      "transaction_id": "MzI1MzgxNTQ5NGFkaXF6a2N4",
+      "type": "DISS40",
+      "date": "2020-01-07",
+      "category": "gazette",
+      "description": "gazette-filings-brought-up-to-date",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11604122/filing-history/MzI1MzgxNTQ5NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/RTAGBVLqDjd0IiFkx0ONZ1dNzXPIFCiOBY0QCE9bFPQ"
+      }
+    },
+    {
+      "transaction_id": "MzI1MzgxNTQ0NWFkaXF6a2N4",
+      "barcode": "X8W2HHEX",
+      "type": "CS01",
+      "date": "2020-01-06",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2019-10-03"
+      },
+      "pages": 3,
+      "action_date": "2019-10-03",
+      "links": {
+        "self": "/company/11604122/filing-history/MzI1MzgxNTQ0NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/tXJmoteFMm4lNuuwP3I7X5lJSwAVxXH9T0LX7zZBFHQ"
+      }
+    },
+    {
+      "transaction_id": "MzI1MjIxMjM4NGFkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2019-12-24",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11604122/filing-history/MzI1MjIxMjM4NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/sV6jQkl3VW6JDhidID01dQ9K0qlT-h-HOt8JHoqo5f0"
+      }
+    },
+    {
+      "transaction_id": "MzIxNjA5NzY0NGFkaXF6a2N4",
+      "barcode": "X7FSM17V",
+      "type": "NEWINC",
+      "date": "2018-10-04",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2018-10-04",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2018-10-04",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2018-10-04",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2018-10-04"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 10,
+      "links": {
+        "self": "/company/11604122/filing-history/MzIxNjA5NzY0NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/aIw0pADQCf6ZcVd4kAIF4l6jbZFUq8kBICzmHSecaTg"
+      }
+    }
+  ]
+}

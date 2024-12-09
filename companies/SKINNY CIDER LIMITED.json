@@ -1,0 +1,91 @@
+{
+  "company_name": "SKINNY CIDER LIMITED",
+  "company_number": "14877871",
+  "company_status": "active",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/14877871"
+  },
+  "date_of_creation": "2023-05-18",
+  "registered_office_address": {
+    "address_line_1": "111 Piccadilly",
+    "locality": "Manchester",
+    "postal_code": "M1 2HY",
+    "country": "United Kingdom"
+  },
+  "sic_codes": [
+    "11010",
+    "11030",
+    "11050",
+    "46342"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzQyNDE4MDUxNGFkaXF6a2N4",
+      "barcode": "XD4J8CMI",
+      "type": "CS01",
+      "date": "2024-06-04",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2024-05-17"
+      },
+      "pages": 3,
+      "action_date": "2024-05-17",
+      "links": {
+        "self": "/company/14877871/filing-history/MzQyNDE4MDUxNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Grt32SHx5m5wegwl4RZwSXz_RUyfkQ2WKyodDPy34_4"
+      }
+    },
+    {
+      "transaction_id": "MzM4Mjg4MTI1OWFkaXF6a2N4",
+      "barcode": "XC5OYVWO",
+      "type": "AA01",
+      "date": "2023-06-14",
+      "category": "accounts",
+      "description": "change-account-reference-date-company-current-extended",
+      "description_values": {
+        "made_up_date": "2024-05-31",
+        "new_date": "2024-07-31"
+      },
+      "pages": 1,
+      "action_date": "2024-07-31",
+      "links": {
+        "self": "/company/14877871/filing-history/MzM4Mjg4MTI1OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/sZ7686vhcxrHB30ikyEz_eNB4OVzPgs48Z0j8WzNdb4"
+      }
+    },
+    {
+      "transaction_id": "MzM4MDA0MjUyMWFkaXF6a2N4",
+      "barcode": "XC3RBMHD",
+      "type": "NEWINC",
+      "date": "2023-05-18",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2023-05-18",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2023-05-18",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2023-05-18"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 38,
+      "links": {
+        "self": "/company/14877871/filing-history/MzM4MDA0MjUyMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/8gXCJmS5C72g16Li9LQFowp9rJu2xlkGU6GIdE1cg5E"
+      }
+    }
+  ]
+}

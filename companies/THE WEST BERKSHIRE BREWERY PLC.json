@@ -1,0 +1,2086 @@
+{
+  "company_name": "THE WEST BERKSHIRE BREWERY PLC",
+  "company_number": "03667842",
+  "company_status": "administration",
+  "company_type": "plc",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/03667842"
+  },
+  "date_of_creation": "1998-11-16",
+  "registered_office_address": {
+    "address_line_1": "11th Floor, Landmark St Peter's Square",
+    "address_line_2": "1 Oxford Street",
+    "locality": "Manchester",
+    "postal_code": "M1 4PB"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzQyOTIyMTMzN2FkaXF6a2N4",
+      "barcode": "YD7J5JJ7",
+      "type": "AM10",
+      "date": "2024-07-22",
+      "category": "insolvency",
+      "subcategory": "administration",
+      "description": "liquidation-in-administration-progress-report",
+      "pages": 27,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzQyOTIyMTMzN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/WfdR6EEwLNvVzQVAOPsWgOoLo0UA-HDeLDE-s3aviwQ"
+      }
+    },
+    {
+      "transaction_id": "MzQwODA0MDIzNGFkaXF6a2N4",
+      "barcode": "YCUZTDVD",
+      "type": "AM10",
+      "date": "2024-01-22",
+      "category": "insolvency",
+      "subcategory": "administration",
+      "description": "liquidation-in-administration-progress-report",
+      "pages": 25,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzQwODA0MDIzNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/4E_fc3XYcg-8xmAMO8GTGZv8WrbOr5orgqCRwIECmfI"
+      }
+    },
+    {
+      "transaction_id": "MzQwMTQzODczNGFkaXF6a2N4",
+      "barcode": "YCGZ71VL",
+      "type": "AM19",
+      "date": "2023-11-29",
+      "category": "insolvency",
+      "subcategory": "administration",
+      "description": "liquidation-in-administration-extension-of-period",
+      "pages": 3,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzQwMTQzODczNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/d2jcTsCNJVI9G-17RYbPgEfnNLqyH3czbm-E8f4ObCE"
+      }
+    },
+    {
+      "transaction_id": "MzM4NjE1MDY5M2FkaXF6a2N4",
+      "barcode": "YC7N1IIO",
+      "type": "AM10",
+      "date": "2023-07-22",
+      "category": "insolvency",
+      "subcategory": "administration",
+      "description": "liquidation-in-administration-progress-report",
+      "pages": 24,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzM4NjE1MDY5M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/6eF7P-4y7iwqxFib_eJp1pTc7fVuQeVbTNfZPLzbPew"
+      }
+    },
+    {
+      "transaction_id": "MzM2NjEwMDk4MmFkaXF6a2N4",
+      "barcode": "YBVDSUQ0",
+      "type": "AM10",
+      "date": "2023-01-20",
+      "category": "insolvency",
+      "subcategory": "administration",
+      "description": "liquidation-in-administration-progress-report",
+      "pages": 26,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzM2NjEwMDk4MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/e_fZaFdY_o75yOyDgzsK9t_DmJBGAYEnmTdzE5RY7jU"
+      }
+    },
+    {
+      "transaction_id": "MzM2MjczNTk0NmFkaXF6a2N4",
+      "barcode": "YBIYIZYO",
+      "type": "AM19",
+      "date": "2022-12-21",
+      "category": "insolvency",
+      "subcategory": "administration",
+      "description": "liquidation-in-administration-extension-of-period",
+      "pages": 3,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzM2MjczNTk0NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Y8lia1mV97d3o1DqQb34JnOoW5Lmj2zEIHp2984PvsI"
+      }
+    },
+    {
+      "transaction_id": "MzM2Mjg2OTU1MWFkaXF6a2N4",
+      "barcode": "ABJ2XA6R",
+      "type": "TM01",
+      "date": "2022-12-20",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-director-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Steven Michael Kenee",
+        "termination_date": "2022-11-28"
+      },
+      "pages": 1,
+      "action_date": "2022-11-28",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzM2Mjg2OTU1MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/9UxwChXGvRIOMpjQ749Te3a2ylYS0aaRLHGxxYL6sZQ"
+      }
+    },
+    {
+      "transaction_id": "MzM0NTczODEwN2FkaXF6a2N4",
+      "barcode": "YB88888B",
+      "type": "AM10",
+      "date": "2022-07-22",
+      "category": "insolvency",
+      "subcategory": "administration",
+      "description": "liquidation-in-administration-progress-report",
+      "pages": 31,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzM0NTczODEwN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/cmNKuQshxXeNQXL1V8N1nhirQndVgxOwLU8CpW1Ikxs"
+      }
+    },
+    {
+      "transaction_id": "MzMzOTUzMzAwOWFkaXF6a2N4",
+      "barcode": "AB474BVL",
+      "type": "AM02",
+      "date": "2022-05-19",
+      "category": "insolvency",
+      "subcategory": "administration",
+      "description": "liquidation-in-administration-statement-of-affairs-with-form-attached",
+      "description_values": {
+        "form_attached": "AM02SOA"
+      },
+      "pages": 32,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzMzOTUzMzAwOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/0gJ7TTLfD-Ia-Ga3ES5XDECmr8y7P5g4GZM3us6JG6E"
+      }
+    },
+    {
+      "transaction_id": "MzMyOTczMDYzOGFkaXF6a2N4",
+      "barcode": "YAXUC1C2",
+      "type": "AM06",
+      "date": "2022-02-17",
+      "category": "insolvency",
+      "subcategory": "administration",
+      "description": "liquidation-administration-notice-deemed-approval-of-proposals",
+      "pages": 3,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzMyOTczMDYzOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/tgnjy7n_m4N-gwSTWZPuxICR2mgkl_g94MMc45URjA0"
+      }
+    },
+    {
+      "transaction_id": "MzMyOTg5MTY2NWFkaXF6a2N4",
+      "barcode": "AAXX969T",
+      "type": "TM01",
+      "date": "2022-02-15",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-director-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Davina Ford",
+        "termination_date": "2022-01-26"
+      },
+      "pages": 1,
+      "action_date": "2022-01-26",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzMyOTg5MTY2NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/xY7E5E0eTWqvg3QHbq4T_37dUNjXU2ogkrVC5hLPTe8"
+      }
+    },
+    {
+      "transaction_id": "MzMyOTg3MzUwOGFkaXF6a2N4",
+      "barcode": "AAXX9DCG",
+      "type": "TM01",
+      "date": "2022-02-15",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-director-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Alexander David Michael Bruce",
+        "termination_date": "2022-01-26"
+      },
+      "pages": 1,
+      "action_date": "2022-01-26",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzMyOTg3MzUwOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/evh56yK6bBjnFjIy2bwohyfLPyFAogMezN0n3qD-714"
+      }
+    },
+    {
+      "transaction_id": "MzMyNzM5ODEyMWFkaXF6a2N4",
+      "barcode": "YAW4WLFK",
+      "type": "AM03",
+      "date": "2022-01-24",
+      "category": "insolvency",
+      "subcategory": "administration",
+      "description": "liquidation-in-administration-proposals",
+      "pages": 68,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzMyNzM5ODEyMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/JIw7b3frMDpyuJiwyJZ2IUm36_F0VYrn2wl743ueKI8"
+      }
+    },
+    {
+      "transaction_id": "MzMyNDc4MzI4MWFkaXF6a2N4",
+      "barcode": "YAK0X9VN",
+      "type": "AD01",
+      "date": "2022-01-08",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2022-01-08",
+        "old_address": "8th Floor South Reading Bridge House George Street Reading Berkshire RG1 8LS England",
+        "new_address": "11th Floor, Landmark St Peter's Square 1 Oxford Street Manchester M1 4PB"
+      },
+      "pages": 2,
+      "action_date": "2022-01-08",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzMyNDc4MzI4MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/eP2--yEAZTaOxu8GIfGLhXZ0ZfOASosu0fCQ-ULK1wk"
+      }
+    },
+    {
+      "transaction_id": "MzMyNDc4MzI3OWFkaXF6a2N4",
+      "barcode": "YAK0X9PS",
+      "type": "AM01",
+      "date": "2022-01-08",
+      "category": "insolvency",
+      "subcategory": "administration",
+      "description": "liquidation-in-administration-appointment-of-administrator",
+      "pages": 3,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzMyNDc4MzI3OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/xrMSWEnMOaeM2TGRfl_fGWJD7_gXhjIg1x9Ge0Km150"
+      }
+    },
+    {
+      "transaction_id": "MzMxNjkxNzU3MWFkaXF6a2N4",
+      "barcode": "XAF0MHCX",
+      "type": "TM01",
+      "date": "2021-10-13",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-director-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Thomas Alexander Richard Lucas",
+        "termination_date": "2021-09-17"
+      },
+      "pages": 1,
+      "action_date": "2021-09-17",
+      "links": {
+        "self": "/company/03667842/filing-history/MzMxNjkxNzU3MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/o19SG4d1qrhwyAj3EBI-fQ8YMm_SAI2syKa1_2uD4Y4"
+      }
+    },
+    {
+      "transaction_id": "MzMxNjkxNzUwN2FkaXF6a2N4",
+      "barcode": "XAF0MH9C",
+      "type": "TM02",
+      "date": "2021-10-13",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-secretary-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Thomas Alexander Richard Lucas",
+        "termination_date": "2021-09-17"
+      },
+      "pages": 1,
+      "action_date": "2021-09-17",
+      "links": {
+        "self": "/company/03667842/filing-history/MzMxNjkxNzUwN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/-h_cEF3CNrIyOZy_rfV1R4pv1U0-J9gZug_qtDi_tq4"
+      }
+    },
+    {
+      "transaction_id": "MzMxMzEwMzE0MmFkaXF6a2N4",
+      "barcode": "XACJWWSQ",
+      "type": "MR01",
+      "date": "2021-09-07",
+      "category": "mortgage",
+      "subcategory": "create",
+      "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+      "description_values": {
+        "charge_number": "036678420004",
+        "charge_creation_date": "2021-09-07"
+      },
+      "pages": 23,
+      "action_date": "2021-09-07",
+      "links": {
+        "self": "/company/03667842/filing-history/MzMxMzEwMzE0MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Qkoufeb6M-Y9twIGPKGH1vdAXcHJOXKynCCV6Yow-FM"
+      }
+    },
+    {
+      "transaction_id": "MzMwMTczMjY3NGFkaXF6a2N4",
+      "barcode": "XA4WGHVT",
+      "type": "MR01",
+      "date": "2021-05-20",
+      "category": "mortgage",
+      "subcategory": "create",
+      "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+      "description_values": {
+        "charge_number": "036678420003",
+        "charge_creation_date": "2021-05-10"
+      },
+      "pages": 28,
+      "action_date": "2021-05-10",
+      "links": {
+        "self": "/company/03667842/filing-history/MzMwMTczMjY3NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/JThw_rltCAC0vnF2IpJIH7Vkwa7vxiSWflmJ28q0tkc"
+      }
+    },
+    {
+      "transaction_id": "MzI5MDAzNDUxM2FkaXF6a2N4",
+      "barcode": "X9X73CG2",
+      "type": "SH01",
+      "date": "2021-01-29",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2021-01-29",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "626,152.8"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2021-01-29",
+      "links": {
+        "self": "/company/03667842/filing-history/MzI5MDAzNDUxM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/5lkD-Y1-i5GMSmT1Gvxy6r9JK7paUjFi6VYk0M_zEjA"
+      }
+    },
+    {
+      "transaction_id": "MzI4OTYzNzMwM2FkaXF6a2N4",
+      "barcode": "X9WYRH9E",
+      "type": "SH01",
+      "date": "2021-01-26",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2020-12-23",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "614,490.9"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2020-12-23",
+      "links": {
+        "self": "/company/03667842/filing-history/MzI4OTYzNzMwM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/8NOk3BM6RgwQ-QWNRxR4Oe8U6uQKa-3lQRQSaxMWjB4"
+      }
+    },
+    {
+      "transaction_id": "MzI4OTYzNzA5OGFkaXF6a2N4",
+      "barcode": "X9WYRGC8",
+      "type": "SH01",
+      "date": "2021-01-26",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2020-09-30",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "606,316.2"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2020-09-30",
+      "links": {
+        "self": "/company/03667842/filing-history/MzI4OTYzNzA5OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/WySW7ffGvEliBIxofIdKBxs-p6tOKcSaT0UYOUJrfBc"
+      }
+    },
+    {
+      "transaction_id": "MzI4OTU0MTcxM2FkaXF6a2N4",
+      "barcode": "X9WW3VEO",
+      "type": "RP04AP01",
+      "date": "2021-01-26",
+      "category": "officers",
+      "subcategory": "document-replacement",
+      "description": "second-filing-of-director-appointment-with-name",
+      "description_values": {
+        "officer_name": "Miss Davina Ford"
+      },
+      "pages": 3,
+      "links": {
+        "self": "/company/03667842/filing-history/MzI4OTU0MTcxM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/8vLnaOnxnIYX5s-pJuXJ-v5gd_EbXS6jcrduH0PnRjs"
+      }
+    },
+    {
+      "transaction_id": "MzI4NzQ3ODIzNmFkaXF6a2N4",
+      "barcode": "X9VHDPFT",
+      "type": "TM01",
+      "date": "2021-01-04",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-director-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Simon Gesto Robertson-Macleod",
+        "termination_date": "2020-12-31"
+      },
+      "pages": 1,
+      "action_date": "2020-12-31",
+      "links": {
+        "self": "/company/03667842/filing-history/MzI4NzQ3ODIzNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/LQRhzGHM8YbXyu6xmDpj4K9bshmt-wHEU_2ESVcIUpg"
+      }
+    },
+    {
+      "transaction_id": "MzI4NTkwNjE4OWFkaXF6a2N4",
+      "barcode": "A9JIKEFN",
+      "type": "CS01",
+      "date": "2020-12-16",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2020-11-16"
+      },
+      "pages": 16,
+      "action_date": "2020-11-16",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzI4NTkwNjE4OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/_dQfajaF4HuuZuo9XJoV0iKE_tZAUbk4on38gGwE3m8"
+      }
+    },
+    {
+      "transaction_id": "MzI4NTY2NzA2M2FkaXF6a2N4",
+      "barcode": "A9J5WRN5",
+      "type": "AA",
+      "date": "2020-12-11",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-group",
+      "description_values": {
+        "made_up_date": "2020-03-29"
+      },
+      "pages": 41,
+      "action_date": "2020-03-29",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzI4NTY2NzA2M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/QJ5TJ5osSPQGVaoOLp6EitYjXxX_Z2J9mMeSiLx3elk"
+      }
+    },
+    {
+      "transaction_id": "MzI4NTAwNzA1MmFkaXF6a2N4",
+      "barcode": "X9J2M96Q",
+      "type": "MR04",
+      "date": "2020-12-02",
+      "category": "mortgage",
+      "subcategory": "satisfy",
+      "description": "mortgage-satisfy-charge-full",
+      "description_values": {
+        "charge_number": "036678420002"
+      },
+      "pages": 1,
+      "links": {
+        "self": "/company/03667842/filing-history/MzI4NTAwNzA1MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/dzD0AszyWM-O4jyP2gEjQOcA42lLOmw3djO-v71I_xQ"
+      }
+    },
+    {
+      "transaction_id": "MzI4MzI4MTg4M2FkaXF6a2N4",
+      "barcode": "X9HNV1HV",
+      "type": "SH01",
+      "date": "2020-11-12",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2020-09-15",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "606,285.5"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2020-09-15",
+      "links": {
+        "self": "/company/03667842/filing-history/MzI4MzI4MTg4M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/5PONjA85bO6-nWCd3QZfOpzkiRiY4sG_LhRhS2slGzk"
+      }
+    },
+    {
+      "transaction_id": "MzI4MjkzMjQ3NGFkaXF6a2N4",
+      "barcode": "X9HFS4FE",
+      "type": "AP01",
+      "date": "2020-11-09",
+      "category": "officers",
+      "annotations": [
+        {
+          "annotation": "Clarification A second filed AP01 was registered on 26/01/21",
+          "date": "2021-01-26",
+          "description": "annotation",
+          "category": "annotation",
+          "type": "ANNOTATION",
+          "description_values": {
+            "description": "Clarification a second filed AP01 was registered on 26/01/21"
+          }
+        }
+      ],
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Miss Davina Ford",
+        "appointment_date": "2020-11-09"
+      },
+      "pages": 3,
+      "action_date": "2020-11-09",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzI4MjkzMjQ3NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/_LzD2EynYw83gDIU1jELyBEdFLw4eU09LeMeTY5aj-c"
+      }
+    },
+    {
+      "transaction_id": "MzI3ODIwNzAyNmFkaXF6a2N4",
+      "barcode": "X9E0XJV4",
+      "type": "SH01",
+      "date": "2020-09-21",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2020-09-15",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "606,073.5"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2020-09-15",
+      "links": {
+        "self": "/company/03667842/filing-history/MzI3ODIwNzAyNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/_jLsAp_wHZFv3SjVaOLFHX4Sa32-yEZtmeyrFuJgaJQ"
+      }
+    },
+    {
+      "transaction_id": "MzI3ODIwNjgzM2FkaXF6a2N4",
+      "barcode": "X9E0XJ1S",
+      "type": "SH01",
+      "date": "2020-09-21",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2020-09-15",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "604,006.3"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2020-09-15",
+      "links": {
+        "self": "/company/03667842/filing-history/MzI3ODIwNjgzM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/jEL0XRYZrLFK-s0XdrIDy2OZAFN1KkPPXE5pjKJb7E4"
+      }
+    },
+    {
+      "transaction_id": "MzI3NjcyNjAxMWFkaXF6a2N4",
+      "barcode": "X9CRRNCQ",
+      "type": "SH01",
+      "date": "2020-09-02",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2020-08-28",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "573,022.1"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2020-08-28",
+      "links": {
+        "self": "/company/03667842/filing-history/MzI3NjcyNjAxMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/rpRqoNo7aTrxuOcREQBwuXznXru0-tQ4iQU_30-gQok"
+      }
+    },
+    {
+      "transaction_id": "MzI2NjQ0ODU0M2FkaXF6a2N4",
+      "barcode": "X96G1FBV",
+      "type": "CH01",
+      "date": "2020-06-03",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2020-06-01",
+        "officer_name": "Mr Steven Keene"
+      },
+      "pages": 2,
+      "action_date": "2020-06-01",
+      "links": {
+        "self": "/company/03667842/filing-history/MzI2NjQ0ODU0M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/qQp5LiXRX3rVZVm-caFHb08iCqwIH6QQpQY0BmdKvTg"
+      }
+    },
+    {
+      "transaction_id": "MzI2NjQ0MTkxN2FkaXF6a2N4",
+      "barcode": "X96G0TMY",
+      "type": "AP01",
+      "date": "2020-06-03",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Mr Steven Keene",
+        "appointment_date": "2020-06-01"
+      },
+      "pages": 2,
+      "action_date": "2020-06-01",
+      "links": {
+        "self": "/company/03667842/filing-history/MzI2NjQ0MTkxN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Ys2CA_jTNx8CU_YWc-btOrm45L0pCCo9UwbHlDaZPPc"
+      }
+    },
+    {
+      "transaction_id": "MzI2MzQwMzIzMmFkaXF6a2N4",
+      "barcode": "X93XSCNS",
+      "type": "TM01",
+      "date": "2020-04-28",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-director-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Andrew William Dickson",
+        "termination_date": "2020-03-31"
+      },
+      "pages": 1,
+      "action_date": "2020-03-31",
+      "links": {
+        "self": "/company/03667842/filing-history/MzI2MzQwMzIzMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/0EijmR3OzKMW8xtVGChrj1IaTwQ_1ZgajNDiT92vAG0"
+      }
+    },
+    {
+      "transaction_id": "MzI1NjYyNTE4M2FkaXF6a2N4",
+      "barcode": "X8Y7PVS9",
+      "type": "AA",
+      "date": "2020-02-06",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-group",
+      "description_values": {
+        "made_up_date": "2019-03-31"
+      },
+      "pages": 44,
+      "action_date": "2019-03-31",
+      "links": {
+        "self": "/company/03667842/filing-history/MzI1NjYyNTE4M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/7pvLMjM64zga1I_QkFEWNIiYnJZjOqKix9GctX8iR5w"
+      }
+    },
+    {
+      "transaction_id": "MzI1MTk4MjgwNmFkaXF6a2N4",
+      "type": "DISS40",
+      "date": "2019-12-14",
+      "category": "gazette",
+      "description": "gazette-filings-brought-up-to-date",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzI1MTk4MjgwNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/m1iEaoyxg8AN6UaVcWKGy2yPzwFBK9Jz_GJR6A-JVX4"
+      }
+    },
+    {
+      "transaction_id": "MzI1MjAxMTY4NWFkaXF6a2N4",
+      "barcode": "X8K6HDU3",
+      "type": "SH01",
+      "date": "2019-12-12",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2019-05-31",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "494,428"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2019-05-31",
+      "links": {
+        "self": "/company/03667842/filing-history/MzI1MjAxMTY4NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/WbooNroDoh6R8dFNvAoje5e3oXUHIpwDXjnKlkYLdMc"
+      }
+    },
+    {
+      "transaction_id": "MzI1MTYyNzY2OWFkaXF6a2N4",
+      "barcode": "A8JQDE35",
+      "type": "CS01",
+      "date": "2019-12-12",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2019-11-16"
+      },
+      "pages": 42,
+      "action_date": "2019-11-16",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzI1MTYyNzY2OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/0wnMuFAO-yYjHc9q9XcEV8wGs36BEA-Q6dGQOThrupY"
+      }
+    },
+    {
+      "transaction_id": "MzI1MDU2MzQ1N2FkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2019-12-10",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzI1MDU2MzQ1N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/yn_wUC_V4uP0P9Edq5I6jCHO82pbKsvbAmWJVAk7trU"
+      }
+    },
+    {
+      "transaction_id": "MzI1MDczMjUzMWFkaXF6a2N4",
+      "barcode": "A8J5WDWH",
+      "type": "SH01",
+      "date": "2019-12-03",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2019-07-11",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "494,428"
+          }
+        ]
+      },
+      "pages": 4,
+      "action_date": "2019-07-11",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzI1MDczMjUzMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/SEhj6CK886h3xvehbqtV_TDt8mj0jei_vC8-qaE8KqA"
+      }
+    },
+    {
+      "transaction_id": "MzI1MDczMjUyOGFkaXF6a2N4",
+      "barcode": "A8J5WDW9",
+      "type": "SH01",
+      "date": "2019-12-03",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2019-06-30",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "488,928"
+          }
+        ]
+      },
+      "pages": 4,
+      "action_date": "2019-06-30",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzI1MDczMjUyOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/CKHpgI9sKs6lroyCnqK0-pELK-VZoi7YXX0ZQctV_2U"
+      }
+    },
+    {
+      "transaction_id": "MzI1MDczMjUzMGFkaXF6a2N4",
+      "barcode": "A8J5WDVT",
+      "type": "SH01",
+      "date": "2019-12-03",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2019-05-31",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "488,908"
+          }
+        ]
+      },
+      "pages": 4,
+      "action_date": "2019-05-31",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzI1MDczMjUzMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/w2_maaAe_-50U8EWO8BO9pmHAaGxl7rDWGQOiDAD9pA"
+      }
+    },
+    {
+      "transaction_id": "MzI0MjA4MzgyMGFkaXF6a2N4",
+      "barcode": "X8C7VWP6",
+      "type": "TM01",
+      "date": "2019-08-20",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-director-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Sarah Louise Herriman",
+        "termination_date": "2019-08-19"
+      },
+      "pages": 1,
+      "action_date": "2019-08-19",
+      "links": {
+        "self": "/company/03667842/filing-history/MzI0MjA4MzgyMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/DqosMNb8c11HENEdfNTPFsTCJDosCFIC6vmKEwCZKAU"
+      }
+    },
+    {
+      "transaction_id": "MzIzODczNzk2OGFkaXF6a2N4",
+      "barcode": "A88NEY1M",
+      "type": "SH01",
+      "date": "2019-07-10",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2019-04-30",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "486,278.0"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2019-04-30",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzIzODczNzk2OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/MZTC6lrwmM54odP72UR2Q7gBd41c9Rslh5BWBckmfSk"
+      }
+    },
+    {
+      "transaction_id": "MzIzODQ4ODYxM2FkaXF6a2N4",
+      "barcode": "A88KV2RV",
+      "type": "SH01",
+      "date": "2019-07-09",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2019-04-30",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "486,278"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2019-04-30",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzIzODQ4ODYxM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/hM_Q4youtNhvXeoEqmCYE0--Jct9wettzM4rNi15tlw"
+      }
+    },
+    {
+      "transaction_id": "MzIzNDg3MTQwM2FkaXF6a2N4",
+      "barcode": "A85QO61L",
+      "type": "SH01",
+      "date": "2019-06-05",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2019-04-05",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "485,298"
+          }
+        ]
+      },
+      "pages": 4,
+      "action_date": "2019-04-05",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzIzNDg3MTQwM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/eh4kLEVuQjdV0SsJ_J4kcVKupenXbtMAGLfOJT_H374"
+      }
+    },
+    {
+      "transaction_id": "MzIzMDIwMDM5N2FkaXF6a2N4",
+      "barcode": "A81RQCBU",
+      "type": "SH01",
+      "date": "2019-03-28",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2019-02-28",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "484,158"
+          }
+        ]
+      },
+      "pages": 4,
+      "action_date": "2019-02-28",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzIzMDIwMDM5N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/FNzh1VcdKs92qLWAydwLcVHqv2CLEXpV5c37pFID-ts"
+      }
+    },
+    {
+      "transaction_id": "MzIyODcwNzk5NmFkaXF6a2N4",
+      "barcode": "X80O6NY2",
+      "type": "TM01",
+      "date": "2019-03-06",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-director-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Sheila Mckenzie Straughan",
+        "termination_date": "2019-02-25"
+      },
+      "pages": 1,
+      "action_date": "2019-02-25",
+      "links": {
+        "self": "/company/03667842/filing-history/MzIyODcwNzk5NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ucNDF2v2m9C1gtzz46ylGW6-2UATYpZszvm0Zp0yb-4"
+      }
+    },
+    {
+      "transaction_id": "MzIyODcwNzc5MWFkaXF6a2N4",
+      "barcode": "X80O6N76",
+      "type": "AP01",
+      "date": "2019-03-06",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Ms Sarah Louise Herriman",
+        "appointment_date": "2019-02-13"
+      },
+      "pages": 2,
+      "action_date": "2019-02-13",
+      "links": {
+        "self": "/company/03667842/filing-history/MzIyODcwNzc5MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/JMrkjGc_8QVCU7wYW-87EX40F5xlNAHpZaXos4g22qU"
+      }
+    },
+    {
+      "transaction_id": "MzIyNDU3Njc3NWFkaXF6a2N4",
+      "barcode": "X7XA4EQ1",
+      "type": "TM01",
+      "date": "2019-01-16",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-director-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Peter Wright Whitehead",
+        "termination_date": "2018-12-12"
+      },
+      "pages": 1,
+      "action_date": "2018-12-12",
+      "links": {
+        "self": "/company/03667842/filing-history/MzIyNDU3Njc3NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Fs2iMozgBezx-WBmq_m6QJ9LxJUCuZA0wWPrsKZFOWQ"
+      }
+    },
+    {
+      "transaction_id": "MzIyMjkzOTgzNGFkaXF6a2N4",
+      "barcode": "A7L4137T",
+      "type": "CS01",
+      "date": "2018-12-24",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2018-11-16"
+      },
+      "pages": 21,
+      "action_date": "2018-11-16",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzIyMjkzOTgzNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/-JJ8KqVW3MPeofhrPprcSnr6kxx6rjsudErSwb_TCHY"
+      }
+    },
+    {
+      "transaction_id": "MzIyMjAyODk3OWFkaXF6a2N4",
+      "barcode": "A7KJF2SO",
+      "type": "SH01",
+      "date": "2018-12-17",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2018-11-14",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "479,478"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2018-11-14",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzIyMjAyODk3OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/WPVocKb3as1xPFA5bw9v8U_bSkOwybDO27csZzX4Jx8"
+      }
+    },
+    {
+      "transaction_id": "MzIxNjk5NzI3OWFkaXF6a2N4",
+      "barcode": "A7GCKN77",
+      "type": "SH01",
+      "date": "2018-10-17",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2018-09-13",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "476,139.50"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2018-09-13",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzIxNjk5NzI3OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/qEIIc3TP0jQD8MKGmm8B2WtTlRicW_xVfiq5V0i0TgY"
+      }
+    },
+    {
+      "transaction_id": "MzIxNjI4MzYyNGFkaXF6a2N4",
+      "barcode": "X7FYC6BF",
+      "type": "AP01",
+      "date": "2018-10-05",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Mr Peter Wright Whitehead",
+        "appointment_date": "2018-09-21"
+      },
+      "pages": 2,
+      "action_date": "2018-09-21",
+      "links": {
+        "self": "/company/03667842/filing-history/MzIxNjI4MzYyNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/J06uWbqeasMvsR4DqNf-MpRMY-suU9SNXKxlmHGfBiU"
+      }
+    },
+    {
+      "transaction_id": "MzIxNDk1MjU4NWFkaXF6a2N4",
+      "barcode": "A7ERV44Z",
+      "type": "SH01",
+      "date": "2018-09-25",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2018-07-31",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "464,197.20"
+          }
+        ]
+      },
+      "pages": 4,
+      "action_date": "2018-07-31",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzIxNDk1MjU4NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/1gsd9iqgYMTQC09V0os250_GBf0EMEIDYAoeivDgLRc"
+      }
+    },
+    {
+      "transaction_id": "MzIxNTE5OTE0MmFkaXF6a2N4",
+      "barcode": "X7F6AO09",
+      "type": "AA",
+      "date": "2018-09-24",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-group",
+      "description_values": {
+        "made_up_date": "2018-03-31"
+      },
+      "pages": 46,
+      "action_date": "2018-03-31",
+      "links": {
+        "self": "/company/03667842/filing-history/MzIxNTE5OTE0MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/E5I58eXoxtZDPA9MnwJ90KFkQP5P38WO7sTsXBxQcM4"
+      }
+    },
+    {
+      "transaction_id": "MzIxMjUxMjQwNGFkaXF6a2N4",
+      "barcode": "X7CS1TA3",
+      "type": "AP01",
+      "date": "2018-08-21",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Mr Andrew William Dickson",
+        "appointment_date": "2018-07-30"
+      },
+      "pages": 2,
+      "action_date": "2018-07-30",
+      "links": {
+        "self": "/company/03667842/filing-history/MzIxMjUxMjQwNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/KLxkcz2Q1UbYjxmBDW8KltR1cKzhMWwBBm5SY3spbBQ"
+      }
+    },
+    {
+      "transaction_id": "MzIxMjUxMTQzN2FkaXF6a2N4",
+      "barcode": "X7CS13H5",
+      "type": "AP01",
+      "date": "2018-08-21",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Mrs Sheila Mckenzie Straughan",
+        "appointment_date": "2018-08-01"
+      },
+      "pages": 2,
+      "action_date": "2018-08-01",
+      "links": {
+        "self": "/company/03667842/filing-history/MzIxMjUxMTQzN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/-Xg3RY5GkoBD69KiZDAEqfJ2HZbFbtGMI-ru38XGqas"
+      }
+    },
+    {
+      "transaction_id": "MzIxMDQxMDY0MWFkaXF6a2N4",
+      "barcode": "A7ANVMYI",
+      "type": "SH01",
+      "date": "2018-07-24",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2018-06-30",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "458,078"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2018-06-30",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzIxMDQxMDY0MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/BRbfUCoqnKIW0ehds0wObiyL_yjXymJI6m7uBlmlNmc"
+      }
+    },
+    {
+      "transaction_id": "MzE5MjQ4MjYzOWFkaXF6a2N4",
+      "barcode": "X6L141II",
+      "type": "TM01",
+      "date": "2017-12-11",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-director-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Simon John Lewis",
+        "termination_date": "2017-11-10"
+      },
+      "pages": 1,
+      "action_date": "2017-11-10",
+      "links": {
+        "self": "/company/03667842/filing-history/MzE5MjQ4MjYzOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/U4ycw854spaFsT6guObZA6HIoxge_f5Q_kJBCncpOq8"
+      }
+    },
+    {
+      "transaction_id": "MzE5MjIyNzgzOWFkaXF6a2N4",
+      "barcode": "R6KBGA82",
+      "type": "CS01",
+      "date": "2017-12-07",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2017-11-16"
+      },
+      "pages": 33,
+      "action_date": "2017-11-16",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzE5MjIyNzgzOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/iNgHXVVI_ii9hISUmP2m8ZGwMSFV1wGVjOjHZPwxz98"
+      }
+    },
+    {
+      "transaction_id": "MzE5MTk4MDM4MGFkaXF6a2N4",
+      "barcode": "X6KLXZEG",
+      "type": "TM01",
+      "date": "2017-12-05",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-director-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Clive Royston Watson",
+        "termination_date": "2017-11-17"
+      },
+      "pages": 1,
+      "action_date": "2017-11-17",
+      "links": {
+        "self": "/company/03667842/filing-history/MzE5MTk4MDM4MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/jL-byD8gAG1W8LdF3kZoseWXJ4oIHKGWy8vyYdg2Pa0"
+      }
+    },
+    {
+      "transaction_id": "MzE5MTc4ODM0N2FkaXF6a2N4",
+      "barcode": "A6K7Z4RM",
+      "type": "SH01",
+      "date": "2017-12-04",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2017-11-21",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "441,763.20"
+          }
+        ]
+      },
+      "pages": 4,
+      "action_date": "2017-11-21",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzE5MTc4ODM0N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/r4P-ED-d5Y3zlcZpEd434euqj2YTUQExRc-gI4ChZ6E"
+      }
+    },
+    {
+      "transaction_id": "MzE4OTU5NjU5N2FkaXF6a2N4",
+      "barcode": "A6IARHL5",
+      "type": "SH01",
+      "date": "2017-11-07",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2017-09-21",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "3,635,596"
+          }
+        ]
+      },
+      "pages": 4,
+      "action_date": "2017-09-21",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzE4OTU5NjU5N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/PrH4lvdTuryyha_ZGtH0VXTu6WMhZPbl3Yot5QnzpyY"
+      }
+    },
+    {
+      "transaction_id": "MzE4OTU5NjU5MGFkaXF6a2N4",
+      "barcode": "A6IARHLD",
+      "type": "SH01",
+      "date": "2017-11-07",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2017-10-29",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "368,212"
+          }
+        ]
+      },
+      "pages": 4,
+      "action_date": "2017-10-29",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzE4OTU5NjU5MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/MICiKmQhswuybefh5B2r-XGaFNPctgSThB5ccfpYK-g"
+      }
+    },
+    {
+      "transaction_id": "MzE4NzIwNDQyNGFkaXF6a2N4",
+      "barcode": "A6G0I0BK",
+      "type": "AA",
+      "date": "2017-10-07",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-full",
+      "description_values": {
+        "made_up_date": "2017-03-31"
+      },
+      "pages": 39,
+      "action_date": "2017-03-31",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzE4NzIwNDQyNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/3HkRrqUl9JazylZ7l3lJSBV6_lHMRY2tkCLI6yBGW0A"
+      }
+    },
+    {
+      "transaction_id": "MzE4MDM4NTEyOWFkaXF6a2N4",
+      "barcode": "X6AIWY5K",
+      "type": "SH01",
+      "date": "2017-07-12",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2017-07-05",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "331,045.4"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2017-07-05",
+      "links": {
+        "self": "/company/03667842/filing-history/MzE4MDM4NTEyOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/x56IUprXrv_0xHlte2P4bXqQQZCl6hm5MjRWcTR8J0I"
+      }
+    },
+    {
+      "transaction_id": "MzE3NjUwNDkzNmFkaXF6a2N4",
+      "barcode": "X6750G08",
+      "type": "SH01",
+      "date": "2017-05-24",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2017-05-15",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "329,039"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2017-05-15",
+      "links": {
+        "self": "/company/03667842/filing-history/MzE3NjUwNDkzNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/v4hEWiNvOegzuAzmJ5IhsMOhUYF9LbXdAE_5O7HLw4w"
+      }
+    },
+    {
+      "transaction_id": "MzE3NTg2MTgzOWFkaXF6a2N4",
+      "barcode": "X66L8OYY",
+      "type": "SH01",
+      "date": "2017-05-16",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2017-04-05",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "307,512.2"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2017-04-05",
+      "links": {
+        "self": "/company/03667842/filing-history/MzE3NTg2MTgzOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/C0yaNWNZF4hzanrZJgrKRM1vJI2X1v3N2UZmle10DRM"
+      }
+    },
+    {
+      "transaction_id": "MzE3NDQ0MTk2OWFkaXF6a2N4",
+      "barcode": "X656A1QR",
+      "type": "SH01",
+      "date": "2017-04-26",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2017-04-05",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "306,737.2"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2017-04-05",
+      "links": {
+        "self": "/company/03667842/filing-history/MzE3NDQ0MTk2OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/iqJgA03dHumfrH_ceaq8MNgMZvuKnyVrHs7G7VcipWM"
+      }
+    },
+    {
+      "transaction_id": "MzE3NDQ0MTcyNmFkaXF6a2N4",
+      "barcode": "X656A0M9",
+      "type": "SH01",
+      "date": "2017-04-26",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2017-04-05",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "296,882.7"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2017-04-05",
+      "links": {
+        "self": "/company/03667842/filing-history/MzE3NDQ0MTcyNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/pH1H6LTV_vyx-oB5UmXb-Y4wUbKUdJXc8akSMaMcWXE"
+      }
+    },
+    {
+      "transaction_id": "MzE3MzcxMjA3NmFkaXF6a2N4",
+      "barcode": "X64L7OY3",
+      "type": "SH01",
+      "date": "2017-04-18",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2017-03-31",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "265,300.1"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2017-03-31",
+      "links": {
+        "self": "/company/03667842/filing-history/MzE3MzcxMjA3NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/WPTzQ7bhJFLuXP629-RcLjhPStKrSZnWB_E20c2dUdk"
+      }
+    },
+    {
+      "transaction_id": "MzE3MzcxMTg1N2FkaXF6a2N4",
+      "barcode": "X64L7O8Z",
+      "type": "SH01",
+      "date": "2017-04-18",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2017-03-31",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "265,300.1"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2017-03-31",
+      "links": {
+        "self": "/company/03667842/filing-history/MzE3MzcxMTg1N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/u-F-m6gjVtHnlNwEWwqCbkzdCew-lMpMe1sQEtrqvhA"
+      }
+    },
+    {
+      "transaction_id": "MzE3Mjg2NzYzMGFkaXF6a2N4",
+      "barcode": "X63PX9VF",
+      "type": "AD01",
+      "date": "2017-04-05",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2017-04-05",
+        "old_address": "2 Old Bath Road Newbury Berkshire RG14 1QL",
+        "new_address": "8th Floor South Reading Bridge House George Street Reading Berkshire RG1 8LS"
+      },
+      "pages": 1,
+      "action_date": "2017-04-05",
+      "links": {
+        "self": "/company/03667842/filing-history/MzE3Mjg2NzYzMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZtXOEKiylQ2QKBKnHxYyKCpeaBWqXd3RtQQiqzQBEi4"
+      }
+    },
+    {
+      "transaction_id": "MzE3MjI1MzY3NGFkaXF6a2N4",
+      "barcode": "A62ZDPFT",
+      "type": "AUD",
+      "date": "2017-03-29",
+      "category": "auditors",
+      "description": "auditors-resignation-company",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzE3MjI1MzY3NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/X1s4k5iAm-2a41Mq9u_fzZV7QfefZEV4EF7PK_VMPDI"
+      }
+    },
+    {
+      "transaction_id": "MzE2NjA5MTk4NmFkaXF6a2N4",
+      "barcode": "X5XINGEQ",
+      "type": "SH01",
+      "date": "2017-01-06",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2016-12-30",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "265,300.1"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2016-12-30",
+      "links": {
+        "self": "/company/03667842/filing-history/MzE2NjA5MTk4NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/L22zvnXdXoEj9DLFrOf-6XWpQy1kEEkLpJZe8gAGRI4"
+      }
+    },
+    {
+      "transaction_id": "MzE2NjA4NTc5MWFkaXF6a2N4",
+      "barcode": "X5XIND5E",
+      "type": "SH01",
+      "date": "2017-01-06",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2016-12-19",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "264,800.1"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2016-12-19",
+      "links": {
+        "self": "/company/03667842/filing-history/MzE2NjA4NTc5MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/lcc9V782e9vsZhwvETJfdR-imfVgRfuj85VpA3m2fzU"
+      }
+    },
+    {
+      "transaction_id": "QTVMRVo3NUxhZGlxemtjeA",
+      "type": "RESOLUTIONS",
+      "date": "2016-12-30",
+      "category": "resolution",
+      "resolutions": [
+        {
+          "category": "capital",
+          "description": "resolution-removal-pre-emption",
+          "type": "RES11",
+          "subcategory": "resolution"
+        },
+        {
+          "category": "capital",
+          "description": "resolution-securities",
+          "type": "RES10",
+          "subcategory": "resolution"
+        }
+      ],
+      "description": "resolution",
+      "description_values": {
+        "description": "Resolutions"
+      },
+      "pages": 2,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/QTVMRVo3NUxhZGlxemtjeA",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/VuWMc4wW-ftZoPR8cjaVYD1Ssk_cVYQMZXDm0etKVRY"
+      }
+    },
+    {
+      "transaction_id": "MzE2NDM4MjM1MGFkaXF6a2N4",
+      "barcode": "A5LEZLFS",
+      "type": "CS01",
+      "date": "2016-12-14",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2016-11-16"
+      },
+      "pages": 24,
+      "action_date": "2016-11-16",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzE2NDM4MjM1MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/_BLLkl91-t8YYTej0QhK3F9VPTNcqGVYj7B9ID3Tk3c"
+      }
+    },
+    {
+      "transaction_id": "MzE2MjY2NDIwMGFkaXF6a2N4",
+      "barcode": "X5KGOO4J",
+      "type": "SH01",
+      "date": "2016-11-24",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2016-11-11",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "263,966.7"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2016-11-11",
+      "links": {
+        "self": "/company/03667842/filing-history/MzE2MjY2NDIwMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/8Wt__HXJciJrbTiwWWgi-BUpwB6gRgUudkFvBl5aeic"
+      }
+    },
+    {
+      "transaction_id": "MzE2MTY4MzA4NGFkaXF6a2N4",
+      "barcode": "X5JG6DWZ",
+      "type": "SH01",
+      "date": "2016-11-10",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2016-10-27",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "257,633.4"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2016-10-27",
+      "links": {
+        "self": "/company/03667842/filing-history/MzE2MTY4MzA4NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/507XVrMqM2ACltBMgxQxJ2UhhQz5WngxAh7KCVtBOgk"
+      }
+    },
+    {
+      "transaction_id": "MzE1OTMxODE0M2FkaXF6a2N4",
+      "barcode": "A5GMN5AN",
+      "type": "AA",
+      "date": "2016-10-11",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-full",
+      "description_values": {
+        "made_up_date": "2016-03-31"
+      },
+      "pages": 27,
+      "action_date": "2016-03-31",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzE1OTMxODE0M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Ik-pacXKDwjt5qMKx8g9SnKe7wCCQAKT2iAizbDaj4k"
+      }
+    },
+    {
+      "transaction_id": "MzE1NzI4MTEwMGFkaXF6a2N4",
+      "barcode": "X5FFQTJF",
+      "type": "SH01",
+      "date": "2016-09-13",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2016-09-02",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "255,850.8"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2016-09-02",
+      "links": {
+        "self": "/company/03667842/filing-history/MzE1NzI4MTEwMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/j8ZOHw33DqUeBEletsK0EZT0seRZCYpmyGf-PUOaSSk"
+      }
+    },
+    {
+      "transaction_id": "MzE1MTQxMDM0MmFkaXF6a2N4",
+      "barcode": "X59ROQP9",
+      "type": "SH01",
+      "date": "2016-06-23",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2016-06-20",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "245,219.3"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2016-06-20",
+      "links": {
+        "self": "/company/03667842/filing-history/MzE1MTQxMDM0MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/3FqdJNZlXGOKQqIlA5b5JQcco1BDQtU30CWZ2dW2NRs"
+      }
+    },
+    {
+      "transaction_id": "MzE1MDYxNDE1OWFkaXF6a2N4",
+      "barcode": "X591GFX6",
+      "type": "SH01",
+      "date": "2016-06-13",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2016-06-07",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "243,785"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2016-06-07",
+      "links": {
+        "self": "/company/03667842/filing-history/MzE1MDYxNDE1OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/UfHP7TSlsMlzxVJOaqohc8ejCK31LkrXxq8W2g-e1xc"
+      }
+    },
+    {
+      "transaction_id": "MzE0OTU0Nzg2NWFkaXF6a2N4",
+      "barcode": "X57VRD0H",
+      "type": "SH01",
+      "date": "2016-05-27",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2016-05-19",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "233,206.7"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2016-05-19",
+      "links": {
+        "self": "/company/03667842/filing-history/MzE0OTU0Nzg2NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/2k0OrrCFmTfMsqpoIfzwbSmrztr3xbQSIWZu_dE7Q8c"
+      }
+    },
+    {
+      "transaction_id": "MzE0NzI1MjQ3OWFkaXF6a2N4",
+      "barcode": "X55P7SQR",
+      "type": "SH01",
+      "date": "2016-04-26",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2016-04-26",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "231,873.4"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2016-04-26",
+      "links": {
+        "self": "/company/03667842/filing-history/MzE0NzI1MjQ3OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/4zU3nJOthzPSa_Gq63LaGQMWibb6NfYCF33R4Dxu224"
+      }
+    },
+    {
+      "transaction_id": "MzE0NzI0NTExNWFkaXF6a2N4",
+      "barcode": "X55P666Z",
+      "type": "SH01",
+      "date": "2016-04-26",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2016-04-05",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "225,329.1"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2016-04-05",
+      "links": {
+        "self": "/company/03667842/filing-history/MzE0NzI0NTExNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/G6Nl4THiXRrFfBeIN6ttRgUZ9fiI7joi1SoHUFu5JsM"
+      }
+    },
+    {
+      "transaction_id": "MzE0NTQwOTE5MGFkaXF6a2N4",
+      "barcode": "X540P37U",
+      "type": "SH01",
+      "date": "2016-04-01",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2016-03-29",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "224,695.7"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2016-03-29",
+      "links": {
+        "self": "/company/03667842/filing-history/MzE0NTQwOTE5MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Bt9vPu5XVdivsGhbV6RMRRnmNm7AJWl9rrCq1CkGPWg"
+      }
+    },
+    {
+      "transaction_id": "MzE0MzA0NDgxMGFkaXF6a2N4",
+      "barcode": "X51U2DQP",
+      "type": "SH01",
+      "date": "2016-03-01",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2016-02-29",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "208,045.2"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2016-02-29",
+      "links": {
+        "self": "/company/03667842/filing-history/MzE0MzA0NDgxMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/jfUQdhmy7K7iFiKUtNGsftZCt_ZUORUxogvgj6T-Ps0"
+      }
+    },
+    {
+      "transaction_id": "MzE0MzA0MzgzOWFkaXF6a2N4",
+      "barcode": "X51U2AKP",
+      "type": "SH01",
+      "date": "2016-03-01",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2016-02-24",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "198,978.6"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2016-02-24",
+      "links": {
+        "self": "/company/03667842/filing-history/MzE0MzA0MzgzOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/65wQp-bNxM5MWpfZGFuhtA83ujupwaHx8_pwoE1OzQ8"
+      }
+    },
+    {
+      "transaction_id": "MzE0MTcwOTg4OGFkaXF6a2N4",
+      "barcode": "X50IXAV7",
+      "type": "SH01",
+      "date": "2016-02-11",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2016-02-10",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "197,561.8"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2016-02-10",
+      "links": {
+        "self": "/company/03667842/filing-history/MzE0MTcwOTg4OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/O6xf9i9Ii0G6doaBRAkcVQuGdkQivakDPxXsmh-v6SM"
+      }
+    },
+    {
+      "transaction_id": "MzE0MDM5ODY5MmFkaXF6a2N4",
+      "barcode": "X4ZCW32W",
+      "type": "SH01",
+      "date": "2016-01-25",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2016-01-18",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "195,675.1"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2016-01-18",
+      "links": {
+        "self": "/company/03667842/filing-history/MzE0MDM5ODY5MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZoujEp2KrhdG-vZI1IIC4Q6GqAVhSiadDGyYSgzElHw"
+      }
+    },
+    {
+      "transaction_id": "MzEzOTUxMzMxM2FkaXF6a2N4",
+      "barcode": "A4Y05UL7",
+      "type": "AR01",
+      "date": "2016-01-12",
+      "category": "annual-return",
+      "description": "annual-return-company-with-made-up-date-bulk-list-shareholders",
+      "description_values": {
+        "made_up_date": "2015-11-16"
+      },
+      "pages": 17,
+      "action_date": "2015-11-16",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/MzEzOTUxMzMxM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/XUoTZaQOccCPs9V3ECmgqdJbJYcma8hLDAxZstjSc_4"
+      }
+    },
+    {
+      "transaction_id": "MzEzNzc4NjgzM2FkaXF6a2N4",
+      "barcode": "X4MET9E2",
+      "type": "SH01",
+      "date": "2015-12-17",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2015-12-15",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "195,008.3"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2015-12-15",
+      "links": {
+        "self": "/company/03667842/filing-history/MzEzNzc4NjgzM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZK3l1rNh9Dv98oYlpmdX4JWRfGC8lDDWIC2G1LZ_CYI"
+      }
+    },
+    {
+      "transaction_id": "MzEzNjQ0MDUzNmFkaXF6a2N4",
+      "barcode": "X4LBC9EA",
+      "type": "SH01",
+      "date": "2015-12-01",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2015-11-26",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "190,525.6"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2015-11-26",
+      "links": {
+        "self": "/company/03667842/filing-history/MzEzNjQ0MDUzNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/nCFaXideJtKym0MXxZeF2GLKdIz-R6zAEHZMm4lCir4"
+      }
+    },
+    {
+      "transaction_id": "QTRJRzczM1VhZGlxemtjeA",
+      "type": "RESOLUTIONS",
+      "date": "2015-11-03",
+      "category": "resolution",
+      "resolutions": [
+        {
+          "category": "capital",
+          "description": "resolution-securities",
+          "type": "RES10",
+          "subcategory": "resolution"
+        }
+      ],
+      "description": "resolution",
+      "description_values": {
+        "description": "Resolutions"
+      },
+      "pages": 2,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/03667842/filing-history/QTRJRzczM1VhZGlxemtjeA",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/7k_KelIkTmec97sOXjLsXtbM5mqaGH7NytIyaPaXE0U"
+      }
+    },
+    {
+      "transaction_id": "MzEzNDM3NTM5MmFkaXF6a2N4",
+      "barcode": "X4JF9KI8",
+      "type": "SH01",
+      "date": "2015-11-03",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2015-10-30",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "190,321.6"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2015-10-30",
+      "links": {
+        "self": "/company/03667842/filing-history/MzEzNDM3NTM5MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ytNXCebdGK3reHvmc9hfW-pgv1AEZRmwwLdHgCllaKo"
+      }
+    },
+    {
+      "transaction_id": "MzEzNDAxNzE5OWFkaXF6a2N4",
+      "barcode": "X4IZMSEG",
+      "type": "SH01",
+      "date": "2015-10-28",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2015-10-23",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "189,912.6"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2015-10-23",
+      "links": {
+        "self": "/company/03667842/filing-history/MzEzNDAxNzE5OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/u1h8fLEYZ7VHymWxq9upRqHd6xPwKKoPsHBI7_dII9g"
+      }
+    }
+  ]
+}

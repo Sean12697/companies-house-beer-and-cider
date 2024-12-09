@@ -1,0 +1,135 @@
+{
+  "company_name": "HOPSCOTCH CRAFT BREWERS LIMITED",
+  "company_number": "11265705",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/11265705"
+  },
+  "date_of_cessation": "2020-09-22",
+  "date_of_creation": "2018-03-20",
+  "registered_office_address": {
+    "address_line_1": "442 Manchester Road",
+    "locality": "Sheffield",
+    "postal_code": "S10 5DR",
+    "country": "United Kingdom"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzI3NzUyNzMwMGFkaXF6a2N4",
+      "type": "GAZ2(A)",
+      "date": "2020-09-22",
+      "category": "gazette",
+      "description": "gazette-dissolved-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11265705/filing-history/MzI3NzUyNzMwMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/N7hNZo8zXHWPxTaqiw9VAMolzqtegp4svtxKisFoLoU"
+      }
+    },
+    {
+      "transaction_id": "MzI1NDgzODYyN2FkaXF6a2N4",
+      "type": "GAZ1(A)",
+      "date": "2020-01-28",
+      "category": "gazette",
+      "description": "gazette-notice-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11265705/filing-history/MzI1NDgzODYyN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Hy73JikjmsB1Fprx1rBFGJ7yscm22H2CjJNv7omd974"
+      }
+    },
+    {
+      "transaction_id": "MzI1NDgxNjE3M2FkaXF6a2N4",
+      "barcode": "X8WVNDA1",
+      "type": "DS01",
+      "date": "2020-01-17",
+      "category": "dissolution",
+      "description": "dissolution-application-strike-off-company",
+      "pages": 1,
+      "links": {
+        "self": "/company/11265705/filing-history/MzI1NDgxNjE3M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/J31-SbvOvGZ1ZOny_-nyKpwaI7JEUiS6XWo686b8Shs"
+      }
+    },
+    {
+      "transaction_id": "MzIyOTY3NjMxMmFkaXF6a2N4",
+      "barcode": "X81JY12X",
+      "type": "CS01",
+      "date": "2019-03-19",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2019-03-19"
+      },
+      "pages": 3,
+      "action_date": "2019-03-19",
+      "links": {
+        "self": "/company/11265705/filing-history/MzIyOTY3NjMxMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/LAtkobaS-ql0VSUf926gPsiriPfioEztV6w5NUQz0Bk"
+      }
+    },
+    {
+      "transaction_id": "MzIyOTY3NTQ1MmFkaXF6a2N4",
+      "barcode": "X81JXYFU",
+      "type": "TM01",
+      "date": "2019-03-19",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-director-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Mark Booth",
+        "termination_date": "2019-03-15"
+      },
+      "pages": 1,
+      "action_date": "2019-03-15",
+      "links": {
+        "self": "/company/11265705/filing-history/MzIyOTY3NTQ1MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/J7hqrBmXGpMEWbfaW4pqlqT3s2D_14C9oi6SI5YpuB8"
+      }
+    },
+    {
+      "transaction_id": "MzIwMDM4NDIzNGFkaXF6a2N4",
+      "barcode": "X7213QK9",
+      "type": "NEWINC",
+      "date": "2018-03-20",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2018-03-20",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2018-03-20",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2018-03-20",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "2"
+              }
+            ]
+          },
+          "action_date": "2018-03-20"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 9,
+      "links": {
+        "self": "/company/11265705/filing-history/MzIwMDM4NDIzNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/nQsHl23OPuFKEC8QVQBH3VNftQjozx9Sf31rRZUbiI4"
+      }
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "company_name": "53 NORTH BREWING COMPANY LTD",
+  "company_number": "09611653",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/09611653"
+  },
+  "date_of_cessation": "2017-11-07",
+  "date_of_creation": "2015-05-28",
+  "registered_office_address": {
+    "address_line_1": "B59 Sillavan Way",
+    "locality": "Manchester",
+    "postal_code": "M3 6GB",
+    "country": "United Kingdom"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzE4OTAxOTgzMmFkaXF6a2N4",
+      "type": "GAZ2",
+      "date": "2017-11-07",
+      "category": "gazette",
+      "description": "gazette-dissolved-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/09611653/filing-history/MzE4OTAxOTgzMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ENSozW00qYxx3FDVYLgSF4OBWQ828jr8cMokYpD5suo"
+      }
+    },
+    {
+      "transaction_id": "MzE4MjY0MzEyOGFkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2017-08-22",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/09611653/filing-history/MzE4MjY0MzEyOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/iZusXctk30Ac5aJmUJ5VOxslpvRo7n-FAo6OfQwz3i0"
+      }
+    },
+    {
+      "transaction_id": "MzE1MTY2NTk1OWFkaXF6a2N4",
+      "barcode": "X59ZGXPN",
+      "type": "AA",
+      "date": "2016-06-26",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2016-05-31"
+      },
+      "pages": 2,
+      "action_date": "2016-05-31",
+      "links": {
+        "self": "/company/09611653/filing-history/MzE1MTY2NTk1OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/YfuDOaQpkIplhgKCWx-mLBkgQTTnpSbyLUeJyfFpdLE"
+      }
+    },
+    {
+      "transaction_id": "MzE1MTY2NTYwMmFkaXF6a2N4",
+      "barcode": "X59ZGXMJ",
+      "type": "AR01",
+      "date": "2016-06-26",
+      "category": "annual-return",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2016-06-26",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2016-06-26",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "100"
+              }
+            ]
+          },
+          "action_date": "2016-06-26"
+        }
+      ],
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2016-05-28"
+      },
+      "pages": 3,
+      "action_date": "2016-05-28",
+      "links": {
+        "self": "/company/09611653/filing-history/MzE1MTY2NTYwMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/YPDTsm8GgbxjzZsrCIRo3Zj9RMjnF8THVPhJBXE9Mc4"
+      }
+    },
+    {
+      "transaction_id": "MzEyMzk4ODY3NmFkaXF6a2N4",
+      "barcode": "X489ZHR6",
+      "type": "NEWINC",
+      "date": "2015-05-28",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2015-05-28",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2015-05-28",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "100"
+              }
+            ]
+          },
+          "action_date": "2015-05-28"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 35,
+      "links": {
+        "self": "/company/09611653/filing-history/MzEyMzk4ODY3NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ClVnm8iZYfUreDQmRo-gMVjtqLsBsmDasINJsNl87xw"
+      }
+    }
+  ]
+}

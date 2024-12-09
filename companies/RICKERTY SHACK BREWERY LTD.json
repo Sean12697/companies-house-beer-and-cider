@@ -1,0 +1,88 @@
+{
+  "company_name": "RICKERTY SHACK BREWERY LTD",
+  "company_number": "13072016",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/13072016"
+  },
+  "date_of_cessation": "2022-05-17",
+  "date_of_creation": "2020-12-09",
+  "registered_office_address": {
+    "address_line_1": "13 Moorland Road",
+    "address_line_2": "Carrbrook",
+    "locality": "Stalybridge",
+    "postal_code": "SK15 3JY",
+    "region": "Greater Manchester",
+    "country": "England"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzMzODg3NjI1N2FkaXF6a2N4",
+      "type": "GAZ2",
+      "date": "2022-05-17",
+      "category": "gazette",
+      "description": "gazette-dissolved-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13072016/filing-history/MzMzODg3NjI1N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/LtgCqMvODEXMnuKuFRfKtFa1N7jeFxzeWnlYuFkNpZE"
+      }
+    },
+    {
+      "transaction_id": "MzMzMDEzNTM3N2FkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2022-03-01",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13072016/filing-history/MzMzMDEzNTM3N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/I5IdNIEklSTGsdats3BS2gkVro1QIPfZEPASCCwPFfw"
+      }
+    },
+    {
+      "transaction_id": "MzI4NTQ0MzM5MGFkaXF6a2N4",
+      "barcode": "X9JFYZ6R",
+      "type": "NEWINC",
+      "date": "2020-12-09",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2020-12-09",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2020-12-09",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2020-12-09",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "100"
+              }
+            ]
+          },
+          "action_date": "2020-12-09"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 13,
+      "links": {
+        "self": "/company/13072016/filing-history/MzI4NTQ0MzM5MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/sHolqzJ7IU_9rJ1cfEgNGK8i1j7AOwvVE9YTBONNgNA"
+      }
+    }
+  ]
+}

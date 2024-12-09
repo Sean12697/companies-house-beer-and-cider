@@ -1,0 +1,333 @@
+{
+  "company_name": "BIGWAVE CANNING LTD.",
+  "company_number": "12500342",
+  "company_status": "liquidation",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/12500342"
+  },
+  "date_of_creation": "2020-03-05",
+  "registered_office_address": {
+    "address_line_1": "C/O Xeinadin Corprate Recovery",
+    "address_line_2": "100 Barbirolli Square",
+    "locality": "Manchester",
+    "postal_code": "M2 3BD"
+  },
+  "sic_codes": [
+    "11030",
+    "11070",
+    "46341",
+    "46342"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzQwOTA1MDE3MmFkaXF6a2N4",
+      "barcode": "YCVIW77C",
+      "type": "LIQ03",
+      "date": "2024-01-31",
+      "category": "insolvency",
+      "subcategory": "voluntary",
+      "description": "liquidation-voluntary-statement-of-receipts-and-payments-with-brought-down-date",
+      "description_values": {
+        "brought_down_date": "2023-12-08"
+      },
+      "pages": 19,
+      "action_date": "2023-12-08",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12500342/filing-history/MzQwOTA1MDE3MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/BuONvZRGQrtSHkKc8KT-Ncp1zK8N27nsWeK3stVKWWI"
+      }
+    },
+    {
+      "transaction_id": "MzM4NjU1MzY0N2FkaXF6a2N4",
+      "barcode": "YC7XL1AQ",
+      "type": "AD01",
+      "date": "2023-07-27",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2023-07-27",
+        "old_address": "C/O Kay Johnson Gee Corporate Recovery 1 City Road East Manchester M15 4PN",
+        "new_address": "C/O Xeinadin Corprate Recovery 100 Barbirolli Square Manchester M2 3BD"
+      },
+      "pages": 2,
+      "action_date": "2023-07-27",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12500342/filing-history/MzM4NjU1MzY0N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/bfEw7yKTYvWTumDLdX1VKlXcdRmZCHbbY7pGV15mdvw"
+      }
+    },
+    {
+      "transaction_id": "MzM2ODE2ODE5MWFkaXF6a2N4",
+      "barcode": "YBWKXS3K",
+      "type": "LIQ03",
+      "date": "2023-02-13",
+      "category": "insolvency",
+      "subcategory": "voluntary",
+      "description": "liquidation-voluntary-statement-of-receipts-and-payments-with-brought-down-date",
+      "description_values": {
+        "brought_down_date": "2022-12-08"
+      },
+      "pages": 19,
+      "action_date": "2022-12-08",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12500342/filing-history/MzM2ODE2ODE5MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ARugiGy7mCEitbmJZUEczC1OheHNJY-3BJeh1UFMYuM"
+      }
+    },
+    {
+      "transaction_id": "MzMyMzQ1ODU3NWFkaXF6a2N4",
+      "barcode": "YAJ9EEQX",
+      "type": "600",
+      "date": "2021-12-21",
+      "category": "insolvency",
+      "subcategory": "voluntary",
+      "description": "liquidation-voluntary-appointment-of-liquidator",
+      "pages": 4,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12500342/filing-history/MzMyMzQ1ODU3NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/UadlBXzTwzUYTcNKnCYTUjnbm9sY9oQnuhDo1yeymVI"
+      }
+    },
+    {
+      "transaction_id": "MzMyMzQ1ODU4MGFkaXF6a2N4",
+      "barcode": "YAJ9EEV5",
+      "type": "AD01",
+      "date": "2021-12-18",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2021-12-18",
+        "old_address": "231-233 Marine Road Central Morecambe LA4 4BQ England",
+        "new_address": "1 City Road East Manchester M15 4PN"
+      },
+      "pages": 2,
+      "action_date": "2021-12-18",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12500342/filing-history/MzMyMzQ1ODU4MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/9QyyMK9tAtYBjli6SBg1kdekCEZ-RDGaUcft4HxveaQ"
+      }
+    },
+    {
+      "transaction_id": "WUFKOUVFUVBhZGlxemtjeA",
+      "type": "RESOLUTIONS",
+      "date": "2021-12-18",
+      "category": "resolution",
+      "resolutions": [
+        {
+          "category": "liquidation",
+          "description": "liquidation-voluntary-extraordinary-resolution-to-wind-up-with-case-start-date",
+          "type": "LRESEX",
+          "subcategory": [
+            "voluntary",
+            "resolution"
+          ],
+          "description_values": {
+            "case_start_date": "2021-12-09"
+          },
+          "original_description": "Extraordinary resolution to wind up"
+        }
+      ],
+      "description": "resolution",
+      "description_values": {
+        "description": "Resolutions"
+      },
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12500342/filing-history/WUFKOUVFUVBhZGlxemtjeA",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Gse2zRlsTwGmwzwS5lLLVwV2YjZFNZhsvCDCBP8OZvI"
+      }
+    },
+    {
+      "transaction_id": "MzMyMzQ1ODU3OWFkaXF6a2N4",
+      "barcode": "YAJ9EEYA",
+      "type": "LIQ02",
+      "date": "2021-12-18",
+      "category": "insolvency",
+      "subcategory": "voluntary",
+      "description": "liquidation-voluntary-statement-of-affairs",
+      "pages": 9,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12500342/filing-history/MzMyMzQ1ODU3OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/mAvyefUSS6g4zQB0SXUYB3ZekdINHqzKl1slMpdTw1c"
+      }
+    },
+    {
+      "transaction_id": "MzI4NDQ3NjMyN2FkaXF6a2N4",
+      "barcode": "X9IMJ54O",
+      "type": "CS01",
+      "date": "2020-11-26",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2020-11-26"
+      },
+      "pages": 5,
+      "action_date": "2020-11-26",
+      "links": {
+        "self": "/company/12500342/filing-history/MzI4NDQ3NjMyN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Qbjl-t_ZaJnkuSzKBAg_1t1USEP3_Ai6hXoNqhFv5-0"
+      }
+    },
+    {
+      "transaction_id": "MzI4MjEwNTA0NGFkaXF6a2N4",
+      "barcode": "X9GRUE16",
+      "type": "CS01",
+      "date": "2020-11-02",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2020-10-30"
+      },
+      "pages": 5,
+      "action_date": "2020-10-30",
+      "links": {
+        "self": "/company/12500342/filing-history/MzI4MjEwNTA0NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/DbbLDqRXl9UaFJNfhSfE09kRY8J0-CIuRZFRkQGTShE"
+      }
+    },
+    {
+      "transaction_id": "MzI4MjEwMTYzNmFkaXF6a2N4",
+      "barcode": "X9GRTZCW",
+      "type": "SH01",
+      "date": "2020-10-30",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2020-10-30",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "100"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2020-10-30",
+      "links": {
+        "self": "/company/12500342/filing-history/MzI4MjEwMTYzNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Hqk03jbO8i9iWFuQmaetKKMf5_6GfcXQZHOaocDJm5w"
+      }
+    },
+    {
+      "transaction_id": "MzI2NTk0ODgwM2FkaXF6a2N4",
+      "barcode": "X95XIQ43",
+      "type": "RESOLUTIONS",
+      "date": "2020-05-28",
+      "category": "resolution",
+      "resolutions": [
+        {
+          "category": "change-of-name",
+          "description": "resolution-change-of-name",
+          "type": "RES15",
+          "subcategory": "resolution",
+          "description_values": {
+            "resolution_date": "2020-05-27"
+          }
+        }
+      ],
+      "associated_filings": [
+        {
+          "category": "change-of-name",
+          "date": "2020-05-28",
+          "description": "change-of-name-by-resolution",
+          "type": "NM01"
+        }
+      ],
+      "subcategory": "certificate",
+      "description": "resolution",
+      "description_values": {
+        "description": "Resolutions"
+      },
+      "pages": 3,
+      "links": {
+        "self": "/company/12500342/filing-history/MzI2NTk0ODgwM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/fcu8PMvfUvmCkSS3JPMv-S1nGQX_XV0fM_k9IVS7PcU"
+      }
+    },
+    {
+      "transaction_id": "MzI2NTg0MDcxOGFkaXF6a2N4",
+      "barcode": "X95XFP3D",
+      "type": "DS02",
+      "date": "2020-05-27",
+      "category": "dissolution",
+      "description": "dissolution-withdrawal-application-strike-off-company",
+      "pages": 1,
+      "links": {
+        "self": "/company/12500342/filing-history/MzI2NTg0MDcxOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/1hYIt-CIqC0u1q7aTHZin3A_xKUhDoEo1Xo4G3MNfSs"
+      }
+    },
+    {
+      "transaction_id": "MzI2MzkxNzY3NmFkaXF6a2N4",
+      "type": "GAZ1(A)",
+      "date": "2020-05-12",
+      "category": "gazette",
+      "description": "gazette-notice-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12500342/filing-history/MzI2MzkxNzY3NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/mXO-3rDQgrYcR5mQ_L_o_tFGu5lIdzd1QRZ3tKmXvXY"
+      }
+    },
+    {
+      "transaction_id": "MzI2MzkxNzIyMWFkaXF6a2N4",
+      "barcode": "X94DVNHF",
+      "type": "DS01",
+      "date": "2020-05-05",
+      "category": "dissolution",
+      "description": "dissolution-application-strike-off-company",
+      "pages": 1,
+      "links": {
+        "self": "/company/12500342/filing-history/MzI2MzkxNzIyMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/HcEpB4by2W3eXKBSm_NrKNj5ylowrDOcBJepkIDSdXU"
+      }
+    },
+    {
+      "transaction_id": "MzI1ODkxNDc2NWFkaXF6a2N4",
+      "barcode": "X904KQL7",
+      "type": "NEWINC",
+      "date": "2020-03-05",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2020-03-05",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2020-03-05",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2020-03-05",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2020-03-05"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 10,
+      "links": {
+        "self": "/company/12500342/filing-history/MzI1ODkxNDc2NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/dUqmrnEGeC7OF6t5oAQDZhJ1XPQxeFnxMk5uS3FpppU"
+      }
+    }
+  ]
+}

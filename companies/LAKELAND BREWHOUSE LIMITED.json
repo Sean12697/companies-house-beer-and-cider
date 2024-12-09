@@ -1,0 +1,361 @@
+{
+  "company_name": "LAKELAND BREWHOUSE LIMITED",
+  "company_number": "13047155",
+  "company_status": "liquidation",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/13047155"
+  },
+  "date_of_creation": "2020-11-27",
+  "registered_office_address": {
+    "address_line_1": "Leonard Curtis House Elms Square Bury New Road",
+    "address_line_2": "Whitefield",
+    "locality": "Greater Manchester",
+    "postal_code": "M45 7TA"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzQxODczMjU2M2FkaXF6a2N4",
+      "barcode": "YD18M1MZ",
+      "type": "LIQ03",
+      "date": "2024-04-27",
+      "category": "insolvency",
+      "subcategory": "voluntary",
+      "description": "liquidation-voluntary-statement-of-receipts-and-payments-with-brought-down-date",
+      "description_values": {
+        "brought_down_date": "2024-02-26"
+      },
+      "pages": 17,
+      "action_date": "2024-02-26",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13047155/filing-history/MzQxODczMjU2M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/JcEnjHMe4SvO70ACjym75z3j0jiIu05CD8bRaRNEF08"
+      }
+    },
+    {
+      "transaction_id": "MzM3MjUyNjM5M2FkaXF6a2N4",
+      "barcode": "YBZ9QDEG",
+      "type": "NDISC",
+      "date": "2023-03-22",
+      "category": "insolvency",
+      "description": "liquidation-disclaimer-notice",
+      "pages": 4,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13047155/filing-history/MzM3MjUyNjM5M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/iPeZ4fIz7pGRVcPZhpLYZ-f91d55cW0BLX6F-SQSSVM"
+      }
+    },
+    {
+      "transaction_id": "MzM3MjUyNjI1OWFkaXF6a2N4",
+      "barcode": "YBZ9QDE8",
+      "type": "NDISC",
+      "date": "2023-03-22",
+      "category": "insolvency",
+      "description": "liquidation-disclaimer-notice",
+      "pages": 4,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13047155/filing-history/MzM3MjUyNjI1OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/CmchF2rrSkc_6wJatBKTOKnZQL_k7TwD0fNSeaqlUCk"
+      }
+    },
+    {
+      "transaction_id": "MzM3MjUyNjExN2FkaXF6a2N4",
+      "barcode": "YBZ9QCNK",
+      "type": "NDISC",
+      "date": "2023-03-22",
+      "category": "insolvency",
+      "description": "liquidation-disclaimer-notice",
+      "pages": 4,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13047155/filing-history/MzM3MjUyNjExN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/j98VVz-BP8hLr3yYS4sxcJOzWubSsL6WKcJUtGuAX9c"
+      }
+    },
+    {
+      "transaction_id": "MzM3MjUyNjExOGFkaXF6a2N4",
+      "barcode": "YBZ9QCRN",
+      "type": "NDISC",
+      "date": "2023-03-22",
+      "category": "insolvency",
+      "description": "liquidation-disclaimer-notice",
+      "pages": 4,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13047155/filing-history/MzM3MjUyNjExOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/fTMS2FF1EU1IFZtbrhzKq77O-hGNc_oA2cwWAgwq504"
+      }
+    },
+    {
+      "transaction_id": "MzM3MTk5NDA1NmFkaXF6a2N4",
+      "barcode": "YBYYW60A",
+      "type": "NDISC",
+      "date": "2023-03-17",
+      "category": "insolvency",
+      "description": "liquidation-disclaimer-notice",
+      "pages": 4,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13047155/filing-history/MzM3MTk5NDA1NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/tJWpGsyi5owQyrPQckLeeuKDxD6jlfh3x74weJZv6kU"
+      }
+    },
+    {
+      "transaction_id": "MzM3MTk5NDE1NGFkaXF6a2N4",
+      "barcode": "YBYYW6RE",
+      "type": "NDISC",
+      "date": "2023-03-17",
+      "category": "insolvency",
+      "description": "liquidation-disclaimer-notice",
+      "pages": 4,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13047155/filing-history/MzM3MTk5NDE1NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/KQ1Kr0HqC7RgEB2NdbEM7AIBj8r4nOxyMH8gi8sPvLQ"
+      }
+    },
+    {
+      "transaction_id": "MzM3MTg3OTc4OGFkaXF6a2N4",
+      "barcode": "YBYW6DPC",
+      "type": "NDISC",
+      "date": "2023-03-16",
+      "category": "insolvency",
+      "description": "liquidation-disclaimer-notice",
+      "pages": 4,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13047155/filing-history/MzM3MTg3OTc4OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/BkseM8S_BknngkQnQ_4-0hh3IouxPN9dVsXdRZ7NLKQ"
+      }
+    },
+    {
+      "transaction_id": "MzM3MTg3OTc5MGFkaXF6a2N4",
+      "barcode": "YBYW6DU9",
+      "type": "NDISC",
+      "date": "2023-03-16",
+      "category": "insolvency",
+      "description": "liquidation-disclaimer-notice",
+      "pages": 4,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13047155/filing-history/MzM3MTg3OTc5MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Pc1dgMRLA9tERakZYoKAEsrUUwVa7iaBmxxmBBob0Yk"
+      }
+    },
+    {
+      "transaction_id": "MzM3MDk4MTM0MWFkaXF6a2N4",
+      "barcode": "YBYAOB5T",
+      "type": "AD01",
+      "date": "2023-03-07",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2023-03-07",
+        "old_address": "Suite 4 Marl Business Park Morecambe Road Ulverston Cumbria LA12 9BN England",
+        "new_address": "Leonard Curtis House Elms Square Bury New Road Whitefield Greater Manchester M45 7TA"
+      },
+      "pages": 2,
+      "action_date": "2023-03-07",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13047155/filing-history/MzM3MDk4MTM0MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/2WgLuKuGI2MYbyML6AD2f4cIGppLXQv1S-XBSBe3aMM"
+      }
+    },
+    {
+      "transaction_id": "MzM3MDk4Mjk2N2FkaXF6a2N4",
+      "barcode": "YBYAOI2Q",
+      "type": "LIQ02",
+      "date": "2023-03-07",
+      "category": "insolvency",
+      "subcategory": "voluntary",
+      "description": "liquidation-voluntary-statement-of-affairs",
+      "pages": 16,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13047155/filing-history/MzM3MDk4Mjk2N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Oh-zJsWTa_-XeFKaPM-565Gk1T969VfUGKXkkjPe3pQ"
+      }
+    },
+    {
+      "transaction_id": "MzM3MDk4MzQyMmFkaXF6a2N4",
+      "barcode": "YBYAOIZD",
+      "type": "600",
+      "date": "2023-03-07",
+      "category": "insolvency",
+      "subcategory": "voluntary",
+      "description": "liquidation-voluntary-appointment-of-liquidator",
+      "pages": 3,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13047155/filing-history/MzM3MDk4MzQyMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/i9MSl2IeXh5SgXdgpbyU7ZV6O7ulnyIR1xsQc5ghBpQ"
+      }
+    },
+    {
+      "transaction_id": "WUJZQU9CVzlhZGlxemtjeA",
+      "type": "RESOLUTIONS",
+      "date": "2023-03-07",
+      "category": "resolution",
+      "resolutions": [
+        {
+          "category": "liquidation",
+          "description": "liquidation-voluntary-extraordinary-resolution-to-wind-up-with-case-start-date",
+          "type": "LRESEX",
+          "subcategory": [
+            "voluntary",
+            "resolution"
+          ],
+          "description_values": {
+            "case_start_date": "2023-02-27"
+          },
+          "original_description": "Extraordinary resolution to wind up"
+        }
+      ],
+      "description": "resolution",
+      "description_values": {
+        "description": "Resolutions"
+      },
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13047155/filing-history/WUJZQU9CVzlhZGlxemtjeA",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/pZz2q-kEgFUOaNYQ8EgRxYHw2muQrCO87C_GjozQpRk"
+      }
+    },
+    {
+      "transaction_id": "MzM2Mjc5ODEyNGFkaXF6a2N4",
+      "type": "DISS40",
+      "date": "2022-12-20",
+      "category": "gazette",
+      "description": "gazette-filings-brought-up-to-date",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13047155/filing-history/MzM2Mjc5ODEyNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/mP0PynGSeYhZraQ7ttL7AqdlN8WTdH5lNEOfsEoAPvE"
+      }
+    },
+    {
+      "transaction_id": "MzM2Mjc5ODE2MmFkaXF6a2N4",
+      "barcode": "XBJ137EO",
+      "type": "CS01",
+      "date": "2022-12-17",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2022-11-26"
+      },
+      "pages": 5,
+      "action_date": "2022-11-26",
+      "links": {
+        "self": "/company/13047155/filing-history/MzM2Mjc5ODE2MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Q7uBGLbgMO0UbA9cgr5i-iYsiouQL9Hxtyb2WQ343SQ"
+      }
+    },
+    {
+      "transaction_id": "MzM2Mjc5ODExOGFkaXF6a2N4",
+      "barcode": "XBJ1374I",
+      "type": "AA",
+      "date": "2022-12-17",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2021-11-30"
+      },
+      "pages": 7,
+      "action_date": "2021-11-30",
+      "links": {
+        "self": "/company/13047155/filing-history/MzM2Mjc5ODExOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/WBRemZdfcqntpOpX9v6pVpLikhu7Zn--vM39lQ5c_fA"
+      }
+    },
+    {
+      "transaction_id": "MzM1NTU5MzI2M2FkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2022-10-25",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13047155/filing-history/MzM1NTU5MzI2M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/v9-r-9trZRVomiVrObyzdZYVWVm_qsnWhXZx1WD89Lo"
+      }
+    },
+    {
+      "transaction_id": "MzMyMzQyMzg1NmFkaXF6a2N4",
+      "barcode": "XAJ9ATL5",
+      "type": "CS01",
+      "date": "2021-12-13",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2021-11-26"
+      },
+      "pages": 6,
+      "action_date": "2021-11-26",
+      "links": {
+        "self": "/company/13047155/filing-history/MzMyMzQyMzg1NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/NB1SHKylVjvjHxS9_Fk0cMINb1w_zJ4MPMUXVjGsADg"
+      }
+    },
+    {
+      "transaction_id": "MzMxMTI3MjA5NWFkaXF6a2N4",
+      "barcode": "XABAPEDE",
+      "type": "AD01",
+      "date": "2021-08-20",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2021-08-20",
+        "old_address": "Fairfield Outcast Ulverston Cumbria LA12 9ED United Kingdom",
+        "new_address": "Suite 4 Marl Business Park Morecambe Road Ulverston Cumbria LA12 9BN"
+      },
+      "pages": 1,
+      "action_date": "2021-08-20",
+      "links": {
+        "self": "/company/13047155/filing-history/MzMxMTI3MjA5NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/c70L9WCvlIrJbio4jTvDn63o9ya-DsNxLEqPITp4_EQ"
+      }
+    },
+    {
+      "transaction_id": "MzI4NDM3Nzk4OGFkaXF6a2N4",
+      "barcode": "X9IJXR2Y",
+      "type": "NEWINC",
+      "date": "2020-11-27",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2020-11-27",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2020-11-27",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "120"
+              }
+            ]
+          },
+          "action_date": "2020-11-27"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 25,
+      "links": {
+        "self": "/company/13047155/filing-history/MzI4NDM3Nzk4OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/9Q6IiHsWvJMjRj507dAvavoo1x9Zi8LcoM4VGxgy2xw"
+      }
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "company_name": "GREEN ARCHES LTD",
+  "company_number": "14096560",
+  "company_status": "active",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/14096560"
+  },
+  "date_of_creation": "2022-05-10",
+  "registered_office_address": {
+    "address_line_1": "Unit 11 Red Bank",
+    "locality": "Manchester",
+    "postal_code": "M4 4HF",
+    "country": "England"
+  },
+  "sic_codes": [
+    "11050",
+    "56302"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzQyMzMwMjYwM2FkaXF6a2N4",
+      "barcode": "XD42OF1C",
+      "type": "CS01",
+      "date": "2024-05-28",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2024-05-10"
+      },
+      "pages": 3,
+      "action_date": "2024-05-10",
+      "links": {
+        "self": "/company/14096560/filing-history/MzQyMzMwMjYwM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/hWJgDtnwdz6v2F9vUIceJG0fe-azrIAzlwf6zAx3yPI"
+      }
+    },
+    {
+      "transaction_id": "MzQxMDYwOTI5OWFkaXF6a2N4",
+      "barcode": "XCWI2MND",
+      "type": "AA",
+      "date": "2024-02-09",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2023-05-31"
+      },
+      "pages": 5,
+      "action_date": "2023-05-31",
+      "links": {
+        "self": "/company/14096560/filing-history/MzQxMDYwOTI5OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/SDdeAHUnY2OX_ozVS5demXm_YJeKI4fJAfL5Z80dOUk"
+      }
+    },
+    {
+      "transaction_id": "MzM4MDE1NzQyMmFkaXF6a2N4",
+      "barcode": "XC3U0RIR",
+      "type": "CS01",
+      "date": "2023-05-19",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2023-05-10"
+      },
+      "pages": 4,
+      "action_date": "2023-05-10",
+      "links": {
+        "self": "/company/14096560/filing-history/MzM4MDE1NzQyMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/pD1JNRoPXRw3vvQtWaYzCMGLwq92fFtoB6WsD7v3s1g"
+      }
+    },
+    {
+      "transaction_id": "MzM0NzQ2NzMzNWFkaXF6a2N4",
+      "barcode": "XB9HP155",
+      "type": "AD01",
+      "date": "2022-08-01",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2022-08-01",
+        "old_address": "13 Houghton Street Swinton Manchester M27 8XW England",
+        "new_address": "Unit 11 Red Bank Manchester M4 4HF"
+      },
+      "pages": 1,
+      "action_date": "2022-08-01",
+      "links": {
+        "self": "/company/14096560/filing-history/MzM0NzQ2NzMzNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/gnIeUvvzRKxjHJbVPwjlV4S9hOBEUcsYffid6jaLmSk"
+      }
+    },
+    {
+      "transaction_id": "MzMzODczNTM2NGFkaXF6a2N4",
+      "barcode": "XB3O3UHN",
+      "type": "NEWINC",
+      "date": "2022-05-10",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2022-05-10",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2022-05-10",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2022-05-10",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": ".1"
+              }
+            ]
+          },
+          "action_date": "2022-05-10"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 13,
+      "links": {
+        "self": "/company/14096560/filing-history/MzMzODczNTM2NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/X5WVrm-Thdovm0a00kRLoUrkDhjrwd2UGOKCkujZ9AE"
+      }
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "company_name": "LETTERPRESS BREWERY LTD",
+  "company_number": "11306492",
+  "company_status": "active",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/11306492"
+  },
+  "date_of_creation": "2018-04-12",
+  "registered_office_address": {
+    "address_line_1": "50 Carrington Road Urmston",
+    "locality": "Manchester",
+    "postal_code": "M41 6HX",
+    "country": "England"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzQxOTU1MzEyMGFkaXF6a2N4",
+      "barcode": "XD1ORQB6",
+      "type": "CS01",
+      "date": "2024-04-24",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2024-04-11"
+      },
+      "pages": 3,
+      "action_date": "2024-04-11",
+      "links": {
+        "self": "/company/11306492/filing-history/MzQxOTU1MzEyMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/0kcRByHVRkarubaISVi8ElUTNwq6unPLWZqomUq028I"
+      }
+    },
+    {
+      "transaction_id": "MzQwODQ5OTM4MmFkaXF6a2N4",
+      "barcode": "XCVD14Q8",
+      "type": "AA",
+      "date": "2024-01-23",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2023-04-30"
+      },
+      "pages": 8,
+      "action_date": "2023-04-30",
+      "links": {
+        "self": "/company/11306492/filing-history/MzQwODQ5OTM4MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/KJXhx35Tg8lbBXoLzHKmQ6cLl_qKmBMu-GUwxYZX7uc"
+      }
+    },
+    {
+      "transaction_id": "MzM3NTc0NzcyNWFkaXF6a2N4",
+      "barcode": "XC17XG7U",
+      "type": "CS01",
+      "date": "2023-04-11",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2023-04-11"
+      },
+      "pages": 3,
+      "action_date": "2023-04-11",
+      "links": {
+        "self": "/company/11306492/filing-history/MzM3NTc0NzcyNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/S0vuCX3jMzzoa688lD-21UdagSFfPEml0zXRmQEUdfU"
+      }
+    },
+    {
+      "transaction_id": "MzM2NzQ5MzExMmFkaXF6a2N4",
+      "barcode": "XBW7AKQQ",
+      "type": "AA",
+      "date": "2023-01-29",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2022-04-30"
+      },
+      "pages": 10,
+      "action_date": "2022-04-30",
+      "links": {
+        "self": "/company/11306492/filing-history/MzM2NzQ5MzExMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/KkzDhI_oLrdutsJ9wl8Jb_LCa8uFNXZwZFPE8fBkfyQ"
+      }
+    },
+    {
+      "transaction_id": "MzMzNzAwNjkwMWFkaXF6a2N4",
+      "barcode": "XB2H8DYW",
+      "type": "CS01",
+      "date": "2022-04-22",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2022-04-11"
+      },
+      "pages": 3,
+      "action_date": "2022-04-11",
+      "links": {
+        "self": "/company/11306492/filing-history/MzMzNzAwNjkwMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/btZeCn2TyIU_gZtYZ_KDM5ly3B3TTu3Rs5ubQ6QZ7H8"
+      }
+    },
+    {
+      "transaction_id": "MzMyNjEyMjE1OWFkaXF6a2N4",
+      "barcode": "XAVBEV6J",
+      "type": "AA",
+      "date": "2022-01-09",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2021-04-30"
+      },
+      "pages": 2,
+      "action_date": "2021-04-30",
+      "links": {
+        "self": "/company/11306492/filing-history/MzMyNjEyMjE1OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/TwS60RAQ5mofspgBxILCA5fseYo0pjUTV5ZN0BCC3jo"
+      }
+    },
+    {
+      "transaction_id": "MzI5ODA2OTc3OGFkaXF6a2N4",
+      "barcode": "XA2N8ZIO",
+      "type": "CS01",
+      "date": "2021-04-17",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2021-04-11"
+      },
+      "pages": 3,
+      "action_date": "2021-04-11",
+      "links": {
+        "self": "/company/11306492/filing-history/MzI5ODA2OTc3OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/cukZQl0-Wh_2SJlqZz7ZBEkI59wwJ4AscLU8zZM1p24"
+      }
+    },
+    {
+      "transaction_id": "MzI2Mzg0OTU2NGFkaXF6a2N4",
+      "barcode": "X94B8PIJ",
+      "type": "AA",
+      "date": "2020-05-04",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2020-04-30"
+      },
+      "pages": 2,
+      "action_date": "2020-04-30",
+      "links": {
+        "self": "/company/11306492/filing-history/MzI2Mzg0OTU2NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/_kEzHNSEG3QKRiG68Rlhq3HepX9lSTDugKGLm496XmI"
+      }
+    },
+    {
+      "transaction_id": "MzI2Mzg0ODcyMmFkaXF6a2N4",
+      "barcode": "X94B8LYH",
+      "type": "CS01",
+      "date": "2020-05-04",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2020-04-11"
+      },
+      "pages": 3,
+      "action_date": "2020-04-11",
+      "links": {
+        "self": "/company/11306492/filing-history/MzI2Mzg0ODcyMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Jx0rw6E0zuTctCOXDxIzAtdZwbpLe3-jSihEzq9HUjI"
+      }
+    },
+    {
+      "transaction_id": "MzI1NDI0OTA2OWFkaXF6a2N4",
+      "barcode": "X8WANFFC",
+      "type": "AA",
+      "date": "2020-01-09",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2019-04-30"
+      },
+      "pages": 2,
+      "action_date": "2019-04-30",
+      "links": {
+        "self": "/company/11306492/filing-history/MzI1NDI0OTA2OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/DWMLtVAAQCLtiJle2_mnk32YhsRGgz88k-x0ogGmgRc"
+      }
+    },
+    {
+      "transaction_id": "MzIzMjMwODQ5OWFkaXF6a2N4",
+      "barcode": "X83K4CWG",
+      "type": "CS01",
+      "date": "2019-04-17",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2019-04-11"
+      },
+      "pages": 3,
+      "action_date": "2019-04-11",
+      "links": {
+        "self": "/company/11306492/filing-history/MzIzMjMwODQ5OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ey001iXUCa6LMvXYthbX77J3VPc272deOowVQWaEDvI"
+      }
+    },
+    {
+      "transaction_id": "MzIwMjI0NzkxNWFkaXF6a2N4",
+      "barcode": "X73KB5JV",
+      "type": "NEWINC",
+      "date": "2018-04-12",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2018-04-12",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2018-04-12",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2018-04-12"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 28,
+      "links": {
+        "self": "/company/11306492/filing-history/MzIwMjI0NzkxNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/GyH9HLT6ebFpG4gGhHOZy3g2jQ29E7VGdjBwz95Cbuw"
+      }
+    }
+  ]
+}

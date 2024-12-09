@@ -1,0 +1,547 @@
+{
+  "company_name": "BY THE RIVER BREWERY LTD",
+  "company_number": "11042965",
+  "company_status": "active",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/11042965"
+  },
+  "date_of_creation": "2017-11-01",
+  "registered_office_address": {
+    "address_line_1": "Xeinadin Manchester",
+    "address_line_2": "100 Barbirolli Square",
+    "locality": "Manchester",
+    "postal_code": "M2 3BD",
+    "country": "United Kingdom"
+  },
+  "sic_codes": [
+    "11050",
+    "47640",
+    "47810",
+    "91040"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzQ0MzQ1ODQ3MGFkaXF6a2N4",
+      "barcode": "XDFUQNBS",
+      "type": "CS01",
+      "date": "2024-11-14",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2024-10-31"
+      },
+      "pages": 3,
+      "action_date": "2024-10-31",
+      "links": {
+        "self": "/company/11042965/filing-history/MzQ0MzQ1ODQ3MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/54hFloeJ73hVLB1PJKn0u-bVj4fKDWsgFjKMn5ltIUQ"
+      }
+    },
+    {
+      "transaction_id": "MzQzMDEyNDgxM2FkaXF6a2N4",
+      "barcode": "XD825RJ5",
+      "type": "AA",
+      "date": "2024-07-25",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2023-12-31"
+      },
+      "pages": 8,
+      "action_date": "2023-12-31",
+      "links": {
+        "self": "/company/11042965/filing-history/MzQzMDEyNDgxM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/hF2lOV4Zyi0ykBnnoWFTWfsVI-Y9QSF3TH2IWEYb1Xc"
+      }
+    },
+    {
+      "transaction_id": "MzQyNDA3MjE5MmFkaXF6a2N4",
+      "barcode": "XD4GJTYG",
+      "type": "AD01",
+      "date": "2024-06-03",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2024-06-03",
+        "old_address": "C/O Kjg 100 Barbirolli Square Manchester M2 3BD United Kingdom",
+        "new_address": "Xeinadin Manchester 100 Barbirolli Square Manchester M2 3BD"
+      },
+      "pages": 1,
+      "action_date": "2024-06-03",
+      "links": {
+        "self": "/company/11042965/filing-history/MzQyNDA3MjE5MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/b9HlSSWSnbg6Z8yIl9YrrAgFy2G0AHI7lhlRTJGagiA"
+      }
+    },
+    {
+      "transaction_id": "MzM5ODQxMTMwMGFkaXF6a2N4",
+      "barcode": "XCFBQ4W0",
+      "type": "CS01",
+      "date": "2023-10-31",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2023-10-31"
+      },
+      "pages": 3,
+      "action_date": "2023-10-31",
+      "links": {
+        "self": "/company/11042965/filing-history/MzM5ODQxMTMwMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ezueJJVf1nvgdrrPdwHWQMpwQKElQd4wjtlWM3VvIh0"
+      }
+    },
+    {
+      "transaction_id": "MzM4NTkzMzg5M2FkaXF6a2N4",
+      "barcode": "XC7K6GLF",
+      "type": "AA",
+      "date": "2023-07-11",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2022-12-31"
+      },
+      "pages": 10,
+      "action_date": "2022-12-31",
+      "links": {
+        "self": "/company/11042965/filing-history/MzM4NTkzMzg5M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/XcZuwT6b_SUJLrR3tkYKrRgDi4xnt_MNRnBo3See5E4"
+      }
+    },
+    {
+      "transaction_id": "MzM4MTkxMzY1OGFkaXF6a2N4",
+      "barcode": "XC50WVJF",
+      "type": "AD01",
+      "date": "2023-06-05",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2023-06-05",
+        "old_address": "Kay Johnson Gee Limited 1 City Road East Manchester M15 4PN United Kingdom",
+        "new_address": "C/O Kjg 100 Barbirolli Square Manchester M2 3BD"
+      },
+      "pages": 1,
+      "action_date": "2023-06-05",
+      "links": {
+        "self": "/company/11042965/filing-history/MzM4MTkxMzY1OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/CrY0TbdIu969TmE38aDevz__IDblG0nneU1RQynGgTc"
+      }
+    },
+    {
+      "transaction_id": "MzM1NzAxNjA1N2FkaXF6a2N4",
+      "barcode": "XBFT3AWT",
+      "type": "CS01",
+      "date": "2022-10-31",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2022-10-31"
+      },
+      "pages": 3,
+      "action_date": "2022-10-31",
+      "links": {
+        "self": "/company/11042965/filing-history/MzM1NzAxNjA1N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/dRgnhBus4OjAGgm-sEA_wBi3WqaQbOvLSu5JO19oUbA"
+      }
+    },
+    {
+      "transaction_id": "MzMzNzY2OTQ5OWFkaXF6a2N4",
+      "barcode": "XB2X8WVU",
+      "type": "AA",
+      "date": "2022-04-28",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2021-12-31"
+      },
+      "pages": 10,
+      "action_date": "2021-12-31",
+      "links": {
+        "self": "/company/11042965/filing-history/MzMzNzY2OTQ5OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/EVfKdLuu8ASXWtIOBJXluMBcfc1EKkL56aca8XIi5c4"
+      }
+    },
+    {
+      "transaction_id": "MzMxODc4Mjg2MmFkaXF6a2N4",
+      "barcode": "XAGCQJ8X",
+      "type": "CS01",
+      "date": "2021-11-01",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2021-10-31"
+      },
+      "pages": 3,
+      "action_date": "2021-10-31",
+      "links": {
+        "self": "/company/11042965/filing-history/MzMxODc4Mjg2MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/HBhA0Ze_1S-l4MMEzmqZsGnCDWl0nxy0P2N895tfsCg"
+      }
+    },
+    {
+      "transaction_id": "MzMwNjAwNTYyMWFkaXF6a2N4",
+      "barcode": "XA7NOHIX",
+      "type": "AA",
+      "date": "2021-06-29",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2020-12-31"
+      },
+      "pages": 10,
+      "action_date": "2020-12-31",
+      "links": {
+        "self": "/company/11042965/filing-history/MzMwNjAwNTYyMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/3m_4vsPfRaffNZAqXqYCrmsyVcWLpZmMubVrG4cENbQ"
+      }
+    },
+    {
+      "transaction_id": "MzI5ODkzMTQ4OGFkaXF6a2N4",
+      "barcode": "XA38MTMG",
+      "type": "CH01",
+      "date": "2021-04-26",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2021-04-22",
+        "officer_name": "Mr Robert Cameron"
+      },
+      "pages": 2,
+      "action_date": "2021-04-22",
+      "links": {
+        "self": "/company/11042965/filing-history/MzI5ODkzMTQ4OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/vBndWwkC27TC-0azs9ok6uae4VaSCT79n5w7DhvDI-c"
+      }
+    },
+    {
+      "transaction_id": "MzI5ODkzMTQ4NmFkaXF6a2N4",
+      "barcode": "XA38MTH5",
+      "type": "PSC04",
+      "date": "2021-04-26",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2021-04-22",
+        "psc_name": "Mr Robert Cameron"
+      },
+      "pages": 2,
+      "action_date": "2021-04-22",
+      "links": {
+        "self": "/company/11042965/filing-history/MzI5ODkzMTQ4NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/jihVQCAMNGDP0U_-D3PVOBZq4y0_xTZXhBwooRXejhs"
+      }
+    },
+    {
+      "transaction_id": "MzI5MTY1MzM0NmFkaXF6a2N4",
+      "barcode": "X9YJ0M1N",
+      "type": "AD01",
+      "date": "2021-02-17",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2021-02-17",
+        "old_address": "Kay Johnson Gee Limited 1 City Road East Manchester M15 4PN United Kingdom",
+        "new_address": "Kay Johnson Gee Limited 1 City Road East Manchester M15 4PN"
+      },
+      "pages": 1,
+      "action_date": "2021-02-17",
+      "links": {
+        "self": "/company/11042965/filing-history/MzI5MTY1MzM0NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/B98lwvHnH-mFZ5FpEnAt1GVrFgc16nwTLp2jMA5HGk4"
+      }
+    },
+    {
+      "transaction_id": "MzI5MTY0NDAzNmFkaXF6a2N4",
+      "barcode": "X9YIZDMR",
+      "type": "AD01",
+      "date": "2021-02-17",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2021-02-17",
+        "old_address": "1 City Road East Manchester M15 4PN England",
+        "new_address": "Kay Johnson Gee Limited 1 City Road East Manchester M15 4PN"
+      },
+      "pages": 1,
+      "action_date": "2021-02-17",
+      "links": {
+        "self": "/company/11042965/filing-history/MzI5MTY0NDAzNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/SYH5Qc7lG6JuOR1xdM35ktLtWmqaZEjiCOWsoCuuOxA"
+      }
+    },
+    {
+      "transaction_id": "MzI4MjYyMDg5MGFkaXF6a2N4",
+      "barcode": "X9H584CQ",
+      "type": "AA",
+      "date": "2020-11-05",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2019-12-31"
+      },
+      "pages": 10,
+      "action_date": "2019-12-31",
+      "links": {
+        "self": "/company/11042965/filing-history/MzI4MjYyMDg5MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/m0HiGphI_WTlgMONniXOQi7reuWIiEPj8butQGOdlD0"
+      }
+    },
+    {
+      "transaction_id": "MzI4MjI0NjU2OWFkaXF6a2N4",
+      "barcode": "X9GZK4WH",
+      "type": "CS01",
+      "date": "2020-11-02",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2020-10-31"
+      },
+      "pages": 3,
+      "action_date": "2020-10-31",
+      "links": {
+        "self": "/company/11042965/filing-history/MzI4MjI0NjU2OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/eETtZqnGjFCQMgTEW6ldwGml7fSbFZTTgDqmyGiE7qI"
+      }
+    },
+    {
+      "transaction_id": "MzI0ODkwNzYxN2FkaXF6a2N4",
+      "barcode": "X8HTG7E0",
+      "type": "CS01",
+      "date": "2019-11-08",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2019-10-31"
+      },
+      "pages": 3,
+      "action_date": "2019-10-31",
+      "links": {
+        "self": "/company/11042965/filing-history/MzI0ODkwNzYxN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/qWvjKtB8Ozqqs7otX6QGBPdejZeUHULB6mAcdgXbatw"
+      }
+    },
+    {
+      "transaction_id": "MzI0MDc4MjI5M2FkaXF6a2N4",
+      "barcode": "X8AWMEKG",
+      "type": "AA",
+      "date": "2019-08-01",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2018-12-31"
+      },
+      "pages": 9,
+      "action_date": "2018-12-31",
+      "links": {
+        "self": "/company/11042965/filing-history/MzI0MDc4MjI5M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/_uhya-IOcdtVMlWNuMnLXqHv9KLw8kxn0qsk4Krwbus"
+      }
+    },
+    {
+      "transaction_id": "MzIzMDM4OTI0MmFkaXF6a2N4",
+      "barcode": "X822JXKO",
+      "type": "AD01",
+      "date": "2019-03-26",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2019-03-26",
+        "old_address": "Tait Walker Llp Bulman House, Regent Centre, Gosforth Newcastle upon Tyne NE3 3LS England",
+        "new_address": "1 City Road East Manchester M15 4PN"
+      },
+      "pages": 1,
+      "action_date": "2019-03-26",
+      "links": {
+        "self": "/company/11042965/filing-history/MzIzMDM4OTI0MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/vdgBaasDwzTlFaAPP3d5wpF5HS3V3EShCSyL9KseOLw"
+      }
+    },
+    {
+      "transaction_id": "MzIyMTE1OTE1MGFkaXF6a2N4",
+      "barcode": "X7K2K3YJ",
+      "type": "AA01",
+      "date": "2018-12-04",
+      "category": "accounts",
+      "description": "change-account-reference-date-company-current-extended",
+      "description_values": {
+        "made_up_date": "2018-11-30",
+        "new_date": "2018-12-31"
+      },
+      "pages": 1,
+      "action_date": "2018-12-31",
+      "links": {
+        "self": "/company/11042965/filing-history/MzIyMTE1OTE1MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/SBsm48hmwOwufSgf8Xz67qUlIy-ZteE37rZE33ABF4I"
+      }
+    },
+    {
+      "transaction_id": "MzIyMDMwNjU4NmFkaXF6a2N4",
+      "barcode": "X7JJOJZF",
+      "type": "PSC04",
+      "date": "2018-11-26",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2017-11-01",
+        "psc_name": "Mr Robert Cameron"
+      },
+      "pages": 2,
+      "action_date": "2017-11-01",
+      "links": {
+        "self": "/company/11042965/filing-history/MzIyMDMwNjU4NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/3WmohAO0WgauMz_58wsAUya10cQwYHts5pkKJUdaakk"
+      }
+    },
+    {
+      "transaction_id": "MzIyMDMwNjU3MmFkaXF6a2N4",
+      "barcode": "X7JJOJZ7",
+      "type": "PSC04",
+      "date": "2018-11-26",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2017-11-01",
+        "psc_name": "Mr David Jonathan Stone"
+      },
+      "pages": 2,
+      "action_date": "2017-11-01",
+      "links": {
+        "self": "/company/11042965/filing-history/MzIyMDMwNjU3MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/hfCA9MV9-ohfGVpBjP3KPAUr2Q3xN_aIDggRzpl_G7M"
+      }
+    },
+    {
+      "transaction_id": "MzIyMDMwMjcyNWFkaXF6a2N4",
+      "barcode": "X7JJO4RN",
+      "type": "CS01",
+      "date": "2018-11-26",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2018-10-31"
+      },
+      "pages": 3,
+      "action_date": "2018-10-31",
+      "links": {
+        "self": "/company/11042965/filing-history/MzIyMDMwMjcyNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZCx5SAu9kL3EwRKm88g6lKNYZUMecaMiB2aoiXIZQ9g"
+      }
+    },
+    {
+      "transaction_id": "MzIwMTAwNzA0MGFkaXF6a2N4",
+      "barcode": "X72J40D7",
+      "type": "AD01",
+      "date": "2018-03-27",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2018-03-27",
+        "old_address": "Tait Walker Llp Bulman House, Regent Centre, Gosforth Newcastle upon Tyne NE3 3LS England",
+        "new_address": "Tait Walker Llp Bulman House, Regent Centre, Gosforth Newcastle upon Tyne NE3 3LS"
+      },
+      "pages": 1,
+      "action_date": "2018-03-27",
+      "links": {
+        "self": "/company/11042965/filing-history/MzIwMTAwNzA0MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/1PRZn7OJcz6iz1dHYd7_tq2L_67S0HVNaC5JQ993JwA"
+      }
+    },
+    {
+      "transaction_id": "MzIwMTAwNzA4N2FkaXF6a2N4",
+      "barcode": "X72J42NF",
+      "type": "AD01",
+      "date": "2018-03-27",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2018-03-27",
+        "old_address": "20-22 Wenlock Road London N1 7GU England",
+        "new_address": "Tait Walker Llp Bulman House, Regent Centre, Gosforth Newcastle upon Tyne NE3 3LS"
+      },
+      "pages": 1,
+      "action_date": "2018-03-27",
+      "links": {
+        "self": "/company/11042965/filing-history/MzIwMTAwNzA4N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/UltgFqOX7DLAiyCxSv30bQPYrzqAixov8tuUPeYWZ6o"
+      }
+    },
+    {
+      "transaction_id": "MzIwMDgzMDAwOWFkaXF6a2N4",
+      "barcode": "X72C73KP",
+      "type": "RESOLUTIONS",
+      "date": "2018-03-23",
+      "category": "resolution",
+      "resolutions": [
+        {
+          "category": "change-of-name",
+          "description": "resolution-change-of-name",
+          "type": "RES15",
+          "subcategory": "resolution",
+          "description_values": {
+            "resolution_date": "2018-03-22"
+          }
+        }
+      ],
+      "associated_filings": [
+        {
+          "category": "change-of-name",
+          "date": "2018-03-23",
+          "description": "change-of-name-by-resolution",
+          "type": "NM01"
+        }
+      ],
+      "subcategory": "certificate",
+      "description": "resolution",
+      "description_values": {
+        "description": "Resolutions"
+      },
+      "pages": 3,
+      "links": {
+        "self": "/company/11042965/filing-history/MzIwMDgzMDAwOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/bcQW_32qkqo5G7HSF5Jn-PFW1N8fM2fHEkfNlHrA-IA"
+      }
+    },
+    {
+      "transaction_id": "MzE4OTIxOTA2M2FkaXF6a2N4",
+      "barcode": "X6I9ZCRU",
+      "type": "NEWINC",
+      "date": "2017-11-01",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2017-11-01",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2017-11-01",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2017-11-01",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "2"
+              }
+            ]
+          },
+          "action_date": "2017-11-01"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 13,
+      "links": {
+        "self": "/company/11042965/filing-history/MzE4OTIxOTA2M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/juqrWeXZ5__dyNQkUa63qrXzBVRoEKZShNznqe-kiQE"
+      }
+    }
+  ]
+}

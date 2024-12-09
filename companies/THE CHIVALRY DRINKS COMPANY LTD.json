@@ -1,0 +1,90 @@
+{
+  "company_name": "THE CHIVALRY DRINKS COMPANY LTD",
+  "company_number": "14889519",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/14889519"
+  },
+  "date_of_cessation": "2024-10-29",
+  "date_of_creation": "2023-05-23",
+  "registered_office_address": {
+    "address_line_1": "1 Ellesmere Green",
+    "address_line_2": "Monton",
+    "locality": "Manchester",
+    "postal_code": "M30 9EZ",
+    "country": "England"
+  },
+  "sic_codes": [
+    "11010",
+    "11050",
+    "11070",
+    "46342"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzQ0MDUzNTI2MGFkaXF6a2N4",
+      "type": "GAZ2",
+      "date": "2024-10-29",
+      "category": "gazette",
+      "description": "gazette-dissolved-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/14889519/filing-history/MzQ0MDUzNTI2MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZMpthLHpz8cY--VSXzat2nPaYcQcyL4j-Y5dQRkwVx0"
+      }
+    },
+    {
+      "transaction_id": "MzQzMDgyNzYxOGFkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2024-08-13",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/14889519/filing-history/MzQzMDgyNzYxOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/K1kZmuB4MfGdCeWKx4OiXZ69URs3BWWPOuLA-CFb45w"
+      }
+    },
+    {
+      "transaction_id": "MzM4MDI5ODUyMGFkaXF6a2N4",
+      "barcode": "XC3Z840Z",
+      "type": "NEWINC",
+      "date": "2023-05-23",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2023-05-23",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2023-05-23",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2023-05-23",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "100"
+              }
+            ]
+          },
+          "action_date": "2023-05-23"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 10,
+      "links": {
+        "self": "/company/14889519/filing-history/MzM4MDI5ODUyMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/aFAEvuY3PF8z_9zpDw1jm4EoT3DAl_4p6cAfQJqDhGA"
+      }
+    }
+  ]
+}

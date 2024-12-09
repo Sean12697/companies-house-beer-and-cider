@@ -1,0 +1,140 @@
+{
+  "company_name": "SKINNY IPA LIMITED",
+  "company_number": "13740255",
+  "company_status": "active",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/13740255"
+  },
+  "date_of_creation": "2021-11-12",
+  "registered_office_address": {
+    "address_line_1": "111 Piccadilly",
+    "locality": "Manchester",
+    "postal_code": "M1 2HY",
+    "country": "United Kingdom"
+  },
+  "sic_codes": [
+    "11010",
+    "11020",
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzQ0NDk1Mzg4NGFkaXF6a2N4",
+      "barcode": "XDGOC1AG",
+      "type": "CS01",
+      "date": "2024-11-26",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2024-11-11"
+      },
+      "pages": 3,
+      "action_date": "2024-11-11",
+      "links": {
+        "self": "/company/13740255/filing-history/MzQ0NDk1Mzg4NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/e1O6l3wOQQ3uzJ4PnQsLMv5YZdWhAhs6mO_pKk0sMBg"
+      }
+    },
+    {
+      "transaction_id": "MzQxNDEyNDk5NmFkaXF6a2N4",
+      "barcode": "XCYQR5F6",
+      "type": "AA",
+      "date": "2024-03-12",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2023-11-30"
+      },
+      "pages": 4,
+      "action_date": "2023-11-30",
+      "links": {
+        "self": "/company/13740255/filing-history/MzQxNDEyNDk5NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/xRDGL9jaT8go6Q3TmfedGzT8STB7Wnh7Tigu0sYnARs"
+      }
+    },
+    {
+      "transaction_id": "MzQwNTM4Mzk1N2FkaXF6a2N4",
+      "barcode": "XCIY38G9",
+      "type": "CS01",
+      "date": "2023-12-22",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2023-11-11"
+      },
+      "pages": 3,
+      "action_date": "2023-11-11",
+      "links": {
+        "self": "/company/13740255/filing-history/MzQwNTM4Mzk1N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/R6qvSyUOACRyS6KT6aq8-sct3-nb-xFJzG-oOpNkOSQ"
+      }
+    },
+    {
+      "transaction_id": "MzM3NDg0ODcyNGFkaXF6a2N4",
+      "barcode": "XC0HF34P",
+      "type": "AA",
+      "date": "2023-03-31",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2022-11-30"
+      },
+      "pages": 4,
+      "action_date": "2022-11-30",
+      "links": {
+        "self": "/company/13740255/filing-history/MzM3NDg0ODcyNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/he6rXMhXf3btChtnu9goFEy8UNtxFbjE-W_dQqZsLyQ"
+      }
+    },
+    {
+      "transaction_id": "MzM2NTc3MzE5N2FkaXF6a2N4",
+      "barcode": "XBVAXB5T",
+      "type": "CS01",
+      "date": "2023-01-16",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2022-11-11"
+      },
+      "pages": 3,
+      "action_date": "2022-11-11",
+      "links": {
+        "self": "/company/13740255/filing-history/MzM2NTc3MzE5N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/x3aIh7kcIgItQGv5jfKY-wYuvo43si7Ugzasf4BIMgc"
+      }
+    },
+    {
+      "transaction_id": "MzMyMDAzNTI2MWFkaXF6a2N4",
+      "barcode": "XAH3NJ83",
+      "type": "NEWINC",
+      "date": "2021-11-12",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2021-11-12",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2021-11-12",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2021-11-12"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 38,
+      "links": {
+        "self": "/company/13740255/filing-history/MzMyMDAzNTI2MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/X3A-5E52aLhNBEbuCYTKUQ-hM09V4qdjZSkyN6PN3A0"
+      }
+    }
+  ]
+}

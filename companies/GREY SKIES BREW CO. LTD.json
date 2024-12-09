@@ -1,0 +1,333 @@
+{
+  "company_name": "GREY SKIES BREW CO. LTD",
+  "company_number": "12630033",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/12630033"
+  },
+  "date_of_cessation": "2023-10-03",
+  "date_of_creation": "2020-05-28",
+  "registered_office_address": {
+    "address_line_1": "3rd Floor - Colwyn Chambers",
+    "address_line_2": "19 York Street",
+    "locality": "Manchester",
+    "postal_code": "M2 3BA",
+    "country": "England"
+  },
+  "sic_codes": [
+    "11050",
+    "46342"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzM5NDQ4NzI0MWFkaXF6a2N4",
+      "type": "GAZ2(A)",
+      "date": "2023-10-03",
+      "category": "gazette",
+      "description": "gazette-dissolved-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12630033/filing-history/MzM5NDQ4NzI0MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ymP4-wXgaUYN5BswAYOnnhayW1FRAChjkAYe11TAjJQ"
+      }
+    },
+    {
+      "transaction_id": "MzM4NTY2NzU2MWFkaXF6a2N4",
+      "type": "GAZ1(A)",
+      "date": "2023-07-18",
+      "category": "gazette",
+      "description": "gazette-notice-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12630033/filing-history/MzM4NTY2NzU2MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/C5-zEyFXlv75B2p8nd-q_oh9SUmbfSNbzEYBWC88arQ"
+      }
+    },
+    {
+      "transaction_id": "MzM4NTQxMzgxM2FkaXF6a2N4",
+      "barcode": "XBXBMNWQ",
+      "type": "DS01",
+      "date": "2023-07-07",
+      "category": "dissolution",
+      "description": "dissolution-application-strike-off-company",
+      "pages": 2,
+      "links": {
+        "self": "/company/12630033/filing-history/MzM4NTQxMzgxM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Qju_qee4vMCtwJMAbEuEMKofPiGQJQioFxDOSrl5vRA"
+      }
+    },
+    {
+      "transaction_id": "MzM2MDk3NDkxMWFkaXF6a2N4",
+      "barcode": "XBI7BW6Y",
+      "type": "AA",
+      "date": "2022-12-05",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2022-03-31"
+      },
+      "pages": 7,
+      "action_date": "2022-03-31",
+      "links": {
+        "self": "/company/12630033/filing-history/MzM2MDk3NDkxMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/99OwMYxvs3g9ta2pU7l1eqORANoyCfxVC0Q6qhZCSFY"
+      }
+    },
+    {
+      "transaction_id": "MzM0NTY4MjY5MGFkaXF6a2N4",
+      "barcode": "XB8824GB",
+      "type": "PSC08",
+      "date": "2022-07-14",
+      "category": "persons-with-significant-control",
+      "subcategory": "statements",
+      "description": "notification-of-a-person-with-significant-control-statement",
+      "pages": 2,
+      "links": {
+        "self": "/company/12630033/filing-history/MzM0NTY4MjY5MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/kfagab5DJaaisAeDQWAs8Ygla2NJvwrXJBQRqsbQbws"
+      }
+    },
+    {
+      "transaction_id": "MzM0NDM1MDM5MmFkaXF6a2N4",
+      "barcode": "XB79GWN4",
+      "type": "CS01",
+      "date": "2022-06-30",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2022-05-27"
+      },
+      "pages": 3,
+      "action_date": "2022-05-27",
+      "links": {
+        "self": "/company/12630033/filing-history/MzM0NDM1MDM5MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/VXtS-71bKy_LZU0aUM7Y1RS27u6jy7QunB2ZHJ3eWis"
+      }
+    },
+    {
+      "transaction_id": "MzM0NDM0OTI3NGFkaXF6a2N4",
+      "barcode": "XB79GRQR",
+      "type": "CH01",
+      "date": "2022-06-30",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2022-06-29",
+        "officer_name": "Mr Simon Leonard Robbs"
+      },
+      "pages": 2,
+      "action_date": "2022-06-29",
+      "links": {
+        "self": "/company/12630033/filing-history/MzM0NDM0OTI3NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/G5JuRwCOWpqAFBpNAeY3Ca8FTyZl6XP2s9Xd0m8gGRs"
+      }
+    },
+    {
+      "transaction_id": "MzM0NDM0OTA2NmFkaXF6a2N4",
+      "barcode": "XB79GR88",
+      "type": "CH01",
+      "date": "2022-06-30",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2022-06-29",
+        "officer_name": "Mr Timothy John Mullett"
+      },
+      "pages": 2,
+      "action_date": "2022-06-29",
+      "links": {
+        "self": "/company/12630033/filing-history/MzM0NDM0OTA2NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/7KeSuy--AqUYXRhKxnxv0C1UiHoVw3nuqvhQHaQUnmo"
+      }
+    },
+    {
+      "transaction_id": "MzM0NDM0ODkxNmFkaXF6a2N4",
+      "barcode": "XB79GQUA",
+      "type": "CH01",
+      "date": "2022-06-30",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2022-06-29",
+        "officer_name": "Mr Adam Joseph France"
+      },
+      "pages": 2,
+      "action_date": "2022-06-29",
+      "links": {
+        "self": "/company/12630033/filing-history/MzM0NDM0ODkxNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/S82h7vK6d49k1Rrhz-lPbpgSdvsoIuJsGMUCjs2-aIg"
+      }
+    },
+    {
+      "transaction_id": "MzM0NDM0ODc2NGFkaXF6a2N4",
+      "barcode": "XB79GPW2",
+      "type": "CH01",
+      "date": "2022-06-30",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2022-06-29",
+        "officer_name": "Mr John Paul Cooper"
+      },
+      "pages": 2,
+      "action_date": "2022-06-29",
+      "links": {
+        "self": "/company/12630033/filing-history/MzM0NDM0ODc2NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/VDOcbiXdTMmsDSTPqKEy8yG_bbqkUhyQheqElgPpaqk"
+      }
+    },
+    {
+      "transaction_id": "MzM0NDM0ODE0OGFkaXF6a2N4",
+      "barcode": "XB79GMVU",
+      "type": "PSC07",
+      "date": "2022-06-30",
+      "category": "persons-with-significant-control",
+      "subcategory": "termination",
+      "description": "cessation-of-a-person-with-significant-control",
+      "description_values": {
+        "psc_name": "Timothy John Mullet",
+        "cessation_date": "2022-06-30"
+      },
+      "pages": 1,
+      "action_date": "2022-06-30",
+      "links": {
+        "self": "/company/12630033/filing-history/MzM0NDM0ODE0OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/e4mROpLK0vl_ONlPUS9CKsjAbSPNrR90MA9jwz1jNSc"
+      }
+    },
+    {
+      "transaction_id": "MzMyNDQ0MTE3NmFkaXF6a2N4",
+      "barcode": "XAJV6P43",
+      "type": "AA",
+      "date": "2021-12-22",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2021-03-31"
+      },
+      "pages": 7,
+      "action_date": "2021-03-31",
+      "links": {
+        "self": "/company/12630033/filing-history/MzMyNDQ0MTE3NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/iop26Bra3AjHScvG7o5lJs9gNkHkTYiOry6R14lsvt0"
+      }
+    },
+    {
+      "transaction_id": "MzMwMzAxMDQ0N2FkaXF6a2N4",
+      "barcode": "XA5Q4RU9",
+      "type": "CS01",
+      "date": "2021-06-01",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2021-05-27"
+      },
+      "pages": 3,
+      "action_date": "2021-05-27",
+      "links": {
+        "self": "/company/12630033/filing-history/MzMwMzAxMDQ0N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/7kpMxkO2jTdZYH2fbW3g5RekAKTC4IM-ggHO_30CoXg"
+      }
+    },
+    {
+      "transaction_id": "MzI5MzMwNDIzOWFkaXF6a2N4",
+      "barcode": "X9ZKTCE0",
+      "type": "AA01",
+      "date": "2021-03-04",
+      "category": "accounts",
+      "description": "change-account-reference-date-company-current-shortened",
+      "description_values": {
+        "made_up_date": "2021-05-31",
+        "new_date": "2021-03-31"
+      },
+      "pages": 1,
+      "action_date": "2021-03-31",
+      "links": {
+        "self": "/company/12630033/filing-history/MzI5MzMwNDIzOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/KHdnCnr1vwaaDCIhFk12uQqxUJIx9wEYy2F-tdC5RCQ"
+      }
+    },
+    {
+      "transaction_id": "MzI5MDY4NzU2MWFkaXF6a2N4",
+      "barcode": "X9XPRIXE",
+      "type": "PSC01",
+      "date": "2021-02-05",
+      "category": "persons-with-significant-control",
+      "subcategory": "notifications",
+      "description": "notification-of-a-person-with-significant-control",
+      "description_values": {
+        "psc_name": "Timothy John Mullet",
+        "notification_date": "2021-02-01"
+      },
+      "pages": 2,
+      "action_date": "2021-02-01",
+      "links": {
+        "self": "/company/12630033/filing-history/MzI5MDY4NzU2MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/tJlCxuLRpl4jTnSVbICfPQ7qyA5I-qHV0WApEX2wGeY"
+      }
+    },
+    {
+      "transaction_id": "MzI5MDY4Njg5MmFkaXF6a2N4",
+      "barcode": "X9XPRGVD",
+      "type": "PSC09",
+      "date": "2021-02-05",
+      "category": "persons-with-significant-control",
+      "subcategory": "statements",
+      "description": "withdrawal-of-a-person-with-significant-control-statement",
+      "description_values": {
+        "withdrawal_date": "2021-02-05"
+      },
+      "pages": 2,
+      "action_date": "2021-02-05",
+      "links": {
+        "self": "/company/12630033/filing-history/MzI5MDY4Njg5MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/r3MScRL3Fw5CYWI52p3iRFUnWgaZICxPG6x54SM75gY"
+      }
+    },
+    {
+      "transaction_id": "MzI2NTg0MzE4MWFkaXF6a2N4",
+      "barcode": "X95XFY94",
+      "type": "NEWINC",
+      "date": "2020-05-28",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2020-05-28",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2020-05-28",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2020-05-28",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "100"
+              }
+            ]
+          },
+          "action_date": "2020-05-28"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 10,
+      "links": {
+        "self": "/company/12630033/filing-history/MzI2NTg0MzE4MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/4RIr9NTR5oF3PaTA5CZF00nEFGJgWWvDGb8sUjLq1ao"
+      }
+    }
+  ]
+}

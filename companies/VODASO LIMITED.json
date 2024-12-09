@@ -1,0 +1,126 @@
+{
+  "company_name": "VODASO LIMITED",
+  "company_number": "11467773",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/11467773"
+  },
+  "date_of_cessation": "2019-12-24",
+  "date_of_creation": "2018-07-17",
+  "registered_office_address": {
+    "address_line_1": "Fernhills House",
+    "address_line_2": "Todd Street",
+    "locality": "Bury",
+    "postal_code": "BL9 5BJ",
+    "region": "Gtr Manchester",
+    "country": "United Kingdom"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzI1MjQxMTczOWFkaXF6a2N4",
+      "type": "GAZ2",
+      "date": "2019-12-24",
+      "category": "gazette",
+      "description": "gazette-dissolved-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11467773/filing-history/MzI1MjQxMTczOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/_1NjpHdQ2QorQYtamcadLrLOUDEOzr81WYDq_fNh1wU"
+      }
+    },
+    {
+      "transaction_id": "MzI0NTEzMDU0OWFkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2019-10-08",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11467773/filing-history/MzI0NTEzMDU0OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/MPFbciA-QT9kWjKA8IyEa95igSj3admwCrR8hgWrpnQ"
+      }
+    },
+    {
+      "transaction_id": "MzIxMDE3NDAzOGFkaXF6a2N4",
+      "barcode": "X7AL346H",
+      "type": "AP01",
+      "date": "2018-07-20",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Mr Thomas William Lordan",
+        "appointment_date": "2018-07-20"
+      },
+      "pages": 2,
+      "action_date": "2018-07-20",
+      "links": {
+        "self": "/company/11467773/filing-history/MzIxMDE3NDAzOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/MH641iA91BhgcDr3lE1bwFYsACPs61FklGvqcdwSBgA"
+      }
+    },
+    {
+      "transaction_id": "MzIxMDE3MzcxMWFkaXF6a2N4",
+      "barcode": "X7AL2T6W",
+      "type": "TM01",
+      "date": "2018-07-20",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-director-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Brian Ronald Walmsley",
+        "termination_date": "2018-07-20"
+      },
+      "pages": 1,
+      "action_date": "2018-07-20",
+      "links": {
+        "self": "/company/11467773/filing-history/MzIxMDE3MzcxMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/EcFvGIM0rXkqrvbZT_If_N3LJJBpiKJwEcPomnxvF08"
+      }
+    },
+    {
+      "transaction_id": "MzIwOTgwMzcwN2FkaXF6a2N4",
+      "barcode": "X7A9VTT6",
+      "type": "NEWINC",
+      "date": "2018-07-17",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2018-07-17",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2018-07-17",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2018-07-17",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "10"
+              }
+            ]
+          },
+          "action_date": "2018-07-17"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 8,
+      "links": {
+        "self": "/company/11467773/filing-history/MzIwOTgwMzcwN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/oh2686_P8IIXexJJyVCipvxdyyXqdzjP3Iv4tJGmYqM"
+      }
+    }
+  ]
+}

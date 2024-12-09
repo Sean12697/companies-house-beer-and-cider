@@ -1,0 +1,136 @@
+{
+  "company_name": "ORGANIC ROOTS'S 'HEALTH ON WHEELS' LTD",
+  "company_number": "10667338",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/10667338"
+  },
+  "date_of_cessation": "2019-04-30",
+  "date_of_creation": "2017-03-13",
+  "registered_office_address": {
+    "address_line_1": "23 Rawcliffe Street",
+    "locality": "Manchester",
+    "postal_code": "M14 7NH",
+    "region": "Lancashire",
+    "country": "United Kingdom"
+  },
+  "sic_codes": [
+    "10320",
+    "10860",
+    "11040"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzIzMjYwNTg2M2FkaXF6a2N4",
+      "type": "GAZ2(A)",
+      "date": "2019-04-30",
+      "category": "gazette",
+      "description": "gazette-dissolved-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/10667338/filing-history/MzIzMjYwNTg2M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/R3x8wiCd_pymplnmUxE8Fd5iIOjShWPT9JgrKPSJoWU"
+      }
+    },
+    {
+      "transaction_id": "MzIyNTg3NzYyOGFkaXF6a2N4",
+      "type": "GAZ1(A)",
+      "date": "2019-02-12",
+      "category": "gazette",
+      "description": "gazette-notice-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/10667338/filing-history/MzIyNTg3NzYyOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/RzXl-qPg_Gvu1vq2oDYNF7oatwLSEGVKmv27718xdus"
+      }
+    },
+    {
+      "transaction_id": "MzIyNTc3NDA0OGFkaXF6a2N4",
+      "barcode": "X7Y8ME1V",
+      "type": "DS01",
+      "date": "2019-01-31",
+      "category": "dissolution",
+      "description": "dissolution-application-strike-off-company",
+      "pages": 1,
+      "links": {
+        "self": "/company/10667338/filing-history/MzIyNTc3NDA0OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/EIyszsQ5k5g7HjZgRP5KU0mEEsAQcCkDV5QJDPqdZC0"
+      }
+    },
+    {
+      "transaction_id": "MzIyNDc5MDcxOWFkaXF6a2N4",
+      "barcode": "X7XFGCS3",
+      "type": "AA",
+      "date": "2019-01-18",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2018-03-31"
+      },
+      "pages": 2,
+      "action_date": "2018-03-31",
+      "links": {
+        "self": "/company/10667338/filing-history/MzIyNDc5MDcxOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/c_qDVzX1Mp1nZ2yUUycr0uOpWke5-G9odNrqIrXE5yw"
+      }
+    },
+    {
+      "transaction_id": "MzIwMDQ2NzM2NWFkaXF6a2N4",
+      "barcode": "X724OWQH",
+      "type": "CS01",
+      "date": "2018-03-20",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2018-03-12"
+      },
+      "pages": 3,
+      "action_date": "2018-03-12",
+      "links": {
+        "self": "/company/10667338/filing-history/MzIwMDQ2NzM2NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/dZUXH_8N4Yg3jtmLawsBz-s1r-H7F-9A8KLivIGdZiI"
+      }
+    },
+    {
+      "transaction_id": "MzE3MDkyNTQwNWFkaXF6a2N4",
+      "barcode": "X61YNGRD",
+      "type": "NEWINC",
+      "date": "2017-03-13",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2017-03-13",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2017-03-13",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2017-03-13",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "10"
+              }
+            ]
+          },
+          "action_date": "2017-03-13"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 10,
+      "links": {
+        "self": "/company/10667338/filing-history/MzE3MDkyNTQwNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ez-2VvlSVuqQVp6xY6xE9mvZoBmLJG65dxtua91WtcA"
+      }
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "company_name": "TEIWAZ LTD",
+  "company_number": "13472194",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/13472194"
+  },
+  "date_of_cessation": "2023-07-11",
+  "date_of_creation": "2021-06-23",
+  "registered_office_address": {
+    "address_line_1": "5 West Avenue",
+    "locality": "Warrington",
+    "postal_code": "WA3 3EA",
+    "region": "Greater Manchester",
+    "country": "United Kingdom"
+  },
+  "sic_codes": [
+    "11030",
+    "32120",
+    "46160",
+    "56210"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzM4NTIxNjY1N2FkaXF6a2N4",
+      "type": "GAZ2(A)",
+      "date": "2023-07-11",
+      "category": "gazette",
+      "description": "gazette-dissolved-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13472194/filing-history/MzM4NTIxNjY1N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/7Y3FVL4SI_tBVzbJf89J2WVFfCmUqD1GwvhJ9vFZZTU"
+      }
+    },
+    {
+      "transaction_id": "MzM3NjU2ODI4MWFkaXF6a2N4",
+      "type": "GAZ1(A)",
+      "date": "2023-04-25",
+      "category": "gazette",
+      "description": "gazette-notice-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13472194/filing-history/MzM3NjU2ODI4MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/sJJbvA-pky45UpD58NXINEcQdaEODSp4FQIWCcruyN0"
+      }
+    },
+    {
+      "transaction_id": "MzM3NjU1NDc1NmFkaXF6a2N4",
+      "barcode": "XC1NZD96",
+      "type": "DS01",
+      "date": "2023-04-17",
+      "category": "dissolution",
+      "description": "dissolution-application-strike-off-company",
+      "pages": 1,
+      "links": {
+        "self": "/company/13472194/filing-history/MzM3NjU1NDc1NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/9l5kGlTFurFhYNnX9cDl0pDXv2q1nI4NNvstEM-YHP0"
+      }
+    },
+    {
+      "transaction_id": "MzM1MDk0OTkzM2FkaXF6a2N4",
+      "barcode": "XBC09MQO",
+      "type": "AP01",
+      "date": "2022-09-06",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Mr Leon Warren Rose",
+        "appointment_date": "2022-09-06"
+      },
+      "pages": 2,
+      "action_date": "2022-09-06",
+      "links": {
+        "self": "/company/13472194/filing-history/MzM1MDk0OTkzM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/4zh-M5KYhjVzY2QTjZ_3BoHwYKcl0i9S5xU5vCkxyaQ"
+      }
+    },
+    {
+      "transaction_id": "MzM0NzIyMDg1MWFkaXF6a2N4",
+      "barcode": "XB99L7HK",
+      "type": "CS01",
+      "date": "2022-07-29",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2022-06-22"
+      },
+      "pages": 3,
+      "action_date": "2022-06-22",
+      "links": {
+        "self": "/company/13472194/filing-history/MzM0NzIyMDg1MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/HL_SFDhayvmC_Cro2zIwFzC5tPG_-xUSY46SiRLN0Zk"
+      }
+    },
+    {
+      "transaction_id": "MzMwNTA1MDA1OWFkaXF6a2N4",
+      "barcode": "XA74U4G1",
+      "type": "NEWINC",
+      "date": "2021-06-23",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2021-06-23",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2021-06-23",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2021-06-23",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2021-06-23"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 10,
+      "links": {
+        "self": "/company/13472194/filing-history/MzMwNTA1MDA1OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/NI5izZRHbR54riBCkQBGBxdxNrepg1ren1i5cmaJEno"
+      }
+    }
+  ]
+}

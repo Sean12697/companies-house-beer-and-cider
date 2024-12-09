@@ -1,0 +1,60 @@
+{
+  "company_name": "STRAWFLOWER ALES LTD",
+  "company_number": "16048927",
+  "company_status": "active",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/16048927"
+  },
+  "date_of_creation": "2024-10-29",
+  "registered_office_address": {
+    "address_line_1": "228 Fog Lane",
+    "locality": "Manchester",
+    "postal_code": "M20 6EL",
+    "country": "England"
+  },
+  "sic_codes": [
+    "11050",
+    "46342"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzQ0MTI2ODgzMWFkaXF6a2N4",
+      "barcode": "XDEPYR09",
+      "type": "NEWINC",
+      "date": "2024-10-29",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2024-10-29",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2024-10-29",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2024-10-29",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "2"
+              }
+            ]
+          },
+          "action_date": "2024-10-29"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 14,
+      "links": {
+        "self": "/company/16048927/filing-history/MzQ0MTI2ODgzMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/lhOpXzV9eVkHKigeEkQxpUlxofEg23roTZG9VwYxR-0"
+      }
+    }
+  ]
+}

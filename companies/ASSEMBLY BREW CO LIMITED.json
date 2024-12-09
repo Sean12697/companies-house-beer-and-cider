@@ -1,0 +1,195 @@
+{
+  "company_name": "ASSEMBLY BREW CO LIMITED",
+  "company_number": "13298705",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/13298705"
+  },
+  "date_of_cessation": "2024-01-30",
+  "date_of_creation": "2021-03-29",
+  "registered_office_address": {
+    "address_line_1": "40 Flixton Road",
+    "address_line_2": "Urmston",
+    "locality": "Manchester",
+    "postal_code": "M41 5AA",
+    "country": "England"
+  },
+  "sic_codes": [
+    "11050",
+    "46342"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzQwNzk4MDkzMmFkaXF6a2N4",
+      "type": "GAZ2",
+      "date": "2024-01-30",
+      "category": "gazette",
+      "description": "gazette-dissolved-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13298705/filing-history/MzQwNzk4MDkzMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/nOAqhNozg1z3FIaR0AOVOYYNDf5VAZvHap6iANNX0OA"
+      }
+    },
+    {
+      "transaction_id": "MzM4NjczODk3M2FkaXF6a2N4",
+      "barcode": "AC7SJYSI",
+      "type": "TM01",
+      "date": "2023-07-26",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-director-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Sean Robinson",
+        "termination_date": "2022-12-06"
+      },
+      "pages": 1,
+      "action_date": "2022-12-06",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13298705/filing-history/MzM4NjczODk3M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/18JT-FGLI0QNwnDaLEQVN9g4ms8kptNEzKo-s5sFPKQ"
+      }
+    },
+    {
+      "transaction_id": "MzM4NTc5ODE1MWFkaXF6a2N4",
+      "type": "DISS16(SOAS)",
+      "date": "2023-07-11",
+      "category": "dissolution",
+      "description": "dissolved-compulsory-strike-off-suspended",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13298705/filing-history/MzM4NTc5ODE1MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/C8w7BUiILF-jjORiRuruUpG2XwHau7An4wpAF3xwosw"
+      }
+    },
+    {
+      "transaction_id": "MzM3NzA1NzQ0MGFkaXF6a2N4",
+      "barcode": "XC1TQ8KA",
+      "type": "TM01",
+      "date": "2023-04-20",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-director-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Scott Gerard Power",
+        "termination_date": "2023-01-21"
+      },
+      "pages": 1,
+      "action_date": "2023-01-21",
+      "links": {
+        "self": "/company/13298705/filing-history/MzM3NzA1NzQ0MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/4noYSqvw_P4Umeg5eymRT9wL7rrPA31bHUHIdbZVt_Q"
+      }
+    },
+    {
+      "transaction_id": "MzM3NzA1NzQzNmFkaXF6a2N4",
+      "barcode": "XC1TQ8HU",
+      "type": "TM02",
+      "date": "2023-04-20",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-secretary-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Philip Harrison-Johnson",
+        "termination_date": "2022-09-19"
+      },
+      "pages": 1,
+      "action_date": "2022-09-19",
+      "links": {
+        "self": "/company/13298705/filing-history/MzM3NzA1NzQzNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/kQsj6Yxl1Ycp35oUcZRGCR9m8WixhqN1jpsqHoG3onU"
+      }
+    },
+    {
+      "transaction_id": "MzM2OTg1MTE3MWFkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2023-02-28",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13298705/filing-history/MzM2OTg1MTE3MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/zi9axEHSQV3MKJ_CYT0AsZ_NjUBoCF-einPZycOAOJI"
+      }
+    },
+    {
+      "transaction_id": "MzMzNjE1ODE3MWFkaXF6a2N4",
+      "barcode": "XB1TK79V",
+      "type": "CS01",
+      "date": "2022-04-13",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2022-03-28"
+      },
+      "pages": 3,
+      "action_date": "2022-03-28",
+      "links": {
+        "self": "/company/13298705/filing-history/MzMzNjE1ODE3MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/8Ht32GNo-ktc_wzcnKtCRHG8m_oyfmk_rvRXm9kwC0k"
+      }
+    },
+    {
+      "transaction_id": "MzMzNTk1OTA5NGFkaXF6a2N4",
+      "barcode": "XB1T8WZ4",
+      "type": "AP03",
+      "date": "2022-04-12",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-secretary-company-with-name-date",
+      "description_values": {
+        "officer_name": "Mr Philip Harrison-Johnson",
+        "appointment_date": "2022-03-07"
+      },
+      "pages": 2,
+      "action_date": "2022-03-07",
+      "links": {
+        "self": "/company/13298705/filing-history/MzMzNTk1OTA5NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/qXaKu0UkePxvkl61guQmeDwHzaHYpbrvRMAHzvjZu90"
+      }
+    },
+    {
+      "transaction_id": "MzI5NTcxNTU5NWFkaXF6a2N4",
+      "barcode": "XA12RJ0Z",
+      "type": "NEWINC",
+      "date": "2021-03-29",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2021-03-29",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2021-03-29",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2021-03-29",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2021-03-29"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 11,
+      "links": {
+        "self": "/company/13298705/filing-history/MzI5NTcxNTU5NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/M_a55rw7oNram423Yy25bNVbmVIqfYe0Sx-BcZMfOzQ"
+      }
+    }
+  ]
+}

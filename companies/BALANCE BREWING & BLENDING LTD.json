@@ -1,0 +1,378 @@
+{
+  "company_name": "BALANCE BREWING & BLENDING LTD",
+  "company_number": "13140228",
+  "company_status": "active",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/13140228"
+  },
+  "date_of_creation": "2021-01-18",
+  "registered_office_address": {
+    "address_line_1": "10 Sheffield Street",
+    "locality": "Manchester",
+    "postal_code": "M1 2ND",
+    "country": "England"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzQyOTkxODIyM2FkaXF6a2N4",
+      "barcode": "XD81QYOZ",
+      "type": "AA",
+      "date": "2024-07-24",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2024-01-31"
+      },
+      "pages": 6,
+      "action_date": "2024-01-31",
+      "links": {
+        "self": "/company/13140228/filing-history/MzQyOTkxODIyM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/CnneT8hthWBSLWcRgXdSAinVQGe0klGQIpDMnBXsO3A"
+      }
+    },
+    {
+      "transaction_id": "MzQwODkyMTc1OGFkaXF6a2N4",
+      "barcode": "XCVG6KFT",
+      "type": "CS01",
+      "date": "2024-01-25",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2024-01-17"
+      },
+      "pages": 3,
+      "action_date": "2024-01-17",
+      "links": {
+        "self": "/company/13140228/filing-history/MzQwODkyMTc1OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/KfotReeBvQhdhj4SDkPGrFndNxmxQyC3cZthx7-hgRw"
+      }
+    },
+    {
+      "transaction_id": "MzM3NjEyNjM0M2FkaXF6a2N4",
+      "barcode": "XC1DD8HV",
+      "type": "AA",
+      "date": "2023-04-13",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2023-01-31"
+      },
+      "pages": 6,
+      "action_date": "2023-01-31",
+      "links": {
+        "self": "/company/13140228/filing-history/MzM3NjEyNjM0M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/W5D35STksQwjOuqxzPOxSW2_AgNyUZm4yt5tZYks4Jw"
+      }
+    },
+    {
+      "transaction_id": "MzM2Nzc1ODI4NGFkaXF6a2N4",
+      "barcode": "XBWCSSF5",
+      "type": "CS01",
+      "date": "2023-01-31",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2023-01-17"
+      },
+      "pages": 4,
+      "action_date": "2023-01-17",
+      "links": {
+        "self": "/company/13140228/filing-history/MzM2Nzc1ODI4NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/QotwtBFOqtImMdTd6Th51DtGAC_rivj88ZREaIFYvac"
+      }
+    },
+    {
+      "transaction_id": "MzM2NzcyMTE0OGFkaXF6a2N4",
+      "barcode": "XBWCOVPC",
+      "type": "PSC04",
+      "date": "2023-01-31",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2023-01-16",
+        "psc_name": "Mr James Edward Horrocks"
+      },
+      "pages": 2,
+      "action_date": "2023-01-16",
+      "links": {
+        "self": "/company/13140228/filing-history/MzM2NzcyMTE0OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/5zidqqbkTOkKYui6cyWv-L82F-M2-69G-Gfp_rte0KM"
+      }
+    },
+    {
+      "transaction_id": "MzM2NzcxMjcxMGFkaXF6a2N4",
+      "barcode": "XBWCNTNM",
+      "type": "CH01",
+      "date": "2023-01-31",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2023-01-16",
+        "officer_name": "Mr James Edward Horrocks"
+      },
+      "pages": 2,
+      "action_date": "2023-01-16",
+      "links": {
+        "self": "/company/13140228/filing-history/MzM2NzcxMjcxMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/roK_OHlx4QDtageAnCWTuOUZNwi1D_vVt7xP6dQHXpY"
+      }
+    },
+    {
+      "transaction_id": "MzM2NDM2MDU5M2FkaXF6a2N4",
+      "barcode": "XBUC7OWQ",
+      "type": "AD01",
+      "date": "2023-01-02",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2023-01-02",
+        "old_address": "10 10 Sheffield Street Manchester M1 2nd England",
+        "new_address": "10 Sheffield Street Manchester M1 2nd"
+      },
+      "pages": 1,
+      "action_date": "2023-01-02",
+      "links": {
+        "self": "/company/13140228/filing-history/MzM2NDM2MDU5M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/HFIs2PyMHOpxJXljPf4VrautnQityWDuYnbO3HSpBiE"
+      }
+    },
+    {
+      "transaction_id": "MzM2MzQ1OTcwNWFkaXF6a2N4",
+      "barcode": "XBJESN75",
+      "type": "AA",
+      "date": "2022-12-22",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2022-01-31"
+      },
+      "pages": 6,
+      "action_date": "2022-01-31",
+      "links": {
+        "self": "/company/13140228/filing-history/MzM2MzQ1OTcwNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/T8Gu0SUa4V3tAZla8TemSaGl3uUhPsZiTJLLwfBUdCo"
+      }
+    },
+    {
+      "transaction_id": "MzM2MTkyMjEyMmFkaXF6a2N4",
+      "barcode": "XBISP8IW",
+      "type": "AD01",
+      "date": "2022-12-13",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2022-12-13",
+        "old_address": "66 North Western Street Manchester M12 6DX England",
+        "new_address": "10 10 Sheffield Street Manchester M1 2nd"
+      },
+      "pages": 1,
+      "action_date": "2022-12-13",
+      "links": {
+        "self": "/company/13140228/filing-history/MzM2MTkyMjEyMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/0Qb4JFoV58ivUAQgWbSYmHF6mmVreEvHIOJAic8MTRI"
+      }
+    },
+    {
+      "transaction_id": "MzM2MDkzMDE0NWFkaXF6a2N4",
+      "barcode": "XBI76PG1",
+      "type": "SH01",
+      "date": "2022-12-05",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2022-12-05",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "75"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2022-12-05",
+      "links": {
+        "self": "/company/13140228/filing-history/MzM2MDkzMDE0NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/_84TFLYEk8rtYKEWDSQzl83eUcC9Mylv6K97r4cZrSA"
+      }
+    },
+    {
+      "transaction_id": "WUJIV0s0VUFhZGlxemtjeA",
+      "type": "RESOLUTIONS",
+      "date": "2022-12-01",
+      "category": "resolution",
+      "resolutions": [
+        {
+          "category": "capital",
+          "description": "resolution-varying-share-rights",
+          "type": "RES12",
+          "subcategory": "resolution"
+        }
+      ],
+      "description": "resolution",
+      "description_values": {
+        "description": "Resolutions"
+      },
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13140228/filing-history/WUJIV0s0VUFhZGlxemtjeA",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/dOwpK_0KKzF2lIinUTdqXobNVjsSFzHr82Py9Br61Ps"
+      }
+    },
+    {
+      "transaction_id": "MzM2MDQxODAyN2FkaXF6a2N4",
+      "barcode": "YBHWK53L",
+      "type": "SH08",
+      "date": "2022-12-01",
+      "category": "capital",
+      "description": "capital-name-of-class-of-shares",
+      "pages": 2,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13140228/filing-history/MzM2MDQxODAyN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Jj8Gq6S0RsJhE2bXdYLM_A4VZ-s7SeCQ-Q3xZ8gzUuE"
+      }
+    },
+    {
+      "transaction_id": "MzM1OTUzMzA5MmFkaXF6a2N4",
+      "barcode": "XBHDPW3L",
+      "type": "CH01",
+      "date": "2022-11-24",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2022-04-01",
+        "officer_name": "Mr James Edward Horrocks"
+      },
+      "pages": 2,
+      "action_date": "2022-04-01",
+      "links": {
+        "self": "/company/13140228/filing-history/MzM1OTUzMzA5MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Pmg1Y_iuqgc3UEW_YV21eCgRoZfFqIgNmSWrTLooeVs"
+      }
+    },
+    {
+      "transaction_id": "MzM1OTUzMDcxMmFkaXF6a2N4",
+      "barcode": "XBHDPL1M",
+      "type": "SH01",
+      "date": "2022-11-23",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2022-05-01",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "60"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2022-05-01",
+      "links": {
+        "self": "/company/13140228/filing-history/MzM1OTUzMDcxMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/TUEBiyz9F-EZYHwi2xNMUpOpYNqki5B-cMiAMbucL6U"
+      }
+    },
+    {
+      "transaction_id": "MzM1MDk0NjA3N2FkaXF6a2N4",
+      "barcode": "XBC09E7V",
+      "type": "PSC04",
+      "date": "2022-09-06",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2022-04-01",
+        "psc_name": "Mr James Edward Horrocks"
+      },
+      "pages": 2,
+      "action_date": "2022-04-01",
+      "links": {
+        "self": "/company/13140228/filing-history/MzM1MDk0NjA3N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/MWoBzrGN75lsHO8QcEbEkfxLNtrsED7eFTNdOWHAHf8"
+      }
+    },
+    {
+      "transaction_id": "MzMyODI0NTY1NWFkaXF6a2N4",
+      "barcode": "XAWQBPSQ",
+      "type": "CS01",
+      "date": "2022-01-29",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2022-01-17"
+      },
+      "pages": 3,
+      "action_date": "2022-01-17",
+      "links": {
+        "self": "/company/13140228/filing-history/MzMyODI0NTY1NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/GtCf32yfiJreKNyA1PhhU_LSmUG2DG87qZbqdERk3_k"
+      }
+    },
+    {
+      "transaction_id": "MzMyNDA3MDc4MWFkaXF6a2N4",
+      "barcode": "XAJMZZOI",
+      "type": "AD01",
+      "date": "2021-12-18",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2021-12-18",
+        "old_address": "62 Harley Road Sale M33 7FP England",
+        "new_address": "66 North Western Street Manchester M12 6DX"
+      },
+      "pages": 1,
+      "action_date": "2021-12-18",
+      "links": {
+        "self": "/company/13140228/filing-history/MzMyNDA3MDc4MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/huj4d_gZ8NOU0wvMprf6Wi6AQ0Xelar7vdoQYGPzSA0"
+      }
+    },
+    {
+      "transaction_id": "MzI4ODc5MDAyM2FkaXF6a2N4",
+      "barcode": "X9WAV202",
+      "type": "NEWINC",
+      "date": "2021-01-18",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2021-01-18",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2021-01-18",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2021-01-18",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "2"
+              }
+            ]
+          },
+          "action_date": "2021-01-18"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 13,
+      "links": {
+        "self": "/company/13140228/filing-history/MzI4ODc5MDAyM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/00CIi7W-4jt8NMsAnLnNIWXVUr2Zz2UbWfALcl7vGog"
+      }
+    }
+  ]
+}

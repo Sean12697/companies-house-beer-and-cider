@@ -1,0 +1,168 @@
+{
+  "company_name": "PROVOST BREWERY COMPANY LTD",
+  "company_number": "15143610",
+  "company_status": "active",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/15143610"
+  },
+  "date_of_creation": "2023-09-18",
+  "registered_office_address": {
+    "address_line_1": "The Old Brewery Brewery Yard",
+    "address_line_2": "Off  Wallgate",
+    "locality": "Wigan",
+    "postal_code": "WN1 1JQ",
+    "region": "Greater Manchester",
+    "country": "England"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzQzNjY2MjQwM2FkaXF6a2N4",
+      "barcode": "XDC2W8CX",
+      "type": "CS01",
+      "date": "2024-09-20",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2024-09-17"
+      },
+      "pages": 3,
+      "action_date": "2024-09-17",
+      "links": {
+        "self": "/company/15143610/filing-history/MzQzNjY2MjQwM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/6pjqN_n28qXsJQNAkl67dUbtnVsCiodk4Gcs1-GOSd0"
+      }
+    },
+    {
+      "transaction_id": "MzQzMTc1MTY5OGFkaXF6a2N4",
+      "barcode": "XD93VWU0",
+      "type": "AA",
+      "date": "2024-08-09",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2023-11-30"
+      },
+      "pages": 4,
+      "action_date": "2023-11-30",
+      "links": {
+        "self": "/company/15143610/filing-history/MzQzMTc1MTY5OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/7LT-UbYd2XOHo_GyuznkfqI4LSJBHvuFHcyqVLccJEo"
+      }
+    },
+    {
+      "transaction_id": "MzQyNDQ3MTc1N2FkaXF6a2N4",
+      "barcode": "RD29RSHT",
+      "type": "RPCH01",
+      "date": "2024-06-06",
+      "category": "miscellaneous",
+      "description": "legacy",
+      "description_values": {
+        "description": "Correction of a Director's date of birth incorrectly stated on incorporation / mr jonathan frederick provost"
+      },
+      "pages": 2,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/15143610/filing-history/MzQyNDQ3MTc1N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/FG0R5tvCn9jWTgyGvub-EFscl8TqYUIH4W-3SOkPBeo"
+      }
+    },
+    {
+      "transaction_id": "MzQxOTIzMTkyMGFkaXF6a2N4",
+      "barcode": "XD1LVJAP",
+      "type": "AA01",
+      "date": "2024-04-22",
+      "category": "accounts",
+      "description": "change-account-reference-date-company-previous-shortened",
+      "description_values": {
+        "made_up_date": "2024-09-30",
+        "new_date": "2023-11-30"
+      },
+      "pages": 1,
+      "action_date": "2023-11-30",
+      "links": {
+        "self": "/company/15143610/filing-history/MzQxOTIzMTkyMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/RZfWKvMglMyit7sCq7RzAfXqPCRD93P5weCDDjZAeCQ"
+      }
+    },
+    {
+      "transaction_id": "MzQwMTc2OTE5NGFkaXF6a2N4",
+      "barcode": "XCH9U6WR",
+      "type": "AD01",
+      "date": "2023-11-28",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2023-11-28",
+        "old_address": ", 58 the Fields, Eccleston, Chorley, PR7 5SD, England",
+        "new_address": "The Old Brewery Brewery Yard Off Wallgate Wigan Greater Manchester WN1 1JQ"
+      },
+      "pages": 1,
+      "action_date": "2023-11-28",
+      "links": {
+        "self": "/company/15143610/filing-history/MzQwMTc2OTE5NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/dVlOLNomsh8SMMxUZ18XUkE8_ghZWOTWEjjOfY0kriE"
+      }
+    },
+    {
+      "transaction_id": "MzM5NDQ2NTY5MGFkaXF6a2N4",
+      "barcode": "XCCURBA2",
+      "type": "AD01",
+      "date": "2023-09-26",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2023-09-26",
+        "old_address": ", the Old Brewery, Brewery Yard, Off Wallgate, Wigan, Greater Manchester, WN1 1JU, United Kingdom",
+        "new_address": "The Old Brewery Brewery Yard Off Wallgate Wigan Greater Manchester WN1 1JQ"
+      },
+      "pages": 1,
+      "action_date": "2023-09-26",
+      "links": {
+        "self": "/company/15143610/filing-history/MzM5NDQ2NTY5MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/xh-h3m6nRCiSX677XnnR8sr3M9x71ExEFHMjorbhVI8"
+      }
+    },
+    {
+      "transaction_id": "MzM5MzA2NTg4OGFkaXF6a2N4",
+      "barcode": "XCC16E9M",
+      "type": "NEWINC",
+      "date": "2023-09-18",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2023-09-18",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2023-09-18",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2023-09-18",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "2"
+              }
+            ]
+          },
+          "action_date": "2023-09-18"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 13,
+      "links": {
+        "self": "/company/15143610/filing-history/MzM5MzA2NTg4OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/khb9kzgh3IZcvx2F4O9LWN_0923uFh6HAooBmwYqdkQ"
+      }
+    }
+  ]
+}

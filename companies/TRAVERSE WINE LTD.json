@@ -1,0 +1,311 @@
+{
+  "company_name": "TRAVERSE WINE LTD",
+  "company_number": "12781552",
+  "company_status": "active",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/12781552"
+  },
+  "date_of_creation": "2020-07-30",
+  "registered_office_address": {
+    "address_line_1": "12 12 Warwick Avenue",
+    "address_line_2": "Bottom Flat",
+    "locality": "Manchester",
+    "postal_code": "M20 2LL",
+    "country": "England"
+  },
+  "sic_codes": [
+    "11020",
+    "11030",
+    "11050",
+    "46342"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzQzNTQ3OTQyMmFkaXF6a2N4",
+      "barcode": "XDBHJYHE",
+      "type": "CS01",
+      "date": "2024-09-12",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2024-08-30"
+      },
+      "pages": 3,
+      "action_date": "2024-08-30",
+      "links": {
+        "self": "/company/12781552/filing-history/MzQzNTQ3OTQyMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/WRNqH-eydb9IYwBy-xWLGZuLFOWWFrbsrTz5Z7wZGD0"
+      }
+    },
+    {
+      "transaction_id": "MzQxODU4NjI3NGFkaXF6a2N4",
+      "barcode": "XD15VGN7",
+      "type": "AA",
+      "date": "2024-04-16",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2023-07-31"
+      },
+      "pages": 3,
+      "action_date": "2023-07-31",
+      "links": {
+        "self": "/company/12781552/filing-history/MzQxODU4NjI3NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/o66iFTHdgbPIUOFZ9QDSYaMrMNdz-g9M-TnCiakU2NM"
+      }
+    },
+    {
+      "transaction_id": "MzM5MTc1NTUxMmFkaXF6a2N4",
+      "barcode": "XCBCVX2I",
+      "type": "CS01",
+      "date": "2023-09-04",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2023-08-30"
+      },
+      "pages": 3,
+      "action_date": "2023-08-30",
+      "links": {
+        "self": "/company/12781552/filing-history/MzM5MTc1NTUxMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ajfcHvenQed_IGO0ueATTnxszW16IVDkSg5bcuUVj7Y"
+      }
+    },
+    {
+      "transaction_id": "MzM3MzYyMTIwN2FkaXF6a2N4",
+      "barcode": "XBZVBEOO",
+      "type": "AA",
+      "date": "2023-03-22",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2022-07-31"
+      },
+      "pages": 3,
+      "action_date": "2022-07-31",
+      "links": {
+        "self": "/company/12781552/filing-history/MzM3MzYyMTIwN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/a731W1MU7biwoJq0a574oIw-OfnhegUFxLXYw6_Cpug"
+      }
+    },
+    {
+      "transaction_id": "MzM1MDMzMjE4NmFkaXF6a2N4",
+      "barcode": "XBBK9PG2",
+      "type": "AD01",
+      "date": "2022-08-31",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2022-08-31",
+        "old_address": "The Downstairs Bothy 1 Peasmarsh Peasmarsh Place Rye East Sussex TN31 6XE England",
+        "new_address": "12 12 Warwick Avenue Bottom Flat Manchester M20 2LL"
+      },
+      "pages": 1,
+      "action_date": "2022-08-31",
+      "links": {
+        "self": "/company/12781552/filing-history/MzM1MDMzMjE4NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/oyjYMEWnvcDsdShDwgaLV35Buypv-NXCo0DwnEy2fPQ"
+      }
+    },
+    {
+      "transaction_id": "MzM1MDMzMTcxN2FkaXF6a2N4",
+      "barcode": "XBBK9NG1",
+      "type": "CS01",
+      "date": "2022-08-31",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2022-08-30"
+      },
+      "pages": 3,
+      "action_date": "2022-08-30",
+      "links": {
+        "self": "/company/12781552/filing-history/MzM1MDMzMTcxN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/2GWA0IvHzVUC9FB6fY-Tl5TR0SQ1g34Xk0Zy5HZkCfc"
+      }
+    },
+    {
+      "transaction_id": "MzMzNDIyMDgxNWFkaXF6a2N4",
+      "barcode": "XB0M3LBC",
+      "type": "AA",
+      "date": "2022-03-28",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2021-07-31"
+      },
+      "pages": 16,
+      "action_date": "2021-07-31",
+      "links": {
+        "self": "/company/12781552/filing-history/MzMzNDIyMDgxNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/IvZyPUEPuu7ilk8YL-M0XzESjhzcUt5A9JjXgoGsfcg"
+      }
+    },
+    {
+      "transaction_id": "MzMyODQ3NTU3NmFkaXF6a2N4",
+      "barcode": "XAWYCHTD",
+      "type": "AD01",
+      "date": "2022-02-01",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2022-02-01",
+        "old_address": "48 Fishmarket Road Rye TN31 7LP England",
+        "new_address": "The Downstairs Bothy 1 Peasmarsh Peasmarsh Place Rye East Sussex TN31 6XE"
+      },
+      "pages": 1,
+      "action_date": "2022-02-01",
+      "links": {
+        "self": "/company/12781552/filing-history/MzMyODQ3NTU3NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZqHvDYsK32f2cQAeg00JPIh6ITf0TV4mHrQn5p05CYg"
+      }
+    },
+    {
+      "transaction_id": "MzMxMjI2OTg4OWFkaXF6a2N4",
+      "barcode": "XABYIF2J",
+      "type": "RESOLUTIONS",
+      "date": "2021-08-31",
+      "category": "resolution",
+      "resolutions": [
+        {
+          "category": "change-of-name",
+          "description": "resolution-change-of-name",
+          "type": "RES15",
+          "subcategory": "resolution",
+          "description_values": {
+            "resolution_date": "2021-08-30"
+          }
+        }
+      ],
+      "associated_filings": [
+        {
+          "category": "change-of-name",
+          "date": "2021-08-31",
+          "description": "change-of-name-by-resolution",
+          "type": "NM01"
+        }
+      ],
+      "subcategory": "certificate",
+      "description": "resolution",
+      "description_values": {
+        "description": "Resolutions"
+      },
+      "pages": 3,
+      "links": {
+        "self": "/company/12781552/filing-history/MzMxMjI2OTg4OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/c9ouMW6wJvZzcQOtuTgI92cT1e1EamP605I565yjodA"
+      }
+    },
+    {
+      "transaction_id": "MzMxMjE2NDIxMGFkaXF6a2N4",
+      "barcode": "XABYIE6R",
+      "type": "CS01",
+      "date": "2021-08-30",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2021-08-30"
+      },
+      "pages": 3,
+      "action_date": "2021-08-30",
+      "links": {
+        "self": "/company/12781552/filing-history/MzMxMjE2NDIxMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/A-NUBE9Vs0_CP2ShoxgfgIYxBBsU8u8MpYN2BCrflDE"
+      }
+    },
+    {
+      "transaction_id": "MzMwOTQyNjQzNGFkaXF6a2N4",
+      "barcode": "XAA1CUT4",
+      "type": "CS01",
+      "date": "2021-08-02",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2021-07-29"
+      },
+      "pages": 3,
+      "action_date": "2021-07-29",
+      "links": {
+        "self": "/company/12781552/filing-history/MzMwOTQyNjQzNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ujzgppSilX_OCmXmlOv0xfvYa0oss89A6L_nGS-gsPM"
+      }
+    },
+    {
+      "transaction_id": "MzI4NzQwMDQ3MmFkaXF6a2N4",
+      "barcode": "X9VC5E3F",
+      "type": "PSC04",
+      "date": "2021-01-02",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2020-12-31",
+        "psc_name": "Mr Johnty Natty Shearer"
+      },
+      "pages": 2,
+      "action_date": "2020-12-31",
+      "links": {
+        "self": "/company/12781552/filing-history/MzI4NzQwMDQ3MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/kkC0k0kRT-wI8tXya96ONxyVF064Yq5KRwiH18q9zPk"
+      }
+    },
+    {
+      "transaction_id": "MzI3ODg2NDUwMGFkaXF6a2N4",
+      "barcode": "X9EJCEFF",
+      "type": "CH01",
+      "date": "2020-09-28",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2020-09-24",
+        "officer_name": "Mr Johnty Natty Shearer"
+      },
+      "pages": 2,
+      "action_date": "2020-09-24",
+      "links": {
+        "self": "/company/12781552/filing-history/MzI3ODg2NDUwMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/qIgLOLWm7b5e2GdrVvv6-72yGEI2Nm_Heldoc92nU28"
+      }
+    },
+    {
+      "transaction_id": "MzI3NDIwMDY0OGFkaXF6a2N4",
+      "barcode": "X9ACVPJE",
+      "type": "NEWINC",
+      "date": "2020-07-30",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2020-07-30",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2020-07-30",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2020-07-30",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "2"
+              }
+            ]
+          },
+          "action_date": "2020-07-30"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 13,
+      "links": {
+        "self": "/company/12781552/filing-history/MzI3NDIwMDY0OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/LjTHvYDqTLIHwYlb_O4L1GIgPF6C04Z2wp1q7_pGotw"
+      }
+    }
+  ]
+}

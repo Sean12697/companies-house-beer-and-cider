@@ -1,0 +1,145 @@
+{
+  "company_name": "SIX SIDED LTD",
+  "company_number": "13191882",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/13191882"
+  },
+  "date_of_cessation": "2022-07-19",
+  "date_of_creation": "2021-02-10",
+  "registered_office_address": {
+    "address_line_1": "5 Murray Street",
+    "locality": "Manchester",
+    "postal_code": "M4 6HS",
+    "country": "England"
+  },
+  "sic_codes": [
+    "11050",
+    "46342"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzM0NTQ3NTE2OWFkaXF6a2N4",
+      "type": "GAZ2",
+      "date": "2022-07-19",
+      "category": "gazette",
+      "description": "gazette-dissolved-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13191882/filing-history/MzM0NTQ3NTE2OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/EEjW9hrekCjaN4o4nOHLbZ9Bi5qkWc0ldsIVXVaeoUg"
+      }
+    },
+    {
+      "transaction_id": "MzMzNjg0NzIyOGFkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2022-05-03",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13191882/filing-history/MzMzNjg0NzIyOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Meskln51fhKjNAJjOcsWz6KQqgAzz3u_aUiQia5IzG8"
+      }
+    },
+    {
+      "transaction_id": "MzMyNjcwNDY0MWFkaXF6a2N4",
+      "barcode": "XAVOW4VK",
+      "type": "AP01",
+      "date": "2022-01-14",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Mr Alexander John Reginald Kennedy",
+        "appointment_date": "2022-01-01"
+      },
+      "pages": 2,
+      "action_date": "2022-01-01",
+      "links": {
+        "self": "/company/13191882/filing-history/MzMyNjcwNDY0MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/1_Fb0LGHQXNXYtT9kjsalKHmDsycD4akb9Jr6IOUtXY"
+      }
+    },
+    {
+      "transaction_id": "MzMyNjcwMjgxM2FkaXF6a2N4",
+      "barcode": "XAVOVXNC",
+      "type": "PSC07",
+      "date": "2022-01-14",
+      "category": "persons-with-significant-control",
+      "subcategory": "termination",
+      "description": "cessation-of-a-person-with-significant-control",
+      "description_values": {
+        "psc_name": "Ford Charles Wilding",
+        "cessation_date": "2021-12-01"
+      },
+      "pages": 1,
+      "action_date": "2021-12-01",
+      "links": {
+        "self": "/company/13191882/filing-history/MzMyNjcwMjgxM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/tjk4KAjegx7onchMmhUApRCMDuVvU7GlNsYWiEO82X8"
+      }
+    },
+    {
+      "transaction_id": "MzMyNjQ2MDQzOWFkaXF6a2N4",
+      "barcode": "AAVJ0FEW",
+      "type": "TM01",
+      "date": "2022-01-13",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-director-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Ford Charles Wilding",
+        "termination_date": "2021-10-20"
+      },
+      "pages": 1,
+      "action_date": "2021-10-20",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13191882/filing-history/MzMyNjQ2MDQzOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/U0dKBoIKtvO36pEpahJ81d9H9T1N9nh4BP-psQosQfQ"
+      }
+    },
+    {
+      "transaction_id": "MzI5MDk0MzMyNmFkaXF6a2N4",
+      "barcode": "X9XXQDXE",
+      "type": "NEWINC",
+      "date": "2021-02-10",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2021-02-10",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2021-02-10",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2021-02-10",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "3"
+              }
+            ]
+          },
+          "action_date": "2021-02-10"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 14,
+      "links": {
+        "self": "/company/13191882/filing-history/MzI5MDk0MzMyNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/LOly5OAcjv4tn3qhXErTOTrfWZBDgt9zsVhiOsvvErE"
+      }
+    }
+  ]
+}

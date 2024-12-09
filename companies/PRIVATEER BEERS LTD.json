@@ -1,0 +1,246 @@
+{
+  "company_name": "PRIVATEER BEERS LTD",
+  "company_number": "08189627",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/08189627"
+  },
+  "date_of_cessation": "2016-04-05",
+  "date_of_creation": "2012-08-23",
+  "registered_office_address": {
+    "address_line_1": "75 Temperance Street",
+    "locality": "Manchester",
+    "postal_code": "M12 6HU"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzE0NTAyMzM5M2FkaXF6a2N4",
+      "type": "GAZ2",
+      "date": "2016-04-05",
+      "category": "gazette",
+      "description": "gazette-dissolved-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/08189627/filing-history/MzE0NTAyMzM5M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/t0M2lF4GMXKZyZ4QpPj9M8R6k-0DoBy-PJqnbqPyMrA"
+      }
+    },
+    {
+      "transaction_id": "MzEzNzIwMjQwMWFkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2015-12-22",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/08189627/filing-history/MzEzNzIwMjQwMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/zGTafnvivTyTIt4dMBtHr8PUCqNZzhX9Nekv6sVm5Uc"
+      }
+    },
+    {
+      "transaction_id": "MzEzMTM1NzMyNmFkaXF6a2N4",
+      "barcode": "X4GDKX0R",
+      "type": "AA",
+      "date": "2015-09-21",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-small",
+      "description_values": {
+        "made_up_date": "2014-12-31"
+      },
+      "pages": 6,
+      "action_date": "2014-12-31",
+      "links": {
+        "self": "/company/08189627/filing-history/MzEzMTM1NzMyNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/19E1tE3CokWGapl4WhZ2ispAdymMYFGN2WdVnV68-Cc"
+      }
+    },
+    {
+      "transaction_id": "MzEwNzcyMzg1MWFkaXF6a2N4",
+      "barcode": "X3GPSMS3",
+      "type": "AR01",
+      "date": "2014-09-18",
+      "category": "annual-return",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2014-09-18",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2014-09-18",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2014-09-18"
+        }
+      ],
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2014-08-23"
+      },
+      "pages": 3,
+      "action_date": "2014-08-23",
+      "links": {
+        "self": "/company/08189627/filing-history/MzEwNzcyMzg1MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/8tLAIOLcFYLVrjdJYkS9v1muXG0_smHjPPGj4Le22QA"
+      }
+    },
+    {
+      "transaction_id": "MzA5Nzk2MTE3NmFkaXF6a2N4",
+      "barcode": "X35H5CM8",
+      "type": "AA",
+      "date": "2014-04-09",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-small",
+      "description_values": {
+        "made_up_date": "2013-12-31"
+      },
+      "pages": 7,
+      "action_date": "2013-12-31",
+      "links": {
+        "self": "/company/08189627/filing-history/MzA5Nzk2MTE3NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/DXh9FkQWNNwBpDITyQDHoSFcOopX1P2ciB6FxAfrJ4k"
+      }
+    },
+    {
+      "transaction_id": "MzA5Nzc1MDk2N2FkaXF6a2N4",
+      "barcode": "X35BS9I3",
+      "type": "AD01",
+      "date": "2014-04-07",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address",
+      "description_values": {
+        "change_date": "2014-04-07",
+        "old_address": " 80 Temperance Street Manchester M12 6HU England"
+      },
+      "pages": 1,
+      "action_date": "2014-04-07",
+      "links": {
+        "self": "/company/08189627/filing-history/MzA5Nzc1MDk2N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/9Gjydy8NdemN3fHu6pkcqmhCAaiX537Ysj0tp2GDPLQ"
+      }
+    },
+    {
+      "transaction_id": "MzA5NzM4OTIxMGFkaXF6a2N4",
+      "barcode": "X34W7TDE",
+      "type": "AD01",
+      "date": "2014-04-01",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address",
+      "description_values": {
+        "change_date": "2014-04-01",
+        "old_address": " 75 Temperance Street Manchester M12 6HU England"
+      },
+      "pages": 1,
+      "action_date": "2014-04-01",
+      "links": {
+        "self": "/company/08189627/filing-history/MzA5NzM4OTIxMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/rx7hLnaJQ4j0NUDpe35WDDtDOHW2HQxRUzi8tbWawa8"
+      }
+    },
+    {
+      "transaction_id": "MzA5MzIzMDIyMmFkaXF6a2N4",
+      "barcode": "X307BEAO",
+      "type": "AD01",
+      "date": "2014-01-23",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address",
+      "description_values": {
+        "change_date": "2014-01-23",
+        "old_address": " Unit 80 Temperance Street Manchester Greater Manchester M12 6HU United Kingdom"
+      },
+      "pages": 1,
+      "action_date": "2014-01-23",
+      "links": {
+        "self": "/company/08189627/filing-history/MzA5MzIzMDIyMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/VGOkno9gNNxrBgmDxxQFoqfFkflaPUoBCVvBNlwUHEY"
+      }
+    },
+    {
+      "transaction_id": "MzA4NDA0NTA2M2FkaXF6a2N4",
+      "barcode": "X2FS8MCZ",
+      "type": "AR01",
+      "date": "2013-08-29",
+      "category": "annual-return",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2013-08-29",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2013-08-29",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2013-08-29"
+        }
+      ],
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2013-08-23"
+      },
+      "pages": 3,
+      "action_date": "2013-08-23",
+      "links": {
+        "self": "/company/08189627/filing-history/MzA4NDA0NTA2M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/0AXXhwlqTDoyABG_cxRDsQWAg4xqZDMAeSs3tOgpx9E"
+      }
+    },
+    {
+      "transaction_id": "MzA3NTQ5OTQ5MWFkaXF6a2N4",
+      "barcode": "X25FQMCI",
+      "type": "AA01",
+      "date": "2013-04-02",
+      "category": "accounts",
+      "description": "change-account-reference-date-company-current-extended",
+      "description_values": {
+        "made_up_date": "2013-08-31",
+        "new_date": "2013-12-31"
+      },
+      "pages": 1,
+      "action_date": "2013-12-31",
+      "links": {
+        "self": "/company/08189627/filing-history/MzA3NTQ5OTQ5MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/kbDqGH-BC5D0E3T9FZYJVODC6OOU6Jg9Am5H-gdwseg"
+      }
+    },
+    {
+      "transaction_id": "MzA2MjgyNzE5MmFkaXF6a2N4",
+      "barcode": "X1FTKVRG",
+      "type": "NEWINC",
+      "date": "2012-08-23",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2012-08-23",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 7,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/08189627/filing-history/MzA2MjgyNzE5MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/KZhNeIgoaJb1VChDNjEUZcGWurz_oaCu38p1-H3C2hM"
+      }
+    }
+  ]
+}

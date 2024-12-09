@@ -1,0 +1,217 @@
+{
+  "company_name": "STRANGE TIMES BREWING CO LTD",
+  "company_number": "13053502",
+  "company_status": "active",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/13053502"
+  },
+  "date_of_creation": "2020-12-01",
+  "registered_office_address": {
+    "address_line_1": "Initial Business Centre Unit 7",
+    "address_line_2": "Wilson Business Park",
+    "locality": "Manchester",
+    "postal_code": "M40 8WN",
+    "country": "England"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzQ0NjQ2NTgzNWFkaXF6a2N4",
+      "barcode": "XDHCZS97",
+      "type": "CS01",
+      "date": "2024-12-08",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2024-11-30"
+      },
+      "pages": 3,
+      "action_date": "2024-11-30",
+      "links": {
+        "self": "/company/13053502/filing-history/MzQ0NjQ2NTgzNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/BQzfVy2FXHpcfWBcm0tYGErc3VxWGxn2BjpKeEtO1bw"
+      }
+    },
+    {
+      "transaction_id": "MzQzNzAwNjE4MGFkaXF6a2N4",
+      "barcode": "XDCB2PP7",
+      "type": "AA",
+      "date": "2024-09-24",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2023-12-31"
+      },
+      "pages": 4,
+      "action_date": "2023-12-31",
+      "links": {
+        "self": "/company/13053502/filing-history/MzQzNzAwNjE4MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ASp3fUgkmMJT174y_8C9SUWcnY3XaAIzEuDZwSmVW9k"
+      }
+    },
+    {
+      "transaction_id": "MzQzNjg0OTA2OWFkaXF6a2N4",
+      "barcode": "XDC8BGCB",
+      "type": "AD01",
+      "date": "2024-09-23",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2024-09-23",
+        "old_address": "Unit 2 Foundry Business Park Ords Salford Manchester M5 3LW England",
+        "new_address": "Initial Business Centre Unit 7 Wilson Business Park Manchester M40 8WN"
+      },
+      "pages": 1,
+      "action_date": "2024-09-23",
+      "links": {
+        "self": "/company/13053502/filing-history/MzQzNjg0OTA2OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/v5YLVHbX4_g-P5Q9PCSPCjoMJ3zs4obyHD9aYJp3OmU"
+      }
+    },
+    {
+      "transaction_id": "MzQwMjYxNjUzN2FkaXF6a2N4",
+      "barcode": "XCHQ6DRN",
+      "type": "CS01",
+      "date": "2023-12-05",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2023-11-30"
+      },
+      "pages": 3,
+      "action_date": "2023-11-30",
+      "links": {
+        "self": "/company/13053502/filing-history/MzQwMjYxNjUzN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/6nnFHNLeyI9BHW5UP1k1LrPMYzJ1mpqwhASJCIMAwuI"
+      }
+    },
+    {
+      "transaction_id": "MzM5MzQzOTYxNWFkaXF6a2N4",
+      "barcode": "XCCBJU2I",
+      "type": "AA",
+      "date": "2023-09-18",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2022-12-31"
+      },
+      "pages": 4,
+      "action_date": "2022-12-31",
+      "links": {
+        "self": "/company/13053502/filing-history/MzM5MzQzOTYxNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Xc-GulRfkTgX1ePsvID4M9qlfMcIKsYVmG_vABj60Us"
+      }
+    },
+    {
+      "transaction_id": "MzM2MDQyMzQ0MmFkaXF6a2N4",
+      "barcode": "XBHWKU42",
+      "type": "CS01",
+      "date": "2022-11-30",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2022-11-30"
+      },
+      "pages": 3,
+      "action_date": "2022-11-30",
+      "links": {
+        "self": "/company/13053502/filing-history/MzM2MDQyMzQ0MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/sps-dWH5MShpUlhyvQ0UwtsjvoMgyLvpzRDcoCAUfpY"
+      }
+    },
+    {
+      "transaction_id": "MzM0OTg4MTQ4NWFkaXF6a2N4",
+      "barcode": "XBB72JCO",
+      "type": "AA",
+      "date": "2022-08-26",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2021-12-31"
+      },
+      "pages": 4,
+      "action_date": "2021-12-31",
+      "links": {
+        "self": "/company/13053502/filing-history/MzM0OTg4MTQ4NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/bl3f8gdhmieFgT73obXg86vV-hdFvO1A-65zUe-AmXY"
+      }
+    },
+    {
+      "transaction_id": "MzMyOTg3NjA0M2FkaXF6a2N4",
+      "barcode": "XAXX468P",
+      "type": "CS01",
+      "date": "2022-02-15",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2021-11-30"
+      },
+      "pages": 3,
+      "action_date": "2021-11-30",
+      "links": {
+        "self": "/company/13053502/filing-history/MzMyOTg3NjA0M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Lvfx29d4asIe7ulx2A7GGXrFfV9doCWY7rejs3nfZCU"
+      }
+    },
+    {
+      "transaction_id": "MzI4ODc5NjkzMmFkaXF6a2N4",
+      "barcode": "X9WDDJ7S",
+      "type": "TM01",
+      "date": "2021-01-17",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-director-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Paul Sandiford",
+        "termination_date": "2020-12-29"
+      },
+      "pages": 1,
+      "action_date": "2020-12-29",
+      "links": {
+        "self": "/company/13053502/filing-history/MzI4ODc5NjkzMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/RWimgAqWTBYjUKj09mbMXb7vxS9pxaaUidUBZvVgzGo"
+      }
+    },
+    {
+      "transaction_id": "MzI4NDY3NDM4OGFkaXF6a2N4",
+      "barcode": "X9IUF8TL",
+      "type": "NEWINC",
+      "date": "2020-12-01",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2020-12-01",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2020-12-01",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2020-12-01",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2020-12-01"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 11,
+      "links": {
+        "self": "/company/13053502/filing-history/MzI4NDY3NDM4OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/n_2Gly87VWJ7YBqkMT_vwGxEzjg39KEwHhLxKfixX9k"
+      }
+    }
+  ]
+}

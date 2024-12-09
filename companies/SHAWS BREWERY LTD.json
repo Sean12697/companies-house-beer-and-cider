@@ -1,0 +1,107 @@
+{
+  "company_name": "SHAWS BREWERY LTD",
+  "company_number": "07738557",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/07738557"
+  },
+  "date_of_cessation": "2013-11-26",
+  "date_of_creation": "2011-08-12",
+  "registered_office_address": {
+    "address_line_1": "Unit 4 Victoria Works",
+    "address_line_2": "Hempshaw Lane",
+    "locality": "Stockport",
+    "postal_code": "SK1 4LG",
+    "region": "Greater Manchester",
+    "country": "United Kingdom"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzA4ODk4MzI3MWFkaXF6a2N4",
+      "type": "GAZ2",
+      "date": "2013-11-26",
+      "category": "gazette",
+      "description": "gazette-dissolved-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/07738557/filing-history/MzA4ODk4MzI3MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/n4IP3YIv38_Xof-PTxIj_6XmBpP3L4fK2gCWuwFCXMg"
+      }
+    },
+    {
+      "transaction_id": "MzA4Mjc2OTI2OGFkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2013-08-13",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/07738557/filing-history/MzA4Mjc2OTI2OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ozcjoxQj61cGfR1aG2ZvSG-za-pGQ-L9vsbfCUUmur8"
+      }
+    },
+    {
+      "transaction_id": "MzA2MjMzNDk0N2FkaXF6a2N4",
+      "barcode": "X1F8WQPS",
+      "type": "AR01",
+      "date": "2012-08-13",
+      "category": "annual-return",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2012-08-13",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2012-08-13",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "100"
+              }
+            ]
+          },
+          "action_date": "2012-08-13"
+        }
+      ],
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2012-08-12"
+      },
+      "pages": 3,
+      "action_date": "2012-08-12",
+      "links": {
+        "self": "/company/07738557/filing-history/MzA2MjMzNDk0N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/42JgvdiWvZO2CoS8oGnsCL155Nc6-zX9GjkAtrSx9lg"
+      }
+    },
+    {
+      "transaction_id": "MzA0MTk4MjAxNWFkaXF6a2N4",
+      "barcode": "XGN6MWL9",
+      "type": "NEWINC",
+      "date": "2011-08-12",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2011-08-12",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 7,
+      "links": {
+        "self": "/company/07738557/filing-history/MzA0MTk4MjAxNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/VTAbiNYguX_O1IoG5WUMoaTtfMALxQsMbPoCL6ywZDw"
+      }
+    }
+  ]
+}

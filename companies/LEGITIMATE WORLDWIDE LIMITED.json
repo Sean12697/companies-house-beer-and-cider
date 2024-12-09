@@ -1,0 +1,441 @@
+{
+  "company_name": "LEGITIMATE WORLDWIDE LIMITED",
+  "company_number": "12118758",
+  "company_status": "active",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/12118758"
+  },
+  "date_of_creation": "2019-07-24",
+  "registered_office_address": {
+    "address_line_1": "C/O Uhy Hacker Young St James Building",
+    "address_line_2": "79 Oxford Street",
+    "locality": "Manchester",
+    "postal_code": "M1 6HT",
+    "country": "United Kingdom"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzQ0MzU2MjI5MGFkaXF6a2N4",
+      "barcode": "XDFXCZDF",
+      "type": "AD01",
+      "date": "2024-11-15",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2024-11-15",
+        "old_address": "C/O Uhy Hacker Young St James Building 79 Oxford Street Manchester M1 6HT United Kingdom",
+        "new_address": "C/O Cooper Parry St James Building 79 Oxford Street Manchester M1 6HT"
+      },
+      "pages": 1,
+      "action_date": "2024-11-15",
+      "links": {
+        "self": "/company/12118758/filing-history/MzQ0MzU2MjI5MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/VLGqUHDTYwBR5hJx4MWjfva1NapbzYkgxAnioSwaquE"
+      }
+    },
+    {
+      "transaction_id": "MzQzNzU2ODMwNmFkaXF6a2N4",
+      "barcode": "XDCJKEUY",
+      "type": "AA",
+      "date": "2024-09-27",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2023-12-31"
+      },
+      "pages": 10,
+      "action_date": "2023-12-31",
+      "links": {
+        "self": "/company/12118758/filing-history/MzQzNzU2ODMwNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/bgquPDRuP22nkfeQGmfNtlq2j9ebVZTMuwsD68FA73k"
+      }
+    },
+    {
+      "transaction_id": "MzQyOTc4MjY4NGFkaXF6a2N4",
+      "barcode": "XD7Z65WG",
+      "type": "CS01",
+      "date": "2024-07-23",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2024-07-23"
+      },
+      "pages": 3,
+      "action_date": "2024-07-23",
+      "links": {
+        "self": "/company/12118758/filing-history/MzQyOTc4MjY4NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/anQHzbkSWixN6ZBb3AXIu3VX05sS06ANmgXNYcuEQKM"
+      }
+    },
+    {
+      "transaction_id": "MzQyOTU5MTUzN2FkaXF6a2N4",
+      "barcode": "XD7WCY8Y",
+      "type": "CH01",
+      "date": "2024-07-22",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2024-07-22",
+        "officer_name": "Mr Aaron Matthew Mellor"
+      },
+      "pages": 2,
+      "action_date": "2024-07-22",
+      "links": {
+        "self": "/company/12118758/filing-history/MzQyOTU5MTUzN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/u_hoq7z77tSWQ33InmRPd6x5AuVz59GQpcpxex9ceGo"
+      }
+    },
+    {
+      "transaction_id": "MzQwNzY2MTk4NmFkaXF6a2N4",
+      "barcode": "XCUUH43U",
+      "type": "AD01",
+      "date": "2024-01-16",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2024-01-16",
+        "old_address": "C/O Kjg 100 Barbirolli Square Manchester M2 3BD United Kingdom",
+        "new_address": "C/O Uhy Hacker Young St James Building 79 Oxford Street Manchester M1 6HT"
+      },
+      "pages": 1,
+      "action_date": "2024-01-16",
+      "links": {
+        "self": "/company/12118758/filing-history/MzQwNzY2MTk4NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/e7UOEG6c1FUrGpr-P4qPK51X-4QRTMy_79ss8C2cEZU"
+      }
+    },
+    {
+      "transaction_id": "MzM5NDk2MTgxOGFkaXF6a2N4",
+      "barcode": "XCD385OI",
+      "type": "AA",
+      "date": "2023-09-29",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2022-12-31"
+      },
+      "pages": 11,
+      "action_date": "2022-12-31",
+      "links": {
+        "self": "/company/12118758/filing-history/MzM5NDk2MTgxOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/sYEA896PcL5X1ZFgxBBoSF_aslBCsApCmsnXE9TjylQ"
+      }
+    },
+    {
+      "transaction_id": "MzM4NzQ3MzA2OWFkaXF6a2N4",
+      "barcode": "AC856COW",
+      "type": "TM01",
+      "date": "2023-07-26",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-director-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "James Michael Douglas",
+        "termination_date": "2023-07-07"
+      },
+      "pages": 1,
+      "action_date": "2023-07-07",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12118758/filing-history/MzM4NzQ3MzA2OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/e33nve4ZAY3pb2dflI-V0oUAR6padDZ18eyfVL0DacU"
+      }
+    },
+    {
+      "transaction_id": "MzM4NzM0ODI5MGFkaXF6a2N4",
+      "barcode": "XC8GC2BN",
+      "type": "CS01",
+      "date": "2023-07-24",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2023-07-23"
+      },
+      "pages": 3,
+      "action_date": "2023-07-23",
+      "links": {
+        "self": "/company/12118758/filing-history/MzM4NzM0ODI5MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/vQeJ-NBGnTgyxQfvmT-gEUQT5PUsPYZT8oI4Q3-BrTU"
+      }
+    },
+    {
+      "transaction_id": "MzM4MTkxNzYzNGFkaXF6a2N4",
+      "barcode": "XC50XD2G",
+      "type": "AD01",
+      "date": "2023-06-05",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2023-06-05",
+        "old_address": "Kay Johnson Gee Limited 1 City Road East Manchester M15 4PN United Kingdom",
+        "new_address": "C/O Kjg 100 Barbirolli Square Manchester M2 3BD"
+      },
+      "pages": 1,
+      "action_date": "2023-06-05",
+      "links": {
+        "self": "/company/12118758/filing-history/MzM4MTkxNzYzNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/tMFis2el3YyyS6NmTvtfvL6HPhZ1M1EBkgqI9Gex_BA"
+      }
+    },
+    {
+      "transaction_id": "MzM1MzQwNjY5OGFkaXF6a2N4",
+      "barcode": "XBDHXQS3",
+      "type": "AA",
+      "date": "2022-09-28",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2021-12-31"
+      },
+      "pages": 10,
+      "action_date": "2021-12-31",
+      "links": {
+        "self": "/company/12118758/filing-history/MzM1MzQwNjY5OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/2cqHPg-6s8AVPBvqS9rVg4mH1WZVqnOUSQNuCVamHc8"
+      }
+    },
+    {
+      "transaction_id": "MzM0Njc2NDc2OGFkaXF6a2N4",
+      "barcode": "XB91EF0R",
+      "type": "CS01",
+      "date": "2022-07-26",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2022-07-23"
+      },
+      "pages": 3,
+      "action_date": "2022-07-23",
+      "links": {
+        "self": "/company/12118758/filing-history/MzM0Njc2NDc2OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/GfoRDS5wef6bm7bUvct2Qew_4ObKG-D6m8GNgTF4t0I"
+      }
+    },
+    {
+      "transaction_id": "MzMwODc0NTQyMGFkaXF6a2N4",
+      "barcode": "XA9INFO3",
+      "type": "CS01",
+      "date": "2021-07-26",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2021-07-23"
+      },
+      "pages": 3,
+      "action_date": "2021-07-23",
+      "links": {
+        "self": "/company/12118758/filing-history/MzMwODc0NTQyMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/eBIMrJIGz3lW_G8Kb4riNJPjGxbV-uTjWkbLPYvRT3E"
+      }
+    },
+    {
+      "transaction_id": "MzI5ODgwMzEzMmFkaXF6a2N4",
+      "barcode": "XA30YOI2",
+      "type": "AA",
+      "date": "2021-04-23",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2020-12-31"
+      },
+      "pages": 10,
+      "action_date": "2020-12-31",
+      "links": {
+        "self": "/company/12118758/filing-history/MzI5ODgwMzEzMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/-daqML6y_hzOuE7JLPyXs9d48lWRseGTVjI1ID9q-EA"
+      }
+    },
+    {
+      "transaction_id": "MzI5MTY2ODAzOGFkaXF6a2N4",
+      "barcode": "X9YJ229E",
+      "type": "AD01",
+      "date": "2021-02-17",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2021-02-17",
+        "old_address": "1 City Road East Manchester M15 4PN England",
+        "new_address": "Kay Johnson Gee Limited 1 City Road East Manchester M15 4PN"
+      },
+      "pages": 1,
+      "action_date": "2021-02-17",
+      "links": {
+        "self": "/company/12118758/filing-history/MzI5MTY2ODAzOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/djO-Nzu5hVF2n1eSr7qwNFPqTYP-qqkP0ovQTQKIkbM"
+      }
+    },
+    {
+      "transaction_id": "MzI3NDQxNTMxM2FkaXF6a2N4",
+      "barcode": "X9AND6IZ",
+      "type": "CS01",
+      "date": "2020-08-03",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2020-07-23"
+      },
+      "pages": 4,
+      "action_date": "2020-07-23",
+      "links": {
+        "self": "/company/12118758/filing-history/MzI3NDQxNTMxM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/KHpbXaAuiYwyHNCyejad-VWHA925js2NcEk9Lx8Io2U"
+      }
+    },
+    {
+      "transaction_id": "MzI3MzMzNjUxM2FkaXF6a2N4",
+      "barcode": "X99HAXH7",
+      "type": "PSC04",
+      "date": "2020-07-17",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2020-07-17",
+        "psc_name": "Mr Aaron Matthew Mellor"
+      },
+      "pages": 2,
+      "action_date": "2020-07-17",
+      "links": {
+        "self": "/company/12118758/filing-history/MzI3MzMzNjUxM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/jtxn9ou-O1PE3Ifkw9n_kXc9Y11rJXeTN39r0qAdUyU"
+      }
+    },
+    {
+      "transaction_id": "MzI3Mjk0ODk0MWFkaXF6a2N4",
+      "barcode": "X996J7EO",
+      "type": "AD01",
+      "date": "2020-07-13",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2020-07-13",
+        "old_address": "10 Weaver Street Leeds LS4 2AU England",
+        "new_address": "1 City Road East Manchester M15 4PN"
+      },
+      "pages": 1,
+      "action_date": "2020-07-13",
+      "links": {
+        "self": "/company/12118758/filing-history/MzI3Mjk0ODk0MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/_rdUHw6D5dlbANfrGtLJ8ZHAvZQf8Xs2mdcam-Smq5E"
+      }
+    },
+    {
+      "transaction_id": "MzI3MjEzNTMxOWFkaXF6a2N4",
+      "barcode": "X98DEID4",
+      "type": "PSC07",
+      "date": "2020-07-01",
+      "category": "persons-with-significant-control",
+      "subcategory": "termination",
+      "description": "cessation-of-a-person-with-significant-control",
+      "description_values": {
+        "psc_name": "Reds True Barbecue Limited",
+        "cessation_date": "2019-07-24"
+      },
+      "pages": 1,
+      "action_date": "2019-07-24",
+      "links": {
+        "self": "/company/12118758/filing-history/MzI3MjEzNTMxOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/OIUzRXRK-YoqsWkuKTQyPownJn1JOR3FhmNGJBbJziI"
+      }
+    },
+    {
+      "transaction_id": "MzI3MjEzNTMyMmFkaXF6a2N4",
+      "barcode": "X98DEIDC",
+      "type": "PSC01",
+      "date": "2020-07-01",
+      "category": "persons-with-significant-control",
+      "subcategory": "notifications",
+      "description": "notification-of-a-person-with-significant-control",
+      "description_values": {
+        "psc_name": "Aaron Matthew Mellor",
+        "notification_date": "2019-07-24"
+      },
+      "pages": 2,
+      "action_date": "2019-07-24",
+      "links": {
+        "self": "/company/12118758/filing-history/MzI3MjEzNTMyMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/7CiOhlvtfVOO3hbnaq1y6-EXxHoWMOx2WpQffGAYtxQ"
+      }
+    },
+    {
+      "transaction_id": "MzI1NzM3OTIwMGFkaXF6a2N4",
+      "barcode": "X8Z0K23K",
+      "type": "AA01",
+      "date": "2020-02-17",
+      "category": "accounts",
+      "description": "change-account-reference-date-company-current-extended",
+      "description_values": {
+        "made_up_date": "2020-07-31",
+        "new_date": "2020-12-31"
+      },
+      "pages": 1,
+      "action_date": "2020-12-31",
+      "links": {
+        "self": "/company/12118758/filing-history/MzI1NzM3OTIwMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ips2Bn32Z5R_or0qv9yOFPdKNx6MSL6z5yJrCA5O1kQ"
+      }
+    },
+    {
+      "transaction_id": "MzI0MDQ1MzA5MmFkaXF6a2N4",
+      "barcode": "X8AQYIB6",
+      "type": "AP01",
+      "date": "2019-07-29",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Mr Aaron Matthew Mellor",
+        "appointment_date": "2019-07-25"
+      },
+      "pages": 2,
+      "action_date": "2019-07-25",
+      "links": {
+        "self": "/company/12118758/filing-history/MzI0MDQ1MzA5MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/x9kUHWFd-pBJEeLu0j3SzzC97xoIWLUlGoY3IgZHfjk"
+      }
+    },
+    {
+      "transaction_id": "MzIzOTk1NDAyMWFkaXF6a2N4",
+      "barcode": "X8AB56D5",
+      "type": "NEWINC",
+      "date": "2019-07-24",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2019-07-24",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2019-07-24",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2019-07-24",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2019-07-24"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 10,
+      "links": {
+        "self": "/company/12118758/filing-history/MzIzOTk1NDAyMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/QUZwqmNwaB5dKBxezjmGtK2N3j7S5vyCwPw2E-oxXb8"
+      }
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+{
+  "company_name": "BEATNIKZ REPUBLIC BREWING COMPANY LTD",
+  "company_number": "09373625",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/09373625"
+  },
+  "date_of_cessation": "2023-10-31",
+  "date_of_creation": "2015-01-05",
+  "registered_office_address": {
+    "address_line_1": "C/O BEGBIES TRAYNOR",
+    "address_line_2": "340 Deansgate",
+    "locality": "Manchester",
+    "postal_code": "M3 4LY"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzM5ODQyMTA3MmFkaXF6a2N4",
+      "type": "GAZ2",
+      "date": "2023-10-31",
+      "category": "gazette",
+      "description": "gazette-dissolved-liquidation",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/09373625/filing-history/MzM5ODQyMTA3MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/uQtVbSA4h3YyunE1rIYbWrfid7JWu5jHQWPE9pAGIMA"
+      }
+    },
+    {
+      "transaction_id": "MzM4Njg5NTQ5MWFkaXF6a2N4",
+      "barcode": "YC8339K3",
+      "type": "LIQ14",
+      "date": "2023-07-31",
+      "category": "insolvency",
+      "subcategory": "voluntary",
+      "description": "liquidation-voluntary-creditors-return-of-final-meeting",
+      "pages": 20,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/09373625/filing-history/MzM4Njg5NTQ5MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/kBgF505xXhAtaSJ7v2o5tKAltnEXFv-GI_IBgNfJ3xI"
+      }
+    },
+    {
+      "transaction_id": "MzM2NzUxMzM3NGFkaXF6a2N4",
+      "barcode": "ABW4BMU8",
+      "type": "TM01",
+      "date": "2023-01-31",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-director-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Paul William Greetham",
+        "termination_date": "2022-07-01"
+      },
+      "pages": 1,
+      "action_date": "2022-07-01",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/09373625/filing-history/MzM2NzUxMzM3NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/aPalRFLuLnVdv2fxLQZ9rp38EX7PFOtqQz58J2Z8-iI"
+      }
+    },
+    {
+      "transaction_id": "MzM0MTcxNTU0MGFkaXF6a2N4",
+      "barcode": "YB5OHJIX",
+      "type": "LIQ02",
+      "date": "2022-06-13",
+      "category": "insolvency",
+      "subcategory": "voluntary",
+      "description": "liquidation-voluntary-statement-of-affairs",
+      "pages": 10,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/09373625/filing-history/MzM0MTcxNTU0MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/-pL203EQAHFfnsMiQ-FOSNULM2OvlVf_dSn2LK61M3o"
+      }
+    },
+    {
+      "transaction_id": "MzM0MTExOTMzOGFkaXF6a2N4",
+      "barcode": "YB560K7L",
+      "type": "AD01",
+      "date": "2022-06-08",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2022-06-08",
+        "old_address": "Unit 15 Red Bank Court Manchester M4 4HF England",
+        "new_address": "340 Deansgate Manchester M3 4LY"
+      },
+      "pages": 2,
+      "action_date": "2022-06-08",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/09373625/filing-history/MzM0MTExOTMzOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/x-hr0ewDKNU4k4RLNjDFnz-MCUNT5olbK41iEDxXcUs"
+      }
+    },
+    {
+      "transaction_id": "MzM0MTExOTMzNmFkaXF6a2N4",
+      "barcode": "YB560K1M",
+      "type": "600",
+      "date": "2022-06-07",
+      "category": "insolvency",
+      "subcategory": "voluntary",
+      "description": "liquidation-voluntary-appointment-of-liquidator",
+      "pages": 3,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/09373625/filing-history/MzM0MTExOTMzNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/uT85HUSAJ6Jpd5QeBWY0xBbn-MC74YSiYKA06dhRbh0"
+      }
+    },
+    {
+      "transaction_id": "WUI1NjBLMTZhZGlxemtjeA",
+      "type": "RESOLUTIONS",
+      "date": "2022-06-07",
+      "category": "resolution",
+      "resolutions": [
+        {
+          "category": "liquidation",
+          "description": "liquidation-voluntary-extraordinary-resolution-to-wind-up-with-case-start-date",
+          "type": "LRESEX",
+          "subcategory": [
+            "voluntary",
+            "resolution"
+          ],
+          "description_values": {
+            "case_start_date": "2022-05-25"
+          },
+          "original_description": "Extraordinary resolution to wind up"
+        }
+      ],
+      "description": "resolution",
+      "description_values": {
+        "description": "Resolutions"
+      },
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/09373625/filing-history/WUI1NjBLMTZhZGlxemtjeA",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/-LtxQ5s09wdXRFDWxOnMDKwfO8fRXPx1xmx6zSy2wLA"
+      }
+    },
+    {
+      "transaction_id": "MzMyNzYwOTQ5M2FkaXF6a2N4",
+      "barcode": "XAWCUFAR",
+      "type": "CS01",
+      "date": "2022-01-24",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2022-01-05"
+      },
+      "pages": 3,
+      "action_date": "2022-01-05",
+      "links": {
+        "self": "/company/09373625/filing-history/MzMyNzYwOTQ5M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/EE-EgtnU4ZnjAgW2gn17zRxL4y5ioGBJVUVUh5ctXfs"
+      }
+    },
+    {
+      "transaction_id": "MzI5NzQ2Mzg1MWFkaXF6a2N4",
+      "barcode": "XA29PFJ7",
+      "type": "AA",
+      "date": "2021-04-12",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2021-01-31"
+      },
+      "pages": 11,
+      "action_date": "2021-01-31",
+      "links": {
+        "self": "/company/09373625/filing-history/MzI5NzQ2Mzg1MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/q2KiDy6igokPTv5oluJl8vaAfMpJifoRZk6EmM74P6A"
+      }
+    },
+    {
+      "transaction_id": "MzI5MjQyODc5MmFkaXF6a2N4",
+      "barcode": "X9YZB44Q",
+      "type": "AA",
+      "date": "2021-02-24",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2020-01-31"
+      },
+      "pages": 12,
+      "action_date": "2020-01-31",
+      "links": {
+        "self": "/company/09373625/filing-history/MzI5MjQyODc5MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/pc-Zl4YzkkSZC-Kq62-VClYKXE-S6mlbZdRck9n_O6Y"
+      }
+    },
+    {
+      "transaction_id": "MzI4NzUzOTIwOWFkaXF6a2N4",
+      "barcode": "X9VJYFKA",
+      "type": "CS01",
+      "date": "2021-01-05",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2021-01-05"
+      },
+      "pages": 3,
+      "action_date": "2021-01-05",
+      "links": {
+        "self": "/company/09373625/filing-history/MzI4NzUzOTIwOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/e-yNb9pRPYfxso_5ke3o6TMvTffsXzweNMNP5O-qspA"
+      }
+    },
+    {
+      "transaction_id": "MzI4MzI5MzQ0NGFkaXF6a2N4",
+      "barcode": "X9HNWE3D",
+      "type": "MR04",
+      "date": "2020-11-12",
+      "category": "mortgage",
+      "subcategory": "satisfy",
+      "description": "mortgage-satisfy-charge-full",
+      "description_values": {
+        "charge_number": "093736250001"
+      },
+      "pages": 1,
+      "links": {
+        "self": "/company/09373625/filing-history/MzI4MzI5MzQ0NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/NIc0VKAft8ebbxACSPMJCT2ZGi44nPZPMY_BzsrJkC8"
+      }
+    },
+    {
+      "transaction_id": "MzI1NDEwNTUyMGFkaXF6a2N4",
+      "barcode": "X8W7UOV4",
+      "type": "CS01",
+      "date": "2020-01-08",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2020-01-05"
+      },
+      "pages": 4,
+      "action_date": "2020-01-05",
+      "links": {
+        "self": "/company/09373625/filing-history/MzI1NDEwNTUyMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/TDFSwaUsfLoTtC9VsXYaGNUo7bR8DJptLTth8bR-rho"
+      }
+    },
+    {
+      "transaction_id": "MzI0NjU5OTAyMmFkaXF6a2N4",
+      "barcode": "X8FTWZAM",
+      "type": "AA",
+      "date": "2019-10-11",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2019-01-31"
+      },
+      "pages": 12,
+      "action_date": "2019-01-31",
+      "links": {
+        "self": "/company/09373625/filing-history/MzI0NjU5OTAyMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/xGxKyVSCXNi3UjogW53wHaks650ggBGEgnfAGAPTn5Y"
+      }
+    },
+    {
+      "transaction_id": "MzI0NjM4NzUzMWFkaXF6a2N4",
+      "barcode": "X8FR0LXK",
+      "type": "PSC04",
+      "date": "2019-10-09",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2019-10-09",
+        "psc_name": "Mr Paul Greetham"
+      },
+      "pages": 2,
+      "action_date": "2019-10-09",
+      "links": {
+        "self": "/company/09373625/filing-history/MzI0NjM4NzUzMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/FZ1eOZ3UZUSIV38UInOR67xSrLkZr0ErqivRV0JOAnI"
+      }
+    },
+    {
+      "transaction_id": "MzIyNjk5Mjc4OWFkaXF6a2N4",
+      "barcode": "X7Z9QE16",
+      "type": "CS01",
+      "date": "2019-02-14",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2019-01-05"
+      },
+      "pages": 5,
+      "action_date": "2019-01-05",
+      "links": {
+        "self": "/company/09373625/filing-history/MzIyNjk5Mjc4OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/AqnUgJZkvuXkesRlGSqZjE05VyNT37xDUnK8CXv9gI0"
+      }
+    },
+    {
+      "transaction_id": "MzIxODMzMzc1N2FkaXF6a2N4",
+      "barcode": "X7HPKD2Y",
+      "type": "AA",
+      "date": "2018-10-31",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2018-01-31"
+      },
+      "pages": 8,
+      "action_date": "2018-01-31",
+      "links": {
+        "self": "/company/09373625/filing-history/MzIxODMzMzc1N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/S2EcrXu8FWXjFZk9pczRIuxJHoBUzBC6FDyGwX55Ei8"
+      }
+    },
+    {
+      "transaction_id": "MzIxMjE3ODU0M2FkaXF6a2N4",
+      "barcode": "X7CEXNEY",
+      "type": "SH01",
+      "date": "2018-08-15",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2018-08-15",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "113"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2018-08-15",
+      "links": {
+        "self": "/company/09373625/filing-history/MzIxMjE3ODU0M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Q9vbpMEGHw2LhPktqMfNHg_aI-oXiFO3uJM4-wHnYgk"
+      }
+    },
+    {
+      "transaction_id": "MzIwNjg4ODc4MGFkaXF6a2N4",
+      "barcode": "A776NVHE",
+      "type": "MR01",
+      "date": "2018-06-01",
+      "category": "mortgage",
+      "subcategory": "create",
+      "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+      "description_values": {
+        "charge_number": "093736250001",
+        "charge_creation_date": "2018-05-15"
+      },
+      "pages": 53,
+      "action_date": "2018-05-15",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/09373625/filing-history/MzIwNjg4ODc4MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/pEi3aXBfO2QLltIgLZendFOcuGICoi1FpXyZ1ESp3QM"
+      }
+    },
+    {
+      "transaction_id": "MzE5NzM4MTEzNmFkaXF6a2N4",
+      "barcode": "X6ZFWWOR",
+      "type": "CS01",
+      "date": "2018-02-09",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2018-01-05"
+      },
+      "pages": 3,
+      "action_date": "2018-01-05",
+      "links": {
+        "self": "/company/09373625/filing-history/MzE5NzM4MTEzNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/NkHyIeqgeSAgwRdUz4XKvKwxEJ639DgorLnD98cJ0QA"
+      }
+    },
+    {
+      "transaction_id": "MzE4OTA3MTMxNmFkaXF6a2N4",
+      "barcode": "X6I7HS2X",
+      "type": "AA",
+      "date": "2017-10-31",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2017-01-31"
+      },
+      "pages": 8,
+      "action_date": "2017-01-31",
+      "links": {
+        "self": "/company/09373625/filing-history/MzE4OTA3MTMxNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/5lWzJ76V2R8hH54rjwf61hxdBFGKO3xxc1j4jguiEeE"
+      }
+    },
+    {
+      "transaction_id": "MzE2Njc5NzgyMGFkaXF6a2N4",
+      "barcode": "X5YB8O3L",
+      "type": "CS01",
+      "date": "2017-01-17",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2017-01-05"
+      },
+      "pages": 6,
+      "action_date": "2017-01-05",
+      "links": {
+        "self": "/company/09373625/filing-history/MzE2Njc5NzgyMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/mYWJDk3qEBpY63U30c3q4FOpIraUFtZ-EPKGfgORqDU"
+      }
+    },
+    {
+      "transaction_id": "MzE2NTg0MDExMmFkaXF6a2N4",
+      "barcode": "X5XFRIC8",
+      "type": "SH01",
+      "date": "2017-01-04",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2017-01-03",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "100"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2017-01-03",
+      "links": {
+        "self": "/company/09373625/filing-history/MzE2NTg0MDExMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/qHSU6d6ADyckCnWIYjPlDNqPb_Ic2r6MN2pmtp1mwRE"
+      }
+    },
+    {
+      "transaction_id": "MzE2NDc2ODAwOGFkaXF6a2N4",
+      "barcode": "X5M5B7I8",
+      "type": "AD01",
+      "date": "2016-12-19",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2016-12-19",
+        "old_address": "20-22 Wenlock Road London N1 7GU England",
+        "new_address": "Unit 15 Red Bank Court Manchester M4 4HF"
+      },
+      "pages": 1,
+      "action_date": "2016-12-19",
+      "links": {
+        "self": "/company/09373625/filing-history/MzE2NDc2ODAwOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/FNIhOaJeL1fg9TvaKZr83UB07-lXQ1pNY_g0dnKBCTA"
+      }
+    },
+    {
+      "transaction_id": "MzE1ODg5NzgyOWFkaXF6a2N4",
+      "barcode": "X5GWCO9K",
+      "type": "AA",
+      "date": "2016-10-04",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-small",
+      "description_values": {
+        "made_up_date": "2016-01-31"
+      },
+      "pages": 4,
+      "action_date": "2016-01-31",
+      "links": {
+        "self": "/company/09373625/filing-history/MzE1ODg5NzgyOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/yvVRyC94SZRZA4StFJRiE-JZTxOOyM8S1P6NES3xQKk"
+      }
+    },
+    {
+      "transaction_id": "MzE0MjY0NjEyNmFkaXF6a2N4",
+      "barcode": "X51ED2M1",
+      "type": "AR01",
+      "date": "2016-02-24",
+      "category": "annual-return",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2016-02-24",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2016-02-24",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2016-02-24"
+        }
+      ],
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2016-01-05"
+      },
+      "pages": 3,
+      "action_date": "2016-01-05",
+      "links": {
+        "self": "/company/09373625/filing-history/MzE0MjY0NjEyNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Wuzo4J8GzA4GYw3yyLkOwTgkZdn_0vIf-ltdncApwTY"
+      }
+    },
+    {
+      "transaction_id": "MzExNDY4MjkwMmFkaXF6a2N4",
+      "barcode": "X3YFH68O",
+      "type": "NEWINC",
+      "date": "2015-01-05",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2015-01-05",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2015-01-05",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2015-01-05"
+        },
+        {
+          "category": "incorporation",
+          "date": "2015-01-05",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 7,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/09373625/filing-history/MzExNDY4MjkwMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ksl2LRJQhBDSagx6McVDdvAuGb2fh2iVgssnSv5-ZP4"
+      }
+    }
+  ]
+}

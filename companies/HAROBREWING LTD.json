@@ -1,0 +1,87 @@
+{
+  "company_name": "HAROBREWING LTD",
+  "company_number": "13123363",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/13123363"
+  },
+  "date_of_cessation": "2022-06-14",
+  "date_of_creation": "2021-01-08",
+  "registered_office_address": {
+    "address_line_1": "84 Shevington Moor",
+    "locality": "Wigan",
+    "postal_code": "WN6 0SE",
+    "region": "Greater Manchester",
+    "country": "United Kingdom"
+  },
+  "sic_codes": [
+    "11030"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzM0MTc0MzY2NWFkaXF6a2N4",
+      "type": "GAZ2",
+      "date": "2022-06-14",
+      "category": "gazette",
+      "description": "gazette-dissolved-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13123363/filing-history/MzM0MTc0MzY2NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/kqAg8Ty9nUhmviQf-LSdpMyAP-gDncmqML9pnU0qUiM"
+      }
+    },
+    {
+      "transaction_id": "MzMzMzQxMjY3NmFkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2022-03-29",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13123363/filing-history/MzMzMzQxMjY3NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Kfx3XvUuCmj1WGDe4W00rELffsnBB7K3Vg241P5hniY"
+      }
+    },
+    {
+      "transaction_id": "MzI4ODA0NDI2M2FkaXF6a2N4",
+      "barcode": "X9VPNZLT",
+      "type": "NEWINC",
+      "date": "2021-01-08",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2021-01-08",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2021-01-08",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2021-01-08",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2021-01-08"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 10,
+      "links": {
+        "self": "/company/13123363/filing-history/MzI4ODA0NDI2M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/eHkXRtc7jABMz-yRSyCDwnLCx5dMgSYra9IGbUGERrg"
+      }
+    }
+  ]
+}

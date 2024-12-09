@@ -1,0 +1,284 @@
+{
+  "company_name": "NORTH SOUTH BREWING LIMITED",
+  "company_number": "12426428",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/12426428"
+  },
+  "date_of_cessation": "2022-10-25",
+  "date_of_creation": "2020-01-27",
+  "registered_office_address": {
+    "address_line_1": "306 Manchester Road",
+    "locality": "Stockport",
+    "postal_code": "SK4 5ED",
+    "country": "England"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzM1NTY3MTc0M2FkaXF6a2N4",
+      "type": "GAZ2(A)",
+      "date": "2022-10-25",
+      "category": "gazette",
+      "description": "gazette-dissolved-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12426428/filing-history/MzM1NTY3MTc0M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/-b7K_EW2Y8hzoGDOsSDFiJr4OgyCCGJPSbmAvM9kEMY"
+      }
+    },
+    {
+      "transaction_id": "MzM0NzUyMDU5N2FkaXF6a2N4",
+      "type": "GAZ1(A)",
+      "date": "2022-08-09",
+      "category": "gazette",
+      "description": "gazette-notice-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12426428/filing-history/MzM0NzUyMDU5N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/7PmR0d7JiJ04CcPWGhNc0vyRdz_uzegs0TOiumL-BfE"
+      }
+    },
+    {
+      "transaction_id": "MzM0NzQ0NTk1MmFkaXF6a2N4",
+      "barcode": "XB9HMAA3",
+      "type": "DS01",
+      "date": "2022-08-02",
+      "category": "dissolution",
+      "description": "dissolution-application-strike-off-company",
+      "pages": 1,
+      "links": {
+        "self": "/company/12426428/filing-history/MzM0NzQ0NTk1MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/UTuiIYn30SqcE1GKH4amDA98za3yeHfOFeDQmqFDFHw"
+      }
+    },
+    {
+      "transaction_id": "MzM0NzQ1NDU3OGFkaXF6a2N4",
+      "barcode": "XB9HNH22",
+      "type": "AA",
+      "date": "2022-08-01",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2022-03-31"
+      },
+      "pages": 8,
+      "action_date": "2022-03-31",
+      "links": {
+        "self": "/company/12426428/filing-history/MzM0NzQ1NDU3OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/LM0E7OpsW3ypoGeugKYYnW7lp5tahokBsMqVG8zXETo"
+      }
+    },
+    {
+      "transaction_id": "MzMyOTIxNTE0MWFkaXF6a2N4",
+      "barcode": "XAXEM4Y8",
+      "type": "CS01",
+      "date": "2022-02-08",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2022-01-26"
+      },
+      "pages": 3,
+      "action_date": "2022-01-26",
+      "links": {
+        "self": "/company/12426428/filing-history/MzMyOTIxNTE0MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/74UcUUyAHp36ryfk6xwshRvBvc_bXjcZiwra71-Axe8"
+      }
+    },
+    {
+      "transaction_id": "MzMxODcyNjk3MWFkaXF6a2N4",
+      "barcode": "XAGA3DIZ",
+      "type": "AA",
+      "date": "2021-10-31",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2021-03-31"
+      },
+      "pages": 3,
+      "action_date": "2021-03-31",
+      "links": {
+        "self": "/company/12426428/filing-history/MzMxODcyNjk3MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/0_HyW8yAhmPfMh4P2d3fP7sZP5y4ex8gCKgGct7S-Zk"
+      }
+    },
+    {
+      "transaction_id": "MzI5MjU4MTIxOGFkaXF6a2N4",
+      "barcode": "X9Z2159T",
+      "type": "CS01",
+      "date": "2021-02-25",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2021-01-26"
+      },
+      "pages": 4,
+      "action_date": "2021-01-26",
+      "links": {
+        "self": "/company/12426428/filing-history/MzI5MjU4MTIxOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/WM7kDRvsUA7Oamic2MBeraRAIXzGEFaw8psbnl0ATic"
+      }
+    },
+    {
+      "transaction_id": "MzI4MjIyNTE0OGFkaXF6a2N4",
+      "barcode": "X9GX0PIA",
+      "type": "SH01",
+      "date": "2020-11-01",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2020-10-31",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "7,000"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2020-10-31",
+      "links": {
+        "self": "/company/12426428/filing-history/MzI4MjIyNTE0OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/MXMMkFKH5kGZ87P-Q6hdIvfvb6-5WypfLgtD9FeYptM"
+      }
+    },
+    {
+      "transaction_id": "MzI2MTEzNzkyM2FkaXF6a2N4",
+      "barcode": "X91R0MDC",
+      "type": "CH01",
+      "date": "2020-03-28",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2020-03-28",
+        "officer_name": "Mr Christopher James Thorold"
+      },
+      "pages": 2,
+      "action_date": "2020-03-28",
+      "links": {
+        "self": "/company/12426428/filing-history/MzI2MTEzNzkyM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/9Vo1n-ShOZEWvW6aGg8h6XebeGiLjZqcY6_DsRw8qd0"
+      }
+    },
+    {
+      "transaction_id": "MzI2MTEzNzkxOWFkaXF6a2N4",
+      "barcode": "X91R0M63",
+      "type": "CH01",
+      "date": "2020-03-28",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2020-03-28",
+        "officer_name": "Mr Andrew Mcinnes"
+      },
+      "pages": 2,
+      "action_date": "2020-03-28",
+      "links": {
+        "self": "/company/12426428/filing-history/MzI2MTEzNzkxOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/BV5LKrCLu-gvh8dZhFoY_rMew3H2er8JPAJsinCb2xw"
+      }
+    },
+    {
+      "transaction_id": "MzI2MTEzNzg4M2FkaXF6a2N4",
+      "barcode": "X91R0LUX",
+      "type": "CH01",
+      "date": "2020-03-28",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2020-03-15",
+        "officer_name": "Mr Christopher James Thorold"
+      },
+      "pages": 2,
+      "action_date": "2020-03-15",
+      "links": {
+        "self": "/company/12426428/filing-history/MzI2MTEzNzg4M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/cTLbTuD_TzNvFK6CDeDrVpNmpSqfdgGZcdCDAdtdn4Q"
+      }
+    },
+    {
+      "transaction_id": "MzI1NzMzMzY3N2FkaXF6a2N4",
+      "barcode": "X8YXZ9TF",
+      "type": "AA01",
+      "date": "2020-02-16",
+      "category": "accounts",
+      "description": "change-account-reference-date-company-current-extended",
+      "description_values": {
+        "made_up_date": "2021-01-31",
+        "new_date": "2021-03-31"
+      },
+      "pages": 1,
+      "action_date": "2021-03-31",
+      "links": {
+        "self": "/company/12426428/filing-history/MzI1NzMzMzY3N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/8dY6gbpoBxoirSjXNBKl5Byfb2P326Qx0uy1Uk-BPRo"
+      }
+    },
+    {
+      "transaction_id": "MzI1NzMzMzY2N2FkaXF6a2N4",
+      "barcode": "X8YXZ9OY",
+      "type": "AP01",
+      "date": "2020-02-16",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Mr Andrew Mcinnes",
+        "appointment_date": "2020-02-03"
+      },
+      "pages": 2,
+      "action_date": "2020-02-03",
+      "links": {
+        "self": "/company/12426428/filing-history/MzI1NzMzMzY2N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/0pHqfJkjy5p1bHUZ_6O_nro6zywfgcQv_Ka0H-ul9aE"
+      }
+    },
+    {
+      "transaction_id": "MzI1NTU2OTcwMmFkaXF6a2N4",
+      "barcode": "X8XEB17S",
+      "type": "NEWINC",
+      "date": "2020-01-27",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2020-01-27",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2020-01-27",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2020-01-27",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2020-01-27"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 12,
+      "links": {
+        "self": "/company/12426428/filing-history/MzI1NTU2OTcwMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/JDrKqpPTXEvxR3P_l3j9V25vFtQDHG-cdm98mg8V4tc"
+      }
+    }
+  ]
+}

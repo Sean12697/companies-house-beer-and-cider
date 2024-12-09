@@ -1,0 +1,271 @@
+{
+  "company_name": "IUDICIUM FOOD & BEVERAGES LTD",
+  "company_number": "09064554",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/09064554"
+  },
+  "date_of_cessation": "2020-11-17",
+  "date_of_creation": "2014-05-30",
+  "registered_office_address": {
+    "address_line_1": "10th Floor 3 Hardman Street",
+    "locality": "Manchester",
+    "postal_code": "M3 3HF"
+  },
+  "sic_codes": [
+    "10890",
+    "11040",
+    "11070"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzI4Mjg0NTI3MGFkaXF6a2N4",
+      "type": "GAZ2",
+      "date": "2020-11-17",
+      "category": "gazette",
+      "description": "gazette-dissolved-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/09064554/filing-history/MzI4Mjg0NTI3MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/CzbbgpBZXLLbw6hPU8m8--sGmjFgMHZRo8jIpI43daY"
+      }
+    },
+    {
+      "transaction_id": "MzIwNjk0MTI5M2FkaXF6a2N4",
+      "type": "DISS16(SOAS)",
+      "date": "2018-06-09",
+      "category": "dissolution",
+      "description": "dissolved-compulsory-strike-off-suspended",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/09064554/filing-history/MzIwNjk0MTI5M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/kEesjH8ur0B_0fbe1setyuFIShIfi1Ifwe0fENOMHqg"
+      }
+    },
+    {
+      "transaction_id": "MzIwMzUwNTc3NGFkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2018-05-08",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/09064554/filing-history/MzIwMzUwNTc3NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ealAfsHAQ7RIzJt_dLT3xDvU27m7LKo8dHSXerZW_wo"
+      }
+    },
+    {
+      "transaction_id": "MzE3ODIxNjMxM2FkaXF6a2N4",
+      "barcode": "X68QNN9N",
+      "type": "CS01",
+      "date": "2017-06-16",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2017-05-30"
+      },
+      "pages": 4,
+      "action_date": "2017-05-30",
+      "links": {
+        "self": "/company/09064554/filing-history/MzE3ODIxNjMxM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/vIjdNo_ZvuopIdixGx24KN672DMQROhMZsXrh4FxdFI"
+      }
+    },
+    {
+      "transaction_id": "MzE2OTUzNjczMmFkaXF6a2N4",
+      "barcode": "X60SI6EY",
+      "type": "AA",
+      "date": "2017-02-22",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2016-05-31"
+      },
+      "pages": 2,
+      "action_date": "2016-05-31",
+      "links": {
+        "self": "/company/09064554/filing-history/MzE2OTUzNjczMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/S67rG1sY7UNh3ZBXIdIfwPnYqD_7mOiedKJQvDvK1GI"
+      }
+    },
+    {
+      "transaction_id": "MzE1Mjg3Mzg3MWFkaXF6a2N4",
+      "barcode": "X5B5LAQ7",
+      "type": "AR01",
+      "date": "2016-07-13",
+      "category": "annual-return",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2016-07-13",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2016-07-13",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "100"
+              }
+            ]
+          },
+          "action_date": "2016-07-13"
+        }
+      ],
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2016-05-30"
+      },
+      "pages": 6,
+      "action_date": "2016-05-30",
+      "links": {
+        "self": "/company/09064554/filing-history/MzE1Mjg3Mzg3MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/BrSPnUXrpZLhTC-HHsrGrSz-JtmRPZU1P31u5-P2ssw"
+      }
+    },
+    {
+      "transaction_id": "MzE0Mjg3MDcwOWFkaXF6a2N4",
+      "barcode": "X51JPSKO",
+      "type": "AA",
+      "date": "2016-02-26",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2015-05-31"
+      },
+      "pages": 2,
+      "action_date": "2015-05-31",
+      "links": {
+        "self": "/company/09064554/filing-history/MzE0Mjg3MDcwOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/oGMoVYjQSvAT5-Ef9xpmWhyYiUPpGjDGAshKYxNp5IY"
+      }
+    },
+    {
+      "transaction_id": "MzEzMDIzNTkzMGFkaXF6a2N4",
+      "barcode": "X4F065JM",
+      "type": "CERTNM",
+      "date": "2015-09-02",
+      "category": "change-of-name",
+      "resolutions": [
+        {
+          "category": "change-of-name",
+          "description": "resolution-change-of-name",
+          "type": "RES15",
+          "subcategory": "resolution",
+          "description_values": {
+            "resolution_date": "2015-08-01"
+          }
+        }
+      ],
+      "associated_filings": [
+        {
+          "category": "change-of-name",
+          "date": "2015-09-02",
+          "description": "change-of-name-by-resolution",
+          "type": "NM01"
+        }
+      ],
+      "subcategory": "certificate",
+      "description": "certificate-change-of-name-company",
+      "description_values": {
+        "description": "Company name changed international property professional LIMITED\\certificate issued on 02/09/15"
+      },
+      "pages": 3,
+      "links": {
+        "self": "/company/09064554/filing-history/MzEzMDIzNTkzMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/kXqRnczioQQbfrK-nNvBmKwmREqS2OE4pgtf8T4j6SQ"
+      }
+    },
+    {
+      "transaction_id": "MzEzMDE0NzAzM2FkaXF6a2N4",
+      "barcode": "X4F056KO",
+      "type": "AP01",
+      "date": "2015-09-01",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Mr Frans De Ru",
+        "appointment_date": "2015-08-01"
+      },
+      "pages": 2,
+      "action_date": "2015-08-01",
+      "links": {
+        "self": "/company/09064554/filing-history/MzEzMDE0NzAzM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/W3IYtA2SCwVvJlgxsGcWGvY4LHiCe4GGS9vEoQZ6e2Y"
+      }
+    },
+    {
+      "transaction_id": "MzEyNTY5NjYzNmFkaXF6a2N4",
+      "barcode": "X4A5SCEH",
+      "type": "AR01",
+      "date": "2015-06-23",
+      "category": "annual-return",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2015-06-23",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2015-06-23",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "100"
+              }
+            ]
+          },
+          "action_date": "2015-06-23"
+        }
+      ],
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2015-05-30"
+      },
+      "pages": 3,
+      "action_date": "2015-05-30",
+      "links": {
+        "self": "/company/09064554/filing-history/MzEyNTY5NjYzNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/vhUHpvf5XX8CBzSVeKGT4BVV502BR77-YTN8LWAYQ-g"
+      }
+    },
+    {
+      "transaction_id": "MzEwMTAwNjQ3NWFkaXF6a2N4",
+      "barcode": "X3907VUZ",
+      "type": "NEWINC",
+      "date": "2014-05-30",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2014-05-30",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2014-05-30",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "100"
+              }
+            ]
+          },
+          "action_date": "2014-05-30"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 36,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/09064554/filing-history/MzEwMTAwNjQ3NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/DJD7HBSwE3qOyn1lY-nHESW6oIRItJqopKDO-6RIO60"
+      }
+    }
+  ]
+}

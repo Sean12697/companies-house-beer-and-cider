@@ -1,0 +1,285 @@
+{
+  "company_name": "MISH MASH BREWERY LIMITED",
+  "company_number": "08943288",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/08943288"
+  },
+  "date_of_cessation": "2017-07-25",
+  "date_of_creation": "2014-03-17",
+  "registered_office_address": {
+    "address_line_1": "73 Twist Lane",
+    "locality": "Leigh",
+    "postal_code": "WN7 4DW",
+    "region": "Greater Manchester",
+    "country": "United Kingdom"
+  },
+  "sic_codes": [
+    "11050",
+    "56302"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzE4MDgwMDMwMGFkaXF6a2N4",
+      "type": "GAZ2",
+      "date": "2017-07-25",
+      "category": "gazette",
+      "description": "gazette-dissolved-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/08943288/filing-history/MzE4MDgwMDMwMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/mrIPPra_SIHSzNABGgKfjW39KnIQjXgOv1DcskUr-OM"
+      }
+    },
+    {
+      "transaction_id": "MzE3MzIzNTc3M2FkaXF6a2N4",
+      "barcode": "X642ZMP4",
+      "type": "AD01",
+      "date": "2017-04-10",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2017-04-10",
+        "old_address": "Cariocca Business Park 2 Sawley Road Manchester M40 8BB",
+        "new_address": "73 Twist Lane Leigh Greater Manchester WN7 4DW"
+      },
+      "pages": 1,
+      "action_date": "2017-04-10",
+      "links": {
+        "self": "/company/08943288/filing-history/MzE3MzIzNTc3M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/zjgy7q3aSSK1wAPbR-o6LwAt9YXPhgIKFz4DW5WHUxw"
+      }
+    },
+    {
+      "transaction_id": "MzE3MzA2NDc3OGFkaXF6a2N4",
+      "type": "DISS16(SOAS)",
+      "date": "2017-04-08",
+      "category": "dissolution",
+      "description": "dissolved-compulsory-strike-off-suspended",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/08943288/filing-history/MzE3MzA2NDc3OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/i7pLKzeWdul-GivNun5DZQdokow_hMj-75DZIwupDyQ"
+      }
+    },
+    {
+      "transaction_id": "MzE2OTkxMTM0NGFkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2017-03-07",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/08943288/filing-history/MzE2OTkxMTM0NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/4n6eydVVqn0vgwq4EuhShkdsX2IgHsYWSexwsDaLWZg"
+      }
+    },
+    {
+      "transaction_id": "MzE0NzA3ODI3OWFkaXF6a2N4",
+      "barcode": "X55OVC1C",
+      "type": "AR01",
+      "date": "2016-04-25",
+      "category": "annual-return",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2016-04-25",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2016-04-25",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "10"
+              }
+            ]
+          },
+          "action_date": "2016-04-25"
+        }
+      ],
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2016-03-17"
+      },
+      "pages": 4,
+      "action_date": "2016-03-17",
+      "links": {
+        "self": "/company/08943288/filing-history/MzE0NzA3ODI3OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/YhjWxUcQyOUvkWrhRQPHDtKs6JrosR8QLSqMa3qYlNQ"
+      }
+    },
+    {
+      "transaction_id": "MzE0NzA3Njg5NmFkaXF6a2N4",
+      "barcode": "X55OV9IR",
+      "type": "CH01",
+      "date": "2016-04-25",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2016-04-24",
+        "officer_name": "Mr David John Plant"
+      },
+      "pages": 2,
+      "action_date": "2016-04-24",
+      "links": {
+        "self": "/company/08943288/filing-history/MzE0NzA3Njg5NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/s6SnmhJoJkue6vVOvvNJ8ZMA8T3yQc3NWB2v2DOxJfk"
+      }
+    },
+    {
+      "transaction_id": "MzE0NzA3Njg4MGFkaXF6a2N4",
+      "barcode": "X55OV9GB",
+      "type": "TM02",
+      "date": "2016-04-25",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-secretary-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Karen Laidlaw",
+        "termination_date": "2016-04-24"
+      },
+      "pages": 1,
+      "action_date": "2016-04-24",
+      "links": {
+        "self": "/company/08943288/filing-history/MzE0NzA3Njg4MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/V2Jmp3jZo5dVwLyu5xQPbNQ2AgiCgsKQ0yij6vj4Lcs"
+      }
+    },
+    {
+      "transaction_id": "MzE0NzA3Njg3M2FkaXF6a2N4",
+      "barcode": "X55OV9B6",
+      "type": "AP03",
+      "date": "2016-04-25",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-secretary-company-with-name-date",
+      "description_values": {
+        "officer_name": "David Plant",
+        "appointment_date": "2016-04-24"
+      },
+      "pages": 2,
+      "action_date": "2016-04-24",
+      "links": {
+        "self": "/company/08943288/filing-history/MzE0NzA3Njg3M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/4aAClhqZyzEGbD0S-j8LX_WicX-KdVH_FJ3crxmRVTE"
+      }
+    },
+    {
+      "transaction_id": "MzEzMTUyNzQ1NWFkaXF6a2N4",
+      "type": "DISS40",
+      "date": "2015-09-26",
+      "category": "gazette",
+      "description": "gazette-filings-brought-up-to-date",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/08943288/filing-history/MzEzMTUyNzQ1NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/GHfws6RlwNghUmj3s0mTnXbaX5p9aePTHJCq6_GPIWA"
+      }
+    },
+    {
+      "transaction_id": "MzEzMTUyNzYwOGFkaXF6a2N4",
+      "barcode": "X4GIQWMR",
+      "type": "AA",
+      "date": "2015-09-23",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2015-03-31"
+      },
+      "pages": 2,
+      "action_date": "2015-03-31",
+      "links": {
+        "self": "/company/08943288/filing-history/MzEzMTUyNzYwOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/MRoiQ_qmj7XyfocXFgcbG1YdqJwH7gvJhlJUJhGNd3Y"
+      }
+    },
+    {
+      "transaction_id": "MzEzMTUyNzQzOWFkaXF6a2N4",
+      "barcode": "X4GIQWGA",
+      "type": "AR01",
+      "date": "2015-09-23",
+      "category": "annual-return",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2015-09-23",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2015-09-23",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "10"
+              }
+            ]
+          },
+          "action_date": "2015-09-23"
+        }
+      ],
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2015-03-17"
+      },
+      "pages": 4,
+      "action_date": "2015-03-17",
+      "links": {
+        "self": "/company/08943288/filing-history/MzEzMTUyNzQzOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/7hv_oicLVaMCgQGEGZbFA1v_W9SnxoF70QSqDtk18_I"
+      }
+    },
+    {
+      "transaction_id": "MzEyNjc1NTQyM2FkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2015-07-21",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/08943288/filing-history/MzEyNjc1NTQyM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/_2OIGtUVkjnkBB4mxpXvmI4LEkXxy-4KBxzRSYI0Z9M"
+      }
+    },
+    {
+      "transaction_id": "MzA5NjM2NTk4OWFkaXF6a2N4",
+      "barcode": "X33VLVJS",
+      "type": "NEWINC",
+      "date": "2014-03-17",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2014-03-17",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2014-03-17",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "10"
+              }
+            ]
+          },
+          "action_date": "2014-03-17"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 28,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/08943288/filing-history/MzA5NjM2NTk4OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/c53t2t44IlzdUAMGzlZozJwObyQx5iqgqItzuL-MXBs"
+      }
+    }
+  ]
+}

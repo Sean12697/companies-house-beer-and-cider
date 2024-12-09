@@ -1,0 +1,139 @@
+{
+  "company_name": "STEELFISH BREWING CO LTD",
+  "company_number": "13244328",
+  "company_status": "active",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/13244328"
+  },
+  "date_of_creation": "2021-03-04",
+  "registered_office_address": {
+    "address_line_1": "5 Lindow Road",
+    "locality": "Manchester",
+    "postal_code": "M16 0DP",
+    "country": "United Kingdom"
+  },
+  "sic_codes": [
+    "11050",
+    "46342"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzQxNDMxMTE2NmFkaXF6a2N4",
+      "barcode": "XCYTIXW2",
+      "type": "CS01",
+      "date": "2024-03-13",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2024-03-03"
+      },
+      "pages": 3,
+      "action_date": "2024-03-03",
+      "links": {
+        "self": "/company/13244328/filing-history/MzQxNDMxMTE2NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/wafg0iGz5y-9c6WDm2lYlXO_V0o1dkkzYNSXybmTTkI"
+      }
+    },
+    {
+      "transaction_id": "MzQwMjYxNTkwM2FkaXF6a2N4",
+      "barcode": "XCHQ6B35",
+      "type": "AA",
+      "date": "2023-12-05",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2023-03-31"
+      },
+      "pages": 4,
+      "action_date": "2023-03-31",
+      "links": {
+        "self": "/company/13244328/filing-history/MzQwMjYxNTkwM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/8vsg4PhyvgWeBKKILMpDMjd-IWgkT3OqrbiFuEVmFcA"
+      }
+    },
+    {
+      "transaction_id": "MzM3MTQ1MTY0NmFkaXF6a2N4",
+      "barcode": "XBYIZ0TS",
+      "type": "CS01",
+      "date": "2023-03-03",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2023-03-03"
+      },
+      "pages": 3,
+      "action_date": "2023-03-03",
+      "links": {
+        "self": "/company/13244328/filing-history/MzM3MTQ1MTY0NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/M3nV7QX9K4BtloH4l0HVKw9qDklJm6MJfNJWFoI0NWU"
+      }
+    },
+    {
+      "transaction_id": "MzM2MDU2NzAzNGFkaXF6a2N4",
+      "barcode": "XBHWOMFL",
+      "type": "AA",
+      "date": "2022-12-01",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2022-03-31"
+      },
+      "pages": 4,
+      "action_date": "2022-03-31",
+      "links": {
+        "self": "/company/13244328/filing-history/MzM2MDU2NzAzNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Cjh-uc_j29r-twZvhC1kJY9xze5zTzQviLx0QKBRww8"
+      }
+    },
+    {
+      "transaction_id": "MzMzNTY3MDU1OGFkaXF6a2N4",
+      "barcode": "XB1IQSJW",
+      "type": "CS01",
+      "date": "2022-04-08",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2022-03-03"
+      },
+      "pages": 3,
+      "action_date": "2022-03-03",
+      "links": {
+        "self": "/company/13244328/filing-history/MzMzNTY3MDU1OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/dvat-dBOacaKQg8XiP24adzglAWPp0gnTKzBJB6dJDc"
+      }
+    },
+    {
+      "transaction_id": "MzI5MzE4MTk1OGFkaXF6a2N4",
+      "barcode": "X9ZI5W4G",
+      "type": "NEWINC",
+      "date": "2021-03-04",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2021-03-04",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2021-03-04",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2021-03-04"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 32,
+      "links": {
+        "self": "/company/13244328/filing-history/MzI5MzE4MTk1OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/nbnUv1Vp9nxYpFsKssnB6zVAb7khPGsRo5fOYXvV4n4"
+      }
+    }
+  ]
+}

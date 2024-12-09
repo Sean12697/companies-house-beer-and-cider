@@ -1,0 +1,86 @@
+{
+  "company_name": "BADWELLS BREWERY LTD",
+  "company_number": "11151246",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/11151246"
+  },
+  "date_of_cessation": "2019-06-25",
+  "date_of_creation": "2018-01-16",
+  "registered_office_address": {
+    "address_line_1": "7 Manchester Way",
+    "locality": "St. Ives",
+    "postal_code": "PE27 3DG",
+    "country": "United Kingdom"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzIzNzE0NTg1OWFkaXF6a2N4",
+      "type": "GAZ2",
+      "date": "2019-06-25",
+      "category": "gazette",
+      "description": "gazette-dissolved-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11151246/filing-history/MzIzNzE0NTg1OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/MjfdAUYn62sjab1fmWSJxFqpP15KvL9AkGO998suLTo"
+      }
+    },
+    {
+      "transaction_id": "MzIzMDQ0ODc4OWFkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2019-04-09",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11151246/filing-history/MzIzMDQ0ODc4OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/M_DAJVkrlDdjKQskjYP55PTWRnpN67_Pvz4LAFLkFeE"
+      }
+    },
+    {
+      "transaction_id": "MzE5NTMwNTg5MGFkaXF6a2N4",
+      "barcode": "X6XPQFKR",
+      "type": "NEWINC",
+      "date": "2018-01-16",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2018-01-16",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2018-01-16",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2018-01-16",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2018-01-16"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 11,
+      "links": {
+        "self": "/company/11151246/filing-history/MzE5NTMwNTg5MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/SYkYvZ5ViEXJ2v-yBOjYx7HS2jw1g6sva44chF3LC7E"
+      }
+    }
+  ]
+}

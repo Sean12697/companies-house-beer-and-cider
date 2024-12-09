@@ -1,0 +1,294 @@
+{
+  "company_name": "TWISTED WHEEL BREW CO LTD",
+  "company_number": "12379758",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/12379758"
+  },
+  "date_of_cessation": "2024-10-01",
+  "date_of_creation": "2019-12-30",
+  "registered_office_address": {
+    "address_line_1": "Kroll Adviory Ltd The Chancery",
+    "address_line_2": "58 Spring Gardens",
+    "locality": "Manchester",
+    "postal_code": "M2 1EW"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzQzNzk0NTkyNmFkaXF6a2N4",
+      "type": "GAZ2",
+      "date": "2024-10-01",
+      "category": "gazette",
+      "description": "gazette-dissolved-liquidation",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12379758/filing-history/MzQzNzk0NTkyNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/h-L8Zlmit1wn3UGQwPmHMiLK1zuk6PL20pvMopbebhU"
+      }
+    },
+    {
+      "transaction_id": "MzQyNjgzNDcxNWFkaXF6a2N4",
+      "barcode": "YD668DMH",
+      "type": "LIQ14",
+      "date": "2024-07-01",
+      "category": "insolvency",
+      "subcategory": "voluntary",
+      "description": "liquidation-voluntary-creditors-return-of-final-meeting",
+      "pages": 22,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12379758/filing-history/MzQyNjgzNDcxNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/QhqDyrRx6M61uTrVxK0vXrzMjKG87Lo0Yg3N18ZPfGg"
+      }
+    },
+    {
+      "transaction_id": "MzQxMzc1ODQyNGFkaXF6a2N4",
+      "barcode": "YCYDMMAI",
+      "type": "LIQ03",
+      "date": "2024-03-12",
+      "category": "insolvency",
+      "subcategory": "voluntary",
+      "description": "liquidation-voluntary-statement-of-receipts-and-payments-with-brought-down-date",
+      "description_values": {
+        "brought_down_date": "2024-01-11"
+      },
+      "pages": 20,
+      "action_date": "2024-01-11",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12379758/filing-history/MzQxMzc1ODQyNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/_N3r08utOEqtleOi9m1IQNNfIaEKC3HHkHsbcihl8kw"
+      }
+    },
+    {
+      "transaction_id": "MzM2ODMzNzA0MWFkaXF6a2N4",
+      "barcode": "YBWSS54G",
+      "type": "600",
+      "date": "2023-02-15",
+      "category": "insolvency",
+      "subcategory": "voluntary",
+      "description": "liquidation-voluntary-appointment-of-liquidator",
+      "pages": 3,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12379758/filing-history/MzM2ODMzNzA0MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZnFC6lVj-Aq7fl6UJVkqPS-oNAA1UVQWRSqwIDTcG6Q"
+      }
+    },
+    {
+      "transaction_id": "WUJXU1MzU0FhZGlxemtjeA",
+      "type": "RESOLUTIONS",
+      "date": "2023-02-15",
+      "category": "resolution",
+      "resolutions": [
+        {
+          "category": "liquidation",
+          "description": "liquidation-voluntary-extraordinary-resolution-to-wind-up-with-case-start-date",
+          "type": "LRESEX",
+          "subcategory": [
+            "voluntary",
+            "resolution"
+          ],
+          "description_values": {
+            "case_start_date": "2023-01-12"
+          },
+          "original_description": "Extraordinary resolution to wind up"
+        }
+      ],
+      "description": "resolution",
+      "description_values": {
+        "description": "Resolutions"
+      },
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12379758/filing-history/WUJXU1MzU0FhZGlxemtjeA",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/2fWh-AYIgFBggiEUOzCfOU1ONEiTNIxJ2m3wMEEVdYY"
+      }
+    },
+    {
+      "transaction_id": "MzM2NjA1MTA0NWFkaXF6a2N4",
+      "barcode": "YBVDNS29",
+      "type": "LIQ02",
+      "date": "2023-01-20",
+      "category": "insolvency",
+      "subcategory": "voluntary",
+      "description": "liquidation-voluntary-statement-of-affairs",
+      "pages": 8,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12379758/filing-history/MzM2NjA1MTA0NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/s3FCNxxZobiCwZeEbSUHUng7DxNnALDzHtkCFdqgGS0"
+      }
+    },
+    {
+      "transaction_id": "MzM2NjA1MTUzNWFkaXF6a2N4",
+      "barcode": "YBVDNUTV",
+      "type": "AD01",
+      "date": "2023-01-20",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2023-01-20",
+        "old_address": "Unit 11 Easter Court Europa Boulevard Warrington Cheshire WA5 7ZB United Kingdom",
+        "new_address": "Kroll Adviory Ltd the Chancery 58 Spring Gardens Manchester M2 Iew"
+      },
+      "pages": 2,
+      "action_date": "2023-01-20",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12379758/filing-history/MzM2NjA1MTUzNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/BHSctv_cfuPu_YcGug4wiqMf9ZUNQ-hLUZqE6wTmA0w"
+      }
+    },
+    {
+      "transaction_id": "MzM0MDYzMzgxN2FkaXF6a2N4",
+      "barcode": "XB4V4EI1",
+      "type": "AA",
+      "date": "2022-05-26",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2021-12-31"
+      },
+      "pages": 3,
+      "action_date": "2021-12-31",
+      "links": {
+        "self": "/company/12379758/filing-history/MzM0MDYzMzgxN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/2MiaCeyitMB2Qufverxy-UuMVF6NaTc96MA9Yyuwua0"
+      }
+    },
+    {
+      "transaction_id": "MzMyNTYwMTgyMmFkaXF6a2N4",
+      "barcode": "XAUY4V9D",
+      "type": "CS01",
+      "date": "2022-01-04",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2022-01-04"
+      },
+      "pages": 3,
+      "action_date": "2022-01-04",
+      "links": {
+        "self": "/company/12379758/filing-history/MzMyNTYwMTgyMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Ptrj1B9-Af3qkvV0PVW3McohPGdC9JEASpZ6oCTS_CI"
+      }
+    },
+    {
+      "transaction_id": "MzMwOTU4ODA3MWFkaXF6a2N4",
+      "barcode": "XAA47KK3",
+      "type": "AA",
+      "date": "2021-08-03",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2020-12-31"
+      },
+      "pages": 3,
+      "action_date": "2020-12-31",
+      "links": {
+        "self": "/company/12379758/filing-history/MzMwOTU4ODA3MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/8LxXsVoiveKzQNyLF4hetMcjS96p87EuVaYZ12JLrcg"
+      }
+    },
+    {
+      "transaction_id": "MzMwODQ4OTc1NmFkaXF6a2N4",
+      "barcode": "XA9AS02G",
+      "type": "AD01",
+      "date": "2021-07-22",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2021-07-22",
+        "old_address": "Unit 11 Unit 11 Easter Court Europa Boulevard Warrington WA5 7ZB England",
+        "new_address": "Unit 11 Easter Court Europa Boulevard Warrington Cheshire WA5 7ZB"
+      },
+      "pages": 1,
+      "action_date": "2021-07-22",
+      "links": {
+        "self": "/company/12379758/filing-history/MzMwODQ4OTc1NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/cR9YDJq2B3SnERZnuJKKAlBeNFyDMEmXR_ReK8gc-XA"
+      }
+    },
+    {
+      "transaction_id": "MzI4NzQ3NzE3NWFkaXF6a2N4",
+      "barcode": "X9VHDLSY",
+      "type": "CS01",
+      "date": "2021-01-04",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2020-12-29"
+      },
+      "pages": 3,
+      "action_date": "2020-12-29",
+      "links": {
+        "self": "/company/12379758/filing-history/MzI4NzQ3NzE3NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/lJ1knOeDqbd4Oc9k7zK9s5JSezwacVFSxmfBB4VyzuM"
+      }
+    },
+    {
+      "transaction_id": "MzI3OTYwNjgzMWFkaXF6a2N4",
+      "barcode": "X9EZQJSO",
+      "type": "AD01",
+      "date": "2020-10-05",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2020-10-05",
+        "old_address": "Standish Hall Farm Beech Walk Off Green Lane Standish Greater Manchetser WN6 0YQ United Kingdom",
+        "new_address": "Unit 11 Unit 11 Easter Court Europa Boulevard Warrington WA5 7ZB"
+      },
+      "pages": 1,
+      "action_date": "2020-10-05",
+      "links": {
+        "self": "/company/12379758/filing-history/MzI3OTYwNjgzMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/sfq0zpFfmZPAMfC8m3XEKIaLPQvP-wNQctq85bkyg1k"
+      }
+    },
+    {
+      "transaction_id": "MzI1MzI4Mzg5MWFkaXF6a2N4",
+      "barcode": "X8LCXDU1",
+      "type": "NEWINC",
+      "date": "2019-12-30",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2019-12-30",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2019-12-30",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2019-12-30",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "4"
+              }
+            ]
+          },
+          "action_date": "2019-12-30"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 8,
+      "links": {
+        "self": "/company/12379758/filing-history/MzI1MzI4Mzg5MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/rsVJEEQPTtKFYMt0KPaL8ZQJX3yQ5ffqMkfA83fwET4"
+      }
+    }
+  ]
+}

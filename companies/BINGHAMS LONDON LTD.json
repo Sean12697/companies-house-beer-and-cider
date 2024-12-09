@@ -1,0 +1,666 @@
+{
+  "company_name": "BINGHAMS LONDON LTD",
+  "company_number": "12147485",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/12147485"
+  },
+  "date_of_cessation": "2024-11-19",
+  "date_of_creation": "2019-08-09",
+  "registered_office_address": {
+    "address_line_1": "290 Moston Lane",
+    "locality": "Manchester",
+    "postal_code": "M40 9WB",
+    "country": "England"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzQ0MjczODA0NWFkaXF6a2N4",
+      "type": "GAZ2",
+      "date": "2024-11-19",
+      "category": "gazette",
+      "description": "gazette-dissolved-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12147485/filing-history/MzQ0MjczODA0NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/kmdxtcAAZ5AvCxH1NNxvf-rnYIaXZBLBB3O-EFR6X-E"
+      }
+    },
+    {
+      "transaction_id": "MzM1NTY0MjA4NWFkaXF6a2N4",
+      "barcode": "XBEWYLQW",
+      "type": "AD01",
+      "date": "2022-10-18",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2022-10-18",
+        "old_address": "83 Ducie Street Ducie Street Manchester M1 2JQ England",
+        "new_address": "PO Box *Default* 290 Moston Lane Manchester M40 9WB"
+      },
+      "pages": 1,
+      "action_date": "2022-10-18",
+      "links": {
+        "self": "/company/12147485/filing-history/MzM1NTY0MjA4NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/PobBw2M9jBJHJCPpx1x8XlX9Hlm4WIxGaRwnDSQgWS4"
+      }
+    },
+    {
+      "transaction_id": "MzM1NDU5MTIxNGFkaXF6a2N4",
+      "type": "DISS16(SOAS)",
+      "date": "2022-10-11",
+      "category": "dissolution",
+      "description": "dissolved-compulsory-strike-off-suspended",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12147485/filing-history/MzM1NDU5MTIxNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/DtMGPXwuoIz_SBLOopYOuEc82AGWJajMJVnkVF9YADo"
+      }
+    },
+    {
+      "transaction_id": "MzM0OTMwNTA3OWFkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2022-08-30",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12147485/filing-history/MzM0OTMwNTA3OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/xlzBXRfcDcshT_-iz1qeqwqHgPigqbhfmT74hnnMal0"
+      }
+    },
+    {
+      "transaction_id": "MzM0MTE0ODk1NmFkaXF6a2N4",
+      "barcode": "XB564DE1",
+      "type": "AA",
+      "date": "2022-05-31",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2021-08-31"
+      },
+      "pages": 3,
+      "action_date": "2021-08-31",
+      "links": {
+        "self": "/company/12147485/filing-history/MzM0MTE0ODk1NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/bo1r56yqc8D3AgdviGEIszgvAquSQ7OxHbd_Lciwtxs"
+      }
+    },
+    {
+      "transaction_id": "MzMxMDEyODUxN2FkaXF6a2N4",
+      "barcode": "XAAJVOSY",
+      "type": "CS01",
+      "date": "2021-08-09",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2021-06-09"
+      },
+      "pages": 4,
+      "action_date": "2021-06-09",
+      "links": {
+        "self": "/company/12147485/filing-history/MzMxMDEyODUxN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ViIK32Eq3Q2QYYzvDPqEq5PANB2QodRiPHZ25UglL0U"
+      }
+    },
+    {
+      "transaction_id": "MzMxMDEyNjQwMWFkaXF6a2N4",
+      "barcode": "XAAJVGXM",
+      "type": "TM02",
+      "date": "2021-08-09",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-secretary-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Milo Bunyard",
+        "termination_date": "2021-08-06"
+      },
+      "pages": 1,
+      "action_date": "2021-08-06",
+      "links": {
+        "self": "/company/12147485/filing-history/MzMxMDEyNjQwMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/3DZThu1S8NAYTeVIPkdi-PDm7FtV1s6Syy-fB_fn4Gw"
+      }
+    },
+    {
+      "transaction_id": "MzMxMDEyNjQxMmFkaXF6a2N4",
+      "barcode": "XAAJVGYA",
+      "type": "TM01",
+      "date": "2021-08-09",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-director-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Milo Bunyard",
+        "termination_date": "2021-08-06"
+      },
+      "pages": 1,
+      "action_date": "2021-08-06",
+      "links": {
+        "self": "/company/12147485/filing-history/MzMxMDEyNjQxMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/8AQClmm9QY2wKzEQTTIPZ0wFjXYgn0afSdMnYIsPZ3Q"
+      }
+    },
+    {
+      "transaction_id": "MzMwNjQ2NDY5N2FkaXF6a2N4",
+      "barcode": "XA7TMBKP",
+      "type": "PSC07",
+      "date": "2021-07-01",
+      "category": "persons-with-significant-control",
+      "subcategory": "termination",
+      "description": "cessation-of-a-person-with-significant-control",
+      "description_values": {
+        "psc_name": "Milo Bunyard",
+        "cessation_date": "2021-06-25"
+      },
+      "pages": 1,
+      "action_date": "2021-06-25",
+      "links": {
+        "self": "/company/12147485/filing-history/MzMwNjQ2NDY5N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/4cO6ja1n3IOEyZNcZ3PAfM33xM2WnzkQnGqbEx3F1IM"
+      }
+    },
+    {
+      "transaction_id": "MzMwNTkxNjQyMGFkaXF6a2N4",
+      "barcode": "XA7L2NAR",
+      "type": "PSC01",
+      "date": "2021-06-28",
+      "category": "persons-with-significant-control",
+      "subcategory": "notifications",
+      "description": "notification-of-a-person-with-significant-control",
+      "description_values": {
+        "psc_name": "Myles Bunyard",
+        "notification_date": "2021-06-25"
+      },
+      "pages": 2,
+      "action_date": "2021-06-25",
+      "links": {
+        "self": "/company/12147485/filing-history/MzMwNTkxNjQyMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/WQJjZ7s4tcDRwaCuvhmScwDKFS3QcOE_J61-TdIBDuo"
+      }
+    },
+    {
+      "transaction_id": "MzMwNTkxNTA5MWFkaXF6a2N4",
+      "barcode": "XA7L2I3T",
+      "type": "AP01",
+      "date": "2021-06-28",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Mr Myles Bunyard",
+        "appointment_date": "2021-06-25"
+      },
+      "pages": 2,
+      "action_date": "2021-06-25",
+      "links": {
+        "self": "/company/12147485/filing-history/MzMwNTkxNTA5MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/iJYFro7_9XsfeZYZH0munDxA9zRVOOFyFw9qY7Xb5BU"
+      }
+    },
+    {
+      "transaction_id": "MzI5OTQ0MTQyMmFkaXF6a2N4",
+      "barcode": "XA3H0UIH",
+      "type": "AA",
+      "date": "2021-04-29",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2020-08-31"
+      },
+      "pages": 3,
+      "action_date": "2020-08-31",
+      "links": {
+        "self": "/company/12147485/filing-history/MzI5OTQ0MTQyMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/9U-ef9J50pKlBtippFBb_rNN0cLKB0oqnCoKqTHZoho"
+      }
+    },
+    {
+      "transaction_id": "MzI5NDI2MDA2NGFkaXF6a2N4",
+      "barcode": "XA06BWXE",
+      "type": "PSC01",
+      "date": "2021-03-13",
+      "category": "persons-with-significant-control",
+      "subcategory": "notifications",
+      "description": "notification-of-a-person-with-significant-control",
+      "description_values": {
+        "psc_name": "Milo Bunyard",
+        "notification_date": "2020-06-20"
+      },
+      "pages": 2,
+      "action_date": "2020-06-20",
+      "links": {
+        "self": "/company/12147485/filing-history/MzI5NDI2MDA2NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/9pZdpz6ClSywHWB4B5yx0KROambuwDnmoMM5kX3BMFg"
+      }
+    },
+    {
+      "transaction_id": "MzI5NDI2MDA1OWFkaXF6a2N4",
+      "barcode": "XA06BWO3",
+      "type": "TM01",
+      "date": "2021-03-13",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-director-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Lucy Whittaker",
+        "termination_date": "2020-06-20"
+      },
+      "pages": 1,
+      "action_date": "2020-06-20",
+      "links": {
+        "self": "/company/12147485/filing-history/MzI5NDI2MDA1OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/d124RPjUad-D6_ALgl3pxPrdvc0cY_NUMunvleoCf4Q"
+      }
+    },
+    {
+      "transaction_id": "MzI5NDI2MDAzMmFkaXF6a2N4",
+      "barcode": "XA06BWV6",
+      "type": "AP03",
+      "date": "2021-03-13",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-secretary-company-with-name-date",
+      "description_values": {
+        "officer_name": "Mr Milo Bunyard",
+        "appointment_date": "2020-06-20"
+      },
+      "pages": 2,
+      "action_date": "2020-06-20",
+      "links": {
+        "self": "/company/12147485/filing-history/MzI5NDI2MDAzMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/WuPV1qH3WUR4wKs-G3aLZeTchXjhgzAwwJoxGgsjVXo"
+      }
+    },
+    {
+      "transaction_id": "MzI5NDI2MDAyOGFkaXF6a2N4",
+      "barcode": "XA06BWNB",
+      "type": "PSC07",
+      "date": "2021-03-13",
+      "category": "persons-with-significant-control",
+      "subcategory": "termination",
+      "description": "cessation-of-a-person-with-significant-control",
+      "description_values": {
+        "psc_name": "Lucy Whittaker",
+        "cessation_date": "2020-06-20"
+      },
+      "pages": 1,
+      "action_date": "2020-06-20",
+      "links": {
+        "self": "/company/12147485/filing-history/MzI5NDI2MDAyOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/-ULv2AxYSHUwCWai9iUDze-d5Z8OQfj5R45jGuxZI1Y"
+      }
+    },
+    {
+      "transaction_id": "MzI5NDI2MDAyNmFkaXF6a2N4",
+      "barcode": "XA06BWPF",
+      "type": "AD01",
+      "date": "2021-03-13",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2021-03-13",
+        "old_address": "Kemp House 160 City Road London EC1V 2NX United Kingdom",
+        "new_address": "83 Ducie Street Ducie Street Manchester M1 2JQ"
+      },
+      "pages": 1,
+      "action_date": "2021-03-13",
+      "links": {
+        "self": "/company/12147485/filing-history/MzI5NDI2MDAyNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Kx_40pTbYg_IjN_Iq62rg_emn4HIy-4uaAxvhf3cDGU"
+      }
+    },
+    {
+      "transaction_id": "MzI5NDI2MDAyMWFkaXF6a2N4",
+      "barcode": "XA06BWTN",
+      "type": "AP01",
+      "date": "2021-03-13",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Mr Milo Bunyard",
+        "appointment_date": "2020-06-08"
+      },
+      "pages": 2,
+      "action_date": "2020-06-08",
+      "links": {
+        "self": "/company/12147485/filing-history/MzI5NDI2MDAyMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/YVYf0k03PCg9H7ICZKZ1Cz5B3ZdMGIHnadmlqW1zkcI"
+      }
+    },
+    {
+      "transaction_id": "MzI3NzY1NzQyOGFkaXF6a2N4",
+      "barcode": "X9DKWAT7",
+      "type": "RESOLUTIONS",
+      "date": "2020-09-15",
+      "category": "resolution",
+      "resolutions": [
+        {
+          "category": "change-of-name",
+          "description": "resolution-change-of-name",
+          "type": "RES15",
+          "subcategory": "resolution",
+          "description_values": {
+            "resolution_date": "2020-09-14"
+          }
+        }
+      ],
+      "associated_filings": [
+        {
+          "category": "change-of-name",
+          "date": "2020-09-15",
+          "description": "change-of-name-by-resolution",
+          "type": "NM01"
+        }
+      ],
+      "subcategory": "certificate",
+      "description": "resolution",
+      "description_values": {
+        "description": "Resolutions"
+      },
+      "pages": 3,
+      "links": {
+        "self": "/company/12147485/filing-history/MzI3NzY1NzQyOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/6X6id0G1lN0CCcLYYQGTTgFDWPxFEeQb8rgSYBUDfZw"
+      }
+    },
+    {
+      "transaction_id": "MzI2Nzc0OTk2MmFkaXF6a2N4",
+      "barcode": "X97HCMZ4",
+      "type": "RESOLUTIONS",
+      "date": "2020-06-19",
+      "category": "resolution",
+      "resolutions": [
+        {
+          "category": "change-of-name",
+          "description": "resolution-change-of-name",
+          "type": "RES15",
+          "subcategory": "resolution",
+          "description_values": {
+            "resolution_date": "2020-06-12"
+          }
+        }
+      ],
+      "associated_filings": [
+        {
+          "category": "change-of-name",
+          "date": "2020-06-19",
+          "description": "change-of-name-by-resolution",
+          "type": "NM01"
+        }
+      ],
+      "subcategory": "certificate",
+      "description": "resolution",
+      "description_values": {
+        "description": "Resolutions"
+      },
+      "pages": 3,
+      "links": {
+        "self": "/company/12147485/filing-history/MzI2Nzc0OTk2MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/PEIwN4xnV-lobQDVtQQXedqkXdY7dwysMiploZC1si8"
+      }
+    },
+    {
+      "transaction_id": "MzI2NzY1MjE5OGFkaXF6a2N4",
+      "barcode": "X97HCLZV",
+      "type": "PSC01",
+      "date": "2020-06-18",
+      "category": "persons-with-significant-control",
+      "subcategory": "notifications",
+      "description": "notification-of-a-person-with-significant-control",
+      "description_values": {
+        "psc_name": "Lucy Whittaker",
+        "notification_date": "2020-06-12"
+      },
+      "pages": 2,
+      "action_date": "2020-06-12",
+      "links": {
+        "self": "/company/12147485/filing-history/MzI2NzY1MjE5OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/oufqaXfZ34gvXhEx8S4xE-0BpPL5kO9kwZh6ejWngLE"
+      }
+    },
+    {
+      "transaction_id": "MzI2NjkxNjQ0M2FkaXF6a2N4",
+      "barcode": "X96TGPJC",
+      "type": "CS01",
+      "date": "2020-06-09",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2020-06-09"
+      },
+      "pages": 4,
+      "action_date": "2020-06-09",
+      "links": {
+        "self": "/company/12147485/filing-history/MzI2NjkxNjQ0M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/SXTW9snAf1rVTFlHcqKf2ghwrgUFKXX-juoztWjdfq4"
+      }
+    },
+    {
+      "transaction_id": "MzI2NjkxNjQyOWFkaXF6a2N4",
+      "barcode": "X96TGPNC",
+      "type": "PSC07",
+      "date": "2020-06-09",
+      "category": "persons-with-significant-control",
+      "subcategory": "termination",
+      "description": "cessation-of-a-person-with-significant-control",
+      "description_values": {
+        "psc_name": "French Sole Holdings Sl",
+        "cessation_date": "2020-06-08"
+      },
+      "pages": 1,
+      "action_date": "2020-06-08",
+      "links": {
+        "self": "/company/12147485/filing-history/MzI2NjkxNjQyOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/K3ZEExVH6Sl8bsEdzyfsQn21iyAQyJCsVKn_Fr9hC6g"
+      }
+    },
+    {
+      "transaction_id": "MzI2NjkxNjIzNmFkaXF6a2N4",
+      "barcode": "X96TGOWH",
+      "type": "TM01",
+      "date": "2020-06-09",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-director-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Hugh Craen",
+        "termination_date": "2020-06-08"
+      },
+      "pages": 1,
+      "action_date": "2020-06-08",
+      "links": {
+        "self": "/company/12147485/filing-history/MzI2NjkxNjIzNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/bkAgf1I8Fpv_soS4dsnObfI_qSsvYqlxkzHmt1vSEco"
+      }
+    },
+    {
+      "transaction_id": "MzI2NjkxMzE0MWFkaXF6a2N4",
+      "barcode": "X96TGD6P",
+      "type": "AP01",
+      "date": "2020-06-09",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Ms Lucy Whittaker",
+        "appointment_date": "2020-06-08"
+      },
+      "pages": 2,
+      "action_date": "2020-06-08",
+      "links": {
+        "self": "/company/12147485/filing-history/MzI2NjkxMzE0MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/uqilloaf2htnwPfdxOsaxGTAYT6y6Wf3HFYdm_2O11o"
+      }
+    },
+    {
+      "transaction_id": "MzI2Njc0MTY4NGFkaXF6a2N4",
+      "barcode": "X96LL30W",
+      "type": "CS01",
+      "date": "2020-06-06",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2020-06-06"
+      },
+      "pages": 4,
+      "action_date": "2020-06-06",
+      "links": {
+        "self": "/company/12147485/filing-history/MzI2Njc0MTY4NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Mi-IG_Bpn04bOENOuxYw8tCld2stmrWFtuuWkx2053Q"
+      }
+    },
+    {
+      "transaction_id": "MzI2NjY4NDk4N2FkaXF6a2N4",
+      "barcode": "X96LIEYO",
+      "type": "TM01",
+      "date": "2020-06-05",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-director-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "David Howick",
+        "termination_date": "2020-06-04"
+      },
+      "pages": 1,
+      "action_date": "2020-06-04",
+      "links": {
+        "self": "/company/12147485/filing-history/MzI2NjY4NDk4N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/vjtyCoHpyErP-LG_K4b40wC3DjV06-e-Y-JQa6n_Nyw"
+      }
+    },
+    {
+      "transaction_id": "MzI2NjY4MzcxNWFkaXF6a2N4",
+      "barcode": "X96LIA4P",
+      "type": "AP01",
+      "date": "2020-06-05",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Mr Hugh Craen",
+        "appointment_date": "2020-06-04"
+      },
+      "pages": 2,
+      "action_date": "2020-06-04",
+      "links": {
+        "self": "/company/12147485/filing-history/MzI2NjY4MzcxNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/hbVTo_qQJBTPEgV1LFrJu9iyuVCDs3nKUNEKEheAMcY"
+      }
+    },
+    {
+      "transaction_id": "MzI2NTQ3OTA4M2FkaXF6a2N4",
+      "barcode": "X95KAZ0H",
+      "type": "CS01",
+      "date": "2020-05-22",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2020-05-22"
+      },
+      "pages": 4,
+      "action_date": "2020-05-22",
+      "links": {
+        "self": "/company/12147485/filing-history/MzI2NTQ3OTA4M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/FTxuBLAYsZnr8Xa-vrQ-W8GcXhtrD78l8kqLMbETiVQ"
+      }
+    },
+    {
+      "transaction_id": "MzI2NDAyMjU4OWFkaXF6a2N4",
+      "barcode": "X94GK3E3",
+      "type": "TM01",
+      "date": "2020-05-06",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-director-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Peter James Neagle",
+        "termination_date": "2020-05-05"
+      },
+      "pages": 1,
+      "action_date": "2020-05-05",
+      "links": {
+        "self": "/company/12147485/filing-history/MzI2NDAyMjU4OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/qtP286tsymZtuTKWHNhI-FGhfxbf2IpeN8yZlk5ouf0"
+      }
+    },
+    {
+      "transaction_id": "MzI2Mzk1MDcyMWFkaXF6a2N4",
+      "barcode": "X94DZ2KR",
+      "type": "AP01",
+      "date": "2020-05-05",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Mr David Howick",
+        "appointment_date": "2020-05-04"
+      },
+      "pages": 2,
+      "action_date": "2020-05-04",
+      "links": {
+        "self": "/company/12147485/filing-history/MzI2Mzk1MDcyMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/uoIaoxPWyF1HIy4yQu3mV7_TicFxLCx4_c8rYgNEbSM"
+      }
+    },
+    {
+      "transaction_id": "MzI2MzI5MzYzNmFkaXF6a2N4",
+      "barcode": "X93SJOTE",
+      "type": "PSC05",
+      "date": "2020-04-26",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2019-09-25",
+        "psc_name": "Ubrewcc Limited"
+      },
+      "pages": 2,
+      "action_date": "2019-09-25",
+      "links": {
+        "self": "/company/12147485/filing-history/MzI2MzI5MzYzNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/_i6UARRMPf780JcDFTz4q1TZIeORBQjZ3qmVx6739zc"
+      }
+    },
+    {
+      "transaction_id": "MzI0MTMyMDMzMmFkaXF6a2N4",
+      "barcode": "X8BF0VUP",
+      "type": "NEWINC",
+      "date": "2019-08-09",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2019-08-09",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2019-08-09",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2019-08-09"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 29,
+      "links": {
+        "self": "/company/12147485/filing-history/MzI0MTMyMDMzMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Bwh4r8fif9uzFtEHXMcZtlB-x5rS1CC8nLuInEyGEHM"
+      }
+    }
+  ]
+}

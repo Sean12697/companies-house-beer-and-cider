@@ -1,0 +1,107 @@
+{
+  "company_name": "FUNDAMENTUM BREWERY LTD",
+  "company_number": "10351172",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/10351172"
+  },
+  "date_of_cessation": "2018-01-30",
+  "date_of_creation": "2016-08-30",
+  "registered_office_address": {
+    "address_line_1": "Fundamentum Brewery Unit 1, 11 Cotton Street",
+    "address_line_2": "Ancoats",
+    "locality": "Manchester",
+    "postal_code": "M4 5BF",
+    "region": "Greater Manchester",
+    "country": "England"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzE5NTg5Nzc3NGFkaXF6a2N4",
+      "type": "GAZ2",
+      "date": "2018-01-30",
+      "category": "gazette",
+      "description": "gazette-dissolved-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/10351172/filing-history/MzE5NTg5Nzc3NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Yt-gyrrdqAV69eFhG10UiUtVLJomVvfbnXDinFC6Yjo"
+      }
+    },
+    {
+      "transaction_id": "MzE4OTY3OTMwOGFkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2017-11-14",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/10351172/filing-history/MzE4OTY3OTMwOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/I43kAn_aHGrbgA0e7WJpoHfBrko5FisH5MHVdtOKtI8"
+      }
+    },
+    {
+      "transaction_id": "MzE1OTA2ODQyNmFkaXF6a2N4",
+      "barcode": "X5H1LYG3",
+      "type": "AD01",
+      "date": "2016-10-06",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2016-10-06",
+        "old_address": "11 Cotton Street Ancoats Manchester M4 5BD United Kingdom",
+        "new_address": "Fundamentum Brewery Unit 1, 11 Cotton Street Ancoats Manchester Greater Manchester M4 5BF"
+      },
+      "pages": 1,
+      "action_date": "2016-10-06",
+      "links": {
+        "self": "/company/10351172/filing-history/MzE1OTA2ODQyNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/aideXVttQbEJhpG3JpmYMJSybhxuUtYltRZcULEjJ5Q"
+      }
+    },
+    {
+      "transaction_id": "MzE1NjEwODMyMGFkaXF6a2N4",
+      "barcode": "X5EF3LW1",
+      "type": "NEWINC",
+      "date": "2016-08-30",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2016-08-30",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2016-08-30",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2016-08-30",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "3"
+              }
+            ]
+          },
+          "action_date": "2016-08-30"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 15,
+      "links": {
+        "self": "/company/10351172/filing-history/MzE1NjEwODMyMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/l0oTN5ToKtQZrGg89r-p4eIwIxH90ncW7QC1447rHl0"
+      }
+    }
+  ]
+}

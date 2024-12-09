@@ -1,0 +1,86 @@
+{
+  "company_name": "BREW 22 LIMITED",
+  "company_number": "13990459",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/13990459"
+  },
+  "date_of_cessation": "2024-01-30",
+  "date_of_creation": "2022-03-20",
+  "registered_office_address": {
+    "address_line_1": "4 Peggy Lane",
+    "locality": "Manchester",
+    "postal_code": "M22 4EU",
+    "country": "England"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzQwODU5NDI2M2FkaXF6a2N4",
+      "type": "GAZ2",
+      "date": "2024-01-30",
+      "category": "gazette",
+      "description": "gazette-dissolved-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13990459/filing-history/MzQwODU5NDI2M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/xWQHsSprdo1tqzQWmB75yKrH9iv_5TQJUm_ficiXblE"
+      }
+    },
+    {
+      "transaction_id": "MzM5ODk1OTA4OWFkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2023-11-14",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13990459/filing-history/MzM5ODk1OTA4OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/6gdPlTA5jYMykjKEFEJ159iUJ0IaGjJQy8LMtP7mVhY"
+      }
+    },
+    {
+      "transaction_id": "MzMzMzM5ODgyNWFkaXF6a2N4",
+      "barcode": "XB05VNCI",
+      "type": "NEWINC",
+      "date": "2022-03-20",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2022-03-20",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2022-03-20",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2022-03-20",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2022-03-20"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 10,
+      "links": {
+        "self": "/company/13990459/filing-history/MzMzMzM5ODgyNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/SouZfJ66jao_YZCefvlopguqR02Z-fXkg4SURsWVGyU"
+      }
+    }
+  ]
+}

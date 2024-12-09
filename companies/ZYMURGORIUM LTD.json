@@ -1,0 +1,456 @@
+{
+  "company_name": "ZYMURGORIUM LTD",
+  "company_number": "10372165",
+  "company_status": "active",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/10372165"
+  },
+  "date_of_creation": "2016-09-13",
+  "registered_office_address": {
+    "address_line_1": "Unit B6 Fairhills Road",
+    "address_line_2": "Irlam",
+    "locality": "Manchester",
+    "postal_code": "M44 6BA",
+    "country": "England"
+  },
+  "sic_codes": [
+    "11010",
+    "11030",
+    "11040",
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzQ0NTg4MTEzM2FkaXF6a2N4",
+      "barcode": "ADGTBEW1",
+      "type": "MR04",
+      "date": "2024-11-28",
+      "category": "mortgage",
+      "subcategory": "satisfy",
+      "description": "mortgage-satisfy-charge-full",
+      "description_values": {
+        "charge_number": "103721650001"
+      },
+      "pages": 4,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/10372165/filing-history/MzQ0NTg4MTEzM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/jC_iBRq6JhsX_2KwGmRsXHNk7Vc0LmrO5O351hi2u_M"
+      }
+    },
+    {
+      "transaction_id": "MzQzNTEwOTM0MWFkaXF6a2N4",
+      "barcode": "XDBC4PQX",
+      "type": "CS01",
+      "date": "2024-09-10",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2024-09-10"
+      },
+      "pages": 3,
+      "action_date": "2024-09-10",
+      "links": {
+        "self": "/company/10372165/filing-history/MzQzNTEwOTM0MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/4bqoMfEPvt9iMoMGmZh7_ANnFm9zT4Fe_BC6L3u-jPE"
+      }
+    },
+    {
+      "transaction_id": "MzQwNjIzMDM4OWFkaXF6a2N4",
+      "barcode": "ACIXBERL",
+      "type": "AA",
+      "date": "2024-01-11",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2022-12-31"
+      },
+      "pages": 9,
+      "action_date": "2022-12-31",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/10372165/filing-history/MzQwNjIzMDM4OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/H7LvXVQoGjRpyojkKNBIVW23-bIXCHmpdBCDzLuYSx8"
+      }
+    },
+    {
+      "transaction_id": "MzM5NDc0NzQyNWFkaXF6a2N4",
+      "barcode": "XCD05OUR",
+      "type": "AA01",
+      "date": "2023-09-28",
+      "category": "accounts",
+      "description": "change-account-reference-date-company-previous-shortened",
+      "description_values": {
+        "made_up_date": "2022-12-31",
+        "new_date": "2022-12-30"
+      },
+      "pages": 1,
+      "action_date": "2022-12-30",
+      "links": {
+        "self": "/company/10372165/filing-history/MzM5NDc0NzQyNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/YLzMbSEABVQtFUf-MexdH0wdllY4MK8HrsxebTjB050"
+      }
+    },
+    {
+      "transaction_id": "MzM5NDA2MzYyNGFkaXF6a2N4",
+      "barcode": "XCCMK5H4",
+      "type": "CS01",
+      "date": "2023-09-22",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2023-09-12"
+      },
+      "pages": 3,
+      "action_date": "2023-09-12",
+      "links": {
+        "self": "/company/10372165/filing-history/MzM5NDA2MzYyNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/WUPhviq4S1nCUn0K_aCwBp9D64zTu_QBxIeCwnHhj5E"
+      }
+    },
+    {
+      "transaction_id": "MzM2NDI5OTc5N2FkaXF6a2N4",
+      "barcode": "ABJD1MCZ",
+      "type": "AA",
+      "date": "2023-01-03",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2021-12-31"
+      },
+      "pages": 9,
+      "action_date": "2021-12-31",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/10372165/filing-history/MzM2NDI5OTc5N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Ti6R8-HMfUdxEc1qnM-YwT2cylaaytA8A23ZZDd7vLE"
+      }
+    },
+    {
+      "transaction_id": "MzM1MzM5MTE3N2FkaXF6a2N4",
+      "barcode": "XBDHVXAB",
+      "type": "CS01",
+      "date": "2022-09-28",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2022-09-12"
+      },
+      "pages": 3,
+      "action_date": "2022-09-12",
+      "links": {
+        "self": "/company/10372165/filing-history/MzM1MzM5MTE3N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/b23kGqOX-ojWeADQnz2QIne39yuCdTpjtnY_HZz_S-c"
+      }
+    },
+    {
+      "transaction_id": "MzMyNjE5MzgwOGFkaXF6a2N4",
+      "barcode": "XAVE38VF",
+      "type": "PSC05",
+      "date": "2022-01-10",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2018-12-27",
+        "psc_name": "Zym Group Limited"
+      },
+      "pages": 2,
+      "action_date": "2018-12-27",
+      "links": {
+        "self": "/company/10372165/filing-history/MzMyNjE5MzgwOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Xp8s48SDPaflN4zIu-dLNZ859qXveAJJqyjF0Y98lNg"
+      }
+    },
+    {
+      "transaction_id": "MzMxNTI4MjcxMGFkaXF6a2N4",
+      "barcode": "AADRKHJT",
+      "type": "AA",
+      "date": "2021-09-30",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2020-12-31"
+      },
+      "pages": 9,
+      "action_date": "2020-12-31",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/10372165/filing-history/MzMxNTI4MjcxMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/zUHE7pBtYO6RO3-08sWujtPMEm0NdUCPAxYQUyF94Xs"
+      }
+    },
+    {
+      "transaction_id": "MzMxNDYwMTIwOWFkaXF6a2N4",
+      "barcode": "XADL6THC",
+      "type": "CS01",
+      "date": "2021-09-22",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2021-09-12"
+      },
+      "pages": 3,
+      "action_date": "2021-09-12",
+      "links": {
+        "self": "/company/10372165/filing-history/MzMxNDYwMTIwOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/4E0Ui0Bantf_MRzzGsAf2yr6dCw6ddKZkjFjnjBljrY"
+      }
+    },
+    {
+      "transaction_id": "MzI4NDIzNjE5OWFkaXF6a2N4",
+      "barcode": "X9IH6436",
+      "type": "CS01",
+      "date": "2020-11-24",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2020-09-12"
+      },
+      "pages": 3,
+      "action_date": "2020-09-12",
+      "links": {
+        "self": "/company/10372165/filing-history/MzI4NDIzNjE5OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/bFFKtixBt3yhiLqpn47w9Xhdp3VwCn2md-YTpK-EWGY"
+      }
+    },
+    {
+      "transaction_id": "MzI3OTcwMzA0MWFkaXF6a2N4",
+      "barcode": "A9ET17MW",
+      "type": "AA",
+      "date": "2020-10-08",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2019-12-31"
+      },
+      "pages": 10,
+      "action_date": "2019-12-31",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/10372165/filing-history/MzI3OTcwMzA0MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/mU7fJvXxBBVg5gHutC0-WW9SxKy9_p3UurseVI57r3E"
+      }
+    },
+    {
+      "transaction_id": "MzI0NTgxNzg5MmFkaXF6a2N4",
+      "barcode": "X8F8MA61",
+      "type": "MR01",
+      "date": "2019-10-02",
+      "category": "mortgage",
+      "subcategory": "create",
+      "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+      "description_values": {
+        "charge_number": "103721650001",
+        "charge_creation_date": "2019-09-27"
+      },
+      "pages": 61,
+      "action_date": "2019-09-27",
+      "links": {
+        "self": "/company/10372165/filing-history/MzI0NTgxNzg5MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ugCLnVlap6TJAkYmGrJVMOvKzL5gqxnXPOwvgSVbG_8"
+      }
+    },
+    {
+      "transaction_id": "MzI0NTE1ODk0MmFkaXF6a2N4",
+      "barcode": "X8EPRN81",
+      "type": "CS01",
+      "date": "2019-09-25",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2019-09-12"
+      },
+      "pages": 4,
+      "action_date": "2019-09-12",
+      "links": {
+        "self": "/company/10372165/filing-history/MzI0NTE1ODk0MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/wHJSXZiTkoKs5FDnd616KtR2h4gSBlaRYuoRTifoOvc"
+      }
+    },
+    {
+      "transaction_id": "MzI0NTE1NDEyNWFkaXF6a2N4",
+      "barcode": "X8EPR58I",
+      "type": "PSC02",
+      "date": "2019-09-25",
+      "category": "persons-with-significant-control",
+      "subcategory": "notifications",
+      "description": "notification-of-a-person-with-significant-control",
+      "description_values": {
+        "psc_name": "Zym Group Limited",
+        "notification_date": "2018-12-27"
+      },
+      "pages": 2,
+      "action_date": "2018-12-27",
+      "links": {
+        "self": "/company/10372165/filing-history/MzI0NTE1NDEyNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/MTtd39aWlcLXVwN69J9S5ovQX0WYtd8eAiAuijoUF_w"
+      }
+    },
+    {
+      "transaction_id": "MzI0NTE1MTYxOWFkaXF6a2N4",
+      "barcode": "X8EPQWE1",
+      "type": "PSC07",
+      "date": "2019-09-25",
+      "category": "persons-with-significant-control",
+      "subcategory": "termination",
+      "description": "cessation-of-a-person-with-significant-control",
+      "description_values": {
+        "psc_name": "Aaron Ross Darke",
+        "cessation_date": "2018-12-27"
+      },
+      "pages": 1,
+      "action_date": "2018-12-27",
+      "links": {
+        "self": "/company/10372165/filing-history/MzI0NTE1MTYxOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/btZhmR57Ks_CMvX-Bri7NfFLLnnb6BvY2KssvxPE3rI"
+      }
+    },
+    {
+      "transaction_id": "MzI0NDg4OTE1M2FkaXF6a2N4",
+      "barcode": "A8EBOLP7",
+      "type": "AA",
+      "date": "2019-09-24",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2018-12-31"
+      },
+      "pages": 8,
+      "action_date": "2018-12-31",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/10372165/filing-history/MzI0NDg4OTE1M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/pYnT-_soofUIjorWLg4W9JR_XI7wKBb6BoKFHyUIvKo"
+      }
+    },
+    {
+      "transaction_id": "MzIxNTQ0OTU4NmFkaXF6a2N4",
+      "barcode": "X7FA5P6X",
+      "type": "CS01",
+      "date": "2018-09-26",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2018-09-12"
+      },
+      "pages": 4,
+      "action_date": "2018-09-12",
+      "links": {
+        "self": "/company/10372165/filing-history/MzIxNTQ0OTU4NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/3VP04thyVvVTEv3tJLx_bpP5bYVVMNNnck4fnOmj2d8"
+      }
+    },
+    {
+      "transaction_id": "MzIwNzQxMjcwM2FkaXF6a2N4",
+      "barcode": "A7817AOH",
+      "type": "AA",
+      "date": "2018-06-14",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2017-12-31"
+      },
+      "pages": 8,
+      "action_date": "2017-12-31",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/10372165/filing-history/MzIwNzQxMjcwM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/__v0_ocNX3bZ_goCGK_BLFhv4zYu3rL4tTuHQuwTB4E"
+      }
+    },
+    {
+      "transaction_id": "MzIwNDY3Mjk5MmFkaXF6a2N4",
+      "barcode": "X75P0VQ1",
+      "type": "AA01",
+      "date": "2018-05-10",
+      "category": "accounts",
+      "description": "change-account-reference-date-company-previous-extended",
+      "description_values": {
+        "made_up_date": "2017-09-30",
+        "new_date": "2017-12-31"
+      },
+      "pages": 1,
+      "action_date": "2017-12-31",
+      "links": {
+        "self": "/company/10372165/filing-history/MzIwNDY3Mjk5MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/O9TB8V1EJjbkU0fq7pi9wO3Aj5mqlW4rsNSxDOYl0js"
+      }
+    },
+    {
+      "transaction_id": "MzE5NDk2NjQzMWFkaXF6a2N4",
+      "barcode": "X6XB86DL",
+      "type": "AD01",
+      "date": "2018-01-10",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2018-01-10",
+        "old_address": "C/O Zymurgorium Ltd Unit 19 Irlam Business Centre Soapstone Way Irlam Greater Manchester M44 6RA United Kingdom",
+        "new_address": "Unit B6 Fairhills Road Irlam Manchester M44 6BA"
+      },
+      "pages": 1,
+      "action_date": "2018-01-10",
+      "links": {
+        "self": "/company/10372165/filing-history/MzE5NDk2NjQzMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/4sl7EWSxf92GO1O2XJcokEkFC6aEcUS7zFwG805ggzw"
+      }
+    },
+    {
+      "transaction_id": "MzE5MDAyMDI0NGFkaXF6a2N4",
+      "barcode": "X6J304D4",
+      "type": "CS01",
+      "date": "2017-11-13",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2017-09-12"
+      },
+      "pages": 3,
+      "action_date": "2017-09-12",
+      "links": {
+        "self": "/company/10372165/filing-history/MzE5MDAyMDI0NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/lxqYuM8mMtScyTG3Vhuj1mQ3OvJYHlKj6oaCshb8Yk0"
+      }
+    },
+    {
+      "transaction_id": "MzE1NzEzMDIxNmFkaXF6a2N4",
+      "barcode": "X5FAHQ0P",
+      "type": "NEWINC",
+      "date": "2016-09-13",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2016-09-13",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2016-09-13",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2016-09-13",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "100"
+              }
+            ]
+          },
+          "action_date": "2016-09-13"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 12,
+      "links": {
+        "self": "/company/10372165/filing-history/MzE1NzEzMDIxNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/srBlVtqEy_uvJgny2CvguQLmFPfJx7pDLvtehqk-374"
+      }
+    }
+  ]
+}

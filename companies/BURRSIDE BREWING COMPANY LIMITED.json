@@ -1,0 +1,101 @@
+{
+  "company_name": "BURRSIDE BREWING COMPANY LIMITED",
+  "company_number": "13952922",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/13952922"
+  },
+  "date_of_cessation": "2023-06-06",
+  "date_of_creation": "2022-03-03",
+  "registered_office_address": {
+    "address_line_1": "15 March Drive",
+    "locality": "Bury",
+    "postal_code": "BL8 1XQ",
+    "region": "Greater Manchester",
+    "country": "United Kingdom"
+  },
+  "sic_codes": [
+    "11050",
+    "46342"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzM4MTI0ODEwM2FkaXF6a2N4",
+      "type": "GAZ2(A)",
+      "date": "2023-06-06",
+      "category": "gazette",
+      "description": "gazette-dissolved-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13952922/filing-history/MzM4MTI0ODEwM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/4BYWhxMjXJf5NQZhkKHiGnrUFx3DI-Z5zOqFrnXd78A"
+      }
+    },
+    {
+      "transaction_id": "MzM3MjM5Nzk3MWFkaXF6a2N4",
+      "type": "GAZ1(A)",
+      "date": "2023-03-21",
+      "category": "gazette",
+      "description": "gazette-notice-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13952922/filing-history/MzM3MjM5Nzk3MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Kaxhu-0atF1hEqh0IgFCyBg8l8Dsuw7Gr7cWfsVPKkA"
+      }
+    },
+    {
+      "transaction_id": "MzM3MjM5NzE4MmFkaXF6a2N4",
+      "barcode": "XBZ723QX",
+      "type": "DS01",
+      "date": "2023-03-13",
+      "category": "dissolution",
+      "description": "dissolution-application-strike-off-company",
+      "pages": 1,
+      "links": {
+        "self": "/company/13952922/filing-history/MzM3MjM5NzE4MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/D6L4Ovj2IDEPmzdVWHaP6_TiWxC1Llodd3BYOnbGG1M"
+      }
+    },
+    {
+      "transaction_id": "MzMzMTgzMjc0MmFkaXF6a2N4",
+      "barcode": "XAYZ74GX",
+      "type": "NEWINC",
+      "date": "2022-03-03",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2022-03-03",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2022-03-03",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2022-03-03",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2022-03-03"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 10,
+      "links": {
+        "self": "/company/13952922/filing-history/MzMzMTgzMjc0MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/xtnlG9w8meKKXnqFf-sd0mdYjtlTWyR7xCxfvpT5r_o"
+      }
+    }
+  ]
+}

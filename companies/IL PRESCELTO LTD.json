@@ -1,0 +1,86 @@
+{
+  "company_name": "IL PRESCELTO LTD",
+  "company_number": "13324521",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/13324521"
+  },
+  "date_of_cessation": "2022-09-13",
+  "date_of_creation": "2021-04-09",
+  "registered_office_address": {
+    "address_line_1": "7 New Islington",
+    "locality": "Manchester",
+    "postal_code": "M4 6HF",
+    "country": "England"
+  },
+  "sic_codes": [
+    "11040"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzM1MDk2Njc2OGFkaXF6a2N4",
+      "type": "GAZ2",
+      "date": "2022-09-13",
+      "category": "gazette",
+      "description": "gazette-dissolved-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13324521/filing-history/MzM1MDk2Njc2OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/pLaiX51fOiT-byWNYDz9djWJ16xXbc3VS7t1_acSAro"
+      }
+    },
+    {
+      "transaction_id": "MzM0Mjk3MDM5N2FkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2022-06-28",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13324521/filing-history/MzM0Mjk3MDM5N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/rTf5Bmaubdo0xF2DxtOJsuKCVnJqnWrRPPzExVm4tvU"
+      }
+    },
+    {
+      "transaction_id": "MzI5NzIyMjYwNWFkaXF6a2N4",
+      "barcode": "XA1Z8863",
+      "type": "NEWINC",
+      "date": "2021-04-09",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2021-04-09",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2021-04-09",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2021-04-09",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2021-04-09"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 10,
+      "links": {
+        "self": "/company/13324521/filing-history/MzI5NzIyMjYwNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/MybWtwqD-odEQJ0sO_cCKFXzrLr6uIxvxy6JMhgdDrg"
+      }
+    }
+  ]
+}

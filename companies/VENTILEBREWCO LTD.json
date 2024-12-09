@@ -1,0 +1,178 @@
+{
+  "company_name": "VENTILEBREWCO LTD",
+  "company_number": "12466735",
+  "company_status": "active",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/12466735"
+  },
+  "date_of_creation": "2020-02-17",
+  "registered_office_address": {
+    "address_line_1": "6 Berrie Grove",
+    "locality": "Manchester",
+    "postal_code": "M19 2QA",
+    "country": "England"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzQxNjc0MzA1M2FkaXF6a2N4",
+      "barcode": "XD03XMUX",
+      "type": "CS01",
+      "date": "2024-04-01",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2024-02-16"
+      },
+      "pages": 3,
+      "action_date": "2024-02-16",
+      "links": {
+        "self": "/company/12466735/filing-history/MzQxNjc0MzA1M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/pJbbkmmeIMvVMLZb1obRimpcUprwRVv6tRR7WHp39zw"
+      }
+    },
+    {
+      "transaction_id": "MzQwMjA1OTM2NGFkaXF6a2N4",
+      "barcode": "XCHF6ZVC",
+      "type": "AA",
+      "date": "2023-11-30",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2023-02-28"
+      },
+      "pages": 3,
+      "action_date": "2023-02-28",
+      "links": {
+        "self": "/company/12466735/filing-history/MzQwMjA1OTM2NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/mR1LFuCxZAUpC9mE8YHkglJxdzQ1cRbiw4orB2Ce3Ck"
+      }
+    },
+    {
+      "transaction_id": "MzM3MjU0MzExNmFkaXF6a2N4",
+      "barcode": "XBZ9SCWH",
+      "type": "CS01",
+      "date": "2023-03-14",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2023-02-16"
+      },
+      "pages": 3,
+      "action_date": "2023-02-16",
+      "links": {
+        "self": "/company/12466735/filing-history/MzM3MjU0MzExNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/yGY3cZHtsMuQa_tVjRUtWUZzcHv2ZVrKTnmXszGWbDM"
+      }
+    },
+    {
+      "transaction_id": "MzM2MTEzNjQ3OWFkaXF6a2N4",
+      "barcode": "XBI9YGEG",
+      "type": "AA",
+      "date": "2022-12-06",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2022-02-28"
+      },
+      "pages": 3,
+      "action_date": "2022-02-28",
+      "links": {
+        "self": "/company/12466735/filing-history/MzM2MTEzNjQ3OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/dK8A81RFfaVLtRZqj5b7kNJKV3SJJ1NQl5O2qaXK2-w"
+      }
+    },
+    {
+      "transaction_id": "MzMzMjA4OTA4MGFkaXF6a2N4",
+      "barcode": "XAZ9NS0P",
+      "type": "CS01",
+      "date": "2022-03-07",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2022-02-16"
+      },
+      "pages": 3,
+      "action_date": "2022-02-16",
+      "links": {
+        "self": "/company/12466735/filing-history/MzMzMjA4OTA4MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/cyIXkTOipjtQdG7EAXh5JzUNIFBysXSrMufyTBnyfx4"
+      }
+    },
+    {
+      "transaction_id": "MzMyNTM2NDMwMGFkaXF6a2N4",
+      "barcode": "XAKJ2YTL",
+      "type": "AA",
+      "date": "2021-12-31",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2021-02-28"
+      },
+      "pages": 2,
+      "action_date": "2021-02-28",
+      "links": {
+        "self": "/company/12466735/filing-history/MzMyNTM2NDMwMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/IwGBKX3O0KWif9aIqdCOXINuQQmd4GdzZFJorLDOry0"
+      }
+    },
+    {
+      "transaction_id": "MzI5MjYyNjYzM2FkaXF6a2N4",
+      "barcode": "X9Z2384Z",
+      "type": "CS01",
+      "date": "2021-02-25",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2021-02-16"
+      },
+      "pages": 3,
+      "action_date": "2021-02-16",
+      "links": {
+        "self": "/company/12466735/filing-history/MzI5MjYyNjYzM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/rWAM1L4tpYsIwfTOnKqaNS7W_lfjxYv_zEbevj0u370"
+      }
+    },
+    {
+      "transaction_id": "MzI1NzMyNzM5MGFkaXF6a2N4",
+      "barcode": "X8YVGOOO",
+      "type": "NEWINC",
+      "date": "2020-02-17",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2020-02-17",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2020-02-17",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2020-02-17",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2020-02-17"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 10,
+      "links": {
+        "self": "/company/12466735/filing-history/MzI1NzMyNzM5MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/79LCzZvzeAGkkB5L_rzibdp8W3PunxUK5jtcwX2hyTY"
+      }
+    }
+  ]
+}

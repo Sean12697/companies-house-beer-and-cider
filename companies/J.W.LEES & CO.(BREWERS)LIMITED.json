@@ -1,0 +1,1855 @@
+{
+  "company_name": "J.W.LEES & CO.(BREWERS)LIMITED",
+  "company_number": "00557225",
+  "company_status": "active",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/00557225"
+  },
+  "date_of_creation": "1955-11-11",
+  "registered_office_address": {
+    "address_line_1": "Greengate Brewery",
+    "address_line_2": "Middleton Junction",
+    "locality": "Manchester",
+    "postal_code": "M24 2AX"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzQ0NTkyMTYyNGFkaXF6a2N4",
+      "barcode": "XDH7B8MX",
+      "type": "MR01",
+      "date": "2024-12-03",
+      "category": "mortgage",
+      "subcategory": "create",
+      "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+      "description_values": {
+        "charge_number": "005572250103",
+        "charge_creation_date": "2024-11-25"
+      },
+      "pages": 9,
+      "action_date": "2024-11-25",
+      "links": {
+        "self": "/company/00557225/filing-history/MzQ0NTkyMTYyNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Lr_mKZbnsbXb4Cqc58Vr0_CbzkTo2pPKAJ59qctKH2o"
+      }
+    },
+    {
+      "transaction_id": "MzQ0NTkyMzI2MWFkaXF6a2N4",
+      "barcode": "XDH7BGAO",
+      "type": "MR01",
+      "date": "2024-12-03",
+      "category": "mortgage",
+      "subcategory": "create",
+      "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+      "description_values": {
+        "charge_number": "005572250104",
+        "charge_creation_date": "2024-11-25"
+      },
+      "pages": 9,
+      "action_date": "2024-11-25",
+      "links": {
+        "self": "/company/00557225/filing-history/MzQ0NTkyMzI2MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/krvKb-2O64VP8M1L1VHErRyFMjJ2BoNmuYg8gCYKNeU"
+      }
+    },
+    {
+      "transaction_id": "MzQ0NTkyNDE4NWFkaXF6a2N4",
+      "barcode": "XDH7BK63",
+      "type": "MR01",
+      "date": "2024-12-03",
+      "category": "mortgage",
+      "subcategory": "create",
+      "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+      "description_values": {
+        "charge_number": "005572250105",
+        "charge_creation_date": "2024-11-25"
+      },
+      "pages": 9,
+      "action_date": "2024-11-25",
+      "links": {
+        "self": "/company/00557225/filing-history/MzQ0NTkyNDE4NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/nCWRpx6p0OZ0-sNOba4zJuS01eTAiD8Y4BvQW0IXmmU"
+      }
+    },
+    {
+      "transaction_id": "MzQ0MjA0MjIzOWFkaXF6a2N4",
+      "barcode": "XDF8WVMW",
+      "type": "TM01",
+      "date": "2024-11-05",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-director-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Simon Christopher Lees Jones",
+        "termination_date": "2024-10-08"
+      },
+      "pages": 1,
+      "action_date": "2024-10-08",
+      "links": {
+        "self": "/company/00557225/filing-history/MzQ0MjA0MjIzOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/GN0d-ORLT3gHnaGPPUgzaNisukZ_sSeIQltOI3A6VDM"
+      }
+    },
+    {
+      "transaction_id": "MzQwNTA2ODI1NGFkaXF6a2N4",
+      "barcode": "ACIS4GHV",
+      "type": "AA",
+      "date": "2024-01-03",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-group",
+      "description_values": {
+        "made_up_date": "2023-03-31"
+      },
+      "pages": 50,
+      "action_date": "2023-03-31",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MzQwNTA2ODI1NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ALzZlKWC0KDJ04kgAlqucQors-l-YWLB5fdYC-n6RNk"
+      }
+    },
+    {
+      "transaction_id": "MzQwMzk2NTY4M2FkaXF6a2N4",
+      "barcode": "XCIC4VOR",
+      "type": "CS01",
+      "date": "2023-12-14",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2023-12-12"
+      },
+      "pages": 3,
+      "action_date": "2023-12-12",
+      "links": {
+        "self": "/company/00557225/filing-history/MzQwMzk2NTY4M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/VKjRrbx1JcSCFcihltdYtQBASlJdsBzBcfHBVAkvYC8"
+      }
+    },
+    {
+      "transaction_id": "MzM3NTAzMjQ3OWFkaXF6a2N4",
+      "barcode": "XC0PBIN4",
+      "type": "AP01",
+      "date": "2023-04-03",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Mr William Simon Townsend",
+        "appointment_date": "2023-04-03"
+      },
+      "pages": 2,
+      "action_date": "2023-04-03",
+      "links": {
+        "self": "/company/00557225/filing-history/MzM3NTAzMjQ3OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/0dqx4ShC6XgNxO2aARnBqHN4wQ7oATr35dL6VVA1QK0"
+      }
+    },
+    {
+      "transaction_id": "MzM2MTczOTg4OWFkaXF6a2N4",
+      "barcode": "XBIPVQJM",
+      "type": "CS01",
+      "date": "2022-12-12",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2022-12-12"
+      },
+      "pages": 3,
+      "action_date": "2022-12-12",
+      "links": {
+        "self": "/company/00557225/filing-history/MzM2MTczOTg4OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/BwgzEzUd4ZZUn15W4xGgKWDVV_Z9RuFTR-LlFcq2mXI"
+      }
+    },
+    {
+      "transaction_id": "MzM0ODc2ODc5NmFkaXF6a2N4",
+      "barcode": "XBAIU34Z",
+      "type": "CH01",
+      "date": "2022-08-16",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2022-08-05",
+        "officer_name": "Mrs Anna Elizabeth Clare Griffin"
+      },
+      "pages": 2,
+      "action_date": "2022-08-05",
+      "links": {
+        "self": "/company/00557225/filing-history/MzM0ODc2ODc5NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/YD8wdUtFBXviqIeNVoY81IdLwRJPLgEBqF6xBuDiQHA"
+      }
+    },
+    {
+      "transaction_id": "MzM0NTU5OTc2N2FkaXF6a2N4",
+      "barcode": "AB858GU9",
+      "type": "AA",
+      "date": "2022-07-19",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-group",
+      "description_values": {
+        "made_up_date": "2022-03-31"
+      },
+      "pages": 52,
+      "action_date": "2022-03-31",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MzM0NTU5OTc2N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/pCPvgktav_WDTBfulB13MH1Hi2fcAj1xk6K23aUAEG0"
+      }
+    },
+    {
+      "transaction_id": "MzMyMzUzNjQ1NWFkaXF6a2N4",
+      "barcode": "XAJC0B8Q",
+      "type": "CS01",
+      "date": "2021-12-14",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2021-12-12"
+      },
+      "pages": 6,
+      "action_date": "2021-12-12",
+      "links": {
+        "self": "/company/00557225/filing-history/MzMyMzUzNjQ1NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/cVqb6le-bUozQ_AmxKSXKmfkk5c-imZWaTa6FUW1br4"
+      }
+    },
+    {
+      "transaction_id": "MzMxNjI1MTE4M2FkaXF6a2N4",
+      "barcode": "AAE9HF6R",
+      "type": "AA",
+      "date": "2021-10-11",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-group",
+      "description_values": {
+        "made_up_date": "2021-03-31"
+      },
+      "pages": 52,
+      "action_date": "2021-03-31",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MzMxNjI1MTE4M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/m_O95K25X9QChx6yVhmr0evqQrGXogx-QwvbDO7lcqw"
+      }
+    },
+    {
+      "transaction_id": "MzI5NzQ2MDg5MmFkaXF6a2N4",
+      "barcode": "AA1COYY3",
+      "type": "AA",
+      "date": "2021-04-15",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-group",
+      "description_values": {
+        "made_up_date": "2020-03-31"
+      },
+      "pages": 55,
+      "action_date": "2020-03-31",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MzI5NzQ2MDg5MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/956GQFAH55g-roz95vnGJG4dOUKn3LJcdvpkTnFV7J0"
+      }
+    },
+    {
+      "transaction_id": "MzI5NTcxNjQzMmFkaXF6a2N4",
+      "barcode": "XA12RMUA",
+      "type": "SH01",
+      "date": "2021-03-26",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2021-03-26",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "1,850,008"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2021-03-26",
+      "links": {
+        "self": "/company/00557225/filing-history/MzI5NTcxNjQzMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/5ihN8QbaYl3Zb_HxDaCI4KlcrphLyE5uEmjhY9GO2RQ"
+      }
+    },
+    {
+      "transaction_id": "MzI4NjAxMjAzMGFkaXF6a2N4",
+      "barcode": "X9JYHZ0B",
+      "type": "CS01",
+      "date": "2020-12-15",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2020-12-12"
+      },
+      "pages": 3,
+      "action_date": "2020-12-12",
+      "links": {
+        "self": "/company/00557225/filing-history/MzI4NjAxMjAzMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/xdCmJwK9J7m7WXnEL3X3TCBsOBOnLmubAIcrsp08MHk"
+      }
+    },
+    {
+      "transaction_id": "MzI2MjU2ODU0MGFkaXF6a2N4",
+      "barcode": "X932FIEJ",
+      "type": "AP01",
+      "date": "2020-04-16",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Mr James Herbert Tully",
+        "appointment_date": "2020-04-16"
+      },
+      "pages": 2,
+      "action_date": "2020-04-16",
+      "links": {
+        "self": "/company/00557225/filing-history/MzI2MjU2ODU0MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/3bt7htJG0v3z6OBiM57IG8pmUb1P8J4IhhVsA2bfU7o"
+      }
+    },
+    {
+      "transaction_id": "MzI1MjU4NTA4NWFkaXF6a2N4",
+      "barcode": "X8KMNC2Z",
+      "type": "CS01",
+      "date": "2019-12-19",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2019-12-12"
+      },
+      "pages": 3,
+      "action_date": "2019-12-12",
+      "links": {
+        "self": "/company/00557225/filing-history/MzI1MjU4NTA4NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/gN7znWHbLzFv5iDsOdrvYdgZEPIuqEfY8L8bC67stQU"
+      }
+    },
+    {
+      "transaction_id": "QThBS0VTMFphZGlxemtjeA",
+      "type": "RESOLUTIONS",
+      "date": "2019-08-07",
+      "category": "resolution",
+      "resolutions": [
+        {
+          "category": "capital",
+          "description": "resolution-securities",
+          "type": "RES10",
+          "subcategory": "resolution"
+        },
+        {
+          "category": "incorporation",
+          "description": "resolution-adopt-articles",
+          "type": "RES01",
+          "subcategory": "resolution",
+          "description_values": {
+            "res_type": "ADOPT ARTICLES"
+          }
+        }
+      ],
+      "description": "resolution",
+      "description_values": {
+        "description": "Resolutions"
+      },
+      "pages": 16,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/QThBS0VTMFphZGlxemtjeA",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/wB2t3EFD2O_gnJM8r-v6Z5v6VMXyh5Q7xreMLL3DxPU"
+      }
+    },
+    {
+      "transaction_id": "MzIzOTgzNzMzM2FkaXF6a2N4",
+      "barcode": "A89XEGNT",
+      "type": "AA",
+      "date": "2019-07-25",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-group",
+      "description_values": {
+        "made_up_date": "2019-03-31"
+      },
+      "pages": 44,
+      "action_date": "2019-03-31",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MzIzOTgzNzMzM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Jneh2MlM-wlNA0Nacey2iD_aR4TN4mVR2IUu64oQEuc"
+      }
+    },
+    {
+      "transaction_id": "MzIyOTE2NjI5OWFkaXF6a2N4",
+      "barcode": "X8140Z69",
+      "type": "MR04",
+      "date": "2019-03-12",
+      "category": "mortgage",
+      "subcategory": "satisfy",
+      "description": "mortgage-satisfy-charge-full",
+      "description_values": {
+        "charge_number": "71"
+      },
+      "pages": 1,
+      "links": {
+        "self": "/company/00557225/filing-history/MzIyOTE2NjI5OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/e9pAMPDQoKgbIV3fp4JnWoiD-sUK4UF8Qaw2BQDmDds"
+      }
+    },
+    {
+      "transaction_id": "MzIyOTE2NjMyM2FkaXF6a2N4",
+      "barcode": "X8140ZD4",
+      "type": "MR04",
+      "date": "2019-03-12",
+      "category": "mortgage",
+      "subcategory": "satisfy",
+      "description": "mortgage-satisfy-charge-full",
+      "description_values": {
+        "charge_number": "53"
+      },
+      "pages": 2,
+      "links": {
+        "self": "/company/00557225/filing-history/MzIyOTE2NjMyM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/dfY4gbJRdv4giTB53BEFFZSofb00C1C6e100L7OtI4M"
+      }
+    },
+    {
+      "transaction_id": "MzIyODcxMjUxOGFkaXF6a2N4",
+      "barcode": "X80O77A0",
+      "type": "MR04",
+      "date": "2019-03-06",
+      "category": "mortgage",
+      "subcategory": "satisfy",
+      "description": "mortgage-satisfy-charge-full",
+      "description_values": {
+        "charge_number": "70"
+      },
+      "pages": 1,
+      "links": {
+        "self": "/company/00557225/filing-history/MzIyODcxMjUxOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/S02x_VdMqRhY5mZs3soMXpYh5OcpGVtfWY5Jko1DeOY"
+      }
+    },
+    {
+      "transaction_id": "MzIyMjYxMzc3M2FkaXF6a2N4",
+      "barcode": "X7L6NPSO",
+      "type": "CS01",
+      "date": "2018-12-20",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2018-12-12"
+      },
+      "pages": 3,
+      "action_date": "2018-12-12",
+      "links": {
+        "self": "/company/00557225/filing-history/MzIyMjYxMzc3M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/q7AxHVZZgq9dJBiVtYY8HBwVgob3c5TclKnDkmu_Z2s"
+      }
+    },
+    {
+      "transaction_id": "MzIxNTU5Mjg3MmFkaXF6a2N4",
+      "barcode": "L7F75V37",
+      "type": "AA",
+      "date": "2018-09-30",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-group",
+      "description_values": {
+        "made_up_date": "2018-03-31"
+      },
+      "pages": 45,
+      "action_date": "2018-03-31",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MzIxNTU5Mjg3MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/MTIEem03zz9lqWKs9tEpeTjrH7AUcjQ4z3Re55ugVFo"
+      }
+    },
+    {
+      "transaction_id": "MzE5Mjg2OTM0OGFkaXF6a2N4",
+      "barcode": "X6L937A2",
+      "type": "CS01",
+      "date": "2017-12-14",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2017-12-12"
+      },
+      "pages": 3,
+      "action_date": "2017-12-12",
+      "links": {
+        "self": "/company/00557225/filing-history/MzE5Mjg2OTM0OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/zbS6N98ChhuvU316qlrNNqH31eA10nIoKCnHwcIGPss"
+      }
+    },
+    {
+      "transaction_id": "MzE4NzM1MTk3MGFkaXF6a2N4",
+      "barcode": "A6GDDPO1",
+      "type": "AA",
+      "date": "2017-10-10",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-group",
+      "description_values": {
+        "made_up_date": "2017-03-31"
+      },
+      "pages": 53,
+      "action_date": "2017-03-31",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MzE4NzM1MTk3MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/2_wnTkOm0GTGI2Ua0gTmJK21ky3xdgz1IXFvAtyG44k"
+      }
+    },
+    {
+      "transaction_id": "MzE4MzM1MzQ3N2FkaXF6a2N4",
+      "barcode": "X6DAPPXN",
+      "type": "MR04",
+      "date": "2017-08-21",
+      "category": "mortgage",
+      "subcategory": "satisfy",
+      "description": "mortgage-satisfy-charge-full",
+      "description_values": {
+        "charge_number": "92"
+      },
+      "pages": 2,
+      "links": {
+        "self": "/company/00557225/filing-history/MzE4MzM1MzQ3N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/wrKPPcqa7P8EWobeQvvgCd1AUIa7dAXcaaMBilDJZHE"
+      }
+    },
+    {
+      "transaction_id": "MzE4MzM1NDA4OGFkaXF6a2N4",
+      "barcode": "X6DAQC3F",
+      "type": "MR04",
+      "date": "2017-08-21",
+      "category": "mortgage",
+      "subcategory": "satisfy",
+      "description": "mortgage-satisfy-charge-full",
+      "description_values": {
+        "charge_number": "90"
+      },
+      "pages": 2,
+      "links": {
+        "self": "/company/00557225/filing-history/MzE4MzM1NDA4OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/af8aYlBIgrGRXlmilEROU8_Tw4Zqzwt5AtPk5NA8TpA"
+      }
+    },
+    {
+      "transaction_id": "MzE4MzM1NDgzMWFkaXF6a2N4",
+      "barcode": "X6DAR396",
+      "type": "MR04",
+      "date": "2017-08-21",
+      "category": "mortgage",
+      "subcategory": "satisfy",
+      "description": "mortgage-satisfy-charge-full",
+      "description_values": {
+        "charge_number": "28"
+      },
+      "pages": 2,
+      "links": {
+        "self": "/company/00557225/filing-history/MzE4MzM1NDgzMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Il0lUomds0AgtRCFTY8HlkIaJQWgqIOjpRrYLQ2dHW4"
+      }
+    },
+    {
+      "transaction_id": "MzE2ODYwMzgxMGFkaXF6a2N4",
+      "barcode": "X5ZWZO34",
+      "type": "MR04",
+      "date": "2017-02-09",
+      "category": "mortgage",
+      "subcategory": "satisfy",
+      "description": "mortgage-satisfy-charge-part",
+      "description_values": {
+        "charge_number": "28"
+      },
+      "pages": 1,
+      "links": {
+        "self": "/company/00557225/filing-history/MzE2ODYwMzgxMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/MStn4-WhkUiDN7fCf0BNBlbcZHMgoMR9_OUGCpMx5Fk"
+      }
+    },
+    {
+      "transaction_id": "MzE2NTEyMTI1NGFkaXF6a2N4",
+      "barcode": "X5MDFW7N",
+      "type": "CS01",
+      "date": "2016-12-22",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2016-12-12"
+      },
+      "pages": 7,
+      "action_date": "2016-12-12",
+      "links": {
+        "self": "/company/00557225/filing-history/MzE2NTEyMTI1NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/_4yrbz2SUhgcSd-Ms9SYj-yvFFkwdP7WYJf_oZQV2jQ"
+      }
+    },
+    {
+      "transaction_id": "MzE1OTcxMjk0NGFkaXF6a2N4",
+      "barcode": "A5H23L96",
+      "type": "AA",
+      "date": "2016-10-17",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-group",
+      "description_values": {
+        "made_up_date": "2016-03-31"
+      },
+      "pages": 54,
+      "action_date": "2016-03-31",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MzE1OTcxMjk0NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Jo83maE17CU48b2jKN18cVlhI8IbJxxdATv2f7OC9do"
+      }
+    },
+    {
+      "transaction_id": "MzEzOTA5ODk4NWFkaXF6a2N4",
+      "barcode": "X4Y2003S",
+      "type": "AR01",
+      "date": "2016-01-06",
+      "category": "annual-return",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2016-01-06",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2016-01-06",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1,850,008"
+              }
+            ]
+          },
+          "action_date": "2016-01-06"
+        }
+      ],
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2015-12-12"
+      },
+      "pages": 12,
+      "action_date": "2015-12-12",
+      "links": {
+        "self": "/company/00557225/filing-history/MzEzOTA5ODk4NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/MnavDN73hsuuc8pAjaLjba5V--9SQ2FxU17iluDolwQ"
+      }
+    },
+    {
+      "transaction_id": "MzEzMjkxOTQ1NmFkaXF6a2N4",
+      "barcode": "A4H3H3U0",
+      "type": "AA",
+      "date": "2015-10-15",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-group",
+      "description_values": {
+        "made_up_date": "2015-03-31"
+      },
+      "pages": 34,
+      "action_date": "2015-03-31",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MzEzMjkxOTQ1NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/zr2qZbnR5c2Tkk6onlXghPVpop_fqXTcb5uoBGv1H9w"
+      }
+    },
+    {
+      "transaction_id": "MzExNDkyODI0NmFkaXF6a2N4",
+      "barcode": "X3YKUYYY",
+      "type": "AR01",
+      "date": "2015-01-07",
+      "category": "annual-return",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2015-01-07",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2015-01-07",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1,850,008"
+              }
+            ]
+          },
+          "action_date": "2015-01-07"
+        }
+      ],
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2014-12-12"
+      },
+      "pages": 12,
+      "action_date": "2014-12-12",
+      "links": {
+        "self": "/company/00557225/filing-history/MzExNDkyODI0NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/OB0l4QFJO5Lu9tNmfpGCkC1PYHDBXOkkGJcBz7Y2bdk"
+      }
+    },
+    {
+      "transaction_id": "MzExNDY0NTAyNWFkaXF6a2N4",
+      "barcode": "A3NBGGCY",
+      "type": "AA",
+      "date": "2015-01-06",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-group",
+      "description_values": {
+        "made_up_date": "2014-03-31"
+      },
+      "pages": 35,
+      "action_date": "2014-03-31",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MzExNDY0NTAyNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/HWWqYmdEMog8hnYKUSdbRmvUb72YtlXiawwJEgUPx8E"
+      }
+    },
+    {
+      "transaction_id": "MzA5MjI1NDQzN2FkaXF6a2N4",
+      "barcode": "X2Z4FG8G",
+      "type": "AR01",
+      "date": "2014-01-08",
+      "category": "annual-return",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2014-01-08",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2014-01-08",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1,850,008"
+              }
+            ]
+          },
+          "action_date": "2014-01-08"
+        }
+      ],
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2013-12-12"
+      },
+      "pages": 12,
+      "action_date": "2013-12-12",
+      "links": {
+        "self": "/company/00557225/filing-history/MzA5MjI1NDQzN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Vl_5O8gtN44V20m34KrrT2cJ2YHqSvBU4jLjrLbxulw"
+      }
+    },
+    {
+      "transaction_id": "MzA4OTQ5ODA1NWFkaXF6a2N4",
+      "barcode": "A2LPU18X",
+      "type": "AA",
+      "date": "2013-11-26",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-group",
+      "description_values": {
+        "made_up_date": "2013-03-31"
+      },
+      "pages": 36,
+      "action_date": "2013-03-31",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MzA4OTQ5ODA1NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/7bGPU-Pq-gmpZxVZuYAqwZIFN2wEJgmW9zHc9QQ-Ap0"
+      }
+    },
+    {
+      "transaction_id": "MzA3MTU1MTA3MGFkaXF6a2N4",
+      "barcode": "X20MG3IA",
+      "type": "AR01",
+      "date": "2013-01-22",
+      "category": "annual-return",
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2012-12-12"
+      },
+      "pages": 12,
+      "action_date": "2012-12-12",
+      "links": {
+        "self": "/company/00557225/filing-history/MzA3MTU1MTA3MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/53S3LdoJDEe2BCZJsfmscya7LFLMlQCPDvqDc2oEf3g"
+      }
+    },
+    {
+      "transaction_id": "MzA3MDUzMTI5OWFkaXF6a2N4",
+      "barcode": "A1OA3EA1",
+      "type": "AA",
+      "date": "2013-01-05",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-group",
+      "description_values": {
+        "made_up_date": "2012-03-31"
+      },
+      "pages": 35,
+      "action_date": "2012-03-31",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MzA3MDUzMTI5OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ueP5KnWR_E5cvfoj_Fz9NjWhtvqWFoPR_A7Uw-s6y-w"
+      }
+    },
+    {
+      "transaction_id": "MzA2NjUyMDQ0OWFkaXF6a2N4",
+      "barcode": "A1K7FSBS",
+      "type": "MG01",
+      "date": "2012-10-24",
+      "category": "mortgage",
+      "description": "legacy",
+      "description_values": {
+        "description": "Particulars of a mortgage or charge / charge no: 100"
+      },
+      "pages": 5,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MzA2NjUyMDQ0OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/6gTKrNBtcA961ztuPbTZdCSlb_5jbtO9dQ5UzfKrIPY"
+      }
+    },
+    {
+      "transaction_id": "MzA2NjUyMTU0OWFkaXF6a2N4",
+      "barcode": "A1K7FSBC",
+      "type": "MG01",
+      "date": "2012-10-24",
+      "category": "mortgage",
+      "description": "legacy",
+      "description_values": {
+        "description": "Particulars of a mortgage or charge / charge no: 102"
+      },
+      "pages": 5,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MzA2NjUyMTU0OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ppRvcGVw_z7ThAQpcy1UAzODjDXYQdBLjc_A08VDQto"
+      }
+    },
+    {
+      "transaction_id": "MzA2NjUyMTE1OWFkaXF6a2N4",
+      "barcode": "A1K7FSBO",
+      "type": "MG01",
+      "date": "2012-10-24",
+      "category": "mortgage",
+      "description": "legacy",
+      "description_values": {
+        "description": "Particulars of a mortgage or charge / charge no: 101"
+      },
+      "pages": 5,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MzA2NjUyMTE1OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/PJhNLPKR2pE86OtMC_GjqSEbgR2O2SuP82I_kNDVd0k"
+      }
+    },
+    {
+      "transaction_id": "MzA1OTAwNzI4MmFkaXF6a2N4",
+      "barcode": "X1AY7PIX",
+      "type": "AP01",
+      "date": "2012-06-12",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name",
+      "description_values": {
+        "officer_name": "Mrs Anna Griffin"
+      },
+      "pages": 2,
+      "links": {
+        "self": "/company/00557225/filing-history/MzA1OTAwNzI4MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/fMFJDjbLEK4ky6dTPkri6qeLUFPMWroVV7nZVXYSn5I"
+      }
+    },
+    {
+      "transaction_id": "MzA1MDQzNzEwOWFkaXF6a2N4",
+      "barcode": "X107CYBU",
+      "type": "AR01",
+      "date": "2012-01-09",
+      "category": "annual-return",
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2011-12-12"
+      },
+      "pages": 11,
+      "action_date": "2011-12-12",
+      "links": {
+        "self": "/company/00557225/filing-history/MzA1MDQzNzEwOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/pQzMkYwEQT9L7IPz66pfputVca77SmHrUGczbhMm93w"
+      }
+    },
+    {
+      "transaction_id": "MzA1MDA2MTE2OGFkaXF6a2N4",
+      "barcode": "A0OSS208",
+      "type": "AA",
+      "date": "2012-01-04",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-group",
+      "description_values": {
+        "made_up_date": "2011-03-31"
+      },
+      "pages": 35,
+      "action_date": "2011-03-31",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MzA1MDA2MTE2OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/w7pNRHHowk2n9k7byAPA3Lbd4DGxFaT3mA4rzHFU6mE"
+      }
+    },
+    {
+      "transaction_id": "MzAyOTc5NzkzOGFkaXF6a2N4",
+      "barcode": "XDVUSQJ0",
+      "type": "AR01",
+      "date": "2011-01-05",
+      "category": "annual-return",
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2010-12-12"
+      },
+      "pages": 11,
+      "action_date": "2010-12-12",
+      "links": {
+        "self": "/company/00557225/filing-history/MzAyOTc5NzkzOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/iYOCHuZtIbAlwFC682yxrcZdJhILKvIlZyLr6tnBUE8"
+      }
+    },
+    {
+      "transaction_id": "MzAyOTI4MTQ4MWFkaXF6a2N4",
+      "barcode": "ASJQMQ4R",
+      "type": "AA",
+      "date": "2010-12-23",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-group",
+      "description_values": {
+        "made_up_date": "2010-03-31"
+      },
+      "pages": 37,
+      "action_date": "2010-03-31",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MzAyOTI4MTQ4MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/b4RGqFOHmlIuACxKpw1soJS6ap9jifjL-WiKsIRlTvQ"
+      }
+    },
+    {
+      "transaction_id": "MzAyODM4MTE3NmFkaXF6a2N4",
+      "barcode": "X5EUIPQ7",
+      "type": "AP01",
+      "date": "2010-12-07",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name",
+      "description_values": {
+        "officer_name": "Mr Simon Cross"
+      },
+      "pages": 2,
+      "links": {
+        "self": "/company/00557225/filing-history/MzAyODM4MTE3NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/SaAmiASvNahHq15oIUI2Ts53ZBwgC-06eQAMW_s6358"
+      }
+    },
+    {
+      "transaction_id": "MzAxNzg1NzAyN2FkaXF6a2N4",
+      "barcode": "AFQMUKXC",
+      "type": "SH01",
+      "date": "2010-06-18",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2010-06-15",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "1,850,008.00000"
+          }
+        ]
+      },
+      "pages": 4,
+      "action_date": "2010-06-15",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MzAxNzg1NzAyN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/DJ6xmEzKFz6RUi0PyKqeNTMAExcHzVIas58Wn2mKcR4"
+      }
+    },
+    {
+      "transaction_id": "MzAxMzAzNTI3OGFkaXF6a2N4",
+      "barcode": "AN3ZOIUZ",
+      "type": "MEM/ARTS",
+      "date": "2010-04-07",
+      "category": "incorporation",
+      "description": "memorandum-articles",
+      "pages": 18,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MzAxMzAzNTI3OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/M3MytMUHLnbqM7fG9J5oAnVclrlf-u0tQINzbuijWWE"
+      }
+    },
+    {
+      "transaction_id": "MzAxMzAzMjI1M2FkaXF6a2N4",
+      "type": "RESOLUTIONS",
+      "date": "2010-04-07",
+      "category": "resolution",
+      "resolutions": [
+        {
+          "category": "capital",
+          "description": "resolution-increase-capital",
+          "type": "RES04",
+          "subcategory": "resolution"
+        },
+        {
+          "category": "capital",
+          "description": "resolution-securities",
+          "type": "RES10",
+          "subcategory": "resolution",
+          "barcode": "ER6AT00E"
+        },
+        {
+          "category": "incorporation",
+          "description": "resolution-memorandum",
+          "type": "RES01",
+          "subcategory": "resolution",
+          "barcode": "ER6AT00E"
+        }
+      ],
+      "description": "resolution",
+      "description_values": {
+        "description": "Resolutions"
+      },
+      "pages": 4,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MzAxMzAzMjI1M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/kA6r3B6wGK8GCmXRzrz3m5KO4gVQNIXjok4TqTKlQIg"
+      }
+    },
+    {
+      "transaction_id": "MzAxMjMxNTYyOGFkaXF6a2N4",
+      "type": "RESOLUTIONS",
+      "date": "2010-03-26",
+      "category": "resolution",
+      "resolutions": [
+        {
+          "category": "capital",
+          "description": "resolution-increase-capital",
+          "type": "RES04",
+          "subcategory": "resolution"
+        }
+      ],
+      "description": "resolution",
+      "description_values": {
+        "description": "Resolutions"
+      }
+    },
+    {
+      "transaction_id": "MzAwNzMxMDI4OGFkaXF6a2N4",
+      "barcode": "PPLESGRC",
+      "type": "AA",
+      "date": "2010-01-18",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-group",
+      "description_values": {
+        "made_up_date": "2009-03-31"
+      },
+      "pages": 30,
+      "action_date": "2009-03-31",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MzAwNzMxMDI4OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/telrjUnQOGfvkkhSvc7k0vQZcWhQMXFOcWLqxInwKVE"
+      }
+    },
+    {
+      "transaction_id": "MzAwNjkzNzY0N2FkaXF6a2N4",
+      "barcode": "XHM5MGLS",
+      "type": "AR01",
+      "date": "2010-01-12",
+      "category": "annual-return",
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2009-12-12"
+      },
+      "pages": 9,
+      "action_date": "2009-12-12",
+      "links": {
+        "self": "/company/00557225/filing-history/MzAwNjkzNzY0N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/5jTCclOymnY5X6TAFctdYcOgXKbXBmqbPgX8ufwkpkc"
+      }
+    },
+    {
+      "transaction_id": "MzAwNDIxNjI3NWFkaXF6a2N4",
+      "barcode": "PUIE5FHG",
+      "type": "AUD",
+      "date": "2009-12-03",
+      "category": "auditors",
+      "description": "auditors-resignation-company",
+      "pages": 2,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MzAwNDIxNjI3NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/wAkDY_Z9aANIhJDk9l9ei92AHx4qGJsHsC6LBotfbXU"
+      }
+    },
+    {
+      "transaction_id": "MzAwMDU0Mzc2M2FkaXF6a2N4",
+      "barcode": "XKC5TDW0",
+      "type": "CH01",
+      "date": "2009-10-12",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2009-10-01",
+        "officer_name": "Christopher Peter Lees-Jones"
+      },
+      "pages": 2,
+      "action_date": "2009-10-01",
+      "links": {
+        "self": "/company/00557225/filing-history/MzAwMDU0Mzc2M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/gqArNCZNtaoYBKqEmC7XMT7v5U2lH0vGXC1FKHI1c1Y"
+      }
+    },
+    {
+      "transaction_id": "MzAwMDU0Mzc0N2FkaXF6a2N4",
+      "barcode": "XKC5KDWR",
+      "type": "CH01",
+      "date": "2009-10-12",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2009-10-01",
+        "officer_name": "Christina Francis Lees-Jones"
+      },
+      "pages": 2,
+      "action_date": "2009-10-01",
+      "links": {
+        "self": "/company/00557225/filing-history/MzAwMDU0Mzc0N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/BoS4wqUKwDBubrBNLlt0F-P1jgCF0mqE8iVvr1WoTCQ"
+      }
+    },
+    {
+      "transaction_id": "MzAwMDU0Mzc0NGFkaXF6a2N4",
+      "barcode": "XKC5JDWQ",
+      "type": "CH01",
+      "date": "2009-10-12",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2009-10-01",
+        "officer_name": "William Richard Lees Jones"
+      },
+      "pages": 2,
+      "action_date": "2009-10-01",
+      "links": {
+        "self": "/company/00557225/filing-history/MzAwMDU0Mzc0NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/hXzxpLaT1Je1eQSm5P94L6ZmefVnVhSZBzKXczObLM8"
+      }
+    },
+    {
+      "transaction_id": "MzAwMDU0MzYwN2FkaXF6a2N4",
+      "barcode": "XKC3UDWZ",
+      "type": "CH01",
+      "date": "2009-10-12",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2009-10-01",
+        "officer_name": "Simon Christopher Lees Jones"
+      },
+      "pages": 2,
+      "action_date": "2009-10-01",
+      "links": {
+        "self": "/company/00557225/filing-history/MzAwMDU0MzYwN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/HlCkTUmNe6-98IByW6oVm8zY88SO0FRbIGxh8Aosbuk"
+      }
+    },
+    {
+      "transaction_id": "MzAwMDU0MzU0MGFkaXF6a2N4",
+      "barcode": "XKC37DWC",
+      "type": "CH03",
+      "date": "2009-10-12",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-secretary-company-with-change-date",
+      "description_values": {
+        "change_date": "2009-10-01",
+        "officer_name": "Simon Cross"
+      },
+      "pages": 1,
+      "action_date": "2009-10-01",
+      "links": {
+        "self": "/company/00557225/filing-history/MzAwMDU0MzU0MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/6tuQ65uOXnlj2VCz1pXgd1kgXrlUAkc3rFyMzgxvIxo"
+      }
+    },
+    {
+      "transaction_id": "MzAwMDU0MzM3NWFkaXF6a2N4",
+      "barcode": "XKC69DWH",
+      "type": "CH01",
+      "date": "2009-10-12",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2009-10-01",
+        "officer_name": "Michael Christopher Lees Jones"
+      },
+      "pages": 2,
+      "action_date": "2009-10-01",
+      "links": {
+        "self": "/company/00557225/filing-history/MzAwMDU0MzM3NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Rpwmb3Fn-jqYQFH-LyK-v8pavTnBScRx7h2tzxCXnIY"
+      }
+    },
+    {
+      "transaction_id": "MzAwMDU0MzMyM2FkaXF6a2N4",
+      "barcode": "XKC5BDWI",
+      "type": "CH01",
+      "date": "2009-10-12",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2009-10-01",
+        "officer_name": "William George Richard Lees Jones"
+      },
+      "pages": 2,
+      "action_date": "2009-10-01",
+      "links": {
+        "self": "/company/00557225/filing-history/MzAwMDU0MzMyM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/KtxgpLKHp6ATwnNg85e-LZSLPDnNktxvHIgctFU3YWE"
+      }
+    },
+    {
+      "transaction_id": "MjAzNzI1NTQyOGFkaXF6a2N4",
+      "barcode": "ATK5YBJK",
+      "type": "395",
+      "date": "2009-07-14",
+      "category": "mortgage",
+      "description": "legacy",
+      "description_values": {
+        "description": "Particulars of a mortgage or charge / charge no: 90"
+      },
+      "pages": 3,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MjAzNzI1NTQyOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/VORBNTDl_kGu1DlKmYHc24kZT79bwYRFm9hB897mFC4"
+      }
+    },
+    {
+      "transaction_id": "MjAzNzMzNzc3N2FkaXF6a2N4",
+      "barcode": "PG3FQ00D",
+      "type": "395",
+      "date": "2009-07-09",
+      "category": "mortgage",
+      "description": "legacy",
+      "description_values": {
+        "description": "Particulars of a mortgage or charge / charge no: 97"
+      },
+      "pages": 3,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MjAzNzMzNzc3N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/odu6NfIm-hTwgvRctRHXTSJoT711Zlz2hf6nn4-z6dM"
+      }
+    },
+    {
+      "transaction_id": "MjAzNzMzNzk2NWFkaXF6a2N4",
+      "barcode": "PG3FI005",
+      "type": "395",
+      "date": "2009-07-09",
+      "category": "mortgage",
+      "description": "legacy",
+      "description_values": {
+        "description": "Particulars of a mortgage or charge / charge no: 98"
+      },
+      "pages": 3,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MjAzNzMzNzk2NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/p6elSdlbMSUqcWnh2BmLaGFShCNvSNBatFSJAQpCVyk"
+      }
+    },
+    {
+      "transaction_id": "MjAzNzMzODA5MmFkaXF6a2N4",
+      "barcode": "PG3FX00K",
+      "type": "395",
+      "date": "2009-07-09",
+      "category": "mortgage",
+      "description": "legacy",
+      "description_values": {
+        "description": "Particulars of a mortgage or charge / charge no: 99"
+      },
+      "pages": 3,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MjAzNzMzODA5MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/7wQ2j99dK94VXrB1xcoTv5U0VGY1y7xP86ZuerEa8zk"
+      }
+    },
+    {
+      "transaction_id": "MjAzNzMzNjQyNWFkaXF6a2N4",
+      "barcode": "PG3G000O",
+      "type": "395",
+      "date": "2009-07-09",
+      "category": "mortgage",
+      "description": "legacy",
+      "description_values": {
+        "description": "Particulars of a mortgage or charge / charge no: 91"
+      },
+      "pages": 3,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MjAzNzMzNjQyNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/GoesKvHXel34vZmC_BP5jIJe2SLCuksoy3sPm7x4hOU"
+      }
+    },
+    {
+      "transaction_id": "MjAzNzMzNjkxNmFkaXF6a2N4",
+      "barcode": "PG3FK007",
+      "type": "395",
+      "date": "2009-07-09",
+      "category": "mortgage",
+      "description": "legacy",
+      "description_values": {
+        "description": "Particulars of a mortgage or charge / charge no: 92"
+      },
+      "pages": 3,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MjAzNzMzNjkxNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/IZEkV5eD0ogqw1jxM2W-n2WBYQ05egZdJ6U97RyhnJ0"
+      }
+    },
+    {
+      "transaction_id": "MjAzNzMzNzA0NmFkaXF6a2N4",
+      "barcode": "PG3FJ006",
+      "type": "395",
+      "date": "2009-07-09",
+      "category": "mortgage",
+      "description": "legacy",
+      "description_values": {
+        "description": "Particulars of a mortgage or charge / charge no: 93"
+      },
+      "pages": 3,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MjAzNzMzNzA0NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/t0luHFfRQVofDz6mCK4F9-vLXp5KePXvtoFo-WMStnk"
+      }
+    },
+    {
+      "transaction_id": "MjAzNzMzNzIwN2FkaXF6a2N4",
+      "barcode": "PG3FR00E",
+      "type": "395",
+      "date": "2009-07-09",
+      "category": "mortgage",
+      "description": "legacy",
+      "description_values": {
+        "description": "Particulars of a mortgage or charge / charge no: 94"
+      },
+      "pages": 3,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MjAzNzMzNzIwN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/GgIavKgQlZ0VoyuTD8ft693H11jQqNB4hn5jsXGXaI0"
+      }
+    },
+    {
+      "transaction_id": "MjAzNzMzNzMwOGFkaXF6a2N4",
+      "barcode": "PG3FZ00M",
+      "type": "395",
+      "date": "2009-07-09",
+      "category": "mortgage",
+      "description": "legacy",
+      "description_values": {
+        "description": "Particulars of a mortgage or charge / charge no: 95"
+      },
+      "pages": 3,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MjAzNzMzNzMwOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/2izu8xTXqenux13duFgpSdjAIacsy0SZ5US8po7q8UU"
+      }
+    },
+    {
+      "transaction_id": "MjAzNzMzNzQ3OGFkaXF6a2N4",
+      "barcode": "PG3FY00L",
+      "type": "395",
+      "date": "2009-07-09",
+      "category": "mortgage",
+      "description": "legacy",
+      "description_values": {
+        "description": "Particulars of a mortgage or charge / charge no: 96"
+      },
+      "pages": 3,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MjAzNzMzNzQ3OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/1slV2JH2Z0Gr6soQZi6A_B2v4aLlBohC6NdHzqp0n7U"
+      }
+    },
+    {
+      "transaction_id": "MjAzNDM2MjAzOWFkaXF6a2N4",
+      "barcode": "PF949ADD",
+      "type": "395",
+      "date": "2009-06-02",
+      "category": "mortgage",
+      "description": "legacy",
+      "description_values": {
+        "description": "Particulars of a mortgage or charge / charge no: 79"
+      },
+      "pages": 3,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MjAzNDM2MjAzOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/vuPyl_2RsxMmfJxOp9rT0kUQhR5caOILNA4NkWgkYRQ"
+      }
+    },
+    {
+      "transaction_id": "MjAzNDM2MjMxMWFkaXF6a2N4",
+      "barcode": "PF94AADE",
+      "type": "395",
+      "date": "2009-06-02",
+      "category": "mortgage",
+      "description": "legacy",
+      "description_values": {
+        "description": "Particulars of a mortgage or charge / charge no: 80"
+      },
+      "pages": 3,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MjAzNDM2MjMxMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/pXzKNr-oelfH-chTP8uOPyze3dkuCWrRr7_6z7xbneQ"
+      }
+    },
+    {
+      "transaction_id": "MjAzNDM2MjYyOGFkaXF6a2N4",
+      "barcode": "PF94CADG",
+      "type": "395",
+      "date": "2009-06-02",
+      "category": "mortgage",
+      "description": "legacy",
+      "description_values": {
+        "description": "Particulars of a mortgage or charge / charge no: 81"
+      },
+      "pages": 3,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MjAzNDM2MjYyOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/RTsC8X5lHabFQ8DjgD6CA0crfeW0m01YM1DSt8IAplc"
+      }
+    },
+    {
+      "transaction_id": "MjAzNDM2MjgyMmFkaXF6a2N4",
+      "barcode": "PF94BADF",
+      "type": "395",
+      "date": "2009-06-02",
+      "category": "mortgage",
+      "description": "legacy",
+      "description_values": {
+        "description": "Particulars of a mortgage or charge / charge no: 82"
+      },
+      "pages": 3,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MjAzNDM2MjgyMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/7PLmqU6fbhJ-I2SK0Q0VBLfaEHfOndG8ENZxUtbiInE"
+      }
+    },
+    {
+      "transaction_id": "MjAzNDM2Mjk1OWFkaXF6a2N4",
+      "barcode": "PF94DADH",
+      "type": "395",
+      "date": "2009-06-02",
+      "category": "mortgage",
+      "description": "legacy",
+      "description_values": {
+        "description": "Particulars of a mortgage or charge / charge no: 83"
+      },
+      "pages": 3,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MjAzNDM2Mjk1OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/63fDxpNNbmYlTFCkb33yvFlC0fJagyYnmpjAKtgzvM8"
+      }
+    },
+    {
+      "transaction_id": "MjAzNDM2MzI0MGFkaXF6a2N4",
+      "barcode": "PF94EADI",
+      "type": "395",
+      "date": "2009-06-02",
+      "category": "mortgage",
+      "description": "legacy",
+      "description_values": {
+        "description": "Particulars of a mortgage or charge / charge no: 84"
+      },
+      "pages": 3,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MjAzNDM2MzI0MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/gzi69SzMttQeukSnOH2Rw4Wk2dHiF50bmfXCtUbbulM"
+      }
+    },
+    {
+      "transaction_id": "MjAzNDM2NDY0OGFkaXF6a2N4",
+      "barcode": "PF94FADJ",
+      "type": "395",
+      "date": "2009-06-02",
+      "category": "mortgage",
+      "description": "legacy",
+      "description_values": {
+        "description": "Particulars of a mortgage or charge / charge no: 85"
+      },
+      "pages": 3,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MjAzNDM2NDY0OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZeIS3vj8Ei_NwVQD9YtCHMRMDqk9DqYBa5SSGxbjGt8"
+      }
+    },
+    {
+      "transaction_id": "MjAzNDM2NDc2M2FkaXF6a2N4",
+      "barcode": "PF94GADK",
+      "type": "395",
+      "date": "2009-06-02",
+      "category": "mortgage",
+      "description": "legacy",
+      "description_values": {
+        "description": "Particulars of a mortgage or charge / charge no: 86"
+      },
+      "pages": 3,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MjAzNDM2NDc2M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/oSki5_5450GUhWd_pyY3wy_5ElRg1_hF-A-0NbJTuHE"
+      }
+    },
+    {
+      "transaction_id": "MjAzNDM2NDg5NWFkaXF6a2N4",
+      "barcode": "PF94HADL",
+      "type": "395",
+      "date": "2009-06-02",
+      "category": "mortgage",
+      "description": "legacy",
+      "description_values": {
+        "description": "Particulars of a mortgage or charge / charge no: 87"
+      },
+      "pages": 3,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MjAzNDM2NDg5NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/INbMc8ppxVQmkERGejvTNgQZaQ8JFi7vHUxrganntm4"
+      }
+    },
+    {
+      "transaction_id": "MjAzNDM2NTA3N2FkaXF6a2N4",
+      "barcode": "PF94IADM",
+      "type": "395",
+      "date": "2009-06-02",
+      "category": "mortgage",
+      "description": "legacy",
+      "description_values": {
+        "description": "Particulars of a mortgage or charge / charge no: 88"
+      },
+      "pages": 3,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MjAzNDM2NTA3N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/1_YK9TWBTPDh36W2UIt82y1dQPKj5HGYQcpB4HnM2fk"
+      }
+    },
+    {
+      "transaction_id": "MjAyNDIwNDM4N2FkaXF6a2N4",
+      "barcode": "AJGS36DN",
+      "type": "288c",
+      "date": "2009-01-26",
+      "category": "officers",
+      "description": "legacy",
+      "description_values": {
+        "description": "Director's change of particulars / christina lees-jones / 12/12/2008"
+      },
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MjAyNDIwNDM4N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/cpxuD9xr253gF7S-HNPVIDA8-UH_--5SefKYQBQWE-w"
+      }
+    },
+    {
+      "transaction_id": "MjAyMzUzNjU3MGFkaXF6a2N4",
+      "barcode": "AK0FZ6KY",
+      "type": "AA",
+      "date": "2009-01-16",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-group",
+      "description_values": {
+        "made_up_date": "2008-03-31"
+      },
+      "pages": 28,
+      "action_date": "2008-03-31",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MjAyMzUzNjU3MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/RvDye38_IBCHkefs9nOcRWTyUaljVLTXv1H2DTILTDM"
+      }
+    },
+    {
+      "transaction_id": "MjAyMzA5MTkzM2FkaXF6a2N4",
+      "barcode": "AJGRS6DB",
+      "type": "363a",
+      "date": "2009-01-12",
+      "category": "annual-return",
+      "description": "legacy",
+      "description_values": {
+        "description": "Return made up to 12/12/08; full list of members"
+      },
+      "pages": 2,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MjAyMzA5MTkzM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/LQTdcziDtAiDAkTv1No-LGV8zWUd-75cF60njui5hlk"
+      }
+    },
+    {
+      "transaction_id": "MjAxMTA4OTI4NGFkaXF6a2N4",
+      "barcode": "AUYGU29N",
+      "type": "403a",
+      "date": "2008-08-14",
+      "category": "mortgage",
+      "description": "legacy",
+      "description_values": {
+        "description": "Declaration of satisfaction in full or in part of a mortgage or charge /full /charge no 2"
+      },
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MjAxMTA4OTI4NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ghqKd9S_MNHWY4Y4qD3S43bLu-QhCHdkiMqRKKW7TqM"
+      }
+    },
+    {
+      "transaction_id": "MjAwMzY0MDc2NmFkaXF6a2N4",
+      "barcode": "AW7M7YY2",
+      "type": "288a",
+      "date": "2008-04-18",
+      "category": "officers",
+      "description": "legacy",
+      "description_values": {
+        "description": "Secretary appointed simon cross"
+      },
+      "pages": 2,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MjAwMzY0MDc2NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/QgYKATI5hCu7Rz7SooDSI-R9kWzNvQvVpLT6rFurE0I"
+      }
+    },
+    {
+      "transaction_id": "MjAwMzY0MDcyOWFkaXF6a2N4",
+      "barcode": "AW7M6YY1",
+      "type": "288b",
+      "date": "2008-04-18",
+      "category": "officers",
+      "description": "legacy",
+      "description_values": {
+        "description": "Appointment terminated secretary glyn bruffell"
+      },
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MjAwMzY0MDcyOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/VJWcqIa332iMhd05kY4IfXy_p_iC3Lm5pvY0PKMZ-L4"
+      }
+    },
+    {
+      "transaction_id": "MTkxMTQ5ODEzYWRpcXprY3g",
+      "type": "363a",
+      "date": "2008-01-22",
+      "category": "annual-return",
+      "description": "legacy",
+      "description_values": {
+        "description": "Return made up to 12/12/07; full list of members"
+      },
+      "pages": 9,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MTkxMTQ5ODEzYWRpcXprY3g",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/EpP8LBI_0FY91KrJrLw3iO9CbIZFcy1ucOCI1Rocquo"
+      }
+    },
+    {
+      "transaction_id": "MTkxMTkzMjY2YWRpcXprY3g",
+      "type": "AA",
+      "date": "2008-01-18",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-group",
+      "description_values": {
+        "made_up_date": "2007-03-31"
+      },
+      "pages": 29,
+      "action_date": "2007-03-31",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MTkxMTkzMjY2YWRpcXprY3g",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/cn9ILB75_rtzVm1myTANtOwBtNT2g1-qr4CYKY5-0ks"
+      }
+    },
+    {
+      "transaction_id": "MTc1MzU0MjI5YWRpcXprY3g",
+      "type": "AA",
+      "date": "2007-01-22",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-group",
+      "description_values": {
+        "made_up_date": "2006-03-31"
+      },
+      "pages": 29,
+      "action_date": "2006-03-31",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MTc1MzU0MjI5YWRpcXprY3g",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/l9X5z16LplCoBopaiSYwkuxy-Nko5wV1C0Qx-px6QMc"
+      }
+    },
+    {
+      "transaction_id": "MTc1NDQxODc4YWRpcXprY3g",
+      "type": "363s",
+      "date": "2007-01-11",
+      "category": "annual-return",
+      "description": "legacy",
+      "description_values": {
+        "description": "Return made up to 12/12/06; full list of members"
+      },
+      "pages": 15,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MTc1NDQxODc4YWRpcXprY3g",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/vTCmgLcNzAZMSSn0CSVTZxUs7E4wzWEo5pCDwyE9UxA"
+      }
+    },
+    {
+      "transaction_id": "MTYxMDUxMDkwYWRpcXprY3g",
+      "type": "288c",
+      "date": "2006-05-19",
+      "category": "officers",
+      "description": "legacy",
+      "description_values": {
+        "description": "Secretary's particulars changed"
+      },
+      "pages": 1,
+      "links": {
+        "self": "/company/00557225/filing-history/MTYxMDUxMDkwYWRpcXprY3g",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/e7sXO-zmhweozGsTW3PNNZxNC30CE3l44FutsLljsfI"
+      }
+    },
+    {
+      "transaction_id": "MTYwMjk4OTQ3YWRpcXprY3g",
+      "type": "288c",
+      "date": "2006-04-21",
+      "category": "officers",
+      "description": "legacy",
+      "description_values": {
+        "description": "Secretary's particulars changed"
+      },
+      "pages": 1,
+      "links": {
+        "self": "/company/00557225/filing-history/MTYwMjk4OTQ3YWRpcXprY3g",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/-UzfU0ksBaL991-nATsxP42wdI8jjnGMMmrYmSAg4qg"
+      }
+    },
+    {
+      "transaction_id": "MTU5NzcxNzI1YWRpcXprY3g",
+      "type": "288c",
+      "date": "2006-04-20",
+      "category": "officers",
+      "description": "legacy",
+      "description_values": {
+        "description": "Secretary's particulars changed"
+      },
+      "pages": 1,
+      "links": {
+        "self": "/company/00557225/filing-history/MTU5NzcxNzI1YWRpcXprY3g",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/LU2gm2WSDn9MFhLAvSFQOnjkKULNmK7YISZdfvkQZFs"
+      }
+    },
+    {
+      "transaction_id": "MTc0MTM3MzdhZGlxemtjeA",
+      "type": "AA",
+      "date": "2006-01-20",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-group",
+      "description_values": {
+        "made_up_date": "2005-03-31"
+      },
+      "pages": 26,
+      "action_date": "2005-03-31",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MTc0MTM3MzdhZGlxemtjeA",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/_X4ThVofZ_EwS3lX1HDgMCG597WWVYl-T65IFKkfPbc"
+      }
+    },
+    {
+      "transaction_id": "MTA3NTg3MzA5YWRpcXprY3g",
+      "type": "363s",
+      "date": "2005-12-16",
+      "category": "annual-return",
+      "description": "legacy",
+      "description_values": {
+        "description": "Return made up to 12/12/05; full list of members"
+      },
+      "pages": 15,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MTA3NTg3MzA5YWRpcXprY3g",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/RZKFWJ2c0oXhG8Q_AtU-l-MeT1JhC7AoH6qtFQVvJCk"
+      }
+    },
+    {
+      "transaction_id": "MTIxMTQyMjkyYWRpcXprY3g",
+      "type": "288a",
+      "date": "2005-11-14",
+      "category": "officers",
+      "description": "legacy",
+      "description_values": {
+        "description": "New director appointed"
+      },
+      "pages": 2,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MTIxMTQyMjkyYWRpcXprY3g",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/2B9-mP_r_bqSDwUvuKp9mx-bPH2I6T_fw0UQX4VKFsU"
+      }
+    },
+    {
+      "transaction_id": "MTAzNTE4MDMwYWRpcXprY3g",
+      "type": "AA",
+      "date": "2005-01-18",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-group",
+      "description_values": {
+        "made_up_date": "2004-03-31"
+      },
+      "pages": 30,
+      "action_date": "2004-03-31",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/00557225/filing-history/MTAzNTE4MDMwYWRpcXprY3g",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/R8LJ3YtLuNPD0de7137zfDtuw3fXTEVW7Dyo4AYvNW0"
+      }
+    }
+  ]
+}

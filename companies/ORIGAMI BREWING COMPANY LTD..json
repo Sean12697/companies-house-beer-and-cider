@@ -1,0 +1,592 @@
+{
+  "company_name": "ORIGAMI BREWING COMPANY LTD.",
+  "company_number": "10262440",
+  "company_status": "active",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/10262440"
+  },
+  "date_of_creation": "2016-07-05",
+  "registered_office_address": {
+    "address_line_1": "83 Ducie Street",
+    "locality": "Manchester",
+    "postal_code": "M1 2JQ",
+    "country": "England"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzQzNTYxMjQ1MGFkaXF6a2N4",
+      "barcode": "XDBK7HR5",
+      "type": "TM01",
+      "date": "2024-09-13",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-director-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Simon Tierney-Wigg",
+        "termination_date": "2024-09-01"
+      },
+      "pages": 1,
+      "action_date": "2024-09-01",
+      "links": {
+        "self": "/company/10262440/filing-history/MzQzNTYxMjQ1MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/M_hGEAEoy3kudpQrnhIulO87KwTECKP-NLupTgWxAU4"
+      }
+    },
+    {
+      "transaction_id": "MzQzMzQ2NTI3MGFkaXF6a2N4",
+      "barcode": "XDACXRQ9",
+      "type": "TM02",
+      "date": "2024-08-27",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-secretary-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Simon Tierney-Wigg",
+        "termination_date": "2024-08-27"
+      },
+      "pages": 1,
+      "action_date": "2024-08-27",
+      "links": {
+        "self": "/company/10262440/filing-history/MzQzMzQ2NTI3MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/bSa51fyFH2uWZ0ppZhXDEmN7cfrLW_k4BF5eMlXWQ74"
+      }
+    },
+    {
+      "transaction_id": "MzQzMzQ2NTE1NWFkaXF6a2N4",
+      "barcode": "XDACXRE3",
+      "type": "PSC07",
+      "date": "2024-08-27",
+      "category": "persons-with-significant-control",
+      "subcategory": "termination",
+      "description": "cessation-of-a-person-with-significant-control",
+      "description_values": {
+        "psc_name": "Simon Tierney-Wigg",
+        "cessation_date": "2024-08-27"
+      },
+      "pages": 1,
+      "action_date": "2024-08-27",
+      "links": {
+        "self": "/company/10262440/filing-history/MzQzMzQ2NTE1NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/JZmKMLA5rYktp4Yk7OZuNz1MEdFZ_kB_Ke-4n-wxrkI"
+      }
+    },
+    {
+      "transaction_id": "MzQzMzQ2NTExMWFkaXF6a2N4",
+      "barcode": "XDACXRHM",
+      "type": "CS01",
+      "date": "2024-08-27",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2024-07-04"
+      },
+      "pages": 3,
+      "action_date": "2024-07-04",
+      "links": {
+        "self": "/company/10262440/filing-history/MzQzMzQ2NTExMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/yGHBhr0wzrfIjrKEA5vH4Dmzs-oMNnNk-ZfgMMKbAsI"
+      }
+    },
+    {
+      "transaction_id": "MzQzMzQ1ODEzNGFkaXF6a2N4",
+      "barcode": "XDACWZIW",
+      "type": "AA",
+      "date": "2024-08-27",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2024-07-31"
+      },
+      "pages": 8,
+      "action_date": "2024-07-31",
+      "links": {
+        "self": "/company/10262440/filing-history/MzQzMzQ1ODEzNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/DRkq7FDMUEXrXQn5565Xl_-iErZ7DuZTUNqWmb3TQMc"
+      }
+    },
+    {
+      "transaction_id": "MzM5NzA1NTAzNGFkaXF6a2N4",
+      "barcode": "XCEFHKCO",
+      "type": "AA",
+      "date": "2023-10-18",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2023-07-31"
+      },
+      "pages": 3,
+      "action_date": "2023-07-31",
+      "links": {
+        "self": "/company/10262440/filing-history/MzM5NzA1NTAzNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZvGXAgY_herXyb4lmo6h-XuIKtw3TUGyPrxc1mS_AMM"
+      }
+    },
+    {
+      "transaction_id": "MzM5NTIwNTA0MmFkaXF6a2N4",
+      "barcode": "XCDDS5VE",
+      "type": "CS01",
+      "date": "2023-10-03",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2023-07-04"
+      },
+      "pages": 3,
+      "action_date": "2023-07-04",
+      "links": {
+        "self": "/company/10262440/filing-history/MzM5NTIwNTA0MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/d5Ro7yJ11lgx79UiNcOVniZ_a9BkrcJybSISqgAej_k"
+      }
+    },
+    {
+      "transaction_id": "MzM4NTk1NDkyN2FkaXF6a2N4",
+      "type": "SOAS(A)",
+      "date": "2023-07-12",
+      "category": "dissolution",
+      "description": "dissolution-voluntary-strike-off-suspended",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/10262440/filing-history/MzM4NTk1NDkyN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/S63cxjLJUIRVKuhV4c7FHcefYvfsbwt0qu8_QIA_9E0"
+      }
+    },
+    {
+      "transaction_id": "MzM4MDUwNjI1NmFkaXF6a2N4",
+      "type": "GAZ1(A)",
+      "date": "2023-05-30",
+      "category": "gazette",
+      "description": "gazette-notice-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/10262440/filing-history/MzM4MDUwNjI1NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/AvX2ghJUuvl4GLg-4AQWwEN62N0xqPuoDR1xAosy8Y4"
+      }
+    },
+    {
+      "transaction_id": "MzM4MDM2OTc3M2FkaXF6a2N4",
+      "barcode": "XC2C9S5L",
+      "type": "DS01",
+      "date": "2023-05-23",
+      "category": "dissolution",
+      "description": "dissolution-application-strike-off-company",
+      "pages": 1,
+      "links": {
+        "self": "/company/10262440/filing-history/MzM4MDM2OTc3M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/14-2sQ5dSAAYpkimDdWNT3CHbp8uzQcjpo9Zp50jsjc"
+      }
+    },
+    {
+      "transaction_id": "MzM3NzcyNDY4MWFkaXF6a2N4",
+      "barcode": "XC2C9B1F",
+      "type": "AA",
+      "date": "2023-04-27",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2022-07-31"
+      },
+      "pages": 9,
+      "action_date": "2022-07-31",
+      "links": {
+        "self": "/company/10262440/filing-history/MzM3NzcyNDY4MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/EWrsxvogwQG7cx3WyrfY68BP6a8cmyT9Wv036PFO_To"
+      }
+    },
+    {
+      "transaction_id": "MzM0NjY0ODM1NmFkaXF6a2N4",
+      "barcode": "XB8YNUX7",
+      "type": "CS01",
+      "date": "2022-07-25",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2022-07-04"
+      },
+      "pages": 3,
+      "action_date": "2022-07-04",
+      "links": {
+        "self": "/company/10262440/filing-history/MzM0NjY0ODM1NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/qIE054Hr4x3jyuL7nYH6qmAhxyg3FJj3PlMmZeMLVqk"
+      }
+    },
+    {
+      "transaction_id": "MzMzNzY3OTg5MmFkaXF6a2N4",
+      "barcode": "XB2XA04B",
+      "type": "AA",
+      "date": "2022-04-28",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2021-07-31"
+      },
+      "pages": 9,
+      "action_date": "2021-07-31",
+      "links": {
+        "self": "/company/10262440/filing-history/MzMzNzY3OTg5MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/vJLYlRhm1TcwVYH8zGesxgUMqQ1-Bacp7WCLmd68N2Q"
+      }
+    },
+    {
+      "transaction_id": "MzMwNzgwNjc3NmFkaXF6a2N4",
+      "barcode": "XA8S7JKW",
+      "type": "CS01",
+      "date": "2021-07-15",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2021-07-04"
+      },
+      "pages": 3,
+      "action_date": "2021-07-04",
+      "links": {
+        "self": "/company/10262440/filing-history/MzMwNzgwNjc3NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/tx8PhVwrE1j8W4M2bwq-guwges8WK7PuFnnalcS5grY"
+      }
+    },
+    {
+      "transaction_id": "MzI5OTc0Mjk1NmFkaXF6a2N4",
+      "barcode": "XA3K4RQW",
+      "type": "AA",
+      "date": "2021-05-01",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2020-07-31"
+      },
+      "pages": 3,
+      "action_date": "2020-07-31",
+      "links": {
+        "self": "/company/10262440/filing-history/MzI5OTc0Mjk1NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/HJ-Ldv3cT5qhC7iprtujfagK35exC9nRqs5IMQUo-xY"
+      }
+    },
+    {
+      "transaction_id": "MzI3ODM2Njc4M2FkaXF6a2N4",
+      "barcode": "X9E3NA0A",
+      "type": "CS01",
+      "date": "2020-09-22",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2020-07-04"
+      },
+      "pages": 3,
+      "action_date": "2020-07-04",
+      "links": {
+        "self": "/company/10262440/filing-history/MzI3ODM2Njc4M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/YF3eG7ssOoWRNiukDsZbOUWAbqTTAOGlXy4LqsU0NWA"
+      }
+    },
+    {
+      "transaction_id": "MzI3ODM2NjMwNWFkaXF6a2N4",
+      "barcode": "X9E3N7VL",
+      "type": "PSC07",
+      "date": "2020-09-22",
+      "category": "persons-with-significant-control",
+      "subcategory": "termination",
+      "description": "cessation-of-a-person-with-significant-control",
+      "description_values": {
+        "psc_name": "Erin Tickle",
+        "cessation_date": "2020-07-01"
+      },
+      "pages": 1,
+      "action_date": "2020-07-01",
+      "links": {
+        "self": "/company/10262440/filing-history/MzI3ODM2NjMwNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ON9N8-NuWdUjT747vTjV5aF_pu-KMgpB7ACdOU75znU"
+      }
+    },
+    {
+      "transaction_id": "MzI3ODM2NjAwMGFkaXF6a2N4",
+      "barcode": "X9E3N6JK",
+      "type": "PSC07",
+      "date": "2020-09-22",
+      "category": "persons-with-significant-control",
+      "subcategory": "termination",
+      "description": "cessation-of-a-person-with-significant-control",
+      "description_values": {
+        "psc_name": "Lauren Guy",
+        "cessation_date": "2020-07-01"
+      },
+      "pages": 1,
+      "action_date": "2020-07-01",
+      "links": {
+        "self": "/company/10262440/filing-history/MzI3ODM2NjAwMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/yPgxzM-JkkMn0YbepMH82-kLQU3NbFgbRpguogrR5Kc"
+      }
+    },
+    {
+      "transaction_id": "MzI3ODM2NTcyMWFkaXF6a2N4",
+      "barcode": "X9E3N5H5",
+      "type": "TM01",
+      "date": "2020-09-22",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-director-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Erin Tickle",
+        "termination_date": "2020-07-01"
+      },
+      "pages": 1,
+      "action_date": "2020-07-01",
+      "links": {
+        "self": "/company/10262440/filing-history/MzI3ODM2NTcyMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/wz0TG4dLnyYB6KnbSmB430bd2U1ZCPPvO-u19gnohLM"
+      }
+    },
+    {
+      "transaction_id": "MzI3ODM2NTY2OWFkaXF6a2N4",
+      "barcode": "X9E3N50B",
+      "type": "TM01",
+      "date": "2020-09-22",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-director-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Lauren Guy",
+        "termination_date": "2020-07-01"
+      },
+      "pages": 1,
+      "action_date": "2020-07-01",
+      "links": {
+        "self": "/company/10262440/filing-history/MzI3ODM2NTY2OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/lRcF1Xtg47pU3B-jaX5fBlNHNSPcFuL9KhECdMzPiuk"
+      }
+    },
+    {
+      "transaction_id": "MzI2MzY2NzU1M2FkaXF6a2N4",
+      "barcode": "X943BQRM",
+      "type": "AA",
+      "date": "2020-04-30",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2019-07-31"
+      },
+      "pages": 9,
+      "action_date": "2019-07-31",
+      "links": {
+        "self": "/company/10262440/filing-history/MzI2MzY2NzU1M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/mmjHAMqrLteHOldoKuQ5695_B3T9Oqc-QU3tvihKuX4"
+      }
+    },
+    {
+      "transaction_id": "MzIzOTUwMjA0M2FkaXF6a2N4",
+      "barcode": "X89VCU9L",
+      "type": "CS01",
+      "date": "2019-07-17",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2019-07-04"
+      },
+      "pages": 3,
+      "action_date": "2019-07-04",
+      "links": {
+        "self": "/company/10262440/filing-history/MzIzOTUwMjA0M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/pU9rbwrtLnmrUzkuM3Ex6z6YfkAw2vLWfk2YWN-OM4E"
+      }
+    },
+    {
+      "transaction_id": "MzIzMzMwMzM1NmFkaXF6a2N4",
+      "barcode": "X84I9VIO",
+      "type": "AA",
+      "date": "2019-04-30",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2018-07-31"
+      },
+      "pages": 2,
+      "action_date": "2018-07-31",
+      "links": {
+        "self": "/company/10262440/filing-history/MzIzMzMwMzM1NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/T8QgaJ12hS5PLB9253HntqmSbuOHw9tei5Si-YTH9OM"
+      }
+    },
+    {
+      "transaction_id": "MzIwODk5NTYwM2FkaXF6a2N4",
+      "barcode": "X79GAJE3",
+      "type": "CS01",
+      "date": "2018-07-04",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2018-07-04"
+      },
+      "pages": 5,
+      "action_date": "2018-07-04",
+      "links": {
+        "self": "/company/10262440/filing-history/MzIwODk5NTYwM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ohwkDtFR80UJ2zMkZzXG13zKAMBvCdNVzLqfzjNMtdg"
+      }
+    },
+    {
+      "transaction_id": "MzIwODk5MjUxNGFkaXF6a2N4",
+      "barcode": "X79G7FEW",
+      "type": "AD03",
+      "date": "2018-07-04",
+      "category": "address",
+      "description": "move-registers-to-sail-company-with-new-address",
+      "description_values": {
+        "new_address": "23 Bradshaw Lane Stretford Manchester M32 8WF"
+      },
+      "pages": 1,
+      "links": {
+        "self": "/company/10262440/filing-history/MzIwODk5MjUxNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/18tDGfQOoEEBS5xZcppuM7MYRsLEWGu7CiRzyqpQ3gE"
+      }
+    },
+    {
+      "transaction_id": "MzIwODk5MTUyOGFkaXF6a2N4",
+      "barcode": "X79G6CC9",
+      "type": "AD02",
+      "date": "2018-07-04",
+      "category": "address",
+      "description": "change-sail-address-company-with-new-address",
+      "description_values": {
+        "new_address": "23 Bradshaw Lane Stretford Manchester M32 8WF"
+      },
+      "pages": 1,
+      "links": {
+        "self": "/company/10262440/filing-history/MzIwODk5MTUyOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/l_Ldg3TB_EvNb4Uqh-AErgUbA9xeDJF-ITJ90zdyz80"
+      }
+    },
+    {
+      "transaction_id": "MzIwMzQ1MDE3NGFkaXF6a2N4",
+      "barcode": "X74M61NS",
+      "type": "AA",
+      "date": "2018-04-25",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2017-07-31"
+      },
+      "pages": 2,
+      "action_date": "2017-07-31",
+      "links": {
+        "self": "/company/10262440/filing-history/MzIwMzQ1MDE3NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/HvvV1bsw6dPKNSYqjcPWiQWOQLdyD062wk4kmGxO-Us"
+      }
+    },
+    {
+      "transaction_id": "MzE4NjE2NDMxMmFkaXF6a2N4",
+      "barcode": "X6FQJG0B",
+      "type": "AD01",
+      "date": "2017-09-25",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2017-09-25",
+        "old_address": "23 Bradshaw Lane Stretford Manchester M32 8WF United Kingdom",
+        "new_address": "83 Ducie Street Manchester M1 2JQ"
+      },
+      "pages": 1,
+      "action_date": "2017-09-25",
+      "links": {
+        "self": "/company/10262440/filing-history/MzE4NjE2NDMxMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/_BR9ZnTpLtOjiZYzLKQyTRQKm9Sg8WH5dPFEgI2Npqc"
+      }
+    },
+    {
+      "transaction_id": "MzE3OTcxNjA3N2FkaXF6a2N4",
+      "barcode": "X69Z2RTK",
+      "type": "CS01",
+      "date": "2017-07-04",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2017-07-04"
+      },
+      "pages": 3,
+      "action_date": "2017-07-04",
+      "links": {
+        "self": "/company/10262440/filing-history/MzE3OTcxNjA3N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/rJi7IPB_FJ_KXQ0xAJlNOobgY-VX0Mk4jQkTeQ7SYdY"
+      }
+    },
+    {
+      "transaction_id": "MzE3OTcxNTE2MWFkaXF6a2N4",
+      "barcode": "X69Z1J4R",
+      "type": "PSC01",
+      "date": "2017-07-04",
+      "category": "persons-with-significant-control",
+      "subcategory": "notifications",
+      "description": "notification-of-a-person-with-significant-control",
+      "description_values": {
+        "psc_name": "Pamela Louise Tierney-Wigg",
+        "notification_date": "2017-06-12"
+      },
+      "pages": 2,
+      "action_date": "2017-06-12",
+      "links": {
+        "self": "/company/10262440/filing-history/MzE3OTcxNTE2MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/1GJVGUsNGwSRdh3VPW-ttaAEArb7lvQA8QPY_YXK82k"
+      }
+    },
+    {
+      "transaction_id": "MzE3ODY3NjY2MmFkaXF6a2N4",
+      "barcode": "X693M1M2",
+      "type": "AP01",
+      "date": "2017-06-22",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Mrs Pamela Louise Tierney-Wigg",
+        "appointment_date": "2017-06-12"
+      },
+      "pages": 2,
+      "action_date": "2017-06-12",
+      "links": {
+        "self": "/company/10262440/filing-history/MzE3ODY3NjY2MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/x43fHPCeyB0mHy0y_vrtKENtaxwOETmUV7fEmlA0DOE"
+      }
+    },
+    {
+      "transaction_id": "MzE1MjE3NDg4MGFkaXF6a2N4",
+      "barcode": "X5AFFVOW",
+      "type": "NEWINC",
+      "date": "2016-07-05",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2016-07-05",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2016-07-05",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "3"
+              }
+            ]
+          },
+          "action_date": "2016-07-05"
+        },
+        {
+          "category": "incorporation",
+          "date": "2016-07-05",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 16,
+      "links": {
+        "self": "/company/10262440/filing-history/MzE1MjE3NDg4MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/p-TKWeimHN8MoCzqB7QK9WyjUq4EoLXONScS8GyrBdI"
+      }
+    }
+  ]
+}

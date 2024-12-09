@@ -1,0 +1,764 @@
+{
+  "company_name": "BREW & BOTTLE LIMITED",
+  "company_number": "11194906",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/11194906"
+  },
+  "date_of_cessation": "2022-05-17",
+  "date_of_creation": "2018-02-08",
+  "registered_office_address": {
+    "address_line_1": "Third Floor",
+    "address_line_2": "196 Deansgate",
+    "locality": "Manchester",
+    "postal_code": "M3 3WF"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzMzOTUxMzYyMGFkaXF6a2N4",
+      "type": "GAZ2",
+      "date": "2022-05-17",
+      "category": "gazette",
+      "description": "gazette-dissolved-liquidation",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11194906/filing-history/MzMzOTUxMzYyMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/P3ktgssKqrRiJQ56mrBEmJcwsJV-KVBA6Aupuz-6_1o"
+      }
+    },
+    {
+      "transaction_id": "MzMyOTYzMzY0OGFkaXF6a2N4",
+      "barcode": "YAXMOEZE",
+      "type": "AM23",
+      "date": "2022-02-17",
+      "category": "insolvency",
+      "subcategory": "administration",
+      "description": "liquidation-in-administration-move-to-dissolution",
+      "pages": 25,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11194906/filing-history/MzMyOTYzMzY0OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/DYy3hHphMQBrwMtXEVjWjgoWVnf0S20rBeJv0X_WaPc"
+      }
+    },
+    {
+      "transaction_id": "MzMyNjAyODk1NGFkaXF6a2N4",
+      "barcode": "AAV6CDJM",
+      "type": "AD01",
+      "date": "2022-01-11",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2022-01-11",
+        "old_address": "C/O Quantuma Advisory Ltd No 1 Spinningfields Quay Street Manchester M3 3JE",
+        "new_address": "Third Floor 196 Deansgate Manchester M3 3WF"
+      },
+      "pages": 2,
+      "action_date": "2022-01-11",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11194906/filing-history/MzMyNjAyODk1NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/54oX-Y2j1NZQ1DxJtj1GXgV7SdwtOBKoeSM5XEVl5sM"
+      }
+    },
+    {
+      "transaction_id": "MzMxNjUyODAwOWFkaXF6a2N4",
+      "barcode": "XAENGZCR",
+      "type": "MR04",
+      "date": "2021-10-08",
+      "category": "mortgage",
+      "subcategory": "satisfy",
+      "description": "mortgage-satisfy-charge-full",
+      "description_values": {
+        "charge_number": "111949060002"
+      },
+      "pages": 1,
+      "links": {
+        "self": "/company/11194906/filing-history/MzMxNjUyODAwOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/N1a1dcNPWVyenCyOtsJYWYYrNrt4Q_qrqg_fbvyI62s"
+      }
+    },
+    {
+      "transaction_id": "MzMxMzUzNTg2OWFkaXF6a2N4",
+      "barcode": "YACPIQ8O",
+      "type": "AM10",
+      "date": "2021-09-15",
+      "category": "insolvency",
+      "subcategory": "administration",
+      "description": "liquidation-in-administration-progress-report",
+      "pages": 28,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11194906/filing-history/MzMxMzUzNTg2OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Yak_-LPuC6HNYQZ-we5sdsuLpLPLy6t3H5YVdBQe5lo"
+      }
+    },
+    {
+      "transaction_id": "MzMwNTA0OTAxMmFkaXF6a2N4",
+      "barcode": "YA74TZ5T",
+      "type": "AM02",
+      "date": "2021-06-29",
+      "category": "insolvency",
+      "subcategory": "administration",
+      "description": "liquidation-in-administration-statement-of-affairs-with-form-attached",
+      "description_values": {
+        "form_attached": "AM02SOA"
+      },
+      "pages": 9,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11194906/filing-history/MzMwNTA0OTAxMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/uOAXDMgdlqCiTDcVkP57A-Zvoxx15u0rs3i3JBBBuFM"
+      }
+    },
+    {
+      "transaction_id": "MzI5NzMwMDQ3MGFkaXF6a2N4",
+      "barcode": "YA21UU02",
+      "type": "AD01",
+      "date": "2021-04-14",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2021-04-14",
+        "old_address": "Park House 37 Clarence Street Leicester Leicestershire LE1 3RW England",
+        "new_address": "C/O Quantuma Advisory Ltd No 1 Spinningfields Quay Street Manchester M3 3JE"
+      },
+      "pages": 2,
+      "action_date": "2021-04-14",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11194906/filing-history/MzI5NzMwMDQ3MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/R67yzWXyzeBJHnApoK8DhUWtCJyv_gGD51WrIjH5GzA"
+      }
+    },
+    {
+      "transaction_id": "MzI5NzE4MDE0M2FkaXF6a2N4",
+      "barcode": "AA1001M1",
+      "type": "AM06",
+      "date": "2021-04-08",
+      "category": "insolvency",
+      "subcategory": "administration",
+      "description": "liquidation-administration-notice-deemed-approval-of-proposals",
+      "pages": 3,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11194906/filing-history/MzI5NzE4MDE0M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/w2azh4QDsV5tqnCk-7urnRFx2drJ7KJfo_BRnhJIAJU"
+      }
+    },
+    {
+      "transaction_id": "MzI5NDY0MTI5MWFkaXF6a2N4",
+      "barcode": "AA032OWG",
+      "type": "AM03",
+      "date": "2021-03-24",
+      "category": "insolvency",
+      "subcategory": "administration",
+      "description": "liquidation-in-administration-proposals",
+      "pages": 45,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11194906/filing-history/MzI5NDY0MTI5MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/T0gMHayWPuSK2EkKi53g43lMFCtKKu1kFgdVFstbrHg"
+      }
+    },
+    {
+      "transaction_id": "MzI5MzUxMzQ1NWFkaXF6a2N4",
+      "barcode": "A9ZK2BWG",
+      "type": "AM01",
+      "date": "2021-03-15",
+      "category": "insolvency",
+      "subcategory": "administration",
+      "description": "liquidation-in-administration-appointment-of-administrator",
+      "pages": 3,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11194906/filing-history/MzI5MzUxMzQ1NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/WUGdZJg8st4SJtHH4N5m5GHb3emHVwkIsaI0T1HvU8U"
+      }
+    },
+    {
+      "transaction_id": "MzI5MDMxNjU3OGFkaXF6a2N4",
+      "barcode": "X9XHPT88",
+      "type": "TM01",
+      "date": "2021-02-03",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-director-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Lee Thomas Jeffries",
+        "termination_date": "2021-02-01"
+      },
+      "pages": 1,
+      "action_date": "2021-02-01",
+      "links": {
+        "self": "/company/11194906/filing-history/MzI5MDMxNjU3OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/4O8ED10AoMZbX2HbMOTPnuQwDdslL5hivtZ-cC4gFV4"
+      }
+    },
+    {
+      "transaction_id": "MzI4MTY4MTkxNmFkaXF6a2N4",
+      "barcode": "A9G4PP40",
+      "type": "SH10",
+      "date": "2020-10-27",
+      "category": "capital",
+      "description": "capital-variation-of-rights-attached-to-shares",
+      "pages": 2,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11194906/filing-history/MzI4MTY4MTkxNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/YI7ocr6sWqhQthHHgQbmvtk2rqQgH7ZsDYGqq92GKzs"
+      }
+    },
+    {
+      "transaction_id": "QTlHNFBQM1NhZGlxemtjeA",
+      "type": "RESOLUTIONS",
+      "date": "2020-10-27",
+      "category": "resolution",
+      "resolutions": [
+        {
+          "category": "capital",
+          "description": "resolution-varying-share-rights",
+          "type": "RES12",
+          "subcategory": "resolution"
+        }
+      ],
+      "description": "resolution",
+      "description_values": {
+        "description": "Resolutions"
+      },
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11194906/filing-history/QTlHNFBQM1NhZGlxemtjeA",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/zbkzIzJK781sIhyJRRT7_Vdxa2cs1JcqMFimVy8GCjY"
+      }
+    },
+    {
+      "transaction_id": "MzI4MTY4MTkxNWFkaXF6a2N4",
+      "barcode": "A9G4PP48",
+      "type": "SH08",
+      "date": "2020-10-27",
+      "category": "capital",
+      "description": "capital-name-of-class-of-shares",
+      "pages": 2,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11194906/filing-history/MzI4MTY4MTkxNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/BBj42gw1SeMyAT4Hg6cCrXxs5JwGZdcnSU3sMkTz8SE"
+      }
+    },
+    {
+      "transaction_id": "MzI3Nzk5Mjk1OGFkaXF6a2N4",
+      "barcode": "X9DT0GBN",
+      "type": "AA",
+      "date": "2020-09-17",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2019-12-31"
+      },
+      "pages": 5,
+      "action_date": "2019-12-31",
+      "links": {
+        "self": "/company/11194906/filing-history/MzI3Nzk5Mjk1OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/oBKTPdA_Pzv4nHoVGEdoPBs3P0MUpu-SeX3bm6k_hOI"
+      }
+    },
+    {
+      "transaction_id": "MzI2MTUyMTk4MGFkaXF6a2N4",
+      "barcode": "X921Q3WH",
+      "type": "CS01",
+      "date": "2020-04-01",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2020-02-07"
+      },
+      "pages": 6,
+      "action_date": "2020-02-07",
+      "links": {
+        "self": "/company/11194906/filing-history/MzI2MTUyMTk4MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/RHQwpQXZ4xw_R4JUKE-bYiH6ZO3HtFp3IeCMr7mxkNM"
+      }
+    },
+    {
+      "transaction_id": "MzI1NTQ5NDIzMGFkaXF6a2N4",
+      "barcode": "A8XCP74B",
+      "type": "SH10",
+      "date": "2020-01-27",
+      "category": "capital",
+      "description": "capital-variation-of-rights-attached-to-shares",
+      "pages": 2,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11194906/filing-history/MzI1NTQ5NDIzMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/mFUNB850nl17qRGqVqmCAjjYqQ-PPIqomXwZaL5ZXcs"
+      }
+    },
+    {
+      "transaction_id": "MzI1NTQ5NDIzMWFkaXF6a2N4",
+      "barcode": "A8XCP74V",
+      "type": "SH08",
+      "date": "2020-01-27",
+      "category": "capital",
+      "description": "capital-name-of-class-of-shares",
+      "pages": 2,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11194906/filing-history/MzI1NTQ5NDIzMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/lYi1X25GQ-YtSeM013HVi1CS8rr-ibHpeXgQbm8snFg"
+      }
+    },
+    {
+      "transaction_id": "MzI1NTQ5NDIzMmFkaXF6a2N4",
+      "barcode": "A8XCP74Z",
+      "type": "SH08",
+      "date": "2020-01-27",
+      "category": "capital",
+      "description": "capital-name-of-class-of-shares",
+      "pages": 2,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11194906/filing-history/MzI1NTQ5NDIzMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/iPXmtOzBW4tso5NvuArRV25cN_vSiaQJqgP0WfJ5enY"
+      }
+    },
+    {
+      "transaction_id": "MzI1NTQ5NDIzOGFkaXF6a2N4",
+      "barcode": "A8XCP75F",
+      "type": "SH08",
+      "date": "2020-01-27",
+      "category": "capital",
+      "description": "capital-name-of-class-of-shares",
+      "pages": 2,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11194906/filing-history/MzI1NTQ5NDIzOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/YxzhpaFuzIzVvZwTHw8Pvk8TuYLwcf3p5JaECtcqbIw"
+      }
+    },
+    {
+      "transaction_id": "MzI1NTQ5NDIzNGFkaXF6a2N4",
+      "barcode": "A8XCP757",
+      "type": "SH08",
+      "date": "2020-01-27",
+      "category": "capital",
+      "description": "capital-name-of-class-of-shares",
+      "pages": 2,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11194906/filing-history/MzI1NTQ5NDIzNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/89NFfSKXUXnRHbp9ntckV-2SqDyijf_QCDtJW_5DSk4"
+      }
+    },
+    {
+      "transaction_id": "QThYQ1A3NEphZGlxemtjeA",
+      "type": "RESOLUTIONS",
+      "date": "2020-01-27",
+      "category": "resolution",
+      "resolutions": [
+        {
+          "category": "capital",
+          "description": "resolution",
+          "type": "RES13",
+          "subcategory": "resolution",
+          "description_values": {
+            "description": "Share rights 15/01/2020"
+          }
+        }
+      ],
+      "description": "resolution",
+      "description_values": {
+        "description": "Resolutions"
+      },
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11194906/filing-history/QThYQ1A3NEphZGlxemtjeA",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ktDoJAqhuoAfS-8bjcb-Qdq_njZJE8N6NGFKgZba678"
+      }
+    },
+    {
+      "transaction_id": "MzI1NTMzOTk4OGFkaXF6a2N4",
+      "barcode": "X8X8YYGZ",
+      "type": "AP01",
+      "date": "2020-01-23",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Mr James Henry Wood Howard",
+        "appointment_date": "2020-01-15"
+      },
+      "pages": 2,
+      "action_date": "2020-01-15",
+      "links": {
+        "self": "/company/11194906/filing-history/MzI1NTMzOTk4OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/_OweQRT81ic6_Kc4Xu9eHG_kNj6J8XJ1E0umIelyeBc"
+      }
+    },
+    {
+      "transaction_id": "MzI1MjAxNTMzN2FkaXF6a2N4",
+      "barcode": "X8K6HR9V",
+      "type": "PSC04",
+      "date": "2019-12-16",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2019-11-06",
+        "psc_name": "Mr Lee Thomas John Jeffries"
+      },
+      "pages": 2,
+      "action_date": "2019-11-06",
+      "links": {
+        "self": "/company/11194906/filing-history/MzI1MjAxNTMzN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/X2iBCaVCyyWZaFqE2NQZuc9nJLI0bAc9yY6enqof8Kg"
+      }
+    },
+    {
+      "transaction_id": "MzI1MjAxNjE2NGFkaXF6a2N4",
+      "barcode": "X8K6HUQQ",
+      "type": "PSC07",
+      "date": "2019-12-12",
+      "category": "persons-with-significant-control",
+      "subcategory": "termination",
+      "description": "cessation-of-a-person-with-significant-control",
+      "description_values": {
+        "psc_name": "Bottling International Ltd",
+        "cessation_date": "2019-11-06"
+      },
+      "pages": 1,
+      "action_date": "2019-11-06",
+      "links": {
+        "self": "/company/11194906/filing-history/MzI1MjAxNjE2NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/BkpssHRdGo3ovMyQcZ_WLPu0Vizqe3S9dM7q2J3OOus"
+      }
+    },
+    {
+      "transaction_id": "MzI1MjAxNTQ0OWFkaXF6a2N4",
+      "barcode": "X8K6HRR5",
+      "type": "PSC07",
+      "date": "2019-12-12",
+      "category": "persons-with-significant-control",
+      "subcategory": "termination",
+      "description": "cessation-of-a-person-with-significant-control",
+      "description_values": {
+        "psc_name": "Ben Harrison",
+        "cessation_date": "2019-11-06"
+      },
+      "pages": 1,
+      "action_date": "2019-11-06",
+      "links": {
+        "self": "/company/11194906/filing-history/MzI1MjAxNTQ0OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/d2vGbCDqIVj60E6hsro2EQWQkmJoqwtuKQFjjXMvjUE"
+      }
+    },
+    {
+      "transaction_id": "MzI1MjAxNTIxMmFkaXF6a2N4",
+      "barcode": "X8K6HQPU",
+      "type": "PSC02",
+      "date": "2019-12-12",
+      "category": "persons-with-significant-control",
+      "subcategory": "notifications",
+      "description": "notification-of-a-person-with-significant-control",
+      "description_values": {
+        "psc_name": "Bottling International Ltd",
+        "notification_date": "2019-09-05"
+      },
+      "pages": 2,
+      "action_date": "2019-09-05",
+      "links": {
+        "self": "/company/11194906/filing-history/MzI1MjAxNTIxMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/9qGLM_wrYPBwBfhpuzXVWZhAUgKZrnC2WtqC1u-f3x4"
+      }
+    },
+    {
+      "transaction_id": "MzI1MjAxNDkxMWFkaXF6a2N4",
+      "barcode": "X8K6HPGW",
+      "type": "PSC07",
+      "date": "2019-12-12",
+      "category": "persons-with-significant-control",
+      "subcategory": "termination",
+      "description": "cessation-of-a-person-with-significant-control",
+      "description_values": {
+        "psc_name": "Paul Stanley Green",
+        "cessation_date": "2019-09-05"
+      },
+      "pages": 1,
+      "action_date": "2019-09-05",
+      "links": {
+        "self": "/company/11194906/filing-history/MzI1MjAxNDkxMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/1pBL0dnAF9he-OOym0dL8RVgMWasU4JMgTKAASoFMN0"
+      }
+    },
+    {
+      "transaction_id": "MzI0OTY0MDI3NmFkaXF6a2N4",
+      "barcode": "X8IJSXA9",
+      "type": "CH01",
+      "date": "2019-11-20",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2019-11-11",
+        "officer_name": "Mr Lee Thomas Jeffries"
+      },
+      "pages": 2,
+      "action_date": "2019-11-11",
+      "links": {
+        "self": "/company/11194906/filing-history/MzI0OTY0MDI3NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/V2fOUJU3SeIiPTN7PdxuNLqwwVrqAUq8LFsZUaCUGcU"
+      }
+    },
+    {
+      "transaction_id": "MzI0OTY0MDM2MWFkaXF6a2N4",
+      "barcode": "X8IJSXHK",
+      "type": "PSC04",
+      "date": "2019-11-19",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2019-11-11",
+        "psc_name": "Mr Lee Thomas John Jeffries"
+      },
+      "pages": 2,
+      "action_date": "2019-11-11",
+      "links": {
+        "self": "/company/11194906/filing-history/MzI0OTY0MDM2MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/DVrGt5v-P_bsh2_pTx4Q4xrhu7QP1DzOdYddhWptKKo"
+      }
+    },
+    {
+      "transaction_id": "MzI0NTI3ODU1NGFkaXF6a2N4",
+      "barcode": "X8ESHGJ5",
+      "type": "AA",
+      "date": "2019-09-26",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2018-12-31"
+      },
+      "pages": 5,
+      "action_date": "2018-12-31",
+      "links": {
+        "self": "/company/11194906/filing-history/MzI0NTI3ODU1NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/sa5B9Jy67kmv5lwMHnqzlyOQMkuKMifGt4UBBUaxfMA"
+      }
+    },
+    {
+      "transaction_id": "MzIzNjczMjc0OGFkaXF6a2N4",
+      "barcode": "X87G39QJ",
+      "type": "AP01",
+      "date": "2019-06-12",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Mr Maurice Newton",
+        "appointment_date": "2019-04-01"
+      },
+      "pages": 2,
+      "action_date": "2019-04-01",
+      "links": {
+        "self": "/company/11194906/filing-history/MzIzNjczMjc0OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/5PjVLYv5OhzXdcZjxOzgx5FEL0qNW41F07kKfmLiVTg"
+      }
+    },
+    {
+      "transaction_id": "MzIzMzUzODY1M2FkaXF6a2N4",
+      "barcode": "X84NLM9U",
+      "type": "PSC01",
+      "date": "2019-05-02",
+      "category": "persons-with-significant-control",
+      "subcategory": "notifications",
+      "description": "notification-of-a-person-with-significant-control",
+      "description_values": {
+        "psc_name": "Paul Green",
+        "notification_date": "2019-03-04"
+      },
+      "pages": 2,
+      "action_date": "2019-03-04",
+      "links": {
+        "self": "/company/11194906/filing-history/MzIzMzUzODY1M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/F_pUArb-OKvNV3iDG-GyC8CJC0cW_gc76a-3dUSaMMU"
+      }
+    },
+    {
+      "transaction_id": "MzIzMzUzODYyNmFkaXF6a2N4",
+      "barcode": "X84NLLWG",
+      "type": "PSC07",
+      "date": "2019-05-02",
+      "category": "persons-with-significant-control",
+      "subcategory": "termination",
+      "description": "cessation-of-a-person-with-significant-control",
+      "description_values": {
+        "psc_name": "Maurice Newton",
+        "cessation_date": "2019-03-04"
+      },
+      "pages": 1,
+      "action_date": "2019-03-04",
+      "links": {
+        "self": "/company/11194906/filing-history/MzIzMzUzODYyNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/8eEV6tiqD9ZRzzmSyV4TtHlprajSAh7425rmQ0IpqDk"
+      }
+    },
+    {
+      "transaction_id": "MzIzMzUzODU3OWFkaXF6a2N4",
+      "barcode": "X84NLLIY",
+      "type": "TM01",
+      "date": "2019-05-02",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-director-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Maurice Newton",
+        "termination_date": "2019-03-04"
+      },
+      "pages": 1,
+      "action_date": "2019-03-04",
+      "links": {
+        "self": "/company/11194906/filing-history/MzIzMzUzODU3OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/4deYwl8sEgqNz7eqvjok1RFjK56DiUMMJJxylxpauMY"
+      }
+    },
+    {
+      "transaction_id": "MzIyOTc5OTQ0MWFkaXF6a2N4",
+      "barcode": "A819V7NV",
+      "type": "MR01",
+      "date": "2019-03-15",
+      "category": "mortgage",
+      "subcategory": "create",
+      "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+      "description_values": {
+        "charge_number": "111949060002",
+        "charge_creation_date": "2019-03-07"
+      },
+      "pages": 25,
+      "action_date": "2019-03-07",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11194906/filing-history/MzIyOTc5OTQ0MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/rTbjnsHdvEzQPJU5OHLYNxzT7dOcWoqiiP2gSwgepdU"
+      }
+    },
+    {
+      "transaction_id": "MzIyOTc5OTgwMmFkaXF6a2N4",
+      "barcode": "A819V7NN",
+      "type": "MR01",
+      "date": "2019-03-15",
+      "category": "mortgage",
+      "subcategory": "create",
+      "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+      "description_values": {
+        "charge_number": "111949060003",
+        "charge_creation_date": "2019-03-06"
+      },
+      "pages": 25,
+      "action_date": "2019-03-06",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11194906/filing-history/MzIyOTc5OTgwMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ctf7kszxoSCPu3AX1Rk78lwBi5qCot-41ElVik0staM"
+      }
+    },
+    {
+      "transaction_id": "MzIyNjk5NDYwOWFkaXF6a2N4",
+      "barcode": "X7Z9QL6Y",
+      "type": "CS01",
+      "date": "2019-02-14",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2019-02-07"
+      },
+      "pages": 3,
+      "action_date": "2019-02-07",
+      "links": {
+        "self": "/company/11194906/filing-history/MzIyNjk5NDYwOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/y71V8kyFhnnQBng31dL3rTbq-lAb5aScE7vdPIUkNfs"
+      }
+    },
+    {
+      "transaction_id": "MzIyNTc1MjczOWFkaXF6a2N4",
+      "barcode": "X7Y8KB3S",
+      "type": "AA01",
+      "date": "2019-01-30",
+      "category": "accounts",
+      "description": "change-account-reference-date-company-previous-shortened",
+      "description_values": {
+        "made_up_date": "2019-02-28",
+        "new_date": "2018-12-31"
+      },
+      "pages": 1,
+      "action_date": "2018-12-31",
+      "links": {
+        "self": "/company/11194906/filing-history/MzIyNTc1MjczOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/mJrWMaZoUjQIIXhFcCgLMVt3uoQRLpu0bz7nP9gtaHs"
+      }
+    },
+    {
+      "transaction_id": "MzIyNTIwNDg5M2FkaXF6a2N4",
+      "barcode": "X7XQ1C9K",
+      "type": "MR01",
+      "date": "2019-01-23",
+      "category": "mortgage",
+      "subcategory": "create",
+      "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+      "description_values": {
+        "charge_number": "111949060001",
+        "charge_creation_date": "2019-01-21"
+      },
+      "pages": 23,
+      "action_date": "2019-01-21",
+      "links": {
+        "self": "/company/11194906/filing-history/MzIyNTIwNDg5M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/hXFgjHZusY5S98rc3gHTT5GQbo0b0WMxejL8JNlNwy0"
+      }
+    },
+    {
+      "transaction_id": "MzE5NzIxMTkzN2FkaXF6a2N4",
+      "barcode": "X6ZARJ6J",
+      "type": "NEWINC",
+      "date": "2018-02-08",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2018-02-08",
+          "description": "model-articles-adopted-amended-provisions",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2018-02-08",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2018-02-08",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "100"
+              }
+            ]
+          },
+          "action_date": "2018-02-08"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 38,
+      "links": {
+        "self": "/company/11194906/filing-history/MzE5NzIxMTkzN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/VuUiUNW0YKVjheqIiLQ070alRVpxgr_iMwMB1VqJPxo"
+      }
+    }
+  ]
+}

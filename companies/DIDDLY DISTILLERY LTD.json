@@ -1,0 +1,135 @@
+{
+  "company_name": "DIDDLY DISTILLERY LTD",
+  "company_number": "14175052",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/14175052"
+  },
+  "date_of_cessation": "2024-10-22",
+  "date_of_creation": "2022-06-15",
+  "registered_office_address": {
+    "address_line_1": "43 Dowley Gap Road",
+    "address_line_2": "Worsley",
+    "locality": "Manchester",
+    "postal_code": "M28 3UQ",
+    "country": "England"
+  },
+  "sic_codes": [
+    "11010",
+    "11040"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzQzOTYzNjcwMmFkaXF6a2N4",
+      "type": "GAZ2(A)",
+      "date": "2024-10-22",
+      "category": "gazette",
+      "description": "gazette-dissolved-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/14175052/filing-history/MzQzOTYzNjcwMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/RSIhkBJEezG59a7Lc4BcREGZKg3zyHM-32klYfRx0Dg"
+      }
+    },
+    {
+      "transaction_id": "MzQzMDU2MjY2MGFkaXF6a2N4",
+      "type": "GAZ1(A)",
+      "date": "2024-08-06",
+      "category": "gazette",
+      "description": "gazette-notice-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/14175052/filing-history/MzQzMDU2MjY2MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/n4aUnrhGDHK7DsoSkO0SQRvmwEYj2NLrlDLKodjmGMM"
+      }
+    },
+    {
+      "transaction_id": "MzQzMDU2MTk3NWFkaXF6a2N4",
+      "barcode": "XD8FF6RK",
+      "type": "DS01",
+      "date": "2024-07-30",
+      "category": "dissolution",
+      "description": "dissolution-application-strike-off-company",
+      "pages": 1,
+      "links": {
+        "self": "/company/14175052/filing-history/MzQzMDU2MTk3NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/A8_8KuHsUqGhFfHOOGAmtXbTvkXClcX9fOYqBvzLnZI"
+      }
+    },
+    {
+      "transaction_id": "MzQyNTE5MjcyOGFkaXF6a2N4",
+      "barcode": "XD57FM00",
+      "type": "AA",
+      "date": "2024-06-13",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2023-06-30"
+      },
+      "pages": 2,
+      "action_date": "2023-06-30",
+      "links": {
+        "self": "/company/14175052/filing-history/MzQyNTE5MjcyOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/YHjcR-8zx57Af4OaHB0t2i5Tk6gLTdo5IdXb2rZHam4"
+      }
+    },
+    {
+      "transaction_id": "MzM4NDQ4Mzc4MWFkaXF6a2N4",
+      "barcode": "XC6NUTV7",
+      "type": "CS01",
+      "date": "2023-06-28",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2023-06-14"
+      },
+      "pages": 3,
+      "action_date": "2023-06-14",
+      "links": {
+        "self": "/company/14175052/filing-history/MzM4NDQ4Mzc4MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/sUnJWN0LuPBOW2qOYgcgCIUi7Kt1_IV3Sqwd1eE6c2w"
+      }
+    },
+    {
+      "transaction_id": "MzM0MjY2MzgyOGFkaXF6a2N4",
+      "barcode": "XB67MVAZ",
+      "type": "NEWINC",
+      "date": "2022-06-15",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2022-06-15",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2022-06-15",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2022-06-15",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "10"
+              }
+            ]
+          },
+          "action_date": "2022-06-15"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 10,
+      "links": {
+        "self": "/company/14175052/filing-history/MzM0MjY2MzgyOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/EQaUSqrdpMJ2DvwfSwWVUFrj-8VHOTr9PjkD4xSCGU4"
+      }
+    }
+  ]
+}

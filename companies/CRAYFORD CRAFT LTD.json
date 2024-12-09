@@ -1,0 +1,163 @@
+{
+  "company_name": "CRAYFORD CRAFT LTD",
+  "company_number": "09918136",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/09918136"
+  },
+  "date_of_cessation": "2019-03-26",
+  "date_of_creation": "2015-12-16",
+  "registered_office_address": {
+    "address_line_1": "Capital House 272 Manchester Road",
+    "address_line_2": "Droylsden",
+    "locality": "Manchester",
+    "postal_code": "M43 6PW",
+    "country": "United Kingdom"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzIyOTY0MTQyOGFkaXF6a2N4",
+      "type": "GAZ2(A)",
+      "date": "2019-03-26",
+      "category": "gazette",
+      "description": "gazette-dissolved-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/09918136/filing-history/MzIyOTY0MTQyOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/oB75Sqj1Q4n1G7yFbPvJ3bVKhHi8k33yzii9WB_kl1Y"
+      }
+    },
+    {
+      "transaction_id": "MzIyMzA5OTg5MGFkaXF6a2N4",
+      "type": "GAZ1(A)",
+      "date": "2019-01-08",
+      "category": "gazette",
+      "description": "gazette-notice-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/09918136/filing-history/MzIyMzA5OTg5MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/MvJkHsd6mJa8f29E8_BKHYh3WqNQQFf76qWuFCNxKnE"
+      }
+    },
+    {
+      "transaction_id": "MzIyMjYwMTk0MGFkaXF6a2N4",
+      "barcode": "A7KYSWHF",
+      "type": "DS01",
+      "date": "2018-12-27",
+      "category": "dissolution",
+      "description": "dissolution-application-strike-off-company",
+      "pages": 3,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/09918136/filing-history/MzIyMjYwMTk0MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/RSJvRMh_srp8SkI61qY7BQbMOxKvklETmBNYqHHwIEc"
+      }
+    },
+    {
+      "transaction_id": "MzIxNTMzMjE0M2FkaXF6a2N4",
+      "barcode": "X7F8DLJD",
+      "type": "AA",
+      "date": "2018-09-25",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2017-12-31"
+      },
+      "pages": 2,
+      "action_date": "2017-12-31",
+      "links": {
+        "self": "/company/09918136/filing-history/MzIxNTMzMjE0M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/t3vvKZh_phJCi2aqLiIxlg9NEe4TGSDFXIRlWiLQXjU"
+      }
+    },
+    {
+      "transaction_id": "MzE5MzU4NTkyNmFkaXF6a2N4",
+      "barcode": "X6LTI519",
+      "type": "CS01",
+      "date": "2017-12-22",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2017-12-15"
+      },
+      "pages": 3,
+      "action_date": "2017-12-15",
+      "links": {
+        "self": "/company/09918136/filing-history/MzE5MzU4NTkyNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/iKtpON-m2vUizMnozJPG3Z9UcnkfoKETr6eAFlORm9M"
+      }
+    },
+    {
+      "transaction_id": "MzE3NzU1ODY2MGFkaXF6a2N4",
+      "barcode": "X683052G",
+      "type": "AA",
+      "date": "2017-06-07",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2016-12-31"
+      },
+      "pages": 2,
+      "action_date": "2016-12-31",
+      "links": {
+        "self": "/company/09918136/filing-history/MzE3NzU1ODY2MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/U9XkjPWOa1xYV6uea0wDHYaqzHWJOobDgsZZ15yGRHM"
+      }
+    },
+    {
+      "transaction_id": "MzE2NTc1NjM2N2FkaXF6a2N4",
+      "barcode": "X5XD52UI",
+      "type": "CS01",
+      "date": "2017-01-03",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2016-12-15"
+      },
+      "pages": 6,
+      "action_date": "2016-12-15",
+      "links": {
+        "self": "/company/09918136/filing-history/MzE2NTc1NjM2N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/l6kUIDEgWo7hN24u7VvS7zMz7q2Z-NbYSJMgjok0ChE"
+      }
+    },
+    {
+      "transaction_id": "MzEzNzYwMTY3M2FkaXF6a2N4",
+      "barcode": "X4MC08E9",
+      "type": "NEWINC",
+      "date": "2015-12-16",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2015-12-16",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2015-12-16",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "100"
+              }
+            ]
+          },
+          "action_date": "2015-12-16"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 36,
+      "links": {
+        "self": "/company/09918136/filing-history/MzEzNzYwMTY3M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ToWfslnG9h7YX1u4JS1T5S9gzRXT8CFqfdiGNokAlaQ"
+      }
+    }
+  ]
+}

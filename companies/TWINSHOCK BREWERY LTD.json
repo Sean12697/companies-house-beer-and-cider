@@ -1,0 +1,134 @@
+{
+  "company_name": "TWINSHOCK BREWERY LTD",
+  "company_number": "11059212",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/11059212"
+  },
+  "date_of_cessation": "2020-02-18",
+  "date_of_creation": "2017-11-10",
+  "registered_office_address": {
+    "address_line_1": "428 Manchester Road",
+    "address_line_2": "Tyldesley",
+    "locality": "Manchester",
+    "postal_code": "M29 7BT",
+    "country": "United Kingdom"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzI1Njk5NzE4OGFkaXF6a2N4",
+      "type": "GAZ2(A)",
+      "date": "2020-02-18",
+      "category": "gazette",
+      "description": "gazette-dissolved-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11059212/filing-history/MzI1Njk5NzE4OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/7xpcC2PkEaA3HCVKqOW4UinlQsvX3kzCRIy5PAa_7fg"
+      }
+    },
+    {
+      "transaction_id": "MzI0OTgyNzAxOWFkaXF6a2N4",
+      "type": "GAZ1(A)",
+      "date": "2019-12-03",
+      "category": "gazette",
+      "description": "gazette-notice-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11059212/filing-history/MzI0OTgyNzAxOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/mdIPKaARtDgRK6QHhyo1seNYxVGXYb1J4zdSGRc8hnM"
+      }
+    },
+    {
+      "transaction_id": "MzI0OTc1Mjk1OGFkaXF6a2N4",
+      "barcode": "X8IMEIEP",
+      "type": "DS01",
+      "date": "2019-11-20",
+      "category": "dissolution",
+      "description": "dissolution-application-strike-off-company",
+      "pages": 1,
+      "links": {
+        "self": "/company/11059212/filing-history/MzI0OTc1Mjk1OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/dzAzqEMn3FTt7xLEgRlQ5bHFLXaAYfFw6uFYgT3s_eU"
+      }
+    },
+    {
+      "transaction_id": "MzI0MjAyMTUyMWFkaXF6a2N4",
+      "barcode": "X8C7S06O",
+      "type": "AA",
+      "date": "2019-08-19",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2018-11-30"
+      },
+      "pages": 8,
+      "action_date": "2018-11-30",
+      "links": {
+        "self": "/company/11059212/filing-history/MzI0MjAyMTUyMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/OzmQ1NRZRz5T3SUBJIHR-2DEzM4oPwwiSzqQaOYbUF0"
+      }
+    },
+    {
+      "transaction_id": "MzIxOTY4MjY3NGFkaXF6a2N4",
+      "barcode": "X7J144CZ",
+      "type": "CS01",
+      "date": "2018-11-19",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2018-11-09"
+      },
+      "pages": 5,
+      "action_date": "2018-11-09",
+      "links": {
+        "self": "/company/11059212/filing-history/MzIxOTY4MjY3NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/RoNDXNwxdr7NpW53-a1it7CRZt3TJa43lNP_puzLw6w"
+      }
+    },
+    {
+      "transaction_id": "MzE4OTg5NzU5MWFkaXF6a2N4",
+      "barcode": "X6IVQ1TL",
+      "type": "NEWINC",
+      "date": "2017-11-10",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2017-11-10",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2017-11-10",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2017-11-10",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "2"
+              }
+            ]
+          },
+          "action_date": "2017-11-10"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 11,
+      "links": {
+        "self": "/company/11059212/filing-history/MzE4OTg5NzU5MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/S9hA3VxlMCaanErvFBnoxC5WJWm_F7R6ZvI9MIvokwE"
+      }
+    }
+  ]
+}

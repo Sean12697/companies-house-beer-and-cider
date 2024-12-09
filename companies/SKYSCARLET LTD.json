@@ -1,0 +1,86 @@
+{
+  "company_name": "SKYSCARLET LTD",
+  "company_number": "11526649",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/11526649"
+  },
+  "date_of_cessation": "2020-01-21",
+  "date_of_creation": "2018-08-20",
+  "registered_office_address": {
+    "address_line_1": "15 Heppleton Road",
+    "locality": "Manchester",
+    "postal_code": "M40 3LY",
+    "country": "United Kingdom"
+  },
+  "sic_codes": [
+    "11040"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzI1NDU4NTMzOGFkaXF6a2N4",
+      "type": "GAZ2",
+      "date": "2020-01-21",
+      "category": "gazette",
+      "description": "gazette-dissolved-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11526649/filing-history/MzI1NDU4NTMzOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/4VAnCEWVZbR67Z7Fb8HeoI7FHrD7UozexGpedpwf3cM"
+      }
+    },
+    {
+      "transaction_id": "MzI0NzkwODg5MmFkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2019-11-05",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11526649/filing-history/MzI0NzkwODg5MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/o5QJ-lGblm5g7v12FRcZTMP4EDRldOkPyBZhAJXiIdU"
+      }
+    },
+    {
+      "transaction_id": "MzIxMjMzMjY3NWFkaXF6a2N4",
+      "barcode": "X7CK41IY",
+      "type": "NEWINC",
+      "date": "2018-08-20",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2018-08-20",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2018-08-20",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2018-08-20",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2018-08-20"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 10,
+      "links": {
+        "self": "/company/11526649/filing-history/MzIxMjMzMjY3NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/a5qC_2NOgIDkdai0SibQI8dDzh1-dWCMTvvnki9QjvA"
+      }
+    }
+  ]
+}

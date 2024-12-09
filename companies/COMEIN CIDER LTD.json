@@ -1,0 +1,101 @@
+{
+  "company_name": "COMEIN CIDER LTD",
+  "company_number": "10405777",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/10405777"
+  },
+  "date_of_cessation": "2018-03-06",
+  "date_of_creation": "2016-10-01",
+  "registered_office_address": {
+    "address_line_1": "Sedulo Regency Court",
+    "address_line_2": "62-66 Deansgate",
+    "locality": "Manchester",
+    "postal_code": "M3 2EN",
+    "country": "United Kingdom"
+  },
+  "sic_codes": [
+    "11030"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzE5ODc5MTU1MWFkaXF6a2N4",
+      "type": "GAZ2",
+      "date": "2018-03-06",
+      "category": "gazette",
+      "description": "gazette-dissolved-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/10405777/filing-history/MzE5ODc5MTU1MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/trQmI16-R3BhjezW0FbAGJw1TXfr-gKc3MfKFddIFq0"
+      }
+    },
+    {
+      "transaction_id": "MzE5MjU0OTc0NmFkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2017-12-19",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/10405777/filing-history/MzE5MjU0OTc0NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/nqRH34Yqk80Ck3THMkyrjkYJHBN4Y9VzgJj32Ihx-W0"
+      }
+    },
+    {
+      "transaction_id": "MzE2OTk1ODgzMmFkaXF6a2N4",
+      "barcode": "A60WU2IP",
+      "type": "TM01",
+      "date": "2017-02-28",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-director-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Peter Shotton",
+        "termination_date": "2017-02-22"
+      },
+      "pages": 2,
+      "action_date": "2017-02-22",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/10405777/filing-history/MzE2OTk1ODgzMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/LthvWgZVNz1pLZC-cCZy7VtHIINTytu1WK_lXLuC1pc"
+      }
+    },
+    {
+      "transaction_id": "MzE1ODY1OTE0N2FkaXF6a2N4",
+      "barcode": "X5GLYI77",
+      "type": "NEWINC",
+      "date": "2016-10-01",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2016-10-01",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2016-10-01",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "100"
+              }
+            ]
+          },
+          "action_date": "2016-10-01"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 32,
+      "links": {
+        "self": "/company/10405777/filing-history/MzE1ODY1OTE0N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/O9Jo9QoOjneQJ7kEC6CZTplHGjIYSwahOk2-usjERYc"
+      }
+    }
+  ]
+}

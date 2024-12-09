@@ -1,0 +1,236 @@
+{
+  "company_name": "BIRDBOX BREWERY LTD",
+  "company_number": "13605690",
+  "company_status": "active",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/13605690"
+  },
+  "date_of_creation": "2021-09-06",
+  "registered_office_address": {
+    "address_line_1": "Unit 39 Phoenix Industrial Estate",
+    "address_line_2": "Failsworth",
+    "locality": "Manchester",
+    "postal_code": "M35 9DS",
+    "country": "England"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzQ0MzUwNjUxN2FkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2024-11-26",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13605690/filing-history/MzQ0MzUwNjUxN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/f30mjHtjQboJ7N0Ggm05Wtrx82zcosiZsNwc2g5Vxe0"
+      }
+    },
+    {
+      "transaction_id": "MzQyNzE1NzMxOGFkaXF6a2N4",
+      "barcode": "XD6BZ1ZE",
+      "type": "AA",
+      "date": "2024-06-30",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2023-09-30"
+      },
+      "pages": 4,
+      "action_date": "2023-09-30",
+      "links": {
+        "self": "/company/13605690/filing-history/MzQyNzE1NzMxOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/6buP8fowiotKx9gcN2B2W9pyG-Bua3k3B0W73F6yJEQ"
+      }
+    },
+    {
+      "transaction_id": "MzM5MzY0NjQ5MWFkaXF6a2N4",
+      "barcode": "XCCEH683",
+      "type": "CS01",
+      "date": "2023-09-19",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2023-09-05"
+      },
+      "pages": 3,
+      "action_date": "2023-09-05",
+      "links": {
+        "self": "/company/13605690/filing-history/MzM5MzY0NjQ5MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/iTMLqkN8y0lOLY-_toZNMSSodl5n-fdQPzkB3UJ8d4Y"
+      }
+    },
+    {
+      "transaction_id": "MzM4NzI4NjY1NGFkaXF6a2N4",
+      "barcode": "XC8DOYBL",
+      "type": "AA",
+      "date": "2023-07-23",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2022-09-30"
+      },
+      "pages": 4,
+      "action_date": "2022-09-30",
+      "links": {
+        "self": "/company/13605690/filing-history/MzM4NzI4NjY1NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/IJZVz9s19Cz5I_O7XXCdzxTEmKN-Zgq6lDyz410tSbc"
+      }
+    },
+    {
+      "transaction_id": "MzM1MjA2Nzc2MWFkaXF6a2N4",
+      "barcode": "XBCOB7D7",
+      "type": "CS01",
+      "date": "2022-09-16",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2022-09-05"
+      },
+      "pages": 3,
+      "action_date": "2022-09-05",
+      "links": {
+        "self": "/company/13605690/filing-history/MzM1MjA2Nzc2MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Qm_cQHwTDVAskZELr_9_ANm5bMUQ_XRcXL6H2w_QG94"
+      }
+    },
+    {
+      "transaction_id": "MzMzNjg4ODk0NGFkaXF6a2N4",
+      "barcode": "XB2EJ2Z6",
+      "type": "PSC04",
+      "date": "2022-04-21",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2022-04-21",
+        "psc_name": "Mr Thomas Whittingham"
+      },
+      "pages": 2,
+      "action_date": "2022-04-21",
+      "links": {
+        "self": "/company/13605690/filing-history/MzMzNjg4ODk0NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/r2ueQS66vr4VAyK-ZL37TYZ6yqqvs5n26NWbii84x5M"
+      }
+    },
+    {
+      "transaction_id": "MzMzNjg4ODY2NGFkaXF6a2N4",
+      "barcode": "XB2EJ1BE",
+      "type": "AD01",
+      "date": "2022-04-21",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2022-04-21",
+        "old_address": "24 Landos Road Manchester M40 7HY England",
+        "new_address": "Unit 39 Phoenix Industrial Estate Failsworth Manchester M35 9DS"
+      },
+      "pages": 1,
+      "action_date": "2022-04-21",
+      "links": {
+        "self": "/company/13605690/filing-history/MzMzNjg4ODY2NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/eaS9zmjtjPZIk-nOXOire96NXJYY39w9fiO8iy8897A"
+      }
+    },
+    {
+      "transaction_id": "MzMxMzQ2MDAwMmFkaXF6a2N4",
+      "barcode": "XACPCTCI",
+      "type": "CH01",
+      "date": "2021-09-10",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2021-09-06",
+        "officer_name": "Mr Robert Mathew Carr"
+      },
+      "pages": 2,
+      "action_date": "2021-09-06",
+      "links": {
+        "self": "/company/13605690/filing-history/MzMxMzQ2MDAwMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/GfbNRPm2ZfsfO8cWMVDarAspBuhOEfGLbh-xhk-ZLk0"
+      }
+    },
+    {
+      "transaction_id": "MzMxMzQ1OTk5NWFkaXF6a2N4",
+      "barcode": "XACPCT00",
+      "type": "AP01",
+      "date": "2021-09-10",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Mr Thomas Whittingham",
+        "appointment_date": "2021-09-06"
+      },
+      "pages": 2,
+      "action_date": "2021-09-06",
+      "links": {
+        "self": "/company/13605690/filing-history/MzMxMzQ1OTk5NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/v5xIwozQNeiKug0IqixYvJ8Bgx03qTk-W-KYZNpsbrU"
+      }
+    },
+    {
+      "transaction_id": "MzMxMzQ1OTg2NWFkaXF6a2N4",
+      "barcode": "XACPCSY0",
+      "type": "AP01",
+      "date": "2021-09-10",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Mr Abigail Sarah Jane Horsley",
+        "appointment_date": "2021-09-06"
+      },
+      "pages": 2,
+      "action_date": "2021-09-06",
+      "links": {
+        "self": "/company/13605690/filing-history/MzMxMzQ1OTg2NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/0xrS0yK3_YnAFjzayG48jxR9xqmaX0zA6gGMRvPVglA"
+      }
+    },
+    {
+      "transaction_id": "MzMxMjkzNzIyMmFkaXF6a2N4",
+      "barcode": "XACH8IQA",
+      "type": "NEWINC",
+      "date": "2021-09-06",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2021-09-06",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2021-09-06",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2021-09-06",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "3"
+              }
+            ]
+          },
+          "action_date": "2021-09-06"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 14,
+      "links": {
+        "self": "/company/13605690/filing-history/MzMxMjkzNzIyMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/0-OlTch_ZT-FfOqyeTXKcAFxOEupazNNuXEyKakm6_8"
+      }
+    }
+  ]
+}

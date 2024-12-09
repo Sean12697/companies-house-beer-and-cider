@@ -1,0 +1,192 @@
+{
+  "company_name": "VINYL VALLEY BREWING CO LIMITED",
+  "company_number": "08618917",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/08618917"
+  },
+  "date_of_cessation": "2016-06-28",
+  "date_of_creation": "2013-07-22",
+  "registered_office_address": {
+    "address_line_1": "21 Kirklands",
+    "address_line_2": "Harwood",
+    "locality": "Bolton",
+    "postal_code": "BL2 4LU",
+    "region": "Greater Manchester"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzE1MTAyMzI3NGFkaXF6a2N4",
+      "type": "GAZ2",
+      "date": "2016-06-28",
+      "category": "gazette",
+      "description": "gazette-dissolved-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/08618917/filing-history/MzE1MTAyMzI3NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/8_NwhT3gRrqtNt8Gd1FBfHAk-Nq9gOUSddPXaau0IFc"
+      }
+    },
+    {
+      "transaction_id": "MzEzNzI2MzE0MmFkaXF6a2N4",
+      "type": "DISS16(SOAS)",
+      "date": "2015-12-11",
+      "category": "dissolution",
+      "description": "dissolved-compulsory-strike-off-suspended",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/08618917/filing-history/MzEzNzI2MzE0MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/nKRA7U2Uu9bW7kSSTrssDfXi_jJkRevs-I-zkJwiH_c"
+      }
+    },
+    {
+      "transaction_id": "MzEzNDc0NzI3M2FkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2015-11-17",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/08618917/filing-history/MzEzNDc0NzI3M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/jm0ytwZmlR6M63uKNKKk5mSN_BZPcXy3bd3k3ZOyTjs"
+      }
+    },
+    {
+      "transaction_id": "MzEyNDczMTkxN2FkaXF6a2N4",
+      "barcode": "X49582B6",
+      "type": "AA",
+      "date": "2015-06-08",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2014-07-31"
+      },
+      "pages": 2,
+      "action_date": "2014-07-31",
+      "links": {
+        "self": "/company/08618917/filing-history/MzEyNDczMTkxN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/RMESh9hicrIQc-QpxDN2SV8dqxN-iaPnJ3VVRUXqpNQ"
+      }
+    },
+    {
+      "transaction_id": "MzEwNTc3MTYxNGFkaXF6a2N4",
+      "barcode": "X3EK3E00",
+      "type": "AR01",
+      "date": "2014-08-18",
+      "category": "annual-return",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2014-08-18",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2014-08-18",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "2"
+              }
+            ]
+          },
+          "action_date": "2014-08-18"
+        }
+      ],
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2014-07-22"
+      },
+      "pages": 3,
+      "action_date": "2014-07-22",
+      "links": {
+        "self": "/company/08618917/filing-history/MzEwNTc3MTYxNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ok6iuEouJxRtguMYvcTRRRcNHX9gCWLey1jqyCXSe-k"
+      }
+    },
+    {
+      "transaction_id": "MzEwNTc3MTU5MWFkaXF6a2N4",
+      "barcode": "X3EK3DZS",
+      "type": "TM02",
+      "date": "2014-08-18",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-secretary-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Jemma Jemma Millman",
+        "termination_date": "2013-11-17"
+      },
+      "pages": 1,
+      "action_date": "2013-11-17",
+      "links": {
+        "self": "/company/08618917/filing-history/MzEwNTc3MTU5MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ryF1UPC2Vww0bR35ELGJKLybQ-DcSqOFhKdHISGjWRA"
+      }
+    },
+    {
+      "transaction_id": "MzEwNTc3MDA3MWFkaXF6a2N4",
+      "barcode": "X3EK3DQH",
+      "type": "TM02",
+      "date": "2014-08-18",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-secretary-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Jemma Jemma Millman",
+        "termination_date": "2013-11-17"
+      },
+      "pages": 1,
+      "action_date": "2013-11-17",
+      "links": {
+        "self": "/company/08618917/filing-history/MzEwNTc3MDA3MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/DlgBiDw5kYZuUJCNW1YQbcsAt6uYoiNrwtZ76nZPAjg"
+      }
+    },
+    {
+      "transaction_id": "MzEwMzM1MTE5MGFkaXF6a2N4",
+      "barcode": "A3B7HTMP",
+      "type": "AD01",
+      "date": "2014-07-08",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address",
+      "description_values": {
+        "change_date": "2014-07-08",
+        "old_address": " Flat 13 Phase 3, Tobacco Factory, Naples Street Manchester M4 4DH United Kingdom"
+      },
+      "pages": 3,
+      "action_date": "2014-07-08",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/08618917/filing-history/MzEwMzM1MTE5MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/UlGzWkgrpUTDTT1mIs_6c2ACyfZqRBx_OKA-SXSbSwU"
+      }
+    },
+    {
+      "transaction_id": "MzA4MTgzNjIyM2FkaXF6a2N4",
+      "barcode": "X2CZJZPC",
+      "type": "NEWINC",
+      "date": "2013-07-22",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2013-07-22",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 8,
+      "links": {
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/05suz_NeIN05YmS0hdN2RF54DQotezytT76-CgAqXEg"
+      }
+    }
+  ]
+}

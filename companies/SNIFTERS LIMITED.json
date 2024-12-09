@@ -1,0 +1,100 @@
+{
+  "company_name": "SNIFTERS LIMITED",
+  "company_number": "10310103",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/10310103"
+  },
+  "date_of_cessation": "2017-12-05",
+  "date_of_creation": "2016-08-03",
+  "registered_office_address": {
+    "address_line_1": "1 Cresswell Grove",
+    "locality": "Manchester",
+    "postal_code": "M20 2NH",
+    "country": "United Kingdom"
+  },
+  "sic_codes": [
+    "11040"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzE5MTI1NjcwOWFkaXF6a2N4",
+      "type": "GAZ2(A)",
+      "date": "2017-12-05",
+      "category": "gazette",
+      "description": "gazette-dissolved-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/10310103/filing-history/MzE5MTI1NjcwOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/8yaCAuyQc-toQ2V18aoFe-X2IU5-PKGWpyJhVhs0ym4"
+      }
+    },
+    {
+      "transaction_id": "MzE4NTE4MTU0OGFkaXF6a2N4",
+      "type": "GAZ1(A)",
+      "date": "2017-09-19",
+      "category": "gazette",
+      "description": "gazette-notice-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/10310103/filing-history/MzE4NTE4MTU0OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Oa7QFSXGdhj_z8yyZb6Ww8DRqMmrLd4Y5h8-akPYecM"
+      }
+    },
+    {
+      "transaction_id": "MzE4NDc1OTU0OGFkaXF6a2N4",
+      "barcode": "A6E0IEDE",
+      "type": "DS01",
+      "date": "2017-09-12",
+      "category": "dissolution",
+      "description": "dissolution-application-strike-off-company",
+      "pages": 3,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/10310103/filing-history/MzE4NDc1OTU0OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/tPrQK8rn8xYYbdSyDiTwsYfQFBu18BAW1wMuZPZNyBU"
+      }
+    },
+    {
+      "transaction_id": "MzE1NDIwNjY4MGFkaXF6a2N4",
+      "barcode": "X5CGRUTF",
+      "type": "NEWINC",
+      "date": "2016-08-03",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2016-08-03",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2016-08-03",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "6"
+              }
+            ]
+          },
+          "action_date": "2016-08-03"
+        },
+        {
+          "category": "incorporation",
+          "date": "2016-08-03",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 10,
+      "links": {
+        "self": "/company/10310103/filing-history/MzE1NDIwNjY4MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/7TBtxQI2jWgWGFx8CQw5Ir9011UKYAV9mpLfwFfhJWE"
+      }
+    }
+  ]
+}

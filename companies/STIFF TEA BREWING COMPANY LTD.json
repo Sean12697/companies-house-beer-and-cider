@@ -1,0 +1,60 @@
+{
+  "company_name": "STIFF TEA BREWING COMPANY LTD",
+  "company_number": "15467910",
+  "company_status": "active",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/15467910"
+  },
+  "date_of_creation": "2024-02-05",
+  "registered_office_address": {
+    "address_line_1": "Bartle House",
+    "address_line_2": "9 Oxford Court",
+    "locality": "Manchester",
+    "postal_code": "M2 3WQ",
+    "country": "England"
+  },
+  "sic_codes": [
+    "11040"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzQwOTk0MjY3OWFkaXF6a2N4",
+      "barcode": "XCW75Q6P",
+      "type": "NEWINC",
+      "date": "2024-02-05",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2024-02-05",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2024-02-05",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2024-02-05",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "100"
+              }
+            ]
+          },
+          "action_date": "2024-02-05"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 10,
+      "links": {
+        "self": "/company/15467910/filing-history/MzQwOTk0MjY3OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/8VjKJGEqRJiMqBv_hwa3kUVfyB9dzolRrLo1BHQWFaY"
+      }
+    }
+  ]
+}

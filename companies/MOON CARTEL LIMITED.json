@@ -1,0 +1,101 @@
+{
+  "company_name": "MOON CARTEL LIMITED",
+  "company_number": "11739512",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/11739512"
+  },
+  "date_of_cessation": "2019-12-24",
+  "date_of_creation": "2018-12-24",
+  "registered_office_address": {
+    "address_line_1": "Flat 6, 14 Mayfield Road",
+    "address_line_2": "Whalley Range",
+    "locality": "Manchester",
+    "postal_code": "M16 8FT",
+    "country": "United Kingdom"
+  },
+  "sic_codes": [
+    "11050",
+    "47710"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzI1MjQxMDI3OGFkaXF6a2N4",
+      "type": "GAZ2(A)",
+      "date": "2019-12-24",
+      "category": "gazette",
+      "description": "gazette-dissolved-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11739512/filing-history/MzI1MjQxMDI3OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/4MWwH_7LeUmOJmwgoVB3v9-NL5dUL9gCiPOxG6FM6oA"
+      }
+    },
+    {
+      "transaction_id": "MzI0NTY4NjA2NGFkaXF6a2N4",
+      "type": "GAZ1(A)",
+      "date": "2019-10-08",
+      "category": "gazette",
+      "description": "gazette-notice-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11739512/filing-history/MzI0NTY4NjA2NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Hew1YB18Sjt4WyWo8Yt88nC4-8qQhVvtjkJgkGvT3yQ"
+      }
+    },
+    {
+      "transaction_id": "MzI0NTQzMjQyNWFkaXF6a2N4",
+      "barcode": "X8EVDC5V",
+      "type": "DS01",
+      "date": "2019-10-01",
+      "category": "dissolution",
+      "description": "dissolution-application-strike-off-company",
+      "pages": 1,
+      "links": {
+        "self": "/company/11739512/filing-history/MzI0NTQzMjQyNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/obYZdXE6XLOhS9WE2JzhUsXni2PFwPX7QpdevBME2P4"
+      }
+    },
+    {
+      "transaction_id": "MzIyMjgxMTE4OGFkaXF6a2N4",
+      "barcode": "X7L9N69N",
+      "type": "NEWINC",
+      "date": "2018-12-24",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2018-12-24",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2018-12-24",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2018-12-24",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "2"
+              }
+            ]
+          },
+          "action_date": "2018-12-24"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 12,
+      "links": {
+        "self": "/company/11739512/filing-history/MzIyMjgxMTE4OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/eo-fgtNN-VDXzHIhyi-9huHlRVslNfaiX1HJ1SJImiU"
+      }
+    }
+  ]
+}

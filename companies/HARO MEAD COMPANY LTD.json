@@ -1,0 +1,87 @@
+{
+  "company_name": "HARO MEAD COMPANY LTD",
+  "company_number": "13126879",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/13126879"
+  },
+  "date_of_cessation": "2022-06-21",
+  "date_of_creation": "2021-01-11",
+  "registered_office_address": {
+    "address_line_1": "84 Shevington Moor",
+    "locality": "Wigan",
+    "postal_code": "WN6 0SE",
+    "region": "Greater Manchester",
+    "country": "United Kingdom"
+  },
+  "sic_codes": [
+    "11030"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzM0MjU0MjM2OWFkaXF6a2N4",
+      "type": "GAZ2",
+      "date": "2022-06-21",
+      "category": "gazette",
+      "description": "gazette-dissolved-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13126879/filing-history/MzM0MjU0MjM2OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/jkmwa-l5MB0yxAGHH5qF1xrfPLNw776zineKq9aP8yM"
+      }
+    },
+    {
+      "transaction_id": "MzMzMzc0NjgzNWFkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2022-04-05",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13126879/filing-history/MzMzMzc0NjgzNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/xBxkH0vru4igGFh4ur4Nan_g-SjCPfKo4dbc7d9-rsw"
+      }
+    },
+    {
+      "transaction_id": "MzI4ODE4OTI0NmFkaXF6a2N4",
+      "barcode": "X9VXCCQG",
+      "type": "NEWINC",
+      "date": "2021-01-11",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2021-01-11",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2021-01-11",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2021-01-11",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2021-01-11"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 10,
+      "links": {
+        "self": "/company/13126879/filing-history/MzI4ODE4OTI0NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/XzUcueN_v3u8MLO8dcvshgQNHzjJxmtP3QsjYD4s8_s"
+      }
+    }
+  ]
+}

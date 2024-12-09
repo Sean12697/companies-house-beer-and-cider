@@ -1,0 +1,424 @@
+{
+  "company_name": "COURIER BREWING COMPANY LIMITED",
+  "company_number": "13444222",
+  "company_status": "active",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/13444222"
+  },
+  "date_of_creation": "2021-06-08",
+  "registered_office_address": {
+    "address_line_1": "122 Grosvenor Street",
+    "locality": "Manchester",
+    "postal_code": "M1 7HL",
+    "country": "England"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzQzNjY2MDI1NGFkaXF6a2N4",
+      "barcode": "XDC2VYY9",
+      "type": "AA",
+      "date": "2024-09-20",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2023-12-31"
+      },
+      "pages": 3,
+      "action_date": "2023-12-31",
+      "links": {
+        "self": "/company/13444222/filing-history/MzQzNjY2MDI1NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/0MTXGmbpiw60ku2VjOSSGiWOsH0Er6gnFNvUeFGpbhc"
+      }
+    },
+    {
+      "transaction_id": "MzQyNjIxODUzNWFkaXF6a2N4",
+      "barcode": "XD5QBK0Q",
+      "type": "CH01",
+      "date": "2024-06-21",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2024-06-20",
+        "officer_name": "Mr John Frederick Hardy"
+      },
+      "pages": 2,
+      "action_date": "2024-06-20",
+      "links": {
+        "self": "/company/13444222/filing-history/MzQyNjIxODUzNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/-mwoEmO0NBPRE9YqCtWKVJluEc2jII6mm9_SiM5IvMg"
+      }
+    },
+    {
+      "transaction_id": "MzQyNDcyNDcxOGFkaXF6a2N4",
+      "barcode": "XD4Z5D4X",
+      "type": "CS01",
+      "date": "2024-06-10",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2024-05-05"
+      },
+      "pages": 3,
+      "action_date": "2024-05-05",
+      "links": {
+        "self": "/company/13444222/filing-history/MzQyNDcyNDcxOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/--h8jiYqdk5rEQan413mGqjUTsXpHyhh-qvwuUIN-18"
+      }
+    },
+    {
+      "transaction_id": "MzM4MDE2MTgyN2FkaXF6a2N4",
+      "barcode": "XC3U19SZ",
+      "type": "CS01",
+      "date": "2023-05-19",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2023-05-05"
+      },
+      "pages": 4,
+      "action_date": "2023-05-05",
+      "links": {
+        "self": "/company/13444222/filing-history/MzM4MDE2MTgyN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/aL6LKRjbqgf9r9EAAd_nRJJ7hIXOk2aDNHFbolD6wPw"
+      }
+    },
+    {
+      "transaction_id": "MzM3Mzg4NjE2M2FkaXF6a2N4",
+      "barcode": "XBZY5ZS5",
+      "type": "AP01",
+      "date": "2023-03-24",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Mr Stephen Gingell",
+        "appointment_date": "2023-03-15"
+      },
+      "pages": 2,
+      "action_date": "2023-03-15",
+      "links": {
+        "self": "/company/13444222/filing-history/MzM3Mzg4NjE2M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/X7vSDwMiGiNL4JLAgV1hcbk9E0k7UDMzZXHHGwsulHg"
+      }
+    },
+    {
+      "transaction_id": "MzM3MzAxMDg4NmFkaXF6a2N4",
+      "barcode": "XBZFA8U3",
+      "type": "AA",
+      "date": "2023-03-16",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2022-12-31"
+      },
+      "pages": 3,
+      "action_date": "2022-12-31",
+      "links": {
+        "self": "/company/13444222/filing-history/MzM3MzAxMDg4NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/vJHah9cKvXDlfGZWBze14CgqAjDF7NXGmceyIB6hnRk"
+      }
+    },
+    {
+      "transaction_id": "MzM2MTEyNDUwOGFkaXF6a2N4",
+      "barcode": "XBI9X301",
+      "type": "MR04",
+      "date": "2022-12-06",
+      "category": "mortgage",
+      "subcategory": "satisfy",
+      "description": "mortgage-satisfy-charge-full",
+      "description_values": {
+        "charge_number": "134442220002"
+      },
+      "pages": 1,
+      "links": {
+        "self": "/company/13444222/filing-history/MzM2MTEyNDUwOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/k1qdV4dsMWeObPh2ONfCUqs7rDI8KcDWb7hFIN6_GmQ"
+      }
+    },
+    {
+      "transaction_id": "MzM2MTEyNTc2NWFkaXF6a2N4",
+      "barcode": "XBI9X8ZF",
+      "type": "MR01",
+      "date": "2022-12-06",
+      "category": "mortgage",
+      "subcategory": "create",
+      "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+      "description_values": {
+        "charge_number": "134442220003",
+        "charge_creation_date": "2022-12-06"
+      },
+      "pages": 14,
+      "action_date": "2022-12-06",
+      "links": {
+        "self": "/company/13444222/filing-history/MzM2MTEyNTc2NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Jdwu4E24DnPKqDwF-ETiFIXxc44lWI4lKDLVzvU_NkU"
+      }
+    },
+    {
+      "transaction_id": "MzM0NzkzNDUwMGFkaXF6a2N4",
+      "barcode": "XB9SH5V7",
+      "type": "AA",
+      "date": "2022-08-05",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2021-12-31"
+      },
+      "pages": 2,
+      "action_date": "2021-12-31",
+      "links": {
+        "self": "/company/13444222/filing-history/MzM0NzkzNDUwMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/rR4rmAEzpa9_s0OqIdB1ogpYthGkr7MRguXKCCnATJA"
+      }
+    },
+    {
+      "transaction_id": "MzM0NzkzMzk0N2FkaXF6a2N4",
+      "barcode": "XB9SH3JG",
+      "type": "AA01",
+      "date": "2022-08-05",
+      "category": "accounts",
+      "description": "change-account-reference-date-company-previous-shortened",
+      "description_values": {
+        "made_up_date": "2022-06-30",
+        "new_date": "2021-12-31"
+      },
+      "pages": 1,
+      "action_date": "2021-12-31",
+      "links": {
+        "self": "/company/13444222/filing-history/MzM0NzkzMzk0N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/GIi7tXYSa2nm-XUzymWvRCRfKipxSPt8bJq5WqY1ZHw"
+      }
+    },
+    {
+      "transaction_id": "MzM0MDI4MjAzNGFkaXF6a2N4",
+      "barcode": "XB4PMP8Q",
+      "type": "MR01",
+      "date": "2022-05-24",
+      "category": "mortgage",
+      "subcategory": "create",
+      "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+      "description_values": {
+        "charge_number": "134442220002",
+        "charge_creation_date": "2022-05-17"
+      },
+      "pages": 14,
+      "action_date": "2022-05-17",
+      "links": {
+        "self": "/company/13444222/filing-history/MzM0MDI4MjAzNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/bQh4ODfslh1NFnEecGXXVNIYpr84SlXIRsuESCD5DMs"
+      }
+    },
+    {
+      "transaction_id": "MzMzODU0NTg2NmFkaXF6a2N4",
+      "barcode": "XB3GBRIQ",
+      "type": "MR01",
+      "date": "2022-05-06",
+      "category": "mortgage",
+      "subcategory": "create",
+      "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+      "description_values": {
+        "charge_number": "134442220001",
+        "charge_creation_date": "2022-05-06"
+      },
+      "pages": 19,
+      "action_date": "2022-05-06",
+      "links": {
+        "self": "/company/13444222/filing-history/MzMzODU0NTg2NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/59v1vyEWDA8m0RoU_e0G56iBviSdQYajmY_rFYuZuQ8"
+      }
+    },
+    {
+      "transaction_id": "MzMzODM1NDM2NGFkaXF6a2N4",
+      "barcode": "XB3DH5YO",
+      "type": "CS01",
+      "date": "2022-05-05",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2022-05-05"
+      },
+      "pages": 4,
+      "action_date": "2022-05-05",
+      "links": {
+        "self": "/company/13444222/filing-history/MzMzODM1NDM2NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/3pjW2_3x0-6CbzxfS2vxqrqk3SligOujfKbOqgSZG4E"
+      }
+    },
+    {
+      "transaction_id": "MzMzNzg4ODcwN2FkaXF6a2N4",
+      "barcode": "XB2XRGWB",
+      "type": "PSC04",
+      "date": "2022-04-29",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2022-04-29",
+        "psc_name": "Mr John Frederick Hardy"
+      },
+      "pages": 2,
+      "action_date": "2022-04-29",
+      "links": {
+        "self": "/company/13444222/filing-history/MzMzNzg4ODcwN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/GKYbGtYpkCy0zu1TNR-5kdkLbO5YgU4bqLX7XOjnw1s"
+      }
+    },
+    {
+      "transaction_id": "MzMzNzg4ODU4OWFkaXF6a2N4",
+      "barcode": "XB2XRGQQ",
+      "type": "PSC04",
+      "date": "2022-04-29",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2022-04-29",
+        "psc_name": "Mr Matthew Kay"
+      },
+      "pages": 2,
+      "action_date": "2022-04-29",
+      "links": {
+        "self": "/company/13444222/filing-history/MzMzNzg4ODU4OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/xylmaIQ2-LZZQUGtMZQ6q1L92HYLBR34ODmrqH8FuYM"
+      }
+    },
+    {
+      "transaction_id": "MzMzNzg4ODQ5NGFkaXF6a2N4",
+      "barcode": "XB2XRFUH",
+      "type": "PSC04",
+      "date": "2022-04-29",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2022-04-10",
+        "psc_name": "Mr David Williams"
+      },
+      "pages": 2,
+      "action_date": "2022-04-10",
+      "links": {
+        "self": "/company/13444222/filing-history/MzMzNzg4ODQ5NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/SuJOS5HUpKylVzZhk_ATVZjCOlZjpDqdfcl0rkayzE0"
+      }
+    },
+    {
+      "transaction_id": "MzMzNjc1MDA2NGFkaXF6a2N4",
+      "barcode": "XB2BV3NU",
+      "type": "AP01",
+      "date": "2022-04-20",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Mr Matthew Kay",
+        "appointment_date": "2022-04-10"
+      },
+      "pages": 2,
+      "action_date": "2022-04-10",
+      "links": {
+        "self": "/company/13444222/filing-history/MzMzNjc1MDA2NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/xMBOBtlLB_IejUnSuBMCXHv32Pu9nXN0mJMTEO8zhI4"
+      }
+    },
+    {
+      "transaction_id": "MzMzNjc0OTIwMWFkaXF6a2N4",
+      "barcode": "XB2BV0AI",
+      "type": "AP01",
+      "date": "2022-04-20",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Mr John Frederick Hardy",
+        "appointment_date": "2022-04-10"
+      },
+      "pages": 2,
+      "action_date": "2022-04-10",
+      "links": {
+        "self": "/company/13444222/filing-history/MzMzNjc0OTIwMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/qTC0YJCoU0T5M4jp5kXDDHWazCzYX9b-mAISsqLvUn8"
+      }
+    },
+    {
+      "transaction_id": "MzMzNjc0OTA4OGFkaXF6a2N4",
+      "barcode": "XB2BUZIQ",
+      "type": "PSC01",
+      "date": "2022-04-20",
+      "category": "persons-with-significant-control",
+      "subcategory": "notifications",
+      "description": "notification-of-a-person-with-significant-control",
+      "description_values": {
+        "psc_name": "Matthew Kay",
+        "notification_date": "2022-04-10"
+      },
+      "pages": 2,
+      "action_date": "2022-04-10",
+      "links": {
+        "self": "/company/13444222/filing-history/MzMzNjc0OTA4OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Ulq79TqFFAzSNnLSzA5tz5Kw1xHNJHd0gvCaggjxiYw"
+      }
+    },
+    {
+      "transaction_id": "MzMzNjc0ODY4OGFkaXF6a2N4",
+      "barcode": "XB2BUYE8",
+      "type": "PSC01",
+      "date": "2022-04-20",
+      "category": "persons-with-significant-control",
+      "subcategory": "notifications",
+      "description": "notification-of-a-person-with-significant-control",
+      "description_values": {
+        "psc_name": "John Frederick Hardy",
+        "notification_date": "2022-04-10"
+      },
+      "pages": 2,
+      "action_date": "2022-04-10",
+      "links": {
+        "self": "/company/13444222/filing-history/MzMzNjc0ODY4OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/eq98rsuNGAod75spyZt27PphCjaaV7Xda94r707p0Ag"
+      }
+    },
+    {
+      "transaction_id": "MzMwMzYxMDc2M2FkaXF6a2N4",
+      "barcode": "XA65VIZL",
+      "type": "NEWINC",
+      "date": "2021-06-08",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2021-06-08",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2021-06-08",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2021-06-08",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "4"
+              }
+            ]
+          },
+          "action_date": "2021-06-08"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 10,
+      "links": {
+        "self": "/company/13444222/filing-history/MzMwMzYxMDc2M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/liMNz72Db9VnU-n-7uRhGjlc10Oi25dRXFdFAPMB04s"
+      }
+    }
+  ]
+}

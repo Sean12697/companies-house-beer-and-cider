@@ -1,0 +1,291 @@
+{
+  "company_name": "MAREGADE BREW CO. LTD.",
+  "company_number": "09628453",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/09628453"
+  },
+  "date_of_cessation": "2020-07-16",
+  "date_of_creation": "2015-06-08",
+  "registered_office_address": {
+    "address_line_1": "C/O Kay Johnson Gee Corporate Recovery Limited",
+    "locality": "1 City Road East",
+    "postal_code": "M15 4PN",
+    "region": "Manchester"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzI3MzI1MjE2MmFkaXF6a2N4",
+      "type": "GAZ2",
+      "date": "2020-07-16",
+      "category": "gazette",
+      "description": "gazette-dissolved-liquidation",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/09628453/filing-history/MzI3MzI1MjE2MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/6d15duo6wM2Q5cFWHlx74lqDbQLHxiUubkzR4jPCmg0"
+      }
+    },
+    {
+      "transaction_id": "MzI2MjUyOTAxOWFkaXF6a2N4",
+      "barcode": "A923IO8Q",
+      "type": "LIQ14",
+      "date": "2020-04-16",
+      "category": "insolvency",
+      "subcategory": "voluntary",
+      "description": "liquidation-voluntary-creditors-return-of-final-meeting",
+      "pages": 16,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/09628453/filing-history/MzI2MjUyOTAxOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/6--5z5rGgGKVhgzeK54LNEPE_uUHVvQwe5CnYhXvC7I"
+      }
+    },
+    {
+      "transaction_id": "MzIyOTUyNjE4MmFkaXF6a2N4",
+      "barcode": "A80MVKS2",
+      "type": "AD01",
+      "date": "2019-03-18",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2019-03-18",
+        "old_address": "331J Mare Street London E8 1HY United Kingdom",
+        "new_address": "C/O Kay Johnson Gee Corporate Recovery Limited 1 City Road East Manchester M15 4PN"
+      },
+      "pages": 2,
+      "action_date": "2019-03-18",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/09628453/filing-history/MzIyOTUyNjE4MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/lxTSFSYRstLGegXxTbuq-rflN9SuThaG6ThRPQBThKU"
+      }
+    },
+    {
+      "transaction_id": "MzIyOTM0NjMyNmFkaXF6a2N4",
+      "barcode": "A80MVKRM",
+      "type": "LIQ02",
+      "date": "2019-03-14",
+      "category": "insolvency",
+      "subcategory": "voluntary",
+      "description": "liquidation-voluntary-statement-of-affairs",
+      "pages": 8,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/09628453/filing-history/MzIyOTM0NjMyNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/f9pkEKqdE2_Zoi9xgifdH1AV_YZErAEV6ycgHgJcD2Q"
+      }
+    },
+    {
+      "transaction_id": "MzIyOTM0NTkzOWFkaXF6a2N4",
+      "barcode": "A80MVKRE",
+      "type": "600",
+      "date": "2019-03-14",
+      "category": "insolvency",
+      "subcategory": "voluntary",
+      "description": "liquidation-voluntary-appointment-of-liquidator",
+      "pages": 4,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/09628453/filing-history/MzIyOTM0NTkzOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/wh_Ln83lNK67dHTCX9v8sBv1WjM_lSv2Qr-fRV8YKEI"
+      }
+    },
+    {
+      "transaction_id": "QTgwTVZLUjZhZGlxemtjeA",
+      "type": "RESOLUTIONS",
+      "date": "2019-03-14",
+      "category": "resolution",
+      "resolutions": [
+        {
+          "category": "liquidation",
+          "description": "liquidation-voluntary-extraordinary-resolution-to-wind-up-with-case-start-date",
+          "type": "LRESEX",
+          "subcategory": [
+            "voluntary",
+            "resolution"
+          ],
+          "description_values": {
+            "case_start_date": "2019-02-27"
+          },
+          "original_description": "Extraordinary resolution to wind up"
+        }
+      ],
+      "description": "resolution",
+      "description_values": {
+        "description": "Resolutions"
+      },
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/09628453/filing-history/QTgwTVZLUjZhZGlxemtjeA",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/nEWxkB78622fblV7zYjoZUpisncIIYh0MmhkNesfQcU"
+      }
+    },
+    {
+      "transaction_id": "MzIwODA1NDM4M2FkaXF6a2N4",
+      "barcode": "X78MYO5N",
+      "type": "CS01",
+      "date": "2018-06-22",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2018-06-08"
+      },
+      "pages": 3,
+      "action_date": "2018-06-08",
+      "links": {
+        "self": "/company/09628453/filing-history/MzIwODA1NDM4M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/8Tj6NYNt36ptrNn5XzjLco8--7rRFABIcDhkFsJ2nDc"
+      }
+    },
+    {
+      "transaction_id": "MzIwMTEyMjEwMmFkaXF6a2N4",
+      "barcode": "X72MLBL4",
+      "type": "AA",
+      "date": "2018-03-27",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2017-06-30"
+      },
+      "pages": 2,
+      "action_date": "2017-06-30",
+      "links": {
+        "self": "/company/09628453/filing-history/MzIwMTEyMjEwMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/TBotfXeVfIHES-eWcI0bYlpoEeiX4oYgklp1nYceF7s"
+      }
+    },
+    {
+      "transaction_id": "MzE3NzgyNzk2OWFkaXF6a2N4",
+      "barcode": "X68CGLRV",
+      "type": "CS01",
+      "date": "2017-06-11",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2017-06-08"
+      },
+      "pages": 5,
+      "action_date": "2017-06-08",
+      "links": {
+        "self": "/company/09628453/filing-history/MzE3NzgyNzk2OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/3h64OJ8Lptk7-0ejr9Hq0KnIjYgrVsFyIoTpWb0Dilw"
+      }
+    },
+    {
+      "transaction_id": "MzE3MDAwMDU5OWFkaXF6a2N4",
+      "barcode": "X6187QTL",
+      "type": "AA",
+      "date": "2017-02-28",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2016-06-30"
+      },
+      "pages": 2,
+      "action_date": "2016-06-30",
+      "links": {
+        "self": "/company/09628453/filing-history/MzE3MDAwMDU5OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/JkP7vrKdBJlkHXthJdqLGHgV9xLxQM9ci3aTH_vfT-0"
+      }
+    },
+    {
+      "transaction_id": "MzE1MTMzNjk2NGFkaXF6a2N4",
+      "barcode": "X59P50UI",
+      "type": "AR01",
+      "date": "2016-06-22",
+      "category": "annual-return",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2016-06-22",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2016-06-22",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2016-06-22"
+        }
+      ],
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2016-06-08"
+      },
+      "pages": 3,
+      "action_date": "2016-06-08",
+      "links": {
+        "self": "/company/09628453/filing-history/MzE1MTMzNjk2NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/KoynXLx2Oqlpffdcfri8jaZuCEVbjV285-DPCpdplpw"
+      }
+    },
+    {
+      "transaction_id": "MzEzMzAzNDk4OWFkaXF6a2N4",
+      "barcode": "X4HZ6KOY",
+      "type": "AD01",
+      "date": "2015-10-14",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2015-10-14",
+        "old_address": "27 London Fields East Side London E8 3SA United Kingdom",
+        "new_address": "331J Mare Street London E8 1HY"
+      },
+      "pages": 1,
+      "action_date": "2015-10-14",
+      "links": {
+        "self": "/company/09628453/filing-history/MzEzMzAzNDk4OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Hiy2veX5C3Uh1T0iq7zF0CAWdr8bxatyuqoAia7vSBU"
+      }
+    },
+    {
+      "transaction_id": "MzEyNDcwMjk5MGFkaXF6a2N4",
+      "barcode": "X492NHBF",
+      "type": "NEWINC",
+      "date": "2015-06-08",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2015-06-08",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2015-06-08",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2015-06-08",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2015-06-08"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 7,
+      "links": {
+        "self": "/company/09628453/filing-history/MzEyNDcwMjk5MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/svaBYfShV5zo5wchDXcvbbQ0t_lsCaMhbnLym6E8Tvs"
+      }
+    }
+  ]
+}

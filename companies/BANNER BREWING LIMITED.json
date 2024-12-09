@@ -1,0 +1,202 @@
+{
+  "company_name": "BANNER BREWING LIMITED",
+  "company_number": "12630152",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/12630152"
+  },
+  "date_of_cessation": "2024-06-18",
+  "date_of_creation": "2020-05-28",
+  "registered_office_address": {
+    "address_line_1": "7 Bannerman Avenue",
+    "address_line_2": "Prestwich",
+    "locality": "Manchester",
+    "postal_code": "M25 1EA",
+    "country": "England"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzQyNDkyMzczNWFkaXF6a2N4",
+      "type": "GAZ2(A)",
+      "date": "2024-06-18",
+      "category": "gazette",
+      "description": "gazette-dissolved-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12630152/filing-history/MzQyNDkyMzczNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Egtlr7SsjKSjKuud2O9thjRXrUHQSqc8TLCNqSYV3uU"
+      }
+    },
+    {
+      "transaction_id": "MzQxNTQ4OTIxOWFkaXF6a2N4",
+      "type": "GAZ1(A)",
+      "date": "2024-04-02",
+      "category": "gazette",
+      "description": "gazette-notice-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12630152/filing-history/MzQxNTQ4OTIxOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/XzFQuGz5EF2wxGMMKZ72SqKma4cwprgpM2-vXsXdR8o"
+      }
+    },
+    {
+      "transaction_id": "MzQxNTQ4ODc2OGFkaXF6a2N4",
+      "barcode": "XCZA3K8I",
+      "type": "DS01",
+      "date": "2024-03-20",
+      "category": "dissolution",
+      "description": "dissolution-application-strike-off-company",
+      "pages": 1,
+      "links": {
+        "self": "/company/12630152/filing-history/MzQxNTQ4ODc2OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/8FeF8NQ-0kQceYxM5a-ecIrAijshgDxNeaAJMgDFm_U"
+      }
+    },
+    {
+      "transaction_id": "MzQxMTk0NDU5N2FkaXF6a2N4",
+      "barcode": "XCXBN1MB",
+      "type": "AA",
+      "date": "2024-02-21",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2023-05-31"
+      },
+      "pages": 2,
+      "action_date": "2023-05-31",
+      "links": {
+        "self": "/company/12630152/filing-history/MzQxMTk0NDU5N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/YI4R683sn4YfMpL5R-slOXmHMCaXp_qsEKVwHIKWmLU"
+      }
+    },
+    {
+      "transaction_id": "MzM4MjMzNjEyM2FkaXF6a2N4",
+      "barcode": "XC593S1F",
+      "type": "CS01",
+      "date": "2023-06-08",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2023-05-27"
+      },
+      "pages": 3,
+      "action_date": "2023-05-27",
+      "links": {
+        "self": "/company/12630152/filing-history/MzM4MjMzNjEyM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/IKuZl4T8RZNrpnSvEHA70dN4vxTGbef_vWbPhH7yHdE"
+      }
+    },
+    {
+      "transaction_id": "MzM3MDc3MTc0M2FkaXF6a2N4",
+      "barcode": "XBY57VYR",
+      "type": "AA",
+      "date": "2023-02-26",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2022-05-31"
+      },
+      "pages": 2,
+      "action_date": "2022-05-31",
+      "links": {
+        "self": "/company/12630152/filing-history/MzM3MDc3MTc0M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/wECg4edlyKOcRpUa8hUAovCtd6ys9KvLNx8MaUpOD7w"
+      }
+    },
+    {
+      "transaction_id": "MzM0MTk1NjYyMGFkaXF6a2N4",
+      "barcode": "XB5TRDG9",
+      "type": "CS01",
+      "date": "2022-06-09",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2022-05-27"
+      },
+      "pages": 3,
+      "action_date": "2022-05-27",
+      "links": {
+        "self": "/company/12630152/filing-history/MzM0MTk1NjYyMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/L6m3Dk6V-E7JtAcHpA2snvTjTTqVptNf2uEFfh_Qao4"
+      }
+    },
+    {
+      "transaction_id": "MzMyOTM1NjYwOGFkaXF6a2N4",
+      "barcode": "XAXHA13M",
+      "type": "AA",
+      "date": "2022-02-09",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2021-05-31"
+      },
+      "pages": 2,
+      "action_date": "2021-05-31",
+      "links": {
+        "self": "/company/12630152/filing-history/MzMyOTM1NjYwOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/04aMkihcWAd7EmezrXF1sX5p0Cl8i_hb_N_VOQgNGYU"
+      }
+    },
+    {
+      "transaction_id": "MzMwMzEyNDYyNmFkaXF6a2N4",
+      "barcode": "XA5SPVXD",
+      "type": "CS01",
+      "date": "2021-06-02",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2021-05-27"
+      },
+      "pages": 3,
+      "action_date": "2021-05-27",
+      "links": {
+        "self": "/company/12630152/filing-history/MzMwMzEyNDYyNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/knNwIqd91qcVCzuGuga6rO2URt54U2m8TzsTuFTX50s"
+      }
+    },
+    {
+      "transaction_id": "MzI2NTkwNDE2OGFkaXF6a2N4",
+      "barcode": "X95XJKU8",
+      "type": "NEWINC",
+      "date": "2020-05-28",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2020-05-28",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2020-05-28",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2020-05-28",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2020-05-28"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 10,
+      "links": {
+        "self": "/company/12630152/filing-history/MzI2NTkwNDE2OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/M2kgEjh68GPVhOXO1BYqu5tyuoIJ0khYacj8liOZH1w"
+      }
+    }
+  ]
+}

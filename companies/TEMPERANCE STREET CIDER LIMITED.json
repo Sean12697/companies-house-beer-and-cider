@@ -1,0 +1,141 @@
+{
+  "company_name": "TEMPERANCE STREET CIDER LIMITED",
+  "company_number": "13693116",
+  "company_status": "active",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/13693116"
+  },
+  "date_of_creation": "2021-10-20",
+  "registered_office_address": {
+    "address_line_1": "75 North Western Street",
+    "locality": "Manchester",
+    "postal_code": "M12 6DY",
+    "region": "Greater Manchester",
+    "country": "United Kingdom"
+  },
+  "sic_codes": [
+    "11030"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzM5OTcyNTEwOGFkaXF6a2N4",
+      "type": "SOAS(A)",
+      "date": "2023-11-14",
+      "category": "dissolution",
+      "description": "dissolution-voluntary-strike-off-suspended",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13693116/filing-history/MzM5OTcyNTEwOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/9Pwet4LN8Xo4qHtBsq081l3AbBiiK_ljPPZn_VIfRPk"
+      }
+    },
+    {
+      "transaction_id": "MzM5NDI4MjYxN2FkaXF6a2N4",
+      "type": "GAZ1(A)",
+      "date": "2023-10-03",
+      "category": "gazette",
+      "description": "gazette-notice-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/13693116/filing-history/MzM5NDI4MjYxN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/X2zaAKzgtYpdPaPWfPzS-3VqZ25kCMQCGCxJcc-ovco"
+      }
+    },
+    {
+      "transaction_id": "MzM5NDI4MjQyNWFkaXF6a2N4",
+      "barcode": "XCCS0N4I",
+      "type": "DS01",
+      "date": "2023-09-25",
+      "category": "dissolution",
+      "description": "dissolution-application-strike-off-company",
+      "pages": 1,
+      "links": {
+        "self": "/company/13693116/filing-history/MzM5NDI4MjQyNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/2q7cuVsKwg98TO3YPew6W6D35hHXq9TMr9W7yHUmk40"
+      }
+    },
+    {
+      "transaction_id": "MzM4NTk2NjA2MGFkaXF6a2N4",
+      "barcode": "XC7K9RUX",
+      "type": "AA",
+      "date": "2023-07-11",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2022-10-31"
+      },
+      "pages": 3,
+      "action_date": "2022-10-31",
+      "links": {
+        "self": "/company/13693116/filing-history/MzM4NTk2NjA2MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/rvU9Q1NQE86nAly--ouZ9FDwSNX-Da9bXncgWfZRMbI"
+      }
+    },
+    {
+      "transaction_id": "MzM1NzIxOTE1MGFkaXF6a2N4",
+      "barcode": "XBFW231S",
+      "type": "CS01",
+      "date": "2022-11-01",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2022-10-19"
+      },
+      "pages": 3,
+      "action_date": "2022-10-19",
+      "links": {
+        "self": "/company/13693116/filing-history/MzM1NzIxOTE1MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/tGh_-9sssLuFVTPh-ZJcKNz6qAkpfkHlE6_OwSil3xQ"
+      }
+    },
+    {
+      "transaction_id": "MzMxNzQyNzEwM2FkaXF6a2N4",
+      "barcode": "XAFGKAKO",
+      "type": "NEWINC",
+      "date": "2021-10-20",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2021-10-20",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2021-10-20",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2021-10-20",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "100"
+              },
+              {
+                "currency": "GBP",
+                "figure": "100"
+              },
+              {
+                "currency": "GBP",
+                "figure": "100"
+              }
+            ]
+          },
+          "action_date": "2021-10-20"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 14,
+      "links": {
+        "self": "/company/13693116/filing-history/MzMxNzQyNzEwM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/MC5lUUotA8g1kOtuZNhteyDKXyT3UEAXhsaKuB22XeI"
+      }
+    }
+  ]
+}

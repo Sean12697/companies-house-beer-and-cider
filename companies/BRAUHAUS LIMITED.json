@@ -1,0 +1,183 @@
+{
+  "company_name": "BRAUHAUS LIMITED",
+  "company_number": "09033586",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/09033586"
+  },
+  "date_of_cessation": "2018-07-17",
+  "date_of_creation": "2014-05-12",
+  "registered_office_address": {
+    "address_line_1": "3 Parkville Road",
+    "locality": "Manchester",
+    "postal_code": "M20 4TX"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzIwOTM3NTMwNWFkaXF6a2N4",
+      "type": "GAZ2",
+      "date": "2018-07-17",
+      "category": "gazette",
+      "description": "gazette-dissolved-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/09033586/filing-history/MzIwOTM3NTMwNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Cg-QAr-hagtgJQQsc-VIgFsFTxexCKjLFhfWKiU4SB8"
+      }
+    },
+    {
+      "transaction_id": "MzIwMzI3MjUxMGFkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2018-05-01",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/09033586/filing-history/MzIwMzI3MjUxMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/SA7Lx9dJ-oNcqjyPSp2wyKwwQr62p1fQXHwD5c_OVfQ"
+      }
+    },
+    {
+      "transaction_id": "MzE4MTI3NDIyOGFkaXF6a2N4",
+      "barcode": "X6BCNAQX",
+      "type": "CS01",
+      "date": "2017-07-24",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2017-07-13"
+      },
+      "pages": 3,
+      "action_date": "2017-07-13",
+      "links": {
+        "self": "/company/09033586/filing-history/MzE4MTI3NDIyOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/v87RtRclcN2XvXRhJI8USSzfwV_zr0msgWlsWNCEIJk"
+      }
+    },
+    {
+      "transaction_id": "MzE1NDQ4NTUyMmFkaXF6a2N4",
+      "barcode": "X5CONTMI",
+      "type": "AA",
+      "date": "2016-08-04",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2016-05-31"
+      },
+      "pages": 2,
+      "action_date": "2016-05-31",
+      "links": {
+        "self": "/company/09033586/filing-history/MzE1NDQ4NTUyMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/T0qjaTdDZ3KKTbDf70lSR_RuSxBjmT9HXaSpDkP72lM"
+      }
+    },
+    {
+      "transaction_id": "MzE1NDE5NDA5OGFkaXF6a2N4",
+      "barcode": "X5CGR72R",
+      "type": "CS01",
+      "date": "2016-08-01",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2016-07-13"
+      },
+      "pages": 5,
+      "action_date": "2016-07-13",
+      "links": {
+        "self": "/company/09033586/filing-history/MzE1NDE5NDA5OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/KWOe0geY88jGa_IaDk3AOR4RLUu_5yS2qS4FoQN1VT8"
+      }
+    },
+    {
+      "transaction_id": "MzE0MTUzODAzN2FkaXF6a2N4",
+      "barcode": "X50DOFQ3",
+      "type": "AA",
+      "date": "2016-02-09",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2015-05-31"
+      },
+      "pages": 2,
+      "action_date": "2015-05-31",
+      "links": {
+        "self": "/company/09033586/filing-history/MzE0MTUzODAzN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/iKHBLqa0IHJm9m--dbxl4OfH3Rde7vwz0kacJfl3ZJo"
+      }
+    },
+    {
+      "transaction_id": "MzEyNjk0MDM3MGFkaXF6a2N4",
+      "barcode": "X4BJ7OPS",
+      "type": "AR01",
+      "date": "2015-07-13",
+      "category": "annual-return",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2015-07-13",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2015-07-13",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2015-07-13"
+        }
+      ],
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2015-07-13"
+      },
+      "pages": 3,
+      "action_date": "2015-07-13",
+      "links": {
+        "self": "/company/09033586/filing-history/MzEyNjk0MDM3MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/NZYa8vB_WVHPRXsLqQczJ6ELbWt46B0NCtdIuO7QtsQ"
+      }
+    },
+    {
+      "transaction_id": "MzA5OTcyNjY3M2FkaXF6a2N4",
+      "barcode": "X37HTIR4",
+      "type": "NEWINC",
+      "date": "2014-05-12",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2014-05-12",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2014-05-12",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2014-05-12"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 24,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/09033586/filing-history/MzA5OTcyNjY3M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/2HLubTjocDYkfByuJ8yrW9b5Whqrn7j0GQG0i_6iNMg"
+      }
+    }
+  ]
+}

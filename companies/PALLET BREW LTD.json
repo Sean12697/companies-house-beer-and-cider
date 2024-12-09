@@ -1,0 +1,356 @@
+{
+  "company_name": "PALLET BREW LTD",
+  "company_number": "09092228",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/09092228"
+  },
+  "date_of_cessation": "2020-07-28",
+  "date_of_creation": "2014-06-19",
+  "registered_office_address": {
+    "address_line_1": "C/O Inquesta Corporate Recovery & Insolvency St John's Terrace",
+    "address_line_2": "11-15 New Road",
+    "locality": "Manchester",
+    "postal_code": "M26 1LS"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzI3NDAxNzE5NWFkaXF6a2N4",
+      "type": "GAZ2",
+      "date": "2020-07-28",
+      "category": "gazette",
+      "description": "gazette-dissolved-liquidation",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/09092228/filing-history/MzI3NDAxNzE5NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/QEi230tEdsWtLPckinH1EI9cVVKL4eE3VQEgnrdPtyQ"
+      }
+    },
+    {
+      "transaction_id": "MzI2MzE2OTUxNGFkaXF6a2N4",
+      "barcode": "A92IR555",
+      "type": "LIQ14",
+      "date": "2020-04-28",
+      "category": "insolvency",
+      "subcategory": "voluntary",
+      "description": "liquidation-voluntary-creditors-return-of-final-meeting",
+      "pages": 13,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/09092228/filing-history/MzI2MzE2OTUxNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/kLvGgdCgro4u0UNkY-ScjYtO5QNLBQsQsVXtSCDTaPM"
+      }
+    },
+    {
+      "transaction_id": "MzIwMjQ5Nzg5MWFkaXF6a2N4",
+      "barcode": "A72WYDGI",
+      "type": "LIQ03",
+      "date": "2018-04-13",
+      "category": "insolvency",
+      "subcategory": "voluntary",
+      "description": "liquidation-voluntary-statement-of-receipts-and-payments-with-brought-down-date",
+      "description_values": {
+        "brought_down_date": "2018-02-09"
+      },
+      "pages": 9,
+      "action_date": "2018-02-09",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/09092228/filing-history/MzIwMjQ5Nzg5MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/iyeb8VQUWRm3-RT6_FTBBbwHkYwHn6cHAoUOQx1IYuM"
+      }
+    },
+    {
+      "transaction_id": "MzE2OTY5NzM2MGFkaXF6a2N4",
+      "barcode": "A60ENJJ5",
+      "type": "AD01",
+      "date": "2017-02-24",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2017-02-24",
+        "old_address": "4 Babylon Lane Adlington Chorley Lancashire PR6 9NN",
+        "new_address": "C/O Inquesta Corporate Recovery & Insolvency St John's Terrace 11-15 New Road Manchester M26 1LS"
+      },
+      "pages": 2,
+      "action_date": "2017-02-24",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/09092228/filing-history/MzE2OTY5NzM2MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/jM3q-1jtS0tl6u-BaBPofJ7RA0OSoaH29fn576D6LaY"
+      }
+    },
+    {
+      "transaction_id": "MzE2OTYwMDQ5NmFkaXF6a2N4",
+      "barcode": "A60ENJMW",
+      "type": "4.20",
+      "date": "2017-02-23",
+      "category": "insolvency",
+      "subcategory": "voluntary",
+      "description": "liquidation-voluntary-statement-of-affairs-with-form-attached",
+      "description_values": {
+        "form_attached": "4.19"
+      },
+      "pages": 6,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/09092228/filing-history/MzE2OTYwMDQ5NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/_Oa3IJb6HM2fixrjcGCRClMbRkhWmCzKzt4oIQpqvQw"
+      }
+    },
+    {
+      "transaction_id": "MzE2OTYwMDM1MGFkaXF6a2N4",
+      "barcode": "A60ENJJD",
+      "type": "600",
+      "date": "2017-02-23",
+      "category": "insolvency",
+      "subcategory": "voluntary",
+      "description": "liquidation-voluntary-appointment-of-liquidator",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/09092228/filing-history/MzE2OTYwMDM1MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/KwuBqWcn0PEmSWX39jXezEXuuOd6ghu6WA-3g9wpQ8Y"
+      }
+    },
+    {
+      "transaction_id": "QTYwRU5KS1hhZGlxemtjeA",
+      "type": "RESOLUTIONS",
+      "date": "2017-02-23",
+      "category": "resolution",
+      "resolutions": [
+        {
+          "category": "liquidation",
+          "description": "liquidation-voluntary-extraordinary-resolution-to-wind-up-with-case-start-date",
+          "type": "LRESEX",
+          "subcategory": [
+            "voluntary",
+            "resolution"
+          ],
+          "description_values": {
+            "case_start_date": "2017-02-10"
+          },
+          "original_description": "Extraordinary resolution to wind up"
+        }
+      ],
+      "description": "resolution",
+      "description_values": {
+        "description": "Resolutions"
+      },
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/09092228/filing-history/QTYwRU5KS1hhZGlxemtjeA",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/YrjMEZo6KqWX0fmuF0S2D5ktp44stholO4moDZ-92I8"
+      }
+    },
+    {
+      "transaction_id": "MzE1MzIwNjgzOWFkaXF6a2N4",
+      "barcode": "X5BL3XDT",
+      "type": "AR01",
+      "date": "2016-07-19",
+      "category": "annual-return",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2016-07-19",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2016-07-19",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2016-07-19"
+        }
+      ],
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2016-06-19"
+      },
+      "pages": 6,
+      "action_date": "2016-06-19",
+      "links": {
+        "self": "/company/09092228/filing-history/MzE1MzIwNjgzOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/nKLD6FTWYxVIRAcrGFHIngp0aKKZHMLki1ulc5SmiQ4"
+      }
+    },
+    {
+      "transaction_id": "MzE0NDM4MzYyN2FkaXF6a2N4",
+      "barcode": "X53064PF",
+      "type": "AA",
+      "date": "2016-03-18",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-small",
+      "description_values": {
+        "made_up_date": "2015-06-30"
+      },
+      "pages": 4,
+      "action_date": "2015-06-30",
+      "links": {
+        "self": "/company/09092228/filing-history/MzE0NDM4MzYyN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/4WkokVJZZYwLOxX4iuS7F0FdmqA8NVWLCTNfhgW4TAM"
+      }
+    },
+    {
+      "transaction_id": "MzEyNjA0ODE1NWFkaXF6a2N4",
+      "barcode": "X4ALA3GQ",
+      "type": "AR01",
+      "date": "2015-06-29",
+      "category": "annual-return",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2015-06-29",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2015-06-29",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2015-06-29"
+        }
+      ],
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2015-06-19"
+      },
+      "pages": 3,
+      "action_date": "2015-06-19",
+      "links": {
+        "self": "/company/09092228/filing-history/MzEyNjA0ODE1NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/kZPftO9LQK3iXyUViJUgd9E3mt2MYLbilWoLFCEaVA4"
+      }
+    },
+    {
+      "transaction_id": "MzExNjI0MTEzMmFkaXF6a2N4",
+      "barcode": "X400UMKQ",
+      "type": "AD01",
+      "date": "2015-01-28",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2015-01-28",
+        "old_address": "16 Berry Lane Longridge Preston Lancashire PR3 3JA United Kingdom",
+        "new_address": "4 Babylon Lane Adlington Chorley Lancashire PR6 9NN"
+      },
+      "pages": 1,
+      "action_date": "2015-01-28",
+      "links": {
+        "self": "/company/09092228/filing-history/MzExNjI0MTEzMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/KaoqwruxuTeNgk3lR9uwW-_5nh0iv5upFGTAohgS5ak"
+      }
+    },
+    {
+      "transaction_id": "MzEwNzM5MDU0OGFkaXF6a2N4",
+      "barcode": "X3GAA9E9",
+      "type": "CERTNM",
+      "date": "2014-09-12",
+      "category": "change-of-name",
+      "resolutions": [
+        {
+          "category": "change-of-name",
+          "description": "resolution-change-of-name",
+          "type": "RES15",
+          "subcategory": "resolution",
+          "description_values": {
+            "resolution_date": "2014-08-27"
+          }
+        }
+      ],
+      "subcategory": "certificate",
+      "description": "certificate-change-of-name-company",
+      "description_values": {
+        "description": "Company name changed pallet brew 2014 LIMITED\\certificate issued on 12/09/14"
+      },
+      "pages": 3,
+      "links": {
+        "self": "/company/09092228/filing-history/MzEwNzM5MDU0OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/8cJJKCW9FOsTPoveG3L5BJny8DySjMZ3qRGOpZZEE2E"
+      }
+    },
+    {
+      "transaction_id": "MzEwNDA2NjkxN2FkaXF6a2N4",
+      "barcode": "X3CLWN8R",
+      "type": "AP01",
+      "date": "2014-07-21",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Mr Lewis Russell",
+        "appointment_date": "2014-06-19"
+      },
+      "pages": 2,
+      "action_date": "2014-06-19",
+      "links": {
+        "self": "/company/09092228/filing-history/MzEwNDA2NjkxN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/UIENTRwABHBNiNSgg8jL9QEuysGxtIV7TJUgcmh3nbM"
+      }
+    },
+    {
+      "transaction_id": "MzEwMjE3NjI0N2FkaXF6a2N4",
+      "barcode": "X3ADHR0I",
+      "type": "TM01",
+      "date": "2014-06-19",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-director-company-with-name",
+      "description_values": {
+        "officer_name": "Osker Heiman"
+      },
+      "pages": 1,
+      "links": {
+        "self": "/company/09092228/filing-history/MzEwMjE3NjI0N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/bDN8XuJXc7IsNbU2s9iWzLM0E_Jae-sDpxuv_Plg12U"
+      }
+    },
+    {
+      "transaction_id": "MzEwMjExNDA3NmFkaXF6a2N4",
+      "barcode": "X3AAWPX5",
+      "type": "NEWINC",
+      "date": "2014-06-19",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2014-06-19",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2014-06-19",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2014-06-19"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 20,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/09092228/filing-history/MzEwMjExNDA3NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/LyGGv-2cUURvET0cYjP-ACBLZirRS0ueJxCYNMy9vLc"
+      }
+    }
+  ]
+}

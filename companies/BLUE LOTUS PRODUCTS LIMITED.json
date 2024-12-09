@@ -1,0 +1,80 @@
+{
+  "company_name": "BLUE LOTUS PRODUCTS LIMITED",
+  "company_number": "12920242",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/12920242"
+  },
+  "date_of_cessation": "2022-03-08",
+  "date_of_creation": "2020-10-01",
+  "registered_office_address": {
+    "address_line_1": "Unit 16041 PO BOX 4336",
+    "locality": "Manchester",
+    "postal_code": "M61 0BW",
+    "country": "England"
+  },
+  "sic_codes": [
+    "11030"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzMzMTUyNzYzMGFkaXF6a2N4",
+      "type": "GAZ2",
+      "date": "2022-03-08",
+      "category": "gazette",
+      "description": "gazette-dissolved-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12920242/filing-history/MzMzMTUyNzYzMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/hf-2wN3TRfD03chnzYhD3viMZIqfFw5Et-yF3x5ZmsI"
+      }
+    },
+    {
+      "transaction_id": "MzMyMzE5Nzk1N2FkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2021-12-21",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12920242/filing-history/MzMyMzE5Nzk1N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/VnYp02XHNRfGlH5dfpyNcmdu9sx1TjoLHV_TdrerrgU"
+      }
+    },
+    {
+      "transaction_id": "MzI3OTI3Njk2M2FkaXF6a2N4",
+      "barcode": "X9EP2848",
+      "type": "NEWINC",
+      "date": "2020-10-01",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2020-10-01",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2020-10-01",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2020-10-01"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 27,
+      "links": {
+        "self": "/company/12920242/filing-history/MzI3OTI3Njk2M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/1hyKh9kMtIrOORGo0XxqXRfE5NDbJ0w6lRGpXE1P4AA"
+      }
+    }
+  ]
+}

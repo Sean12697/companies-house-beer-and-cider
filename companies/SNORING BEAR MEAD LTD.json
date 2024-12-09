@@ -1,0 +1,231 @@
+{
+  "company_name": "SNORING BEAR MEAD LTD",
+  "company_number": "12334660",
+  "company_status": "active",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/12334660"
+  },
+  "date_of_creation": "2019-11-26",
+  "registered_office_address": {
+    "address_line_1": "14 Westdean Crescent",
+    "locality": "Manchester",
+    "postal_code": "M19 1FB",
+    "country": "England"
+  },
+  "sic_codes": [
+    "11030"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzQ0NDc1NTMzNmFkaXF6a2N4",
+      "barcode": "XDGLF9UR",
+      "type": "CS01",
+      "date": "2024-11-25",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2024-11-25"
+      },
+      "pages": 3,
+      "action_date": "2024-11-25",
+      "links": {
+        "self": "/company/12334660/filing-history/MzQ0NDc1NTMzNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Yzabed2FclSCMiUBf1Ftfgi3HU_VyXWPoG8SwHHyYTE"
+      }
+    },
+    {
+      "transaction_id": "MzQzMDIwNzMyMWFkaXF6a2N4",
+      "barcode": "XD84P3YZ",
+      "type": "AA",
+      "date": "2024-07-26",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2023-11-30"
+      },
+      "pages": 2,
+      "action_date": "2023-11-30",
+      "links": {
+        "self": "/company/12334660/filing-history/MzQzMDIwNzMyMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/VIw_SUEc6FlHTzfegyXoqosg7BJwAqZkl3DURmXhBIw"
+      }
+    },
+    {
+      "transaction_id": "MzQwMjQzOTI1M2FkaXF6a2N4",
+      "barcode": "XCHNEQLE",
+      "type": "CS01",
+      "date": "2023-12-04",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2023-11-25"
+      },
+      "pages": 3,
+      "action_date": "2023-11-25",
+      "links": {
+        "self": "/company/12334660/filing-history/MzQwMjQzOTI1M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/lBBOcoSN4Fknbll-R8D2KZPbWmdxccL_ebyoU8gXyeg"
+      }
+    },
+    {
+      "transaction_id": "MzM4NzY3NzUyMmFkaXF6a2N4",
+      "barcode": "XC8LRV95",
+      "type": "AA",
+      "date": "2023-07-26",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2022-11-23"
+      },
+      "pages": 2,
+      "action_date": "2022-11-23",
+      "links": {
+        "self": "/company/12334660/filing-history/MzM4NzY3NzUyMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/EjOfqRtM7G1mjN42r9HVgFnsXS6-JAdtVdSZc6jOKsI"
+      }
+    },
+    {
+      "transaction_id": "MzM1OTgwMDMyMWFkaXF6a2N4",
+      "barcode": "XBHJ12CW",
+      "type": "CS01",
+      "date": "2022-11-25",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2022-11-25"
+      },
+      "pages": 3,
+      "action_date": "2022-11-25",
+      "links": {
+        "self": "/company/12334660/filing-history/MzM1OTgwMDMyMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/rmbwXm_RhMYYunLadLom3Uasl7Tq-db1ULhwNECC-7I"
+      }
+    },
+    {
+      "transaction_id": "MzM1Nzk4MzE0NmFkaXF6a2N4",
+      "barcode": "XBGESQRS",
+      "type": "AD01",
+      "date": "2022-11-09",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2022-11-09",
+        "old_address": "75 North Western Street Manchester M12 6DY England",
+        "new_address": "14 Westdean Crescent Manchester M19 1FB"
+      },
+      "pages": 1,
+      "action_date": "2022-11-09",
+      "links": {
+        "self": "/company/12334660/filing-history/MzM1Nzk4MzE0NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/QFyNKRUigY4vqrqzB33nu7kRfinHA558nWfn4R4nnpI"
+      }
+    },
+    {
+      "transaction_id": "MzM0NzEwMzkzOGFkaXF6a2N4",
+      "barcode": "XB96XJ4B",
+      "type": "AA",
+      "date": "2022-07-28",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2021-11-30"
+      },
+      "pages": 2,
+      "action_date": "2021-11-30",
+      "links": {
+        "self": "/company/12334660/filing-history/MzM0NzEwMzkzOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/3h5BcTcw7huWCrVKmT9zSNH0vA_VXJa_K76Gd6rsAf4"
+      }
+    },
+    {
+      "transaction_id": "MzMyMTQ5MjYyNWFkaXF6a2N4",
+      "barcode": "XAI2HMEJ",
+      "type": "CS01",
+      "date": "2021-11-26",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2021-11-25"
+      },
+      "pages": 3,
+      "action_date": "2021-11-25",
+      "links": {
+        "self": "/company/12334660/filing-history/MzMyMTQ5MjYyNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/s_P2cEZxXwoLrMsV4gkCDDU2r_eI_1KwM3AT6QwvZus"
+      }
+    },
+    {
+      "transaction_id": "MzMwODM1MDI2OWFkaXF6a2N4",
+      "barcode": "XA983OC0",
+      "type": "AA",
+      "date": "2021-07-21",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2020-11-30"
+      },
+      "pages": 3,
+      "action_date": "2020-11-30",
+      "links": {
+        "self": "/company/12334660/filing-history/MzMwODM1MDI2OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/_KWgwfjJO3eALh2L_PttdJ17il8VBh34Bs_VW-Jf5ps"
+      }
+    },
+    {
+      "transaction_id": "MzI4NzQ4ODA4MmFkaXF6a2N4",
+      "barcode": "X9VHEUVF",
+      "type": "CS01",
+      "date": "2021-01-04",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2020-11-25"
+      },
+      "pages": 3,
+      "action_date": "2020-11-25",
+      "links": {
+        "self": "/company/12334660/filing-history/MzI4NzQ4ODA4MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/RCsh3LVSivUwEX_5p0h-mCRnp8SczQqqHVfRjZfLriU"
+      }
+    },
+    {
+      "transaction_id": "MzI1MDI4Nzg5N2FkaXF6a2N4",
+      "barcode": "X8J29ORD",
+      "type": "NEWINC",
+      "date": "2019-11-26",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2019-11-26",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2019-11-26",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2019-11-26",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "100"
+              }
+            ]
+          },
+          "action_date": "2019-11-26"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 11,
+      "links": {
+        "self": "/company/12334660/filing-history/MzI1MDI4Nzg5N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/QkbUMFj3bFhLqTw8Lvct6LivL9XCMsnQpqVZrBQO7uk"
+      }
+    }
+  ]
+}

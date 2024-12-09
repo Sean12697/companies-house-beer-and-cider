@@ -1,0 +1,612 @@
+{
+  "company_name": "ESCAPE BREWERY LTD",
+  "company_number": "11641518",
+  "company_status": "active",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/11641518"
+  },
+  "date_of_creation": "2018-10-25",
+  "registered_office_address": {
+    "address_line_1": "Unit P Dodd Lane Industrial Estate",
+    "address_line_2": "Chorley Road, Westhoughton",
+    "locality": "Bolton",
+    "postal_code": "BL5 3NA",
+    "region": "Greater Manchester",
+    "country": "England"
+  },
+  "sic_codes": [
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzQ0NTk0MzQ5MGFkaXF6a2N4",
+      "barcode": "XDH7DYH6",
+      "type": "CS01",
+      "date": "2024-12-03",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2024-10-14"
+      },
+      "pages": 3,
+      "action_date": "2024-10-14",
+      "links": {
+        "self": "/company/11641518/filing-history/MzQ0NTk0MzQ5MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/XRxz29TtiIxzGIFA1g5EhdEaCzpFYYgB1BKsnv_Gdvo"
+      }
+    },
+    {
+      "transaction_id": "MzQzMDU0OTU5MWFkaXF6a2N4",
+      "barcode": "XD8FDRHF",
+      "type": "AA",
+      "date": "2024-07-30",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2023-10-31"
+      },
+      "pages": 4,
+      "action_date": "2023-10-31",
+      "links": {
+        "self": "/company/11641518/filing-history/MzQzMDU0OTU5MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/MVrwyzwVg38z8Y-rD43E9PSO8y9do2zMyVRZtcT9AzI"
+      }
+    },
+    {
+      "transaction_id": "MzM5NzgxODMwOWFkaXF6a2N4",
+      "barcode": "XCEVOWVM",
+      "type": "PSC04",
+      "date": "2023-10-25",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2023-10-25",
+        "psc_name": "Mr David James Cross"
+      },
+      "pages": 2,
+      "action_date": "2023-10-25",
+      "links": {
+        "self": "/company/11641518/filing-history/MzM5NzgxODMwOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/lUeVrKQ8m_oeiGiE0Wez5_zme2MKZsY5z2no_YTbX9Y"
+      }
+    },
+    {
+      "transaction_id": "MzM5NzgxODMxNmFkaXF6a2N4",
+      "barcode": "XCEVOWXM",
+      "type": "CS01",
+      "date": "2023-10-25",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2023-10-14"
+      },
+      "pages": 3,
+      "action_date": "2023-10-14",
+      "links": {
+        "self": "/company/11641518/filing-history/MzM5NzgxODMxNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Pz0ktTbqxV8qJj0LSzgkG1vCa0Xmkxw8SbECjcJtqwI"
+      }
+    },
+    {
+      "transaction_id": "MzM5NzgxODI2MWFkaXF6a2N4",
+      "barcode": "XCEVOWLR",
+      "type": "PSC04",
+      "date": "2023-10-25",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2023-10-25",
+        "psc_name": "Mr Adam James Smith"
+      },
+      "pages": 2,
+      "action_date": "2023-10-25",
+      "links": {
+        "self": "/company/11641518/filing-history/MzM5NzgxODI2MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/-bPm0628aVWuLHYulT2El_4KRhqvNm8Irs8Zt-JrHDs"
+      }
+    },
+    {
+      "transaction_id": "MzM5NzgxODI1NmFkaXF6a2N4",
+      "barcode": "XCEVOWDT",
+      "type": "PSC04",
+      "date": "2023-10-25",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2023-10-25",
+        "psc_name": "Mr Phillip John Wray"
+      },
+      "pages": 2,
+      "action_date": "2023-10-25",
+      "links": {
+        "self": "/company/11641518/filing-history/MzM5NzgxODI1NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/hOoTvIiGh9PvQKNV1y8b8w_NaQQqmBjEndAH1eLzz8o"
+      }
+    },
+    {
+      "transaction_id": "MzM5NzgxNzUzMGFkaXF6a2N4",
+      "barcode": "XCEVOTP6",
+      "type": "CH02",
+      "date": "2023-10-25",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-corporate-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2023-10-25",
+        "officer_name": "Mv and Sons Holdings Limited"
+      },
+      "pages": 1,
+      "action_date": "2023-10-25",
+      "links": {
+        "self": "/company/11641518/filing-history/MzM5NzgxNzUzMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/9IrGjr2dLP7WQhYWGAcSSgzX6rt8smSDyVRWPF8kaAo"
+      }
+    },
+    {
+      "transaction_id": "MzM5NzgxNzMzN2FkaXF6a2N4",
+      "barcode": "XCEVOSJ4",
+      "type": "CH01",
+      "date": "2023-10-25",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2023-10-25",
+        "officer_name": "Mr Philip John Wray"
+      },
+      "pages": 2,
+      "action_date": "2023-10-25",
+      "links": {
+        "self": "/company/11641518/filing-history/MzM5NzgxNzMzN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/US2byoR52pXo7EfbrdaypHi5hLQNw4ZLEtGWTKOKWMA"
+      }
+    },
+    {
+      "transaction_id": "MzM5NzgxNzMxOGFkaXF6a2N4",
+      "barcode": "XCEVOSD5",
+      "type": "CH01",
+      "date": "2023-10-25",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2023-10-25",
+        "officer_name": "Mr Adam James Smith"
+      },
+      "pages": 2,
+      "action_date": "2023-10-25",
+      "links": {
+        "self": "/company/11641518/filing-history/MzM5NzgxNzMxOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/wzXBPKmaIQ-VWCr6N1G4GrJ5voaK18fCHS_PYCGOhzc"
+      }
+    },
+    {
+      "transaction_id": "MzM5NzgxNzI1NGFkaXF6a2N4",
+      "barcode": "XCEVOS36",
+      "type": "CH01",
+      "date": "2023-10-25",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2023-10-25",
+        "officer_name": "Mr David James Cross"
+      },
+      "pages": 2,
+      "action_date": "2023-10-25",
+      "links": {
+        "self": "/company/11641518/filing-history/MzM5NzgxNzI1NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/TnYiZ1sQtGqn1THtirQC9qnCzdI0TKtxqZlnhlPaEYQ"
+      }
+    },
+    {
+      "transaction_id": "MzM4Nzk2NjE0NWFkaXF6a2N4",
+      "barcode": "XC8OTS8G",
+      "type": "AA",
+      "date": "2023-07-28",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2022-10-31"
+      },
+      "pages": 4,
+      "action_date": "2022-10-31",
+      "links": {
+        "self": "/company/11641518/filing-history/MzM4Nzk2NjE0NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/stJbUwMoN4Q1RILKu5x46ksYVFgxCNcR7Xr9VN91in8"
+      }
+    },
+    {
+      "transaction_id": "MzM1NjYwODU0OGFkaXF6a2N4",
+      "barcode": "XBFFW0RD",
+      "type": "CS01",
+      "date": "2022-10-26",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2022-10-14"
+      },
+      "pages": 5,
+      "action_date": "2022-10-14",
+      "links": {
+        "self": "/company/11641518/filing-history/MzM1NjYwODU0OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ft8gBXV1KuppSJgsMtaieQyyADA_3rLxBnfJk7F4xmA"
+      }
+    },
+    {
+      "transaction_id": "MzM0NzI2MzQzMmFkaXF6a2N4",
+      "barcode": "XB99Q0SC",
+      "type": "AA",
+      "date": "2022-07-29",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2021-10-31"
+      },
+      "pages": 4,
+      "action_date": "2021-10-31",
+      "links": {
+        "self": "/company/11641518/filing-history/MzM0NzI2MzQzMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/CdVEcsuYAZNzQ8kCYXUzL8fND-X6n6KvYdNNN8y3HiY"
+      }
+    },
+    {
+      "transaction_id": "MzM0MTk4NTczOGFkaXF6a2N4",
+      "barcode": "XB5TUM8Z",
+      "type": "AD01",
+      "date": "2022-06-09",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2022-06-09",
+        "old_address": "Unit T Dodd Lane Industrial Estate Chorley Road, Westhoughton Bolton Greater Manchester BL5 3NA England",
+        "new_address": "Unit P Dodd Lane Industrial Estate Chorley Road, Westhoughton Bolton Greater Manchester BL5 3NA"
+      },
+      "pages": 1,
+      "action_date": "2022-06-09",
+      "links": {
+        "self": "/company/11641518/filing-history/MzM0MTk4NTczOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/twQL2z8ouTlxTA68DozRBz_--kr_JUd5MO7xVPGhk58"
+      }
+    },
+    {
+      "transaction_id": "MzMzODcyMzAwMWFkaXF6a2N4",
+      "barcode": "YB3O2FSB",
+      "type": "MA",
+      "date": "2022-05-12",
+      "category": "incorporation",
+      "description": "memorandum-articles",
+      "pages": 15,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11641518/filing-history/MzMzODcyMzAwMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/2GH744eufMIMgBGlqfcO8E-1RpOYgI2zlT8PsOn0VFs"
+      }
+    },
+    {
+      "transaction_id": "WUIzTzJFQUphZGlxemtjeA",
+      "type": "RESOLUTIONS",
+      "date": "2022-05-12",
+      "category": "resolution",
+      "resolutions": [
+        {
+          "category": "incorporation",
+          "description": "resolution-adopt-articles",
+          "type": "RES01",
+          "subcategory": "resolution",
+          "description_values": {
+            "res_type": "ADOPT ARTICLES"
+          }
+        }
+      ],
+      "description": "resolution",
+      "description_values": {
+        "description": "Resolutions"
+      },
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11641518/filing-history/WUIzTzJFQUphZGlxemtjeA",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/vXbAqrXoo4ZM-VsY4-NGOIIKsZoTuQdPGsGMs4xxrdk"
+      }
+    },
+    {
+      "transaction_id": "MzMzODcyNDg5N2FkaXF6a2N4",
+      "barcode": "XB3O2H7S",
+      "type": "AP02",
+      "date": "2022-05-09",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-corporate-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Mv and Sons Holdings Limited",
+        "appointment_date": "2022-04-27"
+      },
+      "pages": 2,
+      "action_date": "2022-04-27",
+      "links": {
+        "self": "/company/11641518/filing-history/MzMzODcyNDg5N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/u9ZiBJAQcFNlcISULuyXowDM85ky0dMWgbFOorBgXgQ"
+      }
+    },
+    {
+      "transaction_id": "MzMxNzAyMTc2OGFkaXF6a2N4",
+      "barcode": "XAF3AFMW",
+      "type": "CS01",
+      "date": "2021-10-14",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2021-10-14"
+      },
+      "pages": 3,
+      "action_date": "2021-10-14",
+      "links": {
+        "self": "/company/11641518/filing-history/MzMxNzAyMTc2OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/XVDzeVjENJ9fkqM2qP0uNS4U3rnrEeGRMXzONetYwIM"
+      }
+    },
+    {
+      "transaction_id": "MzMwOTA1Mjg2MmFkaXF6a2N4",
+      "barcode": "XA9O52CZ",
+      "type": "AA",
+      "date": "2021-07-28",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2020-10-31"
+      },
+      "pages": 5,
+      "action_date": "2020-10-31",
+      "links": {
+        "self": "/company/11641518/filing-history/MzMwOTA1Mjg2MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/zg_PyPvxTOO7b69G4FwByAzJEnnJNQf_Dixk8j8eOhE"
+      }
+    },
+    {
+      "transaction_id": "MzI5MDkyMzUzMGFkaXF6a2N4",
+      "barcode": "X9XXO5C8",
+      "type": "PSC04",
+      "date": "2021-02-10",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2021-02-09",
+        "psc_name": "Mr Phillip John Wray"
+      },
+      "pages": 2,
+      "action_date": "2021-02-09",
+      "links": {
+        "self": "/company/11641518/filing-history/MzI5MDkyMzUzMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/6RPtIoOaMHeGBkcq9qHhosORjnQyNgwzAQumfDoVL84"
+      }
+    },
+    {
+      "transaction_id": "MzI5MDkyMzQ0NGFkaXF6a2N4",
+      "barcode": "X9XXO4S9",
+      "type": "CH01",
+      "date": "2021-02-09",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2021-02-09",
+        "officer_name": "Mr Adam James Smith"
+      },
+      "pages": 2,
+      "action_date": "2021-02-09",
+      "links": {
+        "self": "/company/11641518/filing-history/MzI5MDkyMzQ0NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/5wGEh-SN5Af7hW8SesEin0HzY5b_bjB4krYXKbC2r64"
+      }
+    },
+    {
+      "transaction_id": "MzI5MDkyMzUyMGFkaXF6a2N4",
+      "barcode": "X9XXO56B",
+      "type": "CH01",
+      "date": "2021-02-09",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2021-02-09",
+        "officer_name": "Mr Philip John Wray"
+      },
+      "pages": 2,
+      "action_date": "2021-02-09",
+      "links": {
+        "self": "/company/11641518/filing-history/MzI5MDkyMzUyMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Mp6WZew-XhgtSrUOlaUsfwZpvKrhP-BwEURehGg12gQ"
+      }
+    },
+    {
+      "transaction_id": "MzI5MDkyMzQ0OWFkaXF6a2N4",
+      "barcode": "X9XXO4SP",
+      "type": "PSC04",
+      "date": "2021-02-09",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2021-02-09",
+        "psc_name": "Mr Adam James Smith"
+      },
+      "pages": 2,
+      "action_date": "2021-02-09",
+      "links": {
+        "self": "/company/11641518/filing-history/MzI5MDkyMzQ0OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/FDlNIdkcVYAoJGx_Zjupfii4Ytla4uIYf2CPZzURx7s"
+      }
+    },
+    {
+      "transaction_id": "MzI5MDkyMzQxMmFkaXF6a2N4",
+      "barcode": "X9XXO4Y2",
+      "type": "PSC04",
+      "date": "2021-02-09",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2021-02-09",
+        "psc_name": "Mr David James Cross"
+      },
+      "pages": 2,
+      "action_date": "2021-02-09",
+      "links": {
+        "self": "/company/11641518/filing-history/MzI5MDkyMzQxMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/I9zFg8DJsvofXbmsbZbM1lHAuOqNMPR8_TXlaOiv33Q"
+      }
+    },
+    {
+      "transaction_id": "MzI5MDkyMzMwMmFkaXF6a2N4",
+      "barcode": "X9XXO4KO",
+      "type": "CH01",
+      "date": "2021-02-09",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2021-02-09",
+        "officer_name": "Mr David James Cross"
+      },
+      "pages": 2,
+      "action_date": "2021-02-09",
+      "links": {
+        "self": "/company/11641518/filing-history/MzI5MDkyMzMwMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/gxMu8VuKMI92oq1XiJtDJcxsG6VXptZmmKigOHfa5-M"
+      }
+    },
+    {
+      "transaction_id": "MzI5MDkxOTY2NmFkaXF6a2N4",
+      "barcode": "X9XXNYZ7",
+      "type": "AD01",
+      "date": "2021-02-09",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2021-02-09",
+        "old_address": "48 Longworth Road Horwich Bolton Greater Manchester BL6 7BE England",
+        "new_address": "Unit T Dodd Lane Industrial Estate Chorley Road, Westhoughton Bolton Greater Manchester BL5 3NA"
+      },
+      "pages": 1,
+      "action_date": "2021-02-09",
+      "links": {
+        "self": "/company/11641518/filing-history/MzI5MDkxOTY2NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/w6TLxyyS1JAycwOgBCvS8oKBocO_46y4CJGCEnP-mdo"
+      }
+    },
+    {
+      "transaction_id": "MzI4MTM3NjQ3OGFkaXF6a2N4",
+      "barcode": "X9G6I86P",
+      "type": "AA",
+      "date": "2020-10-22",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2019-10-31"
+      },
+      "pages": 5,
+      "action_date": "2019-10-31",
+      "links": {
+        "self": "/company/11641518/filing-history/MzI4MTM3NjQ3OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/8OIGK0dff75lxNQupfcbhPN3J1l4F2NG7HNLpedilcg"
+      }
+    },
+    {
+      "transaction_id": "MzI4MDAwOTAxM2FkaXF6a2N4",
+      "barcode": "X9F7SCCO",
+      "type": "CS01",
+      "date": "2020-10-08",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2020-10-08"
+      },
+      "pages": 3,
+      "action_date": "2020-10-08",
+      "links": {
+        "self": "/company/11641518/filing-history/MzI4MDAwOTAxM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Dy7MSWfrwX3nn9uPyqKaXGE1B3IfBNvf2gn49U7PDQk"
+      }
+    },
+    {
+      "transaction_id": "MzI0NzcwNTc0NmFkaXF6a2N4",
+      "barcode": "X8GUSSRS",
+      "type": "CS01",
+      "date": "2019-10-25",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2019-10-25"
+      },
+      "pages": 3,
+      "action_date": "2019-10-25",
+      "links": {
+        "self": "/company/11641518/filing-history/MzI0NzcwNTc0NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/sUm-92su5A3aqXhFYDcAQO8EtEt1VKiZtGi1oqDAIxc"
+      }
+    },
+    {
+      "transaction_id": "MzIxNzk1NzQ4NGFkaXF6a2N4",
+      "barcode": "X7HCU6Q3",
+      "type": "CH01",
+      "date": "2018-10-26",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2018-10-26",
+        "officer_name": "Mr Phillip John Wray"
+      },
+      "pages": 2,
+      "action_date": "2018-10-26",
+      "links": {
+        "self": "/company/11641518/filing-history/MzIxNzk1NzQ4NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Ekhkm-F3E-NoGSPGPnz4E5OYS7h7rJ1wDZZ-rb5MbUs"
+      }
+    },
+    {
+      "transaction_id": "MzIxNzc1Nzg1OWFkaXF6a2N4",
+      "barcode": "X7H9LLMG",
+      "type": "NEWINC",
+      "date": "2018-10-25",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2018-10-25",
+          "description": "model-articles-adopted-amended-provisions",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2018-10-25",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2018-10-25",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "100"
+              }
+            ]
+          },
+          "action_date": "2018-10-25"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 38,
+      "links": {
+        "self": "/company/11641518/filing-history/MzIxNzc1Nzg1OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/jOSwDzrvDkBjRj3RAyNvMzGdBFFy6RiPcR0tr9_qdWs"
+      }
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "company_name": "SKINNY LAGER LIMITED",
+  "company_number": "12760691",
+  "company_status": "active",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+    "company_profile": "/company/12760691"
+  },
+  "date_of_creation": "2020-07-22",
+  "registered_office_address": {
+    "address_line_1": "111 Piccadilly",
+    "locality": "Manchester",
+    "postal_code": "M1 2HY",
+    "country": "England"
+  },
+  "sic_codes": [
+    "11010",
+    "11020",
+    "11050"
+  ],
+  "filling_history": [
+    {
+      "transaction_id": "MzQzMTEyOTEyNGFkaXF6a2N4",
+      "barcode": "XD8VEGFS",
+      "type": "CS01",
+      "date": "2024-08-05",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2024-07-21"
+      },
+      "pages": 3,
+      "action_date": "2024-07-21",
+      "links": {
+        "self": "/company/12760691/filing-history/MzQzMTEyOTEyNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/s_HLCVoYvlvMu54Pf1O9kDMbYa5FGkrymrUbp99Nb8Y"
+      }
+    },
+    {
+      "transaction_id": "MzQxNDEyNDEzMGFkaXF6a2N4",
+      "barcode": "XCYQR24X",
+      "type": "AA",
+      "date": "2024-03-12",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2023-07-31"
+      },
+      "pages": 5,
+      "action_date": "2023-07-31",
+      "links": {
+        "self": "/company/12760691/filing-history/MzQxNDEyNDEzMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/QTWy9_-k23L5fyEWNS4sl9epTym0RptM8isQba9T_Jg"
+      }
+    },
+    {
+      "transaction_id": "MzM4ODkwODIzOGFkaXF6a2N4",
+      "barcode": "XC9I2C8Y",
+      "type": "CS01",
+      "date": "2023-08-08",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2023-07-21"
+      },
+      "pages": 3,
+      "action_date": "2023-07-21",
+      "links": {
+        "self": "/company/12760691/filing-history/MzM4ODkwODIzOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/xJm_gJm6x4ondKFIiV5brr5UUiYedysGQdDkFuRTeMM"
+      }
+    },
+    {
+      "transaction_id": "MzM1MjkzODk3NmFkaXF6a2N4",
+      "barcode": "XBDC5Z9K",
+      "type": "AA",
+      "date": "2022-09-26",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2022-07-31"
+      },
+      "pages": 4,
+      "action_date": "2022-07-31",
+      "links": {
+        "self": "/company/12760691/filing-history/MzM1MjkzODk3NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/X1-VMmHRpEkKjrWbDDtWzUr6yeBCW8rifaOjMsGh-zU"
+      }
+    },
+    {
+      "transaction_id": "MzM1MDQ5Mzg5OGFkaXF6a2N4",
+      "barcode": "XBBN06KO",
+      "type": "CS01",
+      "date": "2022-09-01",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2022-07-21"
+      },
+      "pages": 3,
+      "action_date": "2022-07-21",
+      "links": {
+        "self": "/company/12760691/filing-history/MzM1MDQ5Mzg5OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/d0njFtSoKFzp41Fg5EHjVZy_8NRbr0Rlt5SlT6_zIHQ"
+      }
+    },
+    {
+      "transaction_id": "MzMxNTAxMjA5NGFkaXF6a2N4",
+      "barcode": "XADTC50B",
+      "type": "AA",
+      "date": "2021-09-26",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2021-07-31"
+      },
+      "pages": 4,
+      "action_date": "2021-07-31",
+      "links": {
+        "self": "/company/12760691/filing-history/MzMxNTAxMjA5NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/bnJDHzUz8B_VptY0DvYnKi2VBzWSZubwDHRJUmlN1Vg"
+      }
+    },
+    {
+      "transaction_id": "MzMxMjgzOTU5N2FkaXF6a2N4",
+      "barcode": "XACBZNXN",
+      "type": "CS01",
+      "date": "2021-09-04",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2021-07-21"
+      },
+      "pages": 5,
+      "action_date": "2021-07-21",
+      "links": {
+        "self": "/company/12760691/filing-history/MzMxMjgzOTU5N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/RrnCheGIu1159BwPT9JAyORAKODocR-XLpBOUiuQE20"
+      }
+    },
+    {
+      "transaction_id": "MzMwNzUxNTQ5MmFkaXF6a2N4",
+      "barcode": "XA8MRY6P",
+      "type": "AD01",
+      "date": "2021-07-13",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2021-07-13",
+        "old_address": "Clarence Arcade Stamford Street Ashton-Under-Lyne England OL6 7PT England",
+        "new_address": "111 Piccadilly Manchester M1 2HY"
+      },
+      "pages": 1,
+      "action_date": "2021-07-13",
+      "links": {
+        "self": "/company/12760691/filing-history/MzMwNzUxNTQ5MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/RK5gMfhLv8BwvO3Xw5WO0Bwa1QlSRy_8v0q_vgKuoFo"
+      }
+    },
+    {
+      "transaction_id": "MzI3MzUyODA5NmFkaXF6a2N4",
+      "barcode": "X99ROAZ6",
+      "type": "NEWINC",
+      "date": "2020-07-22",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2020-07-22",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2020-07-22",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2020-07-22"
+        }
+      ],
+      "description": "incorporation-company",
+      "links": {
+        "self": "/company/12760691/filing-history/MzI3MzUyODA5NmFkaXF6a2N4"
+      }
+    }
+  ]
+}
